@@ -1,250 +1,864 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-08-04T19:19:31.510810+00:00",
+  "updated": "2026-08-04T21:19:11.479153+00:00",
   "news": [
     {
-      "title": "Thermo Fisher Scientific Inc (TMO) Shares Surge 3.0% -- What GF Score of 85 Tells Investors - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQlFpLVZUQWtHSWVwb05jclAyeWFYenVxOW5talZoZXljaktab1pFZWRUU3c4VGdfcGZFUUpRcW9tUTI2ZXczN1VldzJ6WHVrc2s0T2FKdVVmOFU4c0tscWxjZHVzZ0tOb0hEc21IUHNMNXVNcURfLVJMWXk5WWo0Mm5uUzE0TGVRclZxcndkWDBRVVZUa0JMbng3MVh0TUllMmprNTgycnZwRjY3Tnl5NWxqVkszRzE3enhFMVZxLUl3NTB0MFZXQVE0VTRfZnN1?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 02:03:45 GMT",
-      "source": ""
+      "title": "Neuch\u00e2tel\u2019s Human Lean Diagnostics cluster is set to welcome its first tenants - ggba.swiss",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU2J4THI2dWoyMldfdUpaZ3BIWUR6UkNSR1B1TkxIR3czYXFZRGFYSi14V25oSjFPXzZIc2kwNVlBN09lVmE0Q0ZTRndmRWRVVVpLQTFnMTdUbXNRSHVCanlPNng5dVNHN0YtbnVpWGpyZFVHckk4aGdGeE1yZXJzVmtQRFB3X3I4ejlQdGwxMWtLZV9SZlIyYU52X2F5cFRyR0E?oc=5",
+      "pubDate": "Wed, 29 Jan 2025 08:00:00 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
-      "title": "How Is Thermo Fisher Scientific\u2019s Stock Performance Compared to Other Medical Devices Stocks? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXh0RUU5X2xhdlVrMW4teFdHalVjaDJnSWNCS0ZMalVBbXE5dFFNdV81SXFGZng4NXE0UnQwZUhqOE9nRXFjNklia05RTGhXZFVnbUtfNXIyTVc1ZmFCSm9Zeno4Zlp2b2pMZERDc0FSaFhiZkYwWEdBMUlTalZtUHRkOUVqRWRBYl9TcUJjNGVGZw?oc=5",
-      "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT",
-      "source": ""
+      "title": "Advancing POC diagnostics - healthcare-in-europe.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tZW1qUmd6enR6Nld4VUg1OFFLZ2F3c2FHZTltRVYxV0VLUHZ3UEJENHIwdWZRUW0tX0Z5LUhHOTEyaUpmZWt0dHlrdVRxaTB1WnhlTEpsMnlHbnJidjNHQU1CSW9US1RvMmxjX0ZKTnF0TmZseG8xV0tIUQ?oc=5",
+      "pubDate": "Wed, 29 Dec 2010 08:00:00 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
-      "title": "Why Analysts Are Closely Watching Thermo Fisher Scientific Inc. (TMO) - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaGpFNVZ1YzZoMHBrQW04VlZSS09rY2hkWVlLZDVpQy1keUJBbFRTWGdRaW5mV0RNdmd2NzV4Z3MtQkozRlFseXYydEk4d1dCUDZRazFHd1dadXpfSjlHQVJwVEdicHRBdlBZaVhZclY2RXRxcldZdmxTRXpZWGcyTnh1NkthXzBzQXc?oc=5",
-      "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT",
-      "source": ""
+      "title": "The Top 25 Healthcare AI Companies of 2025 - The Healthcare Technology Report.",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNejR5Y3RNX0ZWZkNOZDhsa09BX2dlaHNKVkJtVVU5THlzNkdhal9Ib1UzdXM1Si1RNFZWbTMtZlhxWjdvQ0JVYmxhYXNWekIwZFlNODNoSXYyR2dzZkZfQ2ZYVDYxaFc3MThUQzRodENKRjQ3eFBKa182WWluMm9WWDNGNEt5amp0aU9YS3V3?oc=5",
+      "pubDate": "Wed, 23 Apr 2025 07:00:00 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
-      "title": "Is Thermo Fisher Scientific Inc. (TMO) a Top Life Sciences Tools Stock After New Analyst Coverage? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONWJQYkVHZGNuTC1sQTlWQWNjdDJJNVJPcHNFdG1hN2owWWFDOEN2WVVrLVZEWlR0R1lIb2x3el8yUTY5dkhEOU15V01jdTdrN1JWMW01NV9rak1ONmp0WlJlZFZRU2wtVTdQcXNxV29pS0t4MmRqVFNBV29FY2NCOXhGVTc1ODVQV1JySVdFOHhOUGh2dzhlbg?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "source": ""
+      "title": "LA\u2019s Life Science and Biotechnology Industry Continues Growth - City of Los Angeles (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdGFxMjRCTGVDLXUwX0tBOFFMU0VWOS0wUF93dDBQNE5pNlVjTHNiVkpQM0xPbnpRRHFoMGtQcEdTa1RvbWl1QWNYdWhGLUpIeGpkcWdjVUlMdk1EYktJUHktcVVBaThCR0VQRGU5c1BLVjZCUExrNmxCVExLTl9fbndyWmV6UnhzMnMySUdWZ3BacmU1?oc=5",
+      "pubDate": "Wed, 22 Oct 2025 07:00:00 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
-      "title": "Thermo Fisher Is Down 27% From Its Highs. The EPS Trough Looks Like It Is Already Behind the Company - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTmNJWFFERHh5dWNVWDhMY25FQU9iN1FOWlRUVHdmWFpxUlR5WTRNRzBYTGlYbW1JdEhZcjlEZ2l5TXRndTVzVmRsUDFfSThBaUhibDNfbDc2NS05eWRoeFN3cnZGRExkX1JoWDdYb2NpcFZCWTJVMUQzSVBTUFZwcnVBZmUwRGlBR2xub0hxaVBYQW1RNk1qZWpMSEE4NnFONG5sNUxCR1EyVnZyT2xxcEtCaTlSSHJkd0lpM3ZfUXBsQQ?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "source": ""
+      "title": "Automated Anatomic Pathology Labs Transform Diagnostics - healthcare-in-europe.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ25tdzE5eUxmRG1VektkYl81U2x4NmRSZFp5NEhPRU5Oakc2NzloQzN3X3U2bVJ4WnZXX25BQ0YxQUc3OXJhN2FLdEJmYVE2SlFnM3JFWU5KZjBxenBJbnlGMHhuUW0ycTF0R2k3OWlpNGVfcEFjSlVmY3gwRE96VUkxTmY3WWJxQmp4Wjd2cElRS0ptU3ZlM1U3Yk44V3VUbFNj?oc=5",
+      "pubDate": "Wed, 22 Jan 2014 08:00:00 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
-      "title": "Q1 Earnings Highlights: Thermo Fisher (NYSE:TMO) Vs The Rest Of The Research Tools & Consumables Stocks - StockStory",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZ25DQW1pdnJYRE91bEppRzdtNGlOUmNONFJYUF9LVkl3WExpYTJuSmVYX1hlV0xLUzdSS1ZtZS1mWGdVZDZ3TkRfb2JhV0JZNlZ0dUpzb1JjMWNZSGtnTE1OQlNwUms5VVowWFoyckVOQ3BrRlItaHN4Vm5xSVhmMmxHVEFpMWVMWTJVcTJMTUI5akxfY2xtQ1pOajVvSE04ZHlkM2VYcWJXUkV1eklVUnc1VndVS2s3SkhoaVAwNkxFYTdCbTFoa2JJbm41Y0VXT2hsZnF3SnRoQklmN0dBb1lwQkNEVzJtSXJJWm11MG4?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "source": ""
-    },
-    {
-      "title": "What Makes Thermo Fisher Scientific (TMO) an Attractive Long-Term Bet? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaVBvdlJuMnJvSDZrUEVfZnRRcmVsY2tjTlBZY3lsejdMRS1rWnNSV2lFTE92NS04eXBXOFVWT01UNVFwclgzSDZBemJtS1NpdEFaWVhzX24yLXVoNFN5cUtRLXJTZy1YOHpfMDlnSVNRQWR0UXlRcDVmeTZldWNuekw4TktNOUdvajdveHRGcDEtYVFpcHY5NmtDdlFTdXhk?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-      "source": ""
-    },
-    {
-      "title": "Thermo Fisher to pay $0.47 per share dividend on July 15 - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSHZSeElUYmg4TDMyeFgyWTctUGdsQzE5ME9vNUl2R3V3M0dWVzF3cHpQa0pmbGVYd2N2UlBxRDNubUk3d05nak1TVHMxbHNsQjdsVzF4TzZZbTdxeDhWYlhvRndOM2Ffd3lQVFZ2WmJtN1NpcFZXOGlNZ0pmZGZ0cC1iVTh3RGU5aUhaQURwZTdKd3IwS05scTAxMmFmUUE?oc=5",
+      "title": "Petrichor Names Diagnostics Industry Leader Don Hardison as Operating Partner - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSlkycnkzNnBmd3Jyb21BcUpvUWM1VE1zWjBWQzlnb0xmeHU1ZEFLUC00ZzhWWUpKYlVhVFhmVWV3STYtVGFsMGNkRF94dmN3VzIxWG5qS0lqOWNMZURCY1UtTGY3eWswNFRSUUdjcG1BZE1tQWJWS3R5Rkg4bjhVendFZlFyT2xMckdzdE1haTJNZjhueUtrdllfaktMdFdDWGJZY0luUEY3Qmx2X3NDbzNmYWdZbUh5TnV5QWVOYWNyZE1jbldWS2luRmtOQQ?oc=5",
       "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-      "source": ""
+      "source": "",
+      "category": "sector"
     },
     {
-      "title": "Thermo Fisher targets a $255B science market as AI reshapes drug discovery - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS29kSk1jT05JVHVGSlVPSEVEVTVZeFVRSnBuS3RmUV9oRG0tSGZfanl4VWV5T3dDVlZ4VVFyVmJWeXU4aF9jMFlwMWpvYUJlbHFaNjhLeUtEOExpaW1uTUJ3djVaQjZMYW1TQ2pfV3NqVVFkR3NuU3VLcmF6SENoUzg1Tk9TeUhYQzdqak1aS2tCQUhfNlhrM0V4NUtxSnJtck5BekY5NlRfb25RLUZoZ0FXcVhyYlE?oc=5",
-      "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-      "source": ""
+      "title": "RIL Plans Foray Into Genomic Diagnostics - ET HealthWorld",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNWp1QmNzSkZjeHlxNzN5NnNKbGVvMkJyQURJUWhzVjlmWlMtdkZibUJfTUNZQ3UyaU5Uel9vWS1GMXQ2WWlVcGtkQjYxZTV5ZHNyMzB2TzF4T05rMnhRM2g0YTBVT0lGTGNqS0VfczZacG92M0ltSjhjaURiNE9GeDJvdTFRV2JkZFZiaDlWNVRjUHczUm1VUEpZcWNVRVpXR3dKMnktc0RPZW45M2dEVdIBtgFBVV95cUxOS251cFFVX0lXWFVnRTFKZzNwWVgyOWVhd2lVYWdQZy00TDFhRXdJRUpZV0R6OWtYNTNiSkJkNGtzTnliWG4zVnpybXVMUmVqZFJlU25lb1hPbmZwZG9IbkQtUU5UdHZOX0dOcE52OUJKQy1GVHVSVWozZGpsS29jYmx1WkVOMjJOVlZiUERlZnBUS0lJWkJrOUh0cFNzTExLZmphcVZ3Zkl6SFhvNlp3OVpBUWVmUQ?oc=5",
+      "pubDate": "Wed, 17 Dec 2025 08:00:00 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
-      "title": "How New Forensics and mRNA Partnerships at Thermo Fisher Scientific (TMO) Have Changed Its Investment Story - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYkFScGNLSTczc1ZaYzlpSXNBSWNiRmFEZmhRbkhTTEF6TTlIOHZnMC1PbU9UMVlHSDFUZEZpVTFNYk9WVDVGWDMtcEFCMlJZSXlfXy1MRUFTOGNKaS14dU94eHp2V1FKcmloM29YdzJzVENsYjNQMGYtZEpjdmZSdWZrZGNwUUQ3MEJnTnVROHZMYzJkXzgyQ2MtQVp0ZE92eml6Undpak0yQ3p5MXBuQVNmRF9LR0M0TXhGbGRiVWI3MWxGUGZxMTRBZzRtX3QtajhaN2l1LWttX04wOXBtaThMUHVhM3dkeUxB0gHwAUFVX3lxTE1felAxRzd6Q3ZVZnNGNDVFTkdBZWVkYlBDaEo0TFNUZTdrOXA4SUl5aTVPOEpqTmMwUkVNZDY3U1ByOGRKMWNQYnZuM1pjejBvV2Y5MUw3R2lVQlNSeHVBTEEyVWhsbU9OY3lRNUFvRDF3NjhCbXI3dlRhRTBya2wzZE5fTEZ2c0JjQXVRMWp6Nm9lT3BZOWFxNTdkTDNmbTk2ZjU2RDJ2VTMwWkhVLS03bExLMXU2QXZTVWk5bkhtWWx2cVA1dDJIVTk1YVZsZElZWVVxTm5NWTFXanVYOFV0NnUxeERBVUJCRFpweEdXZw?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-      "source": ""
+      "title": "What Reliance's entry into genomic diagnostics means for the segment - YourStory.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZU13QXV6Z1NFZmhPQ1NqTE9wV2h5NURYQUJBTmZjRldRSlJHMXlGb0xkUHU3cDVRcHB5emVPSS1iOWt4OE9nWHNKZUdKTmpEbUxhM2VtRmRWYkFrcU4zck9CMjhrRmtjNC1hZkpyc3Bac042RzA5VWU2Vm40bFl1dV9SaU1VTTZOV3FGX1NQTi1fVmtnWUhyTlJjVElsQQ?oc=5",
+      "pubDate": "Wed, 17 Dec 2025 08:00:00 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
-      "title": "Thermo Fisher Scientific Stock Outlook: Is Wall Street Bullish or Bearish? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMHdILWJRN2pQZ0Nfb0xvTjdqX0tTYWlGd0QzUlVvY0JsZFZ1R2o0cEw0QVdPU1JrREtod1RLU1VIUkVVTldVV3JCY2VJNWZzdDVJbDhCaElJUEl0cmdITnF3MnBoZ2R4RDA0SFl1amo1ZUtxeFZTZ0xIUnFhWFExOUkzMXJXVkRxcVdEcQ?oc=5",
-      "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT",
-      "source": ""
+      "title": "Reliance Industries Plans Entry into Genomic Diagnostics with Low-Cost Testing Strategy - Digital Health News",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVWp3TWFJWUhLNDZRS2ZSSXR2Y3N6eVlWVEo0eXVpc19jb2dFa0hfR3NDbG4yNnhoWldYRWFuS0Z5eThweVFfZi1ES3hTWnJ1WllJUFBaWlBuQ3ZldHdiV0RTanU0QU1YTy16eUpaWmNXRUhjZUFZcXpNa3VPOTBpMEFYMFIyZFhrZFhfaDRXWENzRTEzUjZqRk1MeUJVcW9rOThZZ1NaTktFN0tEcTA2b3JGdEctWnNrYVNpakF3?oc=5",
+      "pubDate": "Wed, 17 Dec 2025 07:35:09 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
-      "title": "Is It Time To Revisit Thermo Fisher Scientific (TMO) After This Year\u2019s Share Price Pullback - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmNTaTRfOVpnLTZSNEgzaEpKeW44cU9oc0RTTTlValVyQ3Q4RzJlS3dZQnk5REdQTFFpMGo5aGNsLWJ2TWRHRHVacklqUU4tVHY5amFpZG9iTktkQTdiVVFVUXRSLUlRUlJOaVJFbl84Vm9PMlM3dVc1dGRqMHY1TnBLN0ZOdXNYNXpTalhNcnNjb1pYT0dlSXNzSDlmdFVGNy1YQw?oc=5",
-      "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
-      "source": ""
+      "title": "COVID-19: Overcoming supply shortages for diagnostic testing - McKinsey & Company",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNjV2TG5UVXBVY01Ubkd4OHpyMlRRNFZ3Zklvbm5MSHQxOVlJM0htb3hRaDBzbWhrV1l6emdwTEloSTFRMERraTY3VWdxSVU2WXp2bndGVUE1ekNlTXJabV81OURvS1pVNTloZVl1RkR3R2E5RVlEZ0l4dDZ2STlBbXhxVHdOcVU5aXE5Q3RNQzhYTnp6YjlhRjVLNEJZTjdrZk1hdHh6VU1UU01kZVhmLUVTTXd1Q3Fxd1d3OEVZNA?oc=5",
+      "pubDate": "Wed, 15 Jul 2020 07:00:00 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
-      "title": "HSBC downgrades Thermo Fisher stock rating on growth concerns - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMjFaNVg2WHliZXhsRl9uZDRwUER3NUpjV2R6NU0tcHZCNWl3WThQSUlMTHBXLWZjNnhUdWVGX3NyVWxVa3BPNFAtN01pZ0NlNTY5UVRyM0p2dmp4MnBJdnV5bUttb3AyNU4wZ0xKcHR0TGszMGtPa1dFVFFnakp1MHUtbmlFMUFrcGd3alo5c01vNzF2MzJHTDBSVVdfS01iYmVfUDhqaFM3c3ZMaE1KSFVxZnZYRmZWSVlFZzZn?oc=5",
-      "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT",
-      "source": ""
+      "title": "The Future of Diagnostics - Deloitte",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRGl2VlJFZ2duWm05eHBIUnQtaFRlT29ndFJJWWwyNGd4MkJmN2NBa0Zjb2tXem90eFRuZmQ1dVczQlZrcGdmNUpVaWp0Z1RaeHNoUi11cElPc1VyVVBCTGpJRmVfaVJNdHFLNEIzb1BpTW40WGxJMUh2RWs3YzRNVUthbVRyYjc4QTFQQmpBTlN2RVY2M3ZkSktUTlEtUmc0OE13OXotUG1TQVN6WVdF?oc=5",
+      "pubDate": "Wed, 12 Oct 2022 07:00:00 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
-      "title": "Thermo Fisher Scientific Earnings Preview: What to Expect - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdlJ3dS1SWlBMQmpoQ1ZFMUJwYVAtMzE3MGtHY0xaTW1oSXZqQ1kybVlPM25aemxzOENuTU14VzVzbW9FazZFSHhERUxYZC1LUU9rMzJxMF9aLTVaMk9OWXNFcTNsMGs1NzVYOWFxX1I5NUxwVEZERG9Mc1MwOWVlNTZQRGlqbldMMEpneXNWX3pUZjhLTTZoa2VmQncwMngzX3pmM0JKNmw2UQ?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT",
-      "source": ""
+      "title": "Fortis Life Sciences acquires International Point of Care - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeEVRZjljYkhOV0d3cWY3RDEyd1diT2JfM3NINWVRZ1Bjak9wc052YUplYWQtTy00ck9Yd2FmMTRPRnRVUGRtMUFSOVNtSFVxWk1aUjBVWmZxSlJ1MVNXN3ZLMTdsM1R0ZVo1bmhIelZPX1JrNUpZeHY5Q0lIVkJGR1dFNXh1OWRHRjUyWDY4UWlsR0NYOERiMnRzeWw5Z3NhdzBsakc0eEdmeFoxZnlqSkQyMkE?oc=5",
+      "pubDate": "Wed, 12 Jul 2023 07:00:00 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
-      "title": "Thermo Fisher Scientific Inc. stock rises Tuesday, outperforms market - MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORWhnNmloXzdJaHFHLUI2cGJYeWxkSmlOYTJpcTduYWFUd01YbGp1My1TTlJEeDBkS3BXdUNzem9QS2VpdWdRdFF0YXZmRzJPNVZjOGxQbVFOLXBFS3hPM3E2Rm4ybndHVVZUbVJzcmJfS0xpR3VEWTQxTktuVWkwVm5acW5HcjZIMDdjWDd6N1dETlNpZjJlazdCMEFzSlE0VTBjMzdEa0NMbVl5d2NqNjVwcnNsVDVjZGxsWmlHN1JfU0RPNFgwRE1TSE1HVVJnNXJiSjhZQk9HSjgtUmc?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 20:34:00 GMT",
-      "source": ""
+      "title": "BD\u2019s Future Plans: Shed Life Sciences to Fund Medical Technology - Lab Manager",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2RRaC04bzdHWGZoVTZLR1FZQlJwVXZ3T0dSbEl6dnlzRmtVekV6bHdWX0k3WTFqZTZKNVJ5Xy0yczN0LXVsTW1OZU9IRXdqZ1I2aXEzTXVuNWZrb0Jta2tqWnAxY1FtcnVFSmtELVlORkFkN1U4Vko0dk5HQl9DdXgtWjdnUm4yZEhNZFdvbTRiNTZ3cjZSVHc4Wjc?oc=5",
+      "pubDate": "Wed, 12 Feb 2025 08:00:00 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
-      "title": "Thermo Fisher (NYSE: TMO) COO sells 400 shares under 10b5-1 plan - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZElXNGoyQnphT1BSZFBnSmE0UGMwMlRSOGlQaURCcHJ4YXBwVlBWcnMzcE5KbEdCNDN2Sy03MWJaczN2X2h4bmhYdXlJY2ZSQnlaYUU1WS1GQ21rV2tDYThEcWM3UjUxV0dHeGVCQ2hZdExrOFBBeTF3eTZHTkZ1QkRJRUpXRkx6U1BKNDhoanJGcFY2MGpSMVVheXJaZjM3b3paUEVrZVUtNXpEN01hY3pBeUxFcHpnZG5KaU9B?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 20:24:55 GMT",
-      "source": ""
+      "title": "FDA AI Guidance - A New Era for Biotech, Diagnostics and Regulatory Compliance - Duane Morris LLP",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU2RVT0x5bk1YZGZLNWs1bklvOWxsRnpVX0VLanVqNlFRX0FNYVFJOXBwUS04WW42c1RNUkhDaTZPMlRjUGJLRE9GMmR2a19taHA1V1ZqYk5mbWZvVFpfRFZBLWJMS1hTbEhoWVZSZVR0WWNQWTVzSU5yR2duQVNkdE5JbkRYeGFZQm9KUEtMeUFUaTVTdmZ1ZUxvUkxsdlBSLUxxdkxrRDVoWk9yeVc4?oc=5",
+      "pubDate": "Wed, 12 Feb 2025 08:00:00 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
-      "title": "Thermo Fisher Scientific Inc Stock (TMO) Closed Up by 3.20% on Jul 28: Drivers Behind the Movement - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORmJMOG1wODQ4Vjhza21QTFJJdW81Z0RucGQ4Mm5Ed2N0UTUzUFNvQ2l5YkRqWGJXenduZFBYT3dGc0JPRllXZDNfbUdFWEVTYTBIYjRIM0pVNmhXVmt2dHJ3bVhwLWo4aUFMV05EejQtOEZXLXJIY1Brc3JpME9nZUpLVGlVTkZyZlE?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 20:15:47 GMT",
-      "source": ""
+      "title": "Theranos isn\u2019t the only diagnostics company exploiting regulatory loopholes - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc2Y2clIyeVFLVlNfVkkxWUtVX0h5UHNodHpLOVNuSlktLXl4bTVpS25CSDFyeXV2dHBaTE02ZzBZYnpfbF8tQV9YVHdCc0RYSzk3VnBkd0FCVFBXQ3NZOXhKQVFiVXFTb00tNEpkWUVOaXNwYU9rLTNNbWctVnM3bXBkdHN1b1F6MmJONmZDbHAzMzEtZTNfbnFVZUhJM2tiaC1vaS1NcHo1elp4YVlGZ2lCdEVFM3lBMG41OQ?oc=5",
+      "pubDate": "Wed, 11 Nov 2015 08:00:00 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
-      "title": "Thermo Fisher Scientific Inc Stock 12\u2011Month Price Target Raised to $634.92, Implies 13% Upside - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQc2wtWlhfN2kyZEc1ZW4yX1B2R2l0bzVjbnQ0QVdJa01VVERTVnp6UkZ0clJBSDB5YWpQYVdLcnRCSUMyb3JudDBia0ZBOTZEOUh3UDhaOWFJYjJrdTBFcktqRlFMaGtsQXVQa2x4ejh2cXhKY2hUS3h2LTYybWhVb3pmMVRUVHdpeFlVZGgwVENuSTFsejl5Q01zcW5FNVY1ZGVyYmViZ2N2T0NTVWNVdVVvQlVlZ2g3djU2RzRWdUhHcy1nX1BpeDNLSHJmamZYWGhiVkgzbmp6dGFjQksyUWZOdkdsNTJx?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 17:20:12 GMT",
-      "source": ""
+      "title": "UCalgary launches Alberta Centre for Advanced Diagnostics - University of Calgary",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRU9iLXNjMno2OTh3NFdFX0h1QlZBYUJXZjhhdklJTUduMUdOQVVZTHR5ZUhXdlJlTERBS2RSbDI5dTZuWllHbFFid0d0cWFaTE9JNTAzQS0taGw4ODJ0N2dLaEF6RWRyZXAtMm9yeVpMQ0VXVlNpcXRISnlLdTRTaGFoVEs?oc=5",
+      "pubDate": "Wed, 09 Nov 2022 08:00:00 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
-      "title": "Thermo Fisher Stock Fell After Q1 2026 Earnings. Is TMO a Buy? - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNalowZVdFSHFCWGRaTXF3M011WW9lbmJBdERYbkEzcmlHTUQtRXpaVW1CUE1PUmUwem1IT0ZHLXhEaXNpRnZSR21rUVpMUHJmbllxc2FHUlhvSGpMeUFPRlg5QnBmYUdWWnJQZFZTaTd6WDBEYXlLaHpNZjdwSUhnalFOT2lDbFFCaVBvNE9JVQ?oc=5",
-      "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT",
-      "source": ""
+      "title": "AI in Life Sciences Market Set for 19.30% CAGR Through 2035 Transforming Drug Development, Clinical Trials, and Precision Medicine - BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbTZUdnd1LVZoWFEtMXVzM2VXZlpvejdKVFB3dTJSQjRIMHVTaTdlYUtnSDYySnhJYloyMXZsczhmc0tTUF95cU1WQnZPVm9EN1NFYmhLWnRVNVlzSUUzNFE5ZDJjSG13RXJ5RWs1Z0ZPSEVWODhtZ1dIaEEzMGRVZ284UG04MzZpOGVrdzE4QWpkNWZzbElPaGR3ZTl0WmdZajRNWG9DeXBFa2RMZzdSZExtMlhxZ0ZtaVZuVUxpQ2VGa1hXeUtsMGlvNU5feS1mOTNPU2U5MVdQMldLajgwMDgtZ1lSSXJTUzlmUGowaU5wYzhOX2NZaXhubw?oc=5",
+      "pubDate": "Wed, 08 Apr 2026 07:00:00 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
-      "title": "Is It Time To Revisit Thermo Fisher Scientific (TMO) After Recent Share Price Weakness? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUV85S0NuT0FSOGVMc2dPZGxNSXc0RVhBZGEwZ2V0QlJTa1lsRE5ocU12ZS1JanQwRE52WW45akFiVUkzQkxJcVZ0UVNpQ1RGdUs0NTV2MVBBT2tEYUQydGd0dENmWVlfOTNzdzNoM3BicWJUMlZMMjlRSEl6Q3FkeUVzXzZWTm9yWHEw?oc=5",
-      "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT",
-      "source": ""
+      "title": "New \u00a320 million fund to grow UK life sciences manufacturing opens for applications - GOV.UK",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRnQ5aUUxdE5VbG05VWdPZ3ljVUJhUVZGM0tITmFxRmNMMUJoaFlUVGxRZ05yUjNqcWFyQmNreHZxVFQwMGtaM0h5dVZzOEppb2w1NHd0UXcyZm91SHZfNzZ4VGFhOEVjNlo2cE5YSHhSTEZYTkdyUFpfeWFGU3A0MEdVei1NXzZkdmtZUXpPTmJkc3BzVkF1SmtLUkFyQlN2VVAxZlRnSFRiOVNhMkFrUjFtVGNYclk?oc=5",
+      "pubDate": "Wed, 07 Apr 2021 07:00:00 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
-      "title": "Thermo Fisher Stock Down 31% From Its 52-Week High Despite Raising Full-Year EPS Guidance. Here\u2019s What Happened - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQkNUTFUzNnhqcEtxNk1KWlpUM296OTl4cmxKbm4zOU5BX2xKbWZrMXh1cmxFcE95eTJqbFhhNWwxX3FWWDhseDE4cU5sdDgwZXR3VjUzb1IteHFienk3QVd5SUwyTDZaWnQ5TC1neUFuRVJfOGQ1TnByaENzd0FCODRVOE9yMW1fNUZzeHNEc1g5ZGo3OHdxcjQtellyTm1QSy0zZnJ6MWRJY2hCTHlDSHd0WFpfeFpNXzFNYzJrdllyZWdoZGJGZlFGQTZqdzQ?oc=5",
-      "pubDate": "Tue, 19 May 2026 07:00:00 GMT",
-      "source": ""
+      "title": "Life Science Market Size Worth USD 278.40 Billion by 2034 - BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNUVHMmhnZFhUNzNzblpmS2w1aEMtNjNTbXlwMnJtVVNQQ0NfVUtza1dobGpRcE9EOENmYU1nTm5RaGlZNjZjeGxHaDgtTy00dk9lUlVVOU41czBNZmphUV93bEpYdUluREtYdTl1VEFXZV9VMVFTQXAtZXg2UVIwcFM5MUhkSjIyS0xJVTYzel82dkVvcm1kYUR6X29yZw?oc=5",
+      "pubDate": "Wed, 05 Nov 2025 08:00:00 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
-      "title": "A Look At Thermo Fisher Scientific (TMO) Valuation After Recent Share Price Volatility - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNXhrVWI4Zk14X0prSVZSTHgtQnVIOWZSV3ZrRUhEYUtJeThqUWVTZW5JaXBVcXdSckVFTnBBN2ZNZ21sbVVjNllSNFNnTmNpVnNSV2otSjlpSG43N2I4OHZZQVNfc2pJQmlBV1lxaTJkckhnY1JKTDdFUVVneWlQQWZoMmVuZDh2aVJHTTN4cmxwMkc5aERXdXBEX3hpTFU?oc=5",
-      "pubDate": "Tue, 14 Apr 2026 07:00:00 GMT",
-      "source": ""
+      "title": "BD Announces Intent to Separate Biosciences and Diagnostic Solutions Business to Enhance Focus, Drive Growth and Unlock Value - Becton Dickinson",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPYzBidXFRbFFxTDhzN19xU0ZoN2tfZ2MxWUdMNFFDQVh4TnpjS2loeTdXZnZzNHVSX3pvUGVGQkpvd2tXV3U3RkRjZVpja091MEMtMVJnS0dyZjNEaEZiWU9pV1NxRlFONzZaeUtTV3JQcGQ5bDEyZzVRaTk1SjdoeHVDRWhKZk1La1JKY1U2UjRoUmxhSjVVeXQta2t4Wi1TX181dFc3YVpOQ2RjSjJ1S0l0YjlqOE4yMFlEQmpRQjdoQXhTMEQtSHJLbVFhMFNYZXZBeFJHYWR2elZoLXNYaDRNZUFVa3RTMUNuVWdMREs5d21KU1VrRnRVLW5hdG41R3lCQkR1VGdKTUc3NF9Bc0x1UXhVZw?oc=5",
+      "pubDate": "Wed, 05 Feb 2025 08:00:00 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
-      "title": "Is Thermo Fisher Scientific (TMO) Pricing Look Interesting After Recent Share Price Swings - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQXzd6X0trSU5hTVdld1RDc25TQ19NaE1UblVLbmhfN1VGQXh1ZkFJU1FBRU43a0h1NUVmX3o1Z1NfMUtYX2lmUnloN3k2QjJLOHk4MkRMU0FpQndkMHVIaGJuOTZHc08xVkNlS2NGYzFQZHFiNVl0ekhnZVRQX1NOVmVSalRHU0RvNGlKS3F3MDg4bkpxdEV5bGJqR3hILU5idlMw?oc=5",
-      "pubDate": "Tue, 02 Jun 2026 07:00:00 GMT",
-      "source": ""
+      "title": "Thermo Fisher beats second-quarter expectations as customer demand strengthens (NYSE:TMO) - finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY0lHLVo1S2d5Zk1pd3F2dldkaEJXM3F3WjhNSklDQXhteFo4ZGYyRVVRb2hKbEZiZWJHblVQY092dG9zc1BPcVF4RWVKdjRQNmdjNjRlcldNWUoyRERBTm9zSnVlWmp3NGhRdXVub2tLVDlmZHEyckxlR3RWMmdlbmdPSUEzMGdGLXFKWmdaSDNuV2pTQVFaX0syeGYxRDZa?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
     },
     {
-      "title": "Thermo Fisher Scientific (TMO) Could Be 2% Undervalued After Q2 Earnings Beat - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZGpkbzA3M3FtVDB5QnhPVUdETXB4WElsWFFCVEpSM1QtQTlHcEhON3RUUktEaE9PaWh3dGpuZEFWOVg4bjQyd0lvc3FWeXowbV9BdWNYRmVibVZjWHg2elZGMC1kcy1yWmpuZnFXVGlLc1U1YmR5cjlJYmdjTmtNZkNlMV92blRaU1VISEdaQmFOMmZPMlFTSlN4cEU1Z0ln?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 23:10:54 GMT",
-      "source": ""
+      "title": "TMO Q2 Earnings & Revenues Top Estimates, Stock Up in Pre-Market - finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEhFM1RrZk84eXZqbGhSU1lXMjgxaEhLWVpBZFdKNW1GSldhaXhuNVVfR1E3TWM3di1OcWpmU2tNWVJEM1V5VzNuU09Sek5QVU1kZC1QZFRUa2JBdVpGZGptazJxbnJCd1EzUmtGRkhCRTJqS0xkVnB6MzRjeUpTVzNPRktwX3VpNzJ3Q29VMkRqUGJraFJ1MQ?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
     },
     {
-      "title": "The Top 5 Analyst Questions From Thermo Fisher\u2019s Q2 Earnings Call - StockStory",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOTNhNDZzNTlWWW9KaVY2RVNSOEc1U194RkdyVDNVN29MSTdFNFpUXzJUQjRVLXZSTC1NeFAzNG43VFB4WlZWRjBqUnFMcWlfMXVDVU5ldlhmOENtNTIwSEEwcUZ5TnBvOXJKRG1MTmJWemZzaFBtUFdBNFdRVEctT3htM3ZtdTlFU1FRX2ctUDEzbFBySmtkUHZ0c0FDemN5RGdPTldYdmZfQ3EzLTBwS0lJcnhNV2dmbm9aNGJfZGdsbFU?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 09:33:15 GMT",
-      "source": ""
+      "title": "Thermo Fisher\u2019s (NYSE:TMO) Q2 CY2026 Sales Top Estimates - finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNM3Y5LUcwelJyTlVxOWd2U2ZmNWY2dVR6TEp0Vlg3c3hKdklfVm5nbVNCLUlhTkpTVUR5LXJVdzJpR3NrS19yRUdSRDkzdUVfT3Y3NFZ4NUxwQjdKcGp6azNzZUZLSEVNTVd5cHZ5R2xPUWxUaTNnU2xNLUtNNFozRER1ZnQ5RC14YWJOVzBDaWNwTWk1?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
     },
     {
-      "title": "How Investors Are Reacting To Thermo Fisher Scientific (TMO) Expanding Its U.S. Bioprocess Design Center - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOREpFV3pYYzY4eFVVMkN3NXNCaTFJS05pbFBRbVAzdXB4T3hGTGU0SW90OENHU0JpZDBpN2x0Q0p2QUdSbUtaY2Z5dnZlTm03UDBmR0ZfZDIzQUpna0Q5eHo1RnRDUjBiajhDeEZ2eDNfazdrQS1Odmp4SHhXVEtETzFrUWJoR1h0aXRMRi1iUE9xaVo3YmpKLXhjZE0waG9NMHE2OFUwVnhPR3ItdGtUWWFB?oc=5",
-      "pubDate": "Thu, 30 Apr 2026 07:00:00 GMT",
-      "source": ""
+      "title": "Thermo Fisher Scientific Stock Climbs As Analysts Ramp Up Bullish Calls - StocksToTrade",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdElTQ2xjUWF6VlFUeC0zZW1hR3htakdabHloZGJqRVRxdDVJNE50YVBnaGNEbnFHQjJGNkpNODRTalR6eHJudldoTjNNYTMwaGJjc29GR2NnZG9jN0hjUVRVMU12d1RKeGtTWTUtaGV6MzVZTDlBY3RkV1dPWjZJX3dZRHBnOHc?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
     },
     {
-      "title": "Is Thermo Fisher Scientific Inc. (TMO) a Buy as RBC Restarts Coverage With Sector Perform Rating? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZEZyanR0QVdHUlVUTU8ycnZJTmFZT3BzZWktZW9hVF9DZGlMTE9kYTJWMThtNk1vOEFhS1k0ekJxdlhIc09IR3FpN2thS1J0QmVQcHkxTGVKRjFtZUxubUgyZTNncjY4MTdmclJ5Q3ZTbm1xWnFLMVVCenY1Y2RnSV9senhYd3IwaU5fMXpOSE5mUjVySl91ZG4zUF9rQQ?oc=5",
-      "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
-      "source": ""
+      "title": "Thermo Fisher Scientific (TMO) Surpasses Q2 Earnings and Revenue Estimates - finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQazhTeHpRZXdHYlh2YUdWekFJSUY4MFQwRDVUcmxEeFRidGJwcjZxV0VtbFQ3VnhvdVM2ZXZjOGlKYkZRcV8xNGU1QnotMUE0X1EyNW5kNE9RUDBTQmcxalFabGVpTWI4bVBNM3FWWlBxQ2UyalJDbHZlQUN1RDZfRG1WZjhOaUNZT3RCNDhmR3FxRkRIQ18yUlBBbVVaN3hXUUp0ZG5B?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "What This 'Standout Performance' Means For Broader Medtech - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNajdkV1JnMTU3YzVTUHVZaDlGbXFPeWRPLVVIZExkQ08yeW50TFZyRkJPckxWZnhxU0t1M2JDWVR2UmhSTnBHUUZlVWJOSWM4UE1iZ3JlVFBEOGRUbnA3bkZyeHI4dXo1bG1PY25rLUt6dHZHUVptZnlOWmxjVWQ4WGllWXFjQW1WanZIb29qcE16YmpyUGtoRzhOZUprNEd6VkJkOGJfWQ?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Here's What Key Metrics Tell Us About Thermo Fisher (TMO) Q2 Earnings - finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdXdwbG9HVnVsUzVMOWpoellnODltZGk3cFdGci1zaVVnYVVQSUgtaElNZGRMV2xka1pQVm5sSGdYZHZieE1CaXVRd1VYSFYxeHdXbllESTFTR0NTWUNEaWNTMHFoTjB3cTdrQWFXcGF6STJidmVRbjU1ZERoRDc4Zm5qM0hzTFBTbmU3MEl0UDJxT0Jq?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Thermo Fisher (TMO) Climbs 8.7% on Solid Earnings, Price Target Upgrades - finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdTNILU1XaFpHd3g4VGdzUzhydVdYX2lKTU1vSU1OTnZaVHNHZmlWN0ZUZk4wTUVoNnVBZVZ0aWFkQ0NGbnVFRGZXaS1rVmdWR3JuczNmR2loWkVxc281bXZROVNVNG1pQUI5Wmc4N20wZDc0VHVYMjJKT2FXb1RDN0YyeGxiSWJ3QUx3V1BhSlZSenBfcXc?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Thermo Fisher stock rebounds after Q2 beat (update) (TMO:NYSE) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lTVpLbVNlU3lKcE5qc21LazVUWEZxblNodjZEOUNfck13UFdFM1NQZVdCOUFEUzVSeklnUHg0TklxeU55dkFpTWdjRE1aUlIzajZLZENvZkQ1ejMxaWl0cWlmMm9yS0ZxaXc3bjBLSS1WR2dZMHd6b0FHNmdCanc?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Thermo Fisher Introduces Excedion Mass Spectrometer for Drug Development - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSmlfbjBmSkhQVGVYNV9mRTVmWEwwSjdEbHc4MG93TUdOcERudF9FTkRLNnpGRjJ4MEZ0cW80YTJYblRBQUpwVi1XZU94d3UtaWl2OGtzalg4V2wxcFBOSDMtMGdfMlNtWV9CQThGc2RPUnd6ZnR5S0NLVHdEQ1hfMnpnWHpRblZzNWk3cHpzTy05VTF3TnljWlBQdU9ObUpfbWRDR2Z0LVgwQQ?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
     },
     {
       "title": "Thermo Fisher Scientific Inc. stock rises Thursday, outperforms market - MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLXNFZlByRW82ejZfcnhmVDNXVDRaay15cGMwOUNPQ3NvTmVMMWVhakxPSS1oQk1GWUtRdEY1V1ZtYkJVZnl3R0dJUlFGVUNDVEtuWGFvVnBkR0RrN0lKX0ZFRExGMVlEVVVtUDUwNWVuU05VSW5kZ054Nl85NDE1aTZTcWVnUEd4eHg1SXNhQlY3NTVPUVhITmhrQS04WlE2X2ozOGE2eno1dnc1RjROanlJY01pR3pYSEZEM2Y2QngxeFFpTlU0?oc=5",
-      "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
-      "source": ""
-    },
-    {
-      "title": "Is Thermo Fisher Scientific (TMO) One of the Best Conservative Stocks to Buy Right Now? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRDJsMnRMNThjMDlxV240NTExbG0zVXpPUnZkUVR3N2dfNEVzNFl4cF9Nd1hfczE1c0hkaG1KVDVUZ1QyNDJfbDdJdzV1YmQ0eGRjdE1ocWF2V2lkRFUzeW9DdDAxb3d0QWZfWV9PSVZNdkpxeURwMmZFR2lpLWFsN2JBSW1qUHpRaU9hem1kcXo0ZGs0TDhQQ242dVh5dw?oc=5",
-      "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
-      "source": ""
-    },
-    {
-      "title": "Here\u2019s What Analysts Think About Thermo Fisher Scientific (TMO) Post Earnings - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb0tUNDR5VmFtWVBTclRSeUFBaEFTeUFERkZnd2l3bWJ6TzVZYjBuMjFMb3NuWDJwRmdSei03alRZb09VSXNvRXJjMEp2TF9aWXRQclBsQ2tJOHpXSHo2bEQ1NzhkQ24tU1liUlBPdkljZzlNUVN0OWpWbXEwb0NQZlNveGNGLXdZczBFbHFn?oc=5",
-      "pubDate": "Thu, 26 Feb 2026 08:00:00 GMT",
-      "source": ""
-    },
-    {
-      "title": "Thermo Fisher Scientific (TMO) Stock After Recent Volatility Is The Current Price Reasonable - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa0NFcDBOQko3UWZZYWtfTFlfLVdfZV8zdXBGdHZqY0toajgtOUFKcVI2bXg5TlJWYkhkblhSM3EyZXlfWE5ZN2RxX1BSUjFWRXNYY3JHdFQ5Zkpsb190R3RRQ05kWVFhc181Z28zeXhQRTgzQVdYM080aFg4b3NCaTY1T2VpLXc4RmpsTTd4RXlwUmxYWlM3NzVhcjhfaFo0?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT",
-      "source": ""
-    },
-    {
-      "title": "Thermo Fisher Scientific Inc Stock (TMO) Moved Up by 3.23% on Jun 25: Key Drivers Unveiled - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONFUtdlB6MlMtU040bFBoLVV1VGJWQks2Mld4RUppa0JoTXBDME1IVjVJS1ltaExtNWhEZWJBZ0pncFhNU2VEMFRaeDJvWkpkaEdUUTliT2dOREhRc01Jd01NNjJhVDVEZHI1bG54WHhwME05d1FvZVNjWF9LdzlPTVgzZXNIeUVwMlE?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 07:00:00 GMT",
-      "source": ""
-    },
-    {
-      "title": "Thermo Fisher Scientific Inc Stock 12\u2011Month Price Target Raised to $606.79, Implies 15% Upside - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNa1dIQjN1SENJZVFjc0VYNHdWc04tUUlTdDcxaG0xdGExT0ZVQ2xTa0lSeWFOQ1NUS0x4cUZlZlVBcUZHLWFlMUg3TDNGZ01KN3dmd0pTSlByWTc1Z3I5MllybDkzRm5hZTVhMUYzX05IcjJPSFpKeXp2SjlSQzJxc3NscVRsTVlqNm5vazBudWt4TmY3eHZpOEFlOGxtVlVYNFpYTjBSNzBVQzlLd2tIRTM3TUVxbW1UbERLV2JPcEQwY3dDRVNSYzZOTUFTVjRWTnA0U2pZZzNBMkltUDUzeDJseHd4cG1k?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 23:20:22 GMT",
-      "source": ""
-    },
-    {
-      "title": "Why Is Thermo Fisher (TMO) Stock Rocketing Higher Today - StockStory",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRXd4R3B5c0JDWndubXQ4ZEc0MDB1aVZianh5RlV4dzFlajVEck9ZWl9Ia3pEZzBEVlFPZlNIN2g4RG5KWHJkT1Rpalc1TXRhVGxmVXJ0QnFoZzlXZ0lFcVRFMXpKODVyZlVmUUVmejRNRXdSMzRjS0ZQVU8wck5tTXhRVm9XeW9PemNJSm92Y0REVTRjSDU4aHZpUVdUa0hQRElGaEEwN3ZjTjZ5QTVQV0hB?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 16:59:54 GMT",
-      "source": ""
-    },
-    {
-      "title": "Thermo Fisher Scientific Inc Stock (TMO) Moved Up by 9.89% on Jul 23: A Full Analysis - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUzFJYWZscWE2Y3dyTng5djJNdE11clN4SHJTX1NqVnNiR1N6eFZoNy1sd3JRaHJqdDFuVkZsdjVMS3lLTEZ2eHN1emhSTUZiajlfZEdXbnE4WDhhZ0dzc0Y3QVZMZ2xOS29HTlE0aExmN1VsR0ZvSkFMZVZNbWVOQ2JtN0pTSTZlcVE?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 16:15:16 GMT",
-      "source": ""
-    },
-    {
-      "title": "Thermo Fisher Scientific jumps after Q2 beat and higher 2026 outlook - Quiver Quantitative",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY3llN2pOZGZFMXFiZnJuWElkaEhidHNXQTdETHB1RlNjTmF4d2g0UjMyM0NaaFgyRXhHaHlCSnl3bUxvMHRBN1JmSW56WGNkZTZ6Z3NNbXBjTjlNX1B0WWhubzEzVU5VMlQyNmNmZGRoajVsc19SQkdkV0V2RERHeUFiUms1cTdSdTRMVlNpeld1ck9pTnJIVDhIM3EzVUd3cm9r?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 14:51:00 GMT",
-      "source": ""
-    },
-    {
-      "title": "Lockheed Martin, Quest Diagnostics, Thermo Fisher Scientific And Other Big Stocks Moving Higher On Thursday - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYlBSLS1rOE43dTZ6OWNHMG5icDNJTU9jTm5IVVlRc1ZrSVhSQXoxS1lkOVU5REtaLTZRdXAtR0NMTENQc0tsM1JmRTZQT1hHOENIeFdXRGF6NVZpQ3NOQWtUMHA4a3dMLVk3R252cFNaeXRBcUFSdUJqSERnbWlHRzdmdW9rYTZlMW9tODc4OHV4aS1QZ0phajRWY0tYNGpHNDNfSHFiYmptOVRPOW1IZGtLQV9tajJBaFNGY2YzTHcwVV9EWnBZak12eGY5SGhLdHBHOEFVNUFYMkdyVVJRMzM5RkpXa3o0TTBSejQzemlrQldqN3NJRDRB?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 14:20:41 GMT",
-      "source": ""
-    },
-    {
-      "title": "THERMO FISHER SCIENTIFIC ($TMO) Releases Q2 2026 Earnings - Quiver Quantitative",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQWcyZFFUUEFWVlhEbm9ja0JBdVRhckl1SU15YTh1WER6TWR5Y0t5czRfZXJOVkRzbExhaWkyWkVJS0VwcEdqeVVnREVxNmVEOHBRd2VjTXRGSlN5dUIxZmlyOU9qOVMyR0phUlcwcHhwN0FNZFJPZHAzbWd2aTVtQmsxVDFWNkZEYkdYZW9iOFlwcTJYT0pSczd6c0k?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 10:31:00 GMT",
-      "source": ""
-    },
-    {
-      "title": "Thermo Fisher\u2019s (NYSE:TMO) Q2 CY2026 Sales Top Estimates - StockStory",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM05PRWk2dXU3Y1JkTzdJUFpwbFk1N0dMaUxOWW5OdGt3NGdydzhmS21jY3BNZjlqQ0t5VGo0bTN3N0JhdlFlSG9WY2REVHA4dHhWMlIycEpCT2EyQ3NReldCZDEzMl95VlJUV0Z0cUZPc2hUZWpMQ1pCcTlfX29jNkFGS2VDOFh0Z1ZZQWZYM1pYT3RMMUQyV3RzZmVCM2owbWVTTkFmc0pHTWd3?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 10:27:11 GMT",
-      "source": ""
-    },
-    {
-      "title": "Thermo Fisher Scientific (TMO) Wins Kapiglucagon Contract, Is The Stock Still Undervalued? - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdVJhNVhKbGpWQ1loVEl6UXJnbDNoWXRmRkxXREllelN5bGdvX3BiblZEZG9ySXR4TW5zSXpBOE85R3c2aGN1VjhWLVFKNFVoUHQ3YUxhRU84alMyd1RsNzRYUU9rXzFVSzVSOEM2ZkY5NE02SEtlVGJxYkFsU01admRpLXR1ekZEdXNheGQ4YUV2QUdaWGtKdkFvdTJMWU9BMnlGTHNDaGU2V2g3YXJwQUxKMERnbTJ3bTVwSVAtMHYtN0ZQQkR0dlVIVjN5Wm5UcUtQZGQzeXF5TG41WmVUb1lLRnVkZmtlZ2g40gHwAUFVX3lxTE1xYW9vWUgyOWFGYWExQVNCVFo4ZlJwSVVZZ29lQ245UDBqNzZCcmY1Y19xN1BmbTJTc1FjVVRJOVlLNk45SmVNTGpDZ01GOE1VR3Jkd2R4TXN2c1RwWWl4bUdEbHBRWlBabnlvUGZDQ096eVh0THp5a1ZwWk0tT29Mb3hyZHp4Wlo2U1BUYjdjX1lzamtleWhZcklXUTdWN1FwU01YRXRqZWRoY1NKNnZfSXNrbEM0bV8xWjJRTWM2RExJRVdlRGxxcE9DdGprZWs5SXdwcUpaWjVRN1g1dHAyeVRGQjNGaFhSWTBUbmlOeg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLUF4Y0tyZlAxSXRRQ3lVeHhwM25WVU1YaVUyczVMMUhxQ21QbmNhUXVwTFdMVjRDakFGV0RSWm9sbWxCcDJyWElxVVNYdXFFaXpBclloRXlnWW1RZG1Ic1lXSW9oLVNqOTJuZWtZeVNieXlyT1pmdWRuakVLcDU5cXpJTkVDTkVhaDFuU2dnOUwzbVNSbGJSVHFfdGRobWZhekg2QlFJVGxHd05lYTY3N3oxX3F6MU5UYzg3YURTU1M5RHkwV2NZ?oc=5",
       "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT",
-      "source": ""
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Why is Thermo Fisher Scientific stock surging today? By Investing.com - Investing.com Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORHBHb3pzLUptWkRzdjVoc2dWNk56SWJfekdJWGhPR3hOZ0N5cXp2eXdvZHBycnVXakxVZ0p0UG9IMUxoQTFMajNYeF9tMDVjQzJybmlQRUVyREhCSFhEbTZGeGVqZWZneVFRbjRFc3U3UFJYWWZneG5pWF9rMWRCSGJGeWdZNk5YcGhQVXVzN1JHSGxqSFFkcUF5M3dWRXVoUWoyOHZqUEl0QzY1YlVSLUd3?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Thermo Fisher raises annual profit forecast as customer demand improves - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVjZ3WTJ1bU1SX2dmVUNrdFZaWE9HY3h1WnRaWmNVc0FseDR2bERnVzF0dWdIaEtCcTdoSllvMkwtYkgzWUFDeW1GZl82ZkpaaGY5bVZmVERpVDhEaC1Xb3ZUVXRlNEstWktTUjBVNXhoUkVDRk9WS0p1UUM4R1lZMGVvY0JjWWxfMGNGYk1YbExzOTlpOTBLRWxrT3B3TTNHSTFPM2ZxNUhrcWs2cHBwWGdYWlNiRjlvakhQZXRLdzQ5TUZ3R1p4SXJJZExJS1pZWnc?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Thermo Fisher Scientific earnings beat by $0.31, revenue topped estimates - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTGE5cXMxQjU0dGcyb3JjS1oxZmZnaG9OM09hajMxTzllQXFRSVA2SDRCbzdMS095MTJGMUJqbGNUSzdwM3F4VGx0bklIWU5VSXVOamVGQ3FSeWRUdTQ0TFBtOXRUUzJXUFNjeUQ2Q1RtMkxXTFBST0JvSjZVM3NuS2FIeXlqcm5LRlZFSF92cTNXX2h4bjRrYmloXzhnOXlCRnZxcjJkenlXYVJINFJqdXVoUkdiSFFMdFE?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Why Thermo Fisher (TMO) Stock Is Nosediving - finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZk9YS3owbzg2MjVOYmRKN3ZOQmowQzk4SjV5bUFOTl84azIyeGF6WnBOMy1pNVRVcHZBcU8ySmtEa05pV3VXS1VSNXdtbDY5Q0RYTnVHem5FUjduYnkxd2VOWW9vaS10NUMxMzlraURUSWhramZpSk5QcEV5OGZXSXE2N3lRbkVueHprM0VIVUxiSDVtR0g0?oc=5",
+      "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Does Thermo Fisher Scientific (NYSE:TMO) Deserve A Spot On Your Watchlist? - finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVDRYV3pWM3hFZ3pndVl5R3N1bHg0cWFwdzZYem5wOVVuOEdLMWtoRDZ0ZDhIdDQ2MU80R3RZNXd4dVgydzVDY2tvU19oSzVJTTMzdlR0cDRMaGV6OTNhdDZTY01HTUNFU2lKR09sdGdjT2VROHN2bWNsazdxNUNoNlN5amhRTVVHNEZLMlo3bWFNUzlwcWlHVWNWZG96cFpJ?oc=5",
+      "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Thermo Fisher dips in premarket despite Q1 earnings beat - finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbzBqVk1mQ09vLU1yZFRzTFlxbEUtT2ltRDBFVE5SVDhoYWhYRGFrLTZuajhrVnB0MDE3bm9mMy1PT2lEc1BmOEUxUWVhelRFemNOQ2t3NDdDVkFETTJNRWxITTdwd3lIanJQRlc0TzUwYmtlaEkzdnJUVjdLT3FEbnAwRmlzVTkwekM5UlpUbk42Vm43VWlzUndubW9MUnZ3T2Jr?oc=5",
+      "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Thermo Fisher Scientific: Why A Slow Q1 Does Not Reflect The Growth Opportunities - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNTlzNEdhcGhzb2VCY3lvLUY3MVJEanFhWVpHRFM5NS1VRmpQYXhiNEJRei16aHFGY3FMd0I3U3BNVDBIVEhER0doSmI1MDZ0YWEwR0JkSzBQdE5aTjU2OFlRdmJVTU5Lb3dxaUpkRmlYUG9sZGd1NkxkVHRoRGgxUG1nZG9ueTdobW1hRnJmaFFtTlJMQXlmamhSUG4wZldEWWhUYU9iMzBHZmRsZGEzYkcwOHd6Q1BIYXZmYzl3?oc=5",
+      "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Thermo Fisher falls after earnings top estimates, but growth concerns persist - finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRXlwUmt1cmJhWnBzRXMwcW1JaUhPeUxoSVVmUDA2Tk9XTk90Y1FpeVFiOHJfY2QxQm52c3ZpWkYzNThJejMtLVpBcm91WHFqYnE2WGxTSlAyd1QwOHp5Ym80Q3F4dlNOSHBfdVBxakl2bWlFcElyRXhHWVkxYkNrXzlHTnF6YkRSVF9yaURVdC1MWWZsMmkwZDZQWlFUYkFDZ3dJ?oc=5",
+      "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "THERMO FISHER SCIENTIFIC ($TMO) Releases Q1 2026 Earnings - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZnVfRUVYbFEzLWVETHR5Y2RUVGgzRHZteUV1N3FwUFowdV9RUEhJbndUYkZCc3pZemtycFQ0LXhmRzNyM0xlQ0Q5NUJPaThZMHNjYy1qSDNwTGtRcXV6WmN1WEUxbmFYUldCbFpGM3ZqMjhyRzFPRWNWQ2hjUjJCZmJEd3h2OGF2NkdnREhCNXBJN045Yk1wMlZFWG4?oc=5",
+      "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Thermo Fisher slides as investors weigh soft organic growth and weaker diagnostic/instrument trends despite Q1 beat - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQak9OUXExZUI3Nlo5SjZnS2pxOURDaXFQZDFFS2FCQU5VaG5DMktjTkdDcmhNa1hwcHVFbU9DZ1M1N1EydnhqQjJzaXh4d00tQ3VaQWgzNUgzRkJmaDhwWDJ2SnVDN05iWnNWcVY2bTY3ZmdQdkp3ZzhiMlRzcVF3X1ZEV3hsRUZfeEhoemZKalVHWFBkX09sQU9vaVNUTVdnYUhEdV9uY242a2g0ZDg3QjVnTHN3MzM5U0Y3MTY1aDVvT1FKOHFacmc1Y0dYV1hnZjhSZF90NjA4enVfSkNsdWNnaEY?oc=5",
+      "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Can Thermo Fisher Scientific Stock Recover If Markets Fall? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWW9MQlJBVjY3ZEo5M0s3WjNOYjRabFYwZHVobDRZMFZXU1AxQkpwY0JZQk4xWEJDc2tUd3ZEUEVvcHlHTHpNRjlBdjgwblJCMWlUZkRwVzF5dV8xSW1rbHZEV2gzUWZIalhrR0RSVGQtUTZfdVhmQm9JS0RIc2pqM0JTZ2xJWW1IUnNpX3ppVnVpSEltRFIyWlFNaEFSMlhDeFJydnNRLTNmTUNzeVNhM3RnczdQcnpsSFE?oc=5",
+      "pubDate": "Thu, 19 Feb 2026 08:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Fund Update: 148,999 THERMO FISHER SCIENTIFIC (TMO) shares added to Canoe Financial LP portfolio - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUWlmUkxNT2FKWi1odV9mZDJWOUhyNHVtMlI3Q2kzNUhwa3JIN21yMEhNdWpGRlU5OEtzdldxVGVCV0VldHF1a0RmNzZFNVR4NFRlYXFocjJOOVdVeThVWndFbXZFVDd4Sld5UVJVUzlnSk1UZ0xGWWprQTlzcEI3VHZSTE1JN2RLOEVkODQ3UjlDNUtPOU9iMjVsbzF2UzZGLWhscVJobzFuMllxQ3Q2Y2hvQ0R1OXVXVUI3MHZ5MEQxTGtmS1dSN3lpc0M3MUlFXzRz?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 15:31:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Thermo Fisher Scientific (TMO) Earnings Expected to Grow: Should You Buy? - finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTVlOeE1vSFB2c1U5d1ZraDY2R2hUMl93SkZpZG1Cb1RJaHo3T3FxU1NlekIzVm5tcHRCcDdjV0ZUVHpGZS11UmFRazhNT3hxQm5Rak1zdi1nQ3VHQjc1bFJIUG0zWl9kZFFzSUtxOEhDRVVFWXdFd25QbE53M284REM1UmJGamUzYlNIa0hPN3l3NU1mTUx5N1VSTnlSaFJjdUNoYg?oc=5",
+      "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Thermo Fisher Scientific Announces Quarterly Dividend - finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZm8xa3pXcFR4YlVocmNiZjZfZzQ1NmRzN29oMmpTaTNMYkd0U29yYlZFcC1YM2hvd1lGeUxDc0RrV2x5MlJSZnBPd1MtNFJZUGNFZ1VFVndxbEtrQXpkZzJobUVNNndxU2xzcVVVUnU1V3pTb1hqenVBWWFWYnhCVFozWXV3b1BJNnlLYUd6Yy1jQndMU1hsc0dybWYxRmlaRERIODlfazRZT09IT1E?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Thermo Fisher Stock Falls 20% Year to Date Despite Earnings Beat. Here\u2019s the Path to $628 by 2028 - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSC1vMGhHaFdvNk5CYnk5TmpRYldXSHhlT0w2Sk5ZSGhhTzdxdnpxclhrMDZFbldxMHZabkZ3aWw5dE15T2trWFFVRzBjdlNIZDVheGZqUlVITkIxT09sRlpOdFhDdlpGaEFFTDhqOG9fWkJaZXFWY1paeUdNWjZ2bkNZVmFRV0pvM3o3amhuZE9IUVR3VG1FWlIwNEo1QWUzeGRENVEzTk9LZTN3UlVtNldxcU9tX2xCNFBN?oc=5",
+      "pubDate": "Thu, 07 May 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Why Thermo Fisher Scientific Inc. (NYSE:TMO) Could Be Worth Watching - finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZGdIUEx5RkNQT0RZQ3lCNElzcnRPSE1Db202N2w2SEZrS0ZrUkpqZVpaby1mblRDVlJyZEtKVnRKU0pPMjhiU0xTU0Rad1o5ZnVvMTNlanpLby1rX3RpbFVwZ3hES2RJR256MWFtZHlHbmRIaUdEZmlfb1ZqVzFGbVZtOEpjX2NhVUNQSVFLaXJtNTIySVVnTEdkVmZDZw?oc=5",
+      "pubDate": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Thermo Fisher Stock Trades at $513 While Wall Street Sets a $596 Target: What the EPS Ramp Reveals - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbXRscXZHR24xNFA5ZERZQ29ObkRDWHVVZWdVNjE3ZEtodWwtSEFUbWxRQmNFb0ZKNWNRS3lLQ3E2YlJLaGM1X29ieVFzRkk1WTZ5RWtyOWh4eDV0cmFTd25hVms5S1ZPenhrSVNJd2tWWFlyZG9WV0R3SWJJVXhEUXpMbG1sdU93c2tLSnY5QUJjUjYzcGdmTGVNV3l0cEw4bjBNRzhQZkdjd3FlZVlRdThrRllwaVlQWld5M1BB?oc=5",
+      "pubDate": "Sun, 28 Jun 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Why Thermo Fisher Scientific (TMO) Is Up 6.7% After Q2 Beat, Buyback Completion, And InstaFlux Launch - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcFEweENHLVFQTFNaVkxKQjMxS3NRMnI5LXpKakgxNmE3Z2FCMkpWSG5GcTlIZ3VZNXV5UFpqX0RZSy1RRWFRVHRWLTdiSWN1X3NNMW1KX0pyLW1ldHNXVm1lMUU0a0FYNVZXYzI5ZGJHalRUbDRVYU9mTGh4TlUzQlhRaUJpQ08tSGUyWHZxMGluZ2ltVjl6bGJzOW5WUEdnZmJ1M3pxZHl6a0ExN21ZQWxDblBGaGtocjFCR1VKZDBmQ2QzUVpKT3FFcnFQNTJhdlNwS3ZrbVlIeklkR0hXcVRWTC1kYkFlRUp30gHwAUFVX3lxTFAweEZJOEpqejd3dGVGLUZWdVFqSnZod2hGYzhYN2ZSNFRRdVp3SjBiRVlkcjVzWHN4TlpjUXV3T0t2ckQ2aGxndWdva3l4ZGtrdUM5amIwY20xbUdqNFphNFdfNk9Gd0ZtWnIyS0NyV25sMEFfRXMyOTZlY3FzRkpndXZBSFFvWDRpbGNSeEVHNXdKbjJQd08yR1RXNW1EcWVfRkRtS0R2QjhUWmNEVlVvcFNKaUtpQlpSd2ZmYmNxZnlGNXJ3RDA1OFNNN05IMXlfN1NHR29VbUY0Qi1MSXZ5a1Q3eEozWnMxTU45SHE0MA?oc=5",
+      "pubDate": "Sun, 26 Jul 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Jim Cramer on Thermo Fisher: \u201cI Think That the Market Has This Wrong\u201d - finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeFBubDFiVUFtclZheUxtbkN3NVZVRXJ1YTZyZFVHdlMzMUlGVU9TRTNKSnB3S3BBMHYzS2hjTGhkOEJEY1RZRnlUUjQyLVMySktNNmdoZUZHSTcyS1BWdnZhUXl6N3RDNEJha2llNWVSTHJOMHgxMk5seV9RMDE4ekROSXdTdzE1R0tuZUUyLVltM2d3d0hEdF9Ubw?oc=5",
+      "pubDate": "Sun, 26 Apr 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
     }
   ],
   "prices": [
+    {
+      "date": "2025-08-05",
+      "close": 466.42
+    },
+    {
+      "date": "2025-08-06",
+      "close": 448.94
+    },
+    {
+      "date": "2025-08-07",
+      "close": 454.74
+    },
+    {
+      "date": "2025-08-08",
+      "close": 460.72
+    },
+    {
+      "date": "2025-08-11",
+      "close": 462.39
+    },
+    {
+      "date": "2025-08-12",
+      "close": 477.41
+    },
+    {
+      "date": "2025-08-13",
+      "close": 484.79
+    },
+    {
+      "date": "2025-08-14",
+      "close": 485.04
+    },
+    {
+      "date": "2025-08-15",
+      "close": 489.01
+    },
+    {
+      "date": "2025-08-18",
+      "close": 487.54
+    },
+    {
+      "date": "2025-08-19",
+      "close": 498.29
+    },
+    {
+      "date": "2025-08-20",
+      "close": 494.81
+    },
+    {
+      "date": "2025-08-21",
+      "close": 483.76
+    },
+    {
+      "date": "2025-08-22",
+      "close": 499.99
+    },
+    {
+      "date": "2025-08-25",
+      "close": 490.75
+    },
+    {
+      "date": "2025-08-26",
+      "close": 488.48
+    },
+    {
+      "date": "2025-08-27",
+      "close": 488.12
+    },
+    {
+      "date": "2025-08-28",
+      "close": 489.74
+    },
+    {
+      "date": "2025-08-29",
+      "close": 492.72
+    },
+    {
+      "date": "2025-09-02",
+      "close": 487.53
+    },
+    {
+      "date": "2025-09-03",
+      "close": 484.55
+    },
+    {
+      "date": "2025-09-04",
+      "close": 489.49
+    },
+    {
+      "date": "2025-09-05",
+      "close": 492.6
+    },
+    {
+      "date": "2025-09-08",
+      "close": 487.65
+    },
+    {
+      "date": "2025-09-09",
+      "close": 482.41
+    },
+    {
+      "date": "2025-09-10",
+      "close": 476.54
+    },
+    {
+      "date": "2025-09-11",
+      "close": 491.41
+    },
+    {
+      "date": "2025-09-12",
+      "close": 479.46
+    },
+    {
+      "date": "2025-09-15",
+      "close": 474.46
+    },
+    {
+      "date": "2025-09-16",
+      "close": 480.74
+    },
+    {
+      "date": "2025-09-17",
+      "close": 472.64
+    },
+    {
+      "date": "2025-09-18",
+      "close": 481.1
+    },
+    {
+      "date": "2025-09-19",
+      "close": 479.58
+    },
+    {
+      "date": "2025-09-22",
+      "close": 474.99
+    },
+    {
+      "date": "2025-09-23",
+      "close": 469.75
+    },
+    {
+      "date": "2025-09-24",
+      "close": 468.0
+    },
+    {
+      "date": "2025-09-25",
+      "close": 459.22
+    },
+    {
+      "date": "2025-09-26",
+      "close": 464.24
+    },
+    {
+      "date": "2025-09-29",
+      "close": 462.04
+    },
+    {
+      "date": "2025-09-30",
+      "close": 485.02
+    },
+    {
+      "date": "2025-10-01",
+      "close": 530.73
+    },
+    {
+      "date": "2025-10-02",
+      "close": 524.96
+    },
+    {
+      "date": "2025-10-03",
+      "close": 543.32
+    },
+    {
+      "date": "2025-10-06",
+      "close": 543.95
+    },
+    {
+      "date": "2025-10-07",
+      "close": 539.17
+    },
+    {
+      "date": "2025-10-08",
+      "close": 536.19
+    },
+    {
+      "date": "2025-10-09",
+      "close": 534.68
+    },
+    {
+      "date": "2025-10-10",
+      "close": 524.8
+    },
+    {
+      "date": "2025-10-13",
+      "close": 524.58
+    },
+    {
+      "date": "2025-10-14",
+      "close": 525.83
+    },
+    {
+      "date": "2025-10-15",
+      "close": 527.87
+    },
+    {
+      "date": "2025-10-16",
+      "close": 536.78
+    },
+    {
+      "date": "2025-10-17",
+      "close": 538.92
+    },
+    {
+      "date": "2025-10-20",
+      "close": 543.84
+    },
+    {
+      "date": "2025-10-21",
+      "close": 557.99
+    },
+    {
+      "date": "2025-10-22",
+      "close": 567.2
+    },
+    {
+      "date": "2025-10-23",
+      "close": 571.91
+    },
+    {
+      "date": "2025-10-24",
+      "close": 572.5
+    },
+    {
+      "date": "2025-10-27",
+      "close": 563.78
+    },
+    {
+      "date": "2025-10-28",
+      "close": 557.63
+    },
+    {
+      "date": "2025-10-29",
+      "close": 558.31
+    },
+    {
+      "date": "2025-10-30",
+      "close": 556.22
+    },
+    {
+      "date": "2025-10-31",
+      "close": 567.39
+    },
+    {
+      "date": "2025-11-03",
+      "close": 564.88
+    },
+    {
+      "date": "2025-11-04",
+      "close": 565.24
+    },
+    {
+      "date": "2025-11-05",
+      "close": 567.64
+    },
+    {
+      "date": "2025-11-06",
+      "close": 565.98
+    },
+    {
+      "date": "2025-11-07",
+      "close": 572.41
+    },
+    {
+      "date": "2025-11-10",
+      "close": 576.35
+    },
+    {
+      "date": "2025-11-11",
+      "close": 586.49
+    },
+    {
+      "date": "2025-11-12",
+      "close": 588.02
+    },
+    {
+      "date": "2025-11-13",
+      "close": 580.13
+    },
+    {
+      "date": "2025-11-14",
+      "close": 578.71
+    },
+    {
+      "date": "2025-11-17",
+      "close": 567.16
+    },
+    {
+      "date": "2025-11-18",
+      "close": 576.03
+    },
+    {
+      "date": "2025-11-19",
+      "close": 573.79
+    },
+    {
+      "date": "2025-11-20",
+      "close": 572.74
+    },
+    {
+      "date": "2025-11-21",
+      "close": 587.48
+    },
+    {
+      "date": "2025-11-24",
+      "close": 586.07
+    },
+    {
+      "date": "2025-11-25",
+      "close": 597.78
+    },
+    {
+      "date": "2025-11-26",
+      "close": 593.25
+    },
+    {
+      "date": "2025-11-28",
+      "close": 590.83
+    },
+    {
+      "date": "2025-12-01",
+      "close": 585.15
+    },
+    {
+      "date": "2025-12-02",
+      "close": 580.37
+    },
+    {
+      "date": "2025-12-03",
+      "close": 580.45
+    },
+    {
+      "date": "2025-12-04",
+      "close": 575.24
+    },
+    {
+      "date": "2025-12-05",
+      "close": 572.77
+    },
+    {
+      "date": "2025-12-08",
+      "close": 568.21
+    },
+    {
+      "date": "2025-12-09",
+      "close": 563.07
+    },
+    {
+      "date": "2025-12-10",
+      "close": 573.81
+    },
+    {
+      "date": "2025-12-11",
+      "close": 578.9
+    },
+    {
+      "date": "2025-12-12",
+      "close": 572.28
+    },
+    {
+      "date": "2025-12-15",
+      "close": 575.91
+    },
+    {
+      "date": "2025-12-16",
+      "close": 570.16
+    },
+    {
+      "date": "2025-12-17",
+      "close": 562.56
+    },
+    {
+      "date": "2025-12-18",
+      "close": 562.39
+    },
+    {
+      "date": "2025-12-19",
+      "close": 567.83
+    },
+    {
+      "date": "2025-12-22",
+      "close": 575.7
+    },
+    {
+      "date": "2025-12-23",
+      "close": 579.94
+    },
+    {
+      "date": "2025-12-24",
+      "close": 579.12
+    },
+    {
+      "date": "2025-12-26",
+      "close": 580.74
+    },
+    {
+      "date": "2025-12-29",
+      "close": 585.07
+    },
+    {
+      "date": "2025-12-30",
+      "close": 583.45
+    },
+    {
+      "date": "2025-12-31",
+      "close": 579.45
+    },
+    {
+      "date": "2026-01-02",
+      "close": 592.51
+    },
+    {
+      "date": "2026-01-05",
+      "close": 611.2
+    },
+    {
+      "date": "2026-01-06",
+      "close": 620.72
+    },
+    {
+      "date": "2026-01-07",
+      "close": 617.15
+    },
+    {
+      "date": "2026-01-08",
+      "close": 606.5
+    },
+    {
+      "date": "2026-01-09",
+      "close": 618.86
+    },
+    {
+      "date": "2026-01-12",
+      "close": 615.45
+    },
+    {
+      "date": "2026-01-13",
+      "close": 607.08
+    },
+    {
+      "date": "2026-01-14",
+      "close": 621.83
+    },
+    {
+      "date": "2026-01-15",
+      "close": 624.65
+    },
+    {
+      "date": "2026-01-16",
+      "close": 618.72
+    },
+    {
+      "date": "2026-01-20",
+      "close": 619.01
+    },
+    {
+      "date": "2026-01-21",
+      "close": 636.3
+    },
+    {
+      "date": "2026-01-22",
+      "close": 639.45
+    },
+    {
+      "date": "2026-01-23",
+      "close": 625.98
+    },
+    {
+      "date": "2026-01-26",
+      "close": 626.62
+    },
+    {
+      "date": "2026-01-27",
+      "close": 623.91
+    },
+    {
+      "date": "2026-01-28",
+      "close": 608.02
+    },
+    {
+      "date": "2026-01-29",
+      "close": 592.16
+    },
+    {
+      "date": "2026-01-30",
+      "close": 578.61
+    },
+    {
+      "date": "2026-02-02",
+      "close": 581.77
+    },
+    {
+      "date": "2026-02-03",
+      "close": 570.09
+    },
     {
       "date": "2026-02-04",
       "close": 565.22
@@ -743,7 +1357,7 @@
     },
     {
       "date": "2026-08-04",
-      "close": 564.99
+      "close": 564.75
     }
   ],
   "meta": {
@@ -753,20 +1367,20 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 322151400,
-    "regularMarketTime": 1785871159,
+    "regularMarketTime": 1785873603,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 564.99,
+    "regularMarketPrice": 564.75,
     "fiftyTwoWeekHigh": 643.99,
     "fiftyTwoWeekLow": 435.27,
     "regularMarketDayHigh": 582.313,
     "regularMarketDayLow": 562.5,
-    "regularMarketVolume": 1195297,
+    "regularMarketVolume": 1941807,
     "longName": "Thermo Fisher Scientific Inc.",
     "shortName": "Thermo Fisher Scientific Inc",
-    "chartPreviousClose": 565.22,
+    "chartPreviousClose": 466.57,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
@@ -789,7 +1403,7 @@
       }
     },
     "dataGranularity": "1d",
-    "range": "6mo",
+    "range": "1y",
     "validRanges": [
       "1d",
       "5d",

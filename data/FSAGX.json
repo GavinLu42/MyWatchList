@@ -1,82 +1,654 @@
 {
   "symbol": "FSAGX",
   "name": "Fidelity Select Gold Portfolio",
-  "updated": "2026-08-04T19:19:23.446381+00:00",
+  "updated": "2026-08-04T21:19:00.373347+00:00",
   "news": [
     {
-      "title": "Is Fidelity Select Gold Portfolio (FSAGX) a Strong Mutual Fund Pick Right Now? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWG9mZGZhdXJxNlJPNHRwOFkxaG9SVXVmOXRfOHZ6cmtHQkl1YjN5NDVxQVN5b00xcTVIV3ZrOFgxaXJrLTQzR1pvbnRsTmlHMGZhX1dPa1FaYkVXMjdSS1pHS1YtNEE5dGVpQnkwX3BlNE9hcUFpVWYyRTRKMVM3MF9ma3Rfc1hVTWc?oc=5",
-      "pubDate": "Wed, 11 Dec 2024 08:00:00 GMT",
-      "source": ""
+      "title": "Man killed in landslide at Solomon Islands gold mine, police say - apnews.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR2RBZERSdzZvWEtPd2xsSlhJNmt6b2JSZEY0M2RYeFBwNUZSMzJMejdXQTNaa0FuNHd0X3ctNDhHRGdqWkx5MU9mSXRqQlFqMGtFOE81MXhxeUdscm5pbERPOXBtVUpKT0sxeDdwYTA0OGdaX0xiNlFWOWp2QldKdEpvWTd0NGliUUJVNi0ybHUtQVBjMGJYNVk2WQ?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 04:13:00 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
-      "title": "Fidelity Advisor Gold Fund Class A: (MF: FGDAX) - Zacks Investment Research",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuRDJiOHFHMC1iWjdiMzBEQlNyTXBPOUdSVnQ1Wl9HZGRjb3FvQW92UXRhNjNLQy1GTU95WWZoaHZmOXc3OGxsejREektDNkJQRmQ0eUp5QTVTZ0lKckJhUkMzQVRTR2ZES1BKYk9hbw?oc=5",
-      "pubDate": "Tue, 31 May 2016 13:53:27 GMT",
-      "source": ""
+      "title": "South Africa's gold producers stay in the shallows as prices surge - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLWNCcHE3Sjkzc19yTGgxb0IteUYxTEs3RTh0RkZ5bFkxeTRjSzJQZW5sVlljREQwb3ItamlWbFVsY0xNbnRweHcxQUptaVM0ZkN5WkYxUldrNUFZNmFyNlBTdlo5eV80dHpSVS1qOEZXeVV6V1dOb3EzMERnQWFvQjJ6MFF1VlV6UU5VWl9Fdjc5RlBBSnR0c05HamRYZjllVXFtZUxDOA?oc=5",
+      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
-      "title": "Outlook for Gold - Fidelity Investments",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSWZoWVVzYjhVVGNNRjdLcUx3UjdtdG5zZThhRzdwVTBWMGlFSU1hdDFrZ2M5SzVyU0FuOTBjNHFncmNGZVQ5THhQcVR1LU5rUm9yUUwtRzBLTDI5VWZ3cS05MGhKV254Rm9LZ29aX1RwNVY2VFBhamNtQzVXNWZCUkJsbVJOS2oxQmJ3SVkwNjhRZ3Fi?oc=5",
-      "pubDate": "Tue, 11 Nov 2025 08:00:00 GMT",
-      "source": ""
+      "title": "How Bolivia\u2019s cacao farmers took on the gold-mining industry \u2013 and won - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR0tOSE1nLXVLLVFQcUFRN0FfbThVVURQSmRtVUJCWFlhR3lyVHlNWkk0RjBKZTNSWmxhWWg5NGNPOHVnM3k1TVM0dzhwWDhFeGtHanFYTi10aUlMendydmRyaVc5S2taaEpqLThwTWUxM1F2RzVlU0hfWDRrMERheGFORTk5Y29nWjZLQlZKWHUxVlFQVjN0R3hvMVdDS0tEdlk3M2RmT2hyNkhCWVdPTmFGUXFRU29MNDVR?oc=5",
+      "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
-      "title": "Best Gold Mutual Funds to Invest in 2024 to Invest in 2026 - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnN0psdHpRNURsMnVUeE1KeERFV1pwT253U2JEWW9TSGk4NURYeWNDTVZGVERVcWkxMElsN21DUDJ0dUN5N3k4OEUxY042ZjRpOFU1UTJTdzFHaC1oLV8zdlRpTQ?oc=5",
-      "pubDate": "Tue, 10 Dec 2024 08:00:00 GMT",
-      "source": ""
+      "title": "Illegal gold mining is rampant on Nicaragua-Costa Rica border, fueled by China\u2019s voracious appetite - EL PA\u00cdS English",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZ2FKdUl6NGdkQ1dKZVFtbjNfYXQxSU4yaEduR1FDazIxRXJUU0JqMk1ab1BCdGJveWJpZ0hPSWZSempRcEtLaXNpbXdrQlpsb2ZNYUhodnEtaHpoUnZHUWRlNG02TnU3X2huenR5bmNJVUMyVFk4WjJUbGhUMXZmRnVQY2Q4b1JfZXFlVTNhand6WDI3cXhlVElsa2NmNU1zalpKWUJpblY1NlI0d0JzMWtSTEVXamFjbDR5LTlQU1dzU1Y1U3JDNXc2eWhUSmZkaHE3c0U4QkdPME9XZ3lkTnl6cGFkUGNrQkloYzlQWXcxUDTSAYcCQVVfeXFMT2J1aUVmQ0ZnVThQTTB2bFRmSjRMeVJCcXIyUU5GZGJwR2pmeWtra1RBNHVJOGQweVZEdXRlRHk3U0JlZmRmOGhmRlViTmY5NFZvcWRPMElnMzQxaUZoTUFvc3BMWlJ2YlNhaFdNWmJobUdreE9sX1J2T0RTQjVTb2JQWHhPTHZOLS1uMTdOSGQzQ1hJWHpCTmV3a0lfMXRObDVaal9sak1FU0dEandaM1ZwMlNnYVBzRjFoMHBPaHBQX204WGxsS0lSLWZLVERKMnJEZzNrN1BMSk9BUkxXUXJIVjdtQmZLWWFEYnVfWEx1ZFhHVHlLVXRZanRxcUwzVjdlZTRRN3c?oc=5",
+      "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
-      "title": "The Best Gold Mutual Funds to Buy Right Now \u2014 And When to Choose An ETF Instead - Kiplinger",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nQmRuZmRUQlRVckEzV0VkaUlWb2d2QVNaQUlhU2JHTjBRVjVPT1djUHBfZEYtSWhoQnhnQTdwSGlzNk9nZFBhSjRBZ0xKeG9abFJabk1kMzRNOXdibnlnZi1YS2ZGMG5wWW5rX195UDF6QW9XTlR3ejBfbw?oc=5",
-      "pubDate": "Thu, 16 Oct 2025 07:00:00 GMT",
-      "source": ""
+      "title": "Indonesia\u2019s illegal gold boom leaves a toxic legacy of mercury pollution - news - Mongabay",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVjM5aks5d0lmYkVvX0pKUlNUOFV4ei1Vd2dPQ3B4dzY5bmd4bjBfdDlLbXZENGo4U0FLYmR2cWNsTG5GOFpOLXlyUHdjRzRETzdCcXNLYWhfaklBVjRMTW1ycjd2VU9rZU5VX1NCUEZUXy16bVltejB3Znp4SDl6eTVxNW1vTzFQa0l6clVleDVLZXQtV09ac3d0SzhySzBqSjNudHcyVkZZZ9IBrwFBVV95cUxPZzNoamtqUUVFby1zQXlseWx5VC1aV3RVem5ZNS1CYVdtSG94UXpLMlZFREhjSmNUSm1pMm9yZVRFNmRNemp6RVVkNkVFcDE3UDJEVlU0c0IweWFJQXZtbkl3dFp2Q2pqTVpOdno3d05JWXIxRTI3SkpNMl85eVBfZ3pQWVVTZ25ET2Mzei11eGFRdkRhMG5vbHY1YWIzMWJLVUpkeG1zdERWUUpLUWhB?oc=5",
+      "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
-      "title": "Top 5 Precious Metals Mutual Funds - Investopedia",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSmJIb3B6WS1qcDlUM2VBSDJZU0k0TlVLZGJRSWdYZ0gwelE3Rm0tSG1ub1F1Vm0yY3QxbS1oTTJtWFZ0em5RdHdOSmtCT0RGTmI0YUtHY25HT0o3VEtPY20yNVhzdWkycnY4ZVpCaTY2S0RCRnBBRjhlSzNMTmlfdkRGUkN1UTl0QlZvaDlTdUgwNWVLT1JLYQ?oc=5",
-      "pubDate": "Sat, 25 Mar 2017 20:27:49 GMT",
-      "source": ""
+      "title": "Colorado mining stocks fall hard after investors sell gold - The Denver Post",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XZFRRVjE4WnJTMXZrVzNzVjlMOEY0SHlnOEVmb0VRbkY5Q05QZDRXdWZiU1FxRkYyOWZyQmc5ejJwbVI3SS1ha3pTZnpZSWlHbXpyR0ktLU9Pbzc2OTlBcUQ2eWdSODJlbFJnWGhvR3VVeU9K?oc=5",
+      "pubDate": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
-      "title": "Is Fidelity Select Gold Portfolio (FSAGX) a Strong Mutual Fund Pick Right Now? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWXJhZnRtUlJncmJtMGpvVU5oS0VPdnV2M19BNWl6X0kydGdCWGxRUERxR3dONmVxNlNXTk9XbUEtVW9kN1JPQjB4V2tiaUlGZ2JzSjV2UEhla204eDVLa3pxWjd5VVRrTXlCV18zalh5Ym5acm1VQXFNckg3dXpDMVZ4NUw5OEs0bGc?oc=5",
-      "pubDate": "Mon, 10 Jun 2024 07:00:00 GMT",
-      "source": ""
+      "title": "Russia Says Gold Production Nears 500 Tons, Stunning Industry Analysts - The Moscow Times",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNenkwZkswQkdwOG5feVBlc3E0ZS1tNkRrWmNOVDVqRnhQdFdxNURuWEFXZVdobk1RbUNDWU9wUTB6eTZfa29nTXRScW9Tbmt6YTVSZEgxZlQ2dE42QmdQS1NfQmF6NV9HTVhLVWVCd3hyOEhLR0R5QzQ3b3BKUllhQ0xzZktSTnlSX3BLQkEtaEdkMW5kRGFNTDdHbDBtcjROaWpMcXpGSy1YaEQwOHJQd3R5UVFHSnc1d2c?oc=5",
+      "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
-      "title": "Is Fidelity Select Gold Portfolio (FSAGX) a Strong Mutual Fund Pick Right Now? - Yahoo Finance UK",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbjBvekJsWHN1dkpCQ2JuWTVUM1F5LWhoaVVaME0xN19IRHdmbkJfZXNDVHdHc1JnQ2hUVlRzWW5xamRpSkRiREdWNnI5NjNRU3h3cVd3TW1IUUdSZEtvYk14NzQ5NS0xTy1mYzFCQmtGTWVRZE1wa3hZS1R2bjBpLWRtQ1ZvMEJUNzdHT213?oc=5",
-      "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT",
-      "source": ""
+      "title": "Mining M&A in 2025 \u2013 Copper, gold remain center stage - S&P Global",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYmFJUFNyOGx2aUFBSk9HMlYzNkp3M09oUWdGdTM5S3FrWEJNdlI2bWp4ZjlteTV3Z2U4MzFuTDJCR0ZwUkR5QlBRR1FoNXljNkk3aGtjRGhna0NKYVVZMlk4eDBWcElBSHplV1VwZEItUHpnSzRubTdIV1UwRnF3dWFfZWI3TTAyY2pDS21YbnBFSFpselE2TlRaNnZ3YjlJWS1WOEd6aGYzRmdPaWU2YnY1WHJvYUI1cGpCVlgzY1RoNTJSOUdsQ19UX0VSZw?oc=5",
+      "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
-      "title": "Is Fidelity Select Gold Portfolio (FSAGX) a Strong Mutual Fund Pick Right Now? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMzJzdmY4SEhqSUZSYVBwMFV0RThsZ09pd1ZUVjZGVC1MWURSUUIta3NET3A0ZldiMDYzVkNkdUpqaE1xd1MzUWJ5Ujd6bXRkbkhnN1JjYUZBSWJTZUh1NXNiSzFVaVNtVFhKZWZ3amNMNmEtbzZZNnBsc1lxNTR4SWUxTVZGeEpWYWc?oc=5",
-      "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
-      "source": ""
+      "title": "Gold Mining Sustainability in Colombia: Prioritizing a Mercury-Focused Approach - California Law Review",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EejFKcGYtX2ppYVZfLVhHdWdveGVFMS02eHBUYU9SME5CMUtQMUx1S3NzTGtQOWRVVGdTMlJDWUJPbk5BTXBJU3NqVTJSVExtNXV2RnZxVXBCVzJGM1JEZm5QR0UzTU9NbjNjZGJZYm9qYURsbnhR?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 16:05:38 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
-      "title": "FSAGX ETF Profile: Dividends, Returns (NASDAQ:FSAGX) - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pdlFoT1dLXzFtbGQtRFlLajJubGRrZ2FSRXU4elFsOUpfelNtc1plZ3BhX1lidkF2bnV2R1VxV3Q3MGI1V0ppTjlROHo1dTJkWUNpTTloa05aLU1kdG90X05ON20zYkVU?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 18:20:53 GMT",
-      "source": ""
+      "title": "Gold miners set to stay in Mali despite attacks, industry sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTkdEc0wtZV9oY3lSQzdOQnhQeDJlSVhxR1ZYTUZhbTRsSnUyOUFnUFFxcEZEUDRac2NuZkJoc3pQQ2E4WTJGaldwWWNTUVJ3aXJ3aWNuUUJOcU1sRl9NZzQteXdfRVFyendvdjNMVlZmMW41R3duUV9iS2xDbTdtYXpCNlNzb0oxZHpVSTJEMzhDamJ4d05lNmY3Q0pfSmVGS3J2QjhHZnFWWGdlYW9XSw?oc=5",
+      "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
-      "title": "FSAGX Stock Fund Price and Chart \u2014 NASDAQ:FSAGX - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xNzVPU01mXzBhVVd3YUZldlFLdkMxaGNIbjU4Vk55YXZQdnZOeVI0YnhFUmM2UHpJUUJkbUpvNEFSUDVHQWh1ZlptNFNQX2o2emdRSVh1RWMwN1lhcUE?oc=5",
-      "pubDate": "Fri, 12 Dec 2025 17:27:28 GMT",
-      "source": ""
+      "title": "Seabridge Gold Inc. (SA): 10 Best Gold Mining Companies to Invest In According to Wall Street - finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUWZXdmQ3a2tUUHZaS1U0bXdKMzlQdWVPVGFIenBDclVITnpkd1ZUVndOUG5QOUxTcWQwaC1EQ2x2eVlsOHJxdFBpUmRfRTBHOE4ySkZ6RmVGNWlzeV94UllQUnJSRm91dENheWtfbUVVVndwNFhBT1p1WW5UdEZQQjJGX2lsZU56MXdza3B0T19TS1E?oc=5",
+      "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
-      "title": "Gold Funds for a Rebound: VGPMX, FSAGX, TGLDX - Investopedia",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdWdHTUFFbEpBeGVnN2ZKSzg1b2tCVjBpVHVfd3B2Sm1HUkpodGtXSDB2aGxzS2p5Sm9rMngxclh4QnJPbHZJcVZfUGQ2SjNOM0RHc0FDeE16d3hBcG5LUmd3RkdqV3BCaWloWTRRZk1PQ1FxU2pmWnd4b1FUcmY2YU9xaE1WNmlUZ19nZ25jSmpBVzUwd0F2N2c2cXJCNTVlSzJB?oc=5",
-      "pubDate": "Fri, 02 Nov 2018 07:00:00 GMT",
-      "source": ""
+      "title": "Ghana\u2019s Illegal Gold Mining Crisis: A National Security Threat with Regional Implications - Africa Center for Strategic Studies",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWaGxWaTFtSzR1aFBLZEQ3RTFqMmNjZTVhOS1mVHZ6aWJrT3ozY3pPMzdYcHZ4NHNrVzVnREhGb3JqS18xWmxSMkVVTkVZRGxDVThMZENtU1dzZ0lha1VuSkpKVUd1OXIteDIweEozRTBaQ0FBMHBSQzZTOA?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Ghana gold mine changes hands in $66.5 million deal between South African and Australian firms - Business Insider Africa",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNckthb2ZTSDlfdTRDbGxjM1hCYUFCb1RoeWJxZXJiT2NKeXp3cnNtMGo0SlVETHJIRVMxTlZwRTJIYVVWWDBDZzMxRTZnMUQweGNHN0tfbUlBVThLLU1PS3lGb3RlVlFtczVJaG9xaHZmbTRIdzl2bVhZRkxGZEhXUFRZd3R5SF91WG1rTGY5b0FWME4tUXI2OVhMa293R1lEOURQQ1pZcUNxMUQ4TjFyaWpMeXZlYzVTVXhVSmhOYWFHNUVpUk5jVXV1STlkU3BsS1h3Sg?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "How Gold Mining Fueled a Surge in Malaria in the Brazilian Amazon - Yale E360",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VLVVELVBkWDFMMjctMk5UMTd6QzBwc1dlcmZLOUFvVWdVdmdGR3pvNkE5dmc2RWdlaHF5NlJVTmVBUGxtbVN1U1c3Q2xKQmUza19OLTVEVVA3RU8zeTI2Q1lHb0JkQXNOTzR1bVMyM1I?oc=5",
+      "pubDate": "Tue, 19 May 2026 07:00:00 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Ivory Coast miners start paying higher royalties after failed resistance, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUk9Yd0pMbWc0V19Bb1A0SHZHbWY3VWMtd1NGcnpJQVQ1SFV5MmNVWXNvZExBVEtDV3cxM2xXODNQLXlWT2dCd0Z3SXVpbG95UGJIb0pnejN0X2dlRDdaWmF5TVE0cFVYVWhoNHFhT2pjdVp3NVdVUWM1b1ZwOG55RWlSb0s1M2NUbnZBMDZkUlAxUUxoNWRjQ0NIRjI3djJ3RmVoeXNYV29KR2VYVnZScnpVV0N4dm12Z3gxRjZhb19jTEpmVVJ3aTRCWQ?oc=5",
+      "pubDate": "Tue, 16 Dec 2025 08:00:00 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Liberia\u2019s fight against illegal mining - Vatican News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTGUyS3dEYWJhVlIzaFZ2Y3p6b2U1WXZfenptWEVqOThpSURPa3JqU2tFRlRpQndGU0c3YzZFTmpna2t5OHh2S3VodlNTeE9UU0dDQXRleXRxQWcxRFNYeXl5UDhGQVhzWXhOX2lSRVFyZE1aalpFRVpUZkRYTXRBTHZCVHNOX1N1YUtTVzg0aUd4em81dk0tOA?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Sustaining Strength in a Higher Gold Price Environment - VanEck",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONndmOEZ2b19kbGhxWW5BMXZ1VmM2MTN2Q1BCN3ZpcGdBZVNPb3RFUXJJQmlMcXNReVZMUDIyM0RKSjdrRUNjMF90VE9sc0tuRThNVkRRNmRxQ2ZseUZUSG53TXNJQUZhWkdnMUxYcGdBaS1kMTNFTVNhTWFWU0lWN0hMWmZKQWFPV01uSjVhaVR5S2dtcXo4YXNSeDVpbjloNWhpLVJnYkQwd3F5TGFsYjJiMW9IblNCeHc?oc=5",
+      "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Brazil gold mining rush brings deforestation and mercury risks to the Amazon - PBS",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcHlzYjlTZlJISjA1MHdmQlpJNGRsdktLSkowTGNfR1d6V3Itd3hILUw5Ny1PMXNWLU1tQTVzRXlWZ08yU0Q5WHUxckU0bEF0V0h1T1YxdGFWS2YxRXZjbXQ1NzRZelhKQTJHbnkwWExGckZkMkZUbUhFS2tIc2NlTE5pUHA0dk1PRUxJRXc0Ri1TYmZheF9pU0dpVEhUSGxyOXZLalctZTVaNGxlYmdGdNIBtgFBVV95cUxObnJURzZlZkRid3dpU3VGVjZEcHFuQXlsOGRHNmxZeUlaSGlGdXNEaTRLMlN6YklYT1ZWcWtVbXFyMUFCLUp3Z3NNdzJINUlxUnc3eTM1V0dCd21UZmhwcGROblpneExsLU1mdHVhdzlNd2VSMldwSUxhSy14STdJWmZkWlhsVnFpczFKWGRzQk00YmJFVFRlWjd2bmV5eFBON0VZbmh0YXIycXFtMzNUeTF5WUFFZw?oc=5",
+      "pubDate": "Tue, 05 May 2026 07:00:00 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Gold hits record in Argentina and will lead mining exports with US$5.23bn in 2026 - BNamericas",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRnVDSi1tdEhLWE45dTVPa3ZnZFlieUpOZWhRRnAxTWVLM01SVElqeXJmTFpBOER3OFFXS21YUlBUa2tGbm96elhGQzVKRF93NU5nY05Nem1oZ1A3RjVBMjNFcDJZYVNCeklwMHZUbEo4RExIMjYtVWxaUTFvWm5rbFdhbzRGSkFGb2ZaVlFLWFFScF9keUVNc0h6R1NHR0RKN0VvQ3ZMMmF5UUJHbE1GSUx3ZUU?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 20:43:10 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Artemis Gold\u2019s Blackwater mill bill balloons - Mining.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EeGdWTjBYaVd3WjctWWd6cmRwdzB0cTRuNm16Tjl3THVDY2E2MGpSNk9vc3dCWWFTN2gtcS1meGVTSDV3bDRBSjd4UkJLQWI4U3FHQ1l4T2pfUHpWTC1LdWVOSGlFVFFYRW1iaXpjUFFDakJwY1E?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 20:39:21 GMT",
+      "source": "",
+      "category": "sector"
     }
   ],
   "prices": [
+    {
+      "date": "2025-08-05",
+      "close": 40.88
+    },
+    {
+      "date": "2025-08-06",
+      "close": 41.53
+    },
+    {
+      "date": "2025-08-07",
+      "close": 41.95
+    },
+    {
+      "date": "2025-08-08",
+      "close": 42.0
+    },
+    {
+      "date": "2025-08-11",
+      "close": 41.93
+    },
+    {
+      "date": "2025-08-12",
+      "close": 42.1
+    },
+    {
+      "date": "2025-08-13",
+      "close": 41.91
+    },
+    {
+      "date": "2025-08-14",
+      "close": 41.6
+    },
+    {
+      "date": "2025-08-15",
+      "close": 41.87
+    },
+    {
+      "date": "2025-08-18",
+      "close": 41.85
+    },
+    {
+      "date": "2025-08-19",
+      "close": 40.66
+    },
+    {
+      "date": "2025-08-20",
+      "close": 41.6
+    },
+    {
+      "date": "2025-08-21",
+      "close": 42.43
+    },
+    {
+      "date": "2025-08-22",
+      "close": 43.07
+    },
+    {
+      "date": "2025-08-25",
+      "close": 43.08
+    },
+    {
+      "date": "2025-08-26",
+      "close": 43.96
+    },
+    {
+      "date": "2025-08-27",
+      "close": 43.93
+    },
+    {
+      "date": "2025-08-28",
+      "close": 43.89
+    },
+    {
+      "date": "2025-08-29",
+      "close": 45.12
+    },
+    {
+      "date": "2025-09-02",
+      "close": 46.31
+    },
+    {
+      "date": "2025-09-03",
+      "close": 46.59
+    },
+    {
+      "date": "2025-09-04",
+      "close": 46.3
+    },
+    {
+      "date": "2025-09-05",
+      "close": 47.45
+    },
+    {
+      "date": "2025-09-08",
+      "close": 48.19
+    },
+    {
+      "date": "2025-09-09",
+      "close": 47.8
+    },
+    {
+      "date": "2025-09-10",
+      "close": 48.77
+    },
+    {
+      "date": "2025-09-11",
+      "close": 49.29
+    },
+    {
+      "date": "2025-09-12",
+      "close": 49.17
+    },
+    {
+      "date": "2025-09-15",
+      "close": 49.82
+    },
+    {
+      "date": "2025-09-16",
+      "close": 48.63
+    },
+    {
+      "date": "2025-09-17",
+      "close": 48.47
+    },
+    {
+      "date": "2025-09-18",
+      "close": 48.48
+    },
+    {
+      "date": "2025-09-19",
+      "close": 50.47
+    },
+    {
+      "date": "2025-09-22",
+      "close": 51.71
+    },
+    {
+      "date": "2025-09-23",
+      "close": 51.82
+    },
+    {
+      "date": "2025-09-24",
+      "close": 50.49
+    },
+    {
+      "date": "2025-09-25",
+      "close": 50.88
+    },
+    {
+      "date": "2025-09-26",
+      "close": 52.01
+    },
+    {
+      "date": "2025-09-29",
+      "close": 52.64
+    },
+    {
+      "date": "2025-09-30",
+      "close": 53.05
+    },
+    {
+      "date": "2025-10-01",
+      "close": 53.56
+    },
+    {
+      "date": "2025-10-02",
+      "close": 53.29
+    },
+    {
+      "date": "2025-10-03",
+      "close": 53.47
+    },
+    {
+      "date": "2025-10-06",
+      "close": 54.5
+    },
+    {
+      "date": "2025-10-07",
+      "close": 53.55
+    },
+    {
+      "date": "2025-10-08",
+      "close": 54.55
+    },
+    {
+      "date": "2025-10-09",
+      "close": 52.14
+    },
+    {
+      "date": "2025-10-10",
+      "close": 52.33
+    },
+    {
+      "date": "2025-10-13",
+      "close": 54.18
+    },
+    {
+      "date": "2025-10-14",
+      "close": 54.52
+    },
+    {
+      "date": "2025-10-15",
+      "close": 56.37
+    },
+    {
+      "date": "2025-10-16",
+      "close": 58.1
+    },
+    {
+      "date": "2025-10-17",
+      "close": 54.28
+    },
+    {
+      "date": "2025-10-20",
+      "close": 55.54
+    },
+    {
+      "date": "2025-10-21",
+      "close": 50.49
+    },
+    {
+      "date": "2025-10-22",
+      "close": 50.62
+    },
+    {
+      "date": "2025-10-23",
+      "close": 51.19
+    },
+    {
+      "date": "2025-10-24",
+      "close": 50.55
+    },
+    {
+      "date": "2025-10-27",
+      "close": 48.47
+    },
+    {
+      "date": "2025-10-28",
+      "close": 48.87
+    },
+    {
+      "date": "2025-10-29",
+      "close": 48.99
+    },
+    {
+      "date": "2025-10-30",
+      "close": 50.24
+    },
+    {
+      "date": "2025-10-31",
+      "close": 49.57
+    },
+    {
+      "date": "2025-11-03",
+      "close": 49.62
+    },
+    {
+      "date": "2025-11-04",
+      "close": 47.53
+    },
+    {
+      "date": "2025-11-05",
+      "close": 49.14
+    },
+    {
+      "date": "2025-11-06",
+      "close": 49.26
+    },
+    {
+      "date": "2025-11-07",
+      "close": 50.28
+    },
+    {
+      "date": "2025-11-10",
+      "close": 52.62
+    },
+    {
+      "date": "2025-11-11",
+      "close": 53.12
+    },
+    {
+      "date": "2025-11-12",
+      "close": 55.15
+    },
+    {
+      "date": "2025-11-13",
+      "close": 53.83
+    },
+    {
+      "date": "2025-11-14",
+      "close": 53.4
+    },
+    {
+      "date": "2025-11-17",
+      "close": 52.57
+    },
+    {
+      "date": "2025-11-18",
+      "close": 53.05
+    },
+    {
+      "date": "2025-11-19",
+      "close": 53.62
+    },
+    {
+      "date": "2025-11-20",
+      "close": 50.91
+    },
+    {
+      "date": "2025-11-21",
+      "close": 51.25
+    },
+    {
+      "date": "2025-11-24",
+      "close": 53.96
+    },
+    {
+      "date": "2025-11-25",
+      "close": 54.12
+    },
+    {
+      "date": "2025-11-26",
+      "close": 56.57
+    },
+    {
+      "date": "2025-11-28",
+      "close": 57.52
+    },
+    {
+      "date": "2025-12-01",
+      "close": 57.37
+    },
+    {
+      "date": "2025-12-02",
+      "close": 56.35
+    },
+    {
+      "date": "2025-12-03",
+      "close": 56.08
+    },
+    {
+      "date": "2025-12-04",
+      "close": 56.48
+    },
+    {
+      "date": "2025-12-05",
+      "close": 56.21
+    },
+    {
+      "date": "2025-12-08",
+      "close": 55.13
+    },
+    {
+      "date": "2025-12-09",
+      "close": 56.5
+    },
+    {
+      "date": "2025-12-10",
+      "close": 57.37
+    },
+    {
+      "date": "2025-12-11",
+      "close": 59.51
+    },
+    {
+      "date": "2025-12-12",
+      "close": 59.08
+    },
+    {
+      "date": "2025-12-15",
+      "close": 59.03
+    },
+    {
+      "date": "2025-12-16",
+      "close": 58.67
+    },
+    {
+      "date": "2025-12-17",
+      "close": 59.01
+    },
+    {
+      "date": "2025-12-18",
+      "close": 59.18
+    },
+    {
+      "date": "2025-12-19",
+      "close": 59.29
+    },
+    {
+      "date": "2025-12-22",
+      "close": 61.18
+    },
+    {
+      "date": "2025-12-23",
+      "close": 61.48
+    },
+    {
+      "date": "2025-12-24",
+      "close": 61.05
+    },
+    {
+      "date": "2025-12-26",
+      "close": 61.31
+    },
+    {
+      "date": "2025-12-29",
+      "close": 58.58
+    },
+    {
+      "date": "2025-12-30",
+      "close": 59.13
+    },
+    {
+      "date": "2025-12-31",
+      "close": 58.46
+    },
+    {
+      "date": "2026-01-02",
+      "close": 58.28
+    },
+    {
+      "date": "2026-01-05",
+      "close": 59.86
+    },
+    {
+      "date": "2026-01-06",
+      "close": 62.03
+    },
+    {
+      "date": "2026-01-07",
+      "close": 61.77
+    },
+    {
+      "date": "2026-01-08",
+      "close": 62.01
+    },
+    {
+      "date": "2026-01-09",
+      "close": 62.76
+    },
+    {
+      "date": "2026-01-12",
+      "close": 64.82
+    },
+    {
+      "date": "2026-01-13",
+      "close": 65.45
+    },
+    {
+      "date": "2026-01-14",
+      "close": 65.72
+    },
+    {
+      "date": "2026-01-15",
+      "close": 65.69
+    },
+    {
+      "date": "2026-01-16",
+      "close": 65.54
+    },
+    {
+      "date": "2026-01-20",
+      "close": 69.47
+    },
+    {
+      "date": "2026-01-21",
+      "close": 68.47
+    },
+    {
+      "date": "2026-01-22",
+      "close": 71.0
+    },
+    {
+      "date": "2026-01-23",
+      "close": 72.39
+    },
+    {
+      "date": "2026-01-26",
+      "close": 73.04
+    },
+    {
+      "date": "2026-01-27",
+      "close": 74.04
+    },
+    {
+      "date": "2026-01-28",
+      "close": 76.2
+    },
+    {
+      "date": "2026-01-29",
+      "close": 72.98
+    },
+    {
+      "date": "2026-01-30",
+      "close": 64.67
+    },
+    {
+      "date": "2026-02-02",
+      "close": 64.65
+    },
+    {
+      "date": "2026-02-03",
+      "close": 67.22
+    },
     {
       "date": "2026-02-04",
       "close": 67.43
@@ -591,30 +1163,30 @@
     "fiftyTwoWeekLow": 40.66,
     "longName": "Fidelity Select Gold",
     "shortName": "Fidelity Select Gold Pt",
-    "chartPreviousClose": 67.43,
+    "chartPreviousClose": 39.87,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1785830400,
         "end": 1785850200,
+        "start": 1785830400,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1785850200,
         "end": 1785873600,
+        "start": 1785850200,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1785873600,
         "end": 1785888000,
+        "start": 1785873600,
         "gmtoffset": -14400
       }
     },
     "dataGranularity": "1d",
-    "range": "6mo",
+    "range": "1y",
     "validRanges": [
       "1mo",
       "3mo",
