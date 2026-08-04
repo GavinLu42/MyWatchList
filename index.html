@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Watchlist</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+<style>
+  :root {
+    --bg: #0B1120;
+    --panel: #121A2B;
+    --panel-alt: #182238;
+    --border: #24314A;
+    --text: #E8ECF3;
+    --muted: #7C8AA5;
+    --up: #34C77B;
+    --down: #E5484D;
+    --accent: #4C8DFF;
+    --font-display: 'Newsreader', Georgia, serif;
+    --font-body: 'IBM Plex Sans', system-ui, sans-serif;
+    --font-mono: 'IBM Plex Mono', 'SF Mono', Consolas, monospace;
+  }
+
+  @import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--font-body);
+    min-height: 100vh;
+  }
+
+  header {
+    padding: 28px 32px 20px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .eyebrow {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    color: var(--accent);
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+
+  h1 {
+    font-family: var(--font-display);
+    font-weight: 500;
+    font-size: 32px;
+    margin: 0;
+    letter-spacing: -0.01em;
+  }
+
+  .subtitle {
+    color: var(--muted);
+    font-size: 13px;
+    margin-top: 6px;
+  }
+
+  /* Ribbon of holdings */
+  .ribbon {
+    display: flex;
+    gap: 10px;
+    overflow-x: auto;
+    padding: 18px 32px;
+    border-bottom: 1px solid var(--border);
+    scrollbar-width: thin;
+  }
+
+  .ribbon-card {
+    flex: 0 0 auto;
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 12px 16px;
+    min-width: 150px;
+    cursor: pointer;
+    transition: border-color 0.15s ease, transform 0.1s ease;
+  }
+
+  .ribbon-card:hover {
+    border-color: var(--accent);
+  }
+
+  .ribbon-card.active {
+    border-color: var(--accent);
+    background: var(--panel-alt);
+    box-shadow: 0 0 0 1px var(--accent) inset;
+  }
+
+  .ribbon-symbol {
+    font-family: var(--font-mono);
+    font-weight: 600;
+    font-size: 13px;
+    letter-spacing: 0.02em;
+  }
+
+  .ribbon-price-row {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin-top: 4px;
+  }
+
+  .ribbon-price {
+    font-family: var(--font-mono);
+    font-size: 15px;
+  }
+
+  .ribbon-change {
+    font-family: var(--font-mono);
+    font-size: 12px;
+  }
+
+  .up { color: var(--up); }
+  .down { color: var(--down); }
+
+  .sparkline {
+    display: block;
+    margin-top: 6px;
+    width: 100%;
+    height: 24px;
+  }
+
+  /* Main content */
+  main {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 380px;
+    gap: 0;
+  }
+
+  @media (max-width: 900px) {
+    main { grid-template-columns: 1fr; }
+  }
+
+  .panel {
+    padding: 28px 32px;
+  }
+
+  .price-panel {
+    border-right: 1px solid var(--border);
+  }
+
+  .price-header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin-bottom: 18px;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .price-header h2 {
+    font-family: var(--font-display);
+    font-weight: 500;
+    font-size: 24px;
+    margin: 0;
+  }
+
+  .price-header .symbol-tag {
+    font-family: var(--font-mono);
+    color: var(--muted);
+    font-size: 13px;
+  }
+
+  .big-price {
+    font-family: var(--font-mono);
+    font-size: 40px;
+    font-weight: 500;
+    margin: 6px 0 2px;
+  }
+
+  .chart-wrap {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 16px;
+    height: 340px;
+  }
+
+  .news-panel h2 {
+    font-family: var(--font-display);
+    font-weight: 500;
+    font-size: 20px;
+    margin: 0 0 4px;
+  }
+
+  .news-panel .subtitle { margin-bottom: 16px; }
+
+  .news-list {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+
+  .news-item {
+    display: block;
+    padding: 12px 14px;
+    border-radius: 8px;
+    text-decoration: none;
+    color: var(--text);
+    border: 1px solid transparent;
+  }
+
+  .news-item:hover {
+    background: var(--panel);
+    border-color: var(--border);
+  }
+
+  .news-title {
+    font-size: 13.5px;
+    line-height: 1.4;
+    margin-bottom: 4px;
+  }
+
+  .news-meta {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--muted);
+  }
+
+  .empty-state {
+    color: var(--muted);
+    font-size: 13px;
+    padding: 24px 0;
+    line-height: 1.6;
+  }
+
+  .empty-state code {
+    font-family: var(--font-mono);
+    background: var(--panel);
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 12px;
+  }
+
+  footer {
+    padding: 18px 32px 32px;
+    color: var(--muted);
+    font-size: 11px;
+    font-family: var(--font-mono);
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="eyebrow">Personal Watchlist</div>
+  <h1>Holdings</h1>
+  <div class="subtitle">News and price history for your tracked funds &amp; tickers.</div>
+</header>
+
+<div class="ribbon" id="ribbon"></div>
+
+<main>
+  <section class="panel price-panel">
+    <div class="price-header">
+      <div>
+        <h2 id="selected-name">—</h2>
+        <div class="symbol-tag" id="selected-symbol"></div>
+      </div>
+      <div style="text-align:right;">
+        <div class="big-price" id="selected-price">—</div>
+        <div id="selected-change" class="ribbon-change"></div>
+      </div>
+    </div>
+    <div class="chart-wrap">
+      <canvas id="priceChart"></canvas>
+    </div>
+  </section>
+
+  <section class="panel news-panel">
+    <h2>Recent news</h2>
+    <div class="subtitle">Newest first · links only</div>
+    <div class="news-list" id="news-list"></div>
+  </section>
+</main>
+
+<footer id="footer-note">Loading…</footer>
+
+<script>
+const state = { tickers: [], data: {}, selected: null, chart: null };
+
+async function loadJSON(path) {
+  const res = await fetch(path, { cache: 'no-store' });
+  if (!res.ok) throw new Error('missing ' + path);
+  return res.json();
+}
+
+function fmtChange(pct) {
+  const sign = pct > 0 ? '+' : '';
+  return `${sign}${pct.toFixed(2)}%`;
+}
+
+function sparklinePath(prices, w, h) {
+  if (!prices.length) return '';
+  const closes = prices.map(p => p.close);
+  const min = Math.min(...closes), max = Math.max(...closes);
+  const range = (max - min) || 1;
+  const step = w / Math.max(closes.length - 1, 1);
+  return closes.map((c, i) => {
+    const x = i * step;
+    const y = h - ((c - min) / range) * h;
+    return `${i === 0 ? 'M' : 'L'}${x.toFixed(1)},${y.toFixed(1)}`;
+  }).join(' ');
+}
+
+function pctChange(prices) {
+  if (prices.length < 2) return 0;
+  const first = prices[0].close, last = prices[prices.length - 1].close;
+  return ((last - first) / first) * 100;
+}
+
+function renderRibbon() {
+  const ribbon = document.getElementById('ribbon');
+  ribbon.innerHTML = '';
+  state.tickers.forEach(t => {
+    const d = state.data[t.symbol];
+    const prices = d?.prices || [];
+    const last = prices[prices.length - 1]?.close;
+    const change = pctChange(prices);
+    const trendClass = change >= 0 ? 'up' : 'down';
+
+    const card = document.createElement('div');
+    card.className = 'ribbon-card' + (state.selected === t.symbol ? ' active' : '');
+    card.onclick = () => selectTicker(t.symbol);
+    card.innerHTML = `
+      <div class="ribbon-symbol">${t.symbol}</div>
+      <div class="ribbon-price-row">
+        <span class="ribbon-price">${last != null ? last.toFixed(2) : '—'}</span>
+        <span class="ribbon-change ${trendClass}">${prices.length ? fmtChange(change) : ''}</span>
+      </div>
+      <svg class="sparkline" viewBox="0 0 140 24" preserveAspectRatio="none">
+        <path d="${sparklinePath(prices, 140, 24)}" fill="none"
+          stroke="${change >= 0 ? 'var(--up)' : 'var(--down)'}" stroke-width="1.5" />
+      </svg>
+    `;
+    ribbon.appendChild(card);
+  });
+}
+
+function renderMain() {
+  const t = state.tickers.find(t => t.symbol === state.selected);
+  const d = state.data[state.selected] || {};
+  const prices = d.prices || [];
+  const news = d.news || [];
+
+  document.getElementById('selected-name').textContent = t?.name || state.selected;
+  document.getElementById('selected-symbol').textContent = state.selected;
+
+  const last = prices[prices.length - 1]?.close;
+  const change = pctChange(prices);
+  document.getElementById('selected-price').textContent = last != null ? last.toFixed(2) : '—';
+  const changeEl = document.getElementById('selected-change');
+  changeEl.textContent = prices.length ? fmtChange(change) + ' (6mo)' : '';
+  changeEl.className = 'ribbon-change ' + (change >= 0 ? 'up' : 'down');
+
+  const ctx = document.getElementById('priceChart');
+  const lineColor = change >= 0 ? '#34C77B' : '#E5484D';
+  if (state.chart) state.chart.destroy();
+  state.chart = new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels: prices.map(p => p.date),
+      datasets: [{
+        data: prices.map(p => p.close),
+        borderColor: lineColor,
+        backgroundColor: lineColor + '22',
+        fill: true,
+        pointRadius: 0,
+        borderWidth: 2,
+        tension: 0.15,
+      }]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { ticks: { color: '#7C8AA5', maxTicksLimit: 6 }, grid: { color: '#24314A' } },
+        y: { ticks: { color: '#7C8AA5' }, grid: { color: '#24314A' } },
+      }
+    }
+  });
+
+  const newsList = document.getElementById('news-list');
+  if (!news.length) {
+    newsList.innerHTML = `<div class="empty-state">No news collected for this ticker yet. It'll appear after the next scheduled update.</div>`;
+  } else {
+    newsList.innerHTML = news.map(n => `
+      <a class="news-item" href="${n.link}" target="_blank" rel="noopener">
+        <div class="news-title">${n.title}</div>
+        <div class="news-meta">${n.source || ''} ${n.pubDate ? '· ' + n.pubDate : ''}</div>
+      </a>
+    `).join('');
+  }
+}
+
+function selectTicker(symbol) {
+  state.selected = symbol;
+  renderRibbon();
+  renderMain();
+}
+
+async function init() {
+  try {
+    state.tickers = await loadJSON('tickers.json');
+  } catch (e) {
+    document.getElementById('footer-note').textContent = 'Could not load tickers.json';
+    return;
+  }
+
+  await Promise.all(state.tickers.map(async t => {
+    try {
+      state.data[t.symbol] = await loadJSON(`data/${t.symbol}.json`);
+    } catch (e) {
+      state.data[t.symbol] = { news: [], prices: [] };
+    }
+  }));
+
+  state.selected = state.tickers[0]?.symbol;
+  renderRibbon();
+  renderMain();
+
+  const updated = state.data[state.selected]?.updated;
+  document.getElementById('footer-note').textContent = updated
+    ? `Last updated ${new Date(updated).toLocaleString()} · data refreshes automatically once a day`
+    : `Waiting for first data sync — run the GitHub Action once to populate data/`;
+}
+
+init();
+</script>
+
+</body>
+</html>
