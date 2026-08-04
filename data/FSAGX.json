@@ -1,0 +1,630 @@
+{
+  "symbol": "FSAGX",
+  "name": "Fidelity Select Gold Portfolio",
+  "updated": "2026-08-04T19:19:23.446381+00:00",
+  "news": [
+    {
+      "title": "Is Fidelity Select Gold Portfolio (FSAGX) a Strong Mutual Fund Pick Right Now? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWG9mZGZhdXJxNlJPNHRwOFkxaG9SVXVmOXRfOHZ6cmtHQkl1YjN5NDVxQVN5b00xcTVIV3ZrOFgxaXJrLTQzR1pvbnRsTmlHMGZhX1dPa1FaYkVXMjdSS1pHS1YtNEE5dGVpQnkwX3BlNE9hcUFpVWYyRTRKMVM3MF9ma3Rfc1hVTWc?oc=5",
+      "pubDate": "Wed, 11 Dec 2024 08:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Fidelity Advisor Gold Fund Class A: (MF: FGDAX) - Zacks Investment Research",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuRDJiOHFHMC1iWjdiMzBEQlNyTXBPOUdSVnQ1Wl9HZGRjb3FvQW92UXRhNjNLQy1GTU95WWZoaHZmOXc3OGxsejREektDNkJQRmQ0eUp5QTVTZ0lKckJhUkMzQVRTR2ZES1BKYk9hbw?oc=5",
+      "pubDate": "Tue, 31 May 2016 13:53:27 GMT",
+      "source": ""
+    },
+    {
+      "title": "Outlook for Gold - Fidelity Investments",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSWZoWVVzYjhVVGNNRjdLcUx3UjdtdG5zZThhRzdwVTBWMGlFSU1hdDFrZ2M5SzVyU0FuOTBjNHFncmNGZVQ5THhQcVR1LU5rUm9yUUwtRzBLTDI5VWZ3cS05MGhKV254Rm9LZ29aX1RwNVY2VFBhamNtQzVXNWZCUkJsbVJOS2oxQmJ3SVkwNjhRZ3Fi?oc=5",
+      "pubDate": "Tue, 11 Nov 2025 08:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Best Gold Mutual Funds to Invest in 2024 to Invest in 2026 - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnN0psdHpRNURsMnVUeE1KeERFV1pwT253U2JEWW9TSGk4NURYeWNDTVZGVERVcWkxMElsN21DUDJ0dUN5N3k4OEUxY042ZjRpOFU1UTJTdzFHaC1oLV8zdlRpTQ?oc=5",
+      "pubDate": "Tue, 10 Dec 2024 08:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "The Best Gold Mutual Funds to Buy Right Now \u2014 And When to Choose An ETF Instead - Kiplinger",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nQmRuZmRUQlRVckEzV0VkaUlWb2d2QVNaQUlhU2JHTjBRVjVPT1djUHBfZEYtSWhoQnhnQTdwSGlzNk9nZFBhSjRBZ0xKeG9abFJabk1kMzRNOXdibnlnZi1YS2ZGMG5wWW5rX195UDF6QW9XTlR3ejBfbw?oc=5",
+      "pubDate": "Thu, 16 Oct 2025 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Top 5 Precious Metals Mutual Funds - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSmJIb3B6WS1qcDlUM2VBSDJZU0k0TlVLZGJRSWdYZ0gwelE3Rm0tSG1ub1F1Vm0yY3QxbS1oTTJtWFZ0em5RdHdOSmtCT0RGTmI0YUtHY25HT0o3VEtPY20yNVhzdWkycnY4ZVpCaTY2S0RCRnBBRjhlSzNMTmlfdkRGUkN1UTl0QlZvaDlTdUgwNWVLT1JLYQ?oc=5",
+      "pubDate": "Sat, 25 Mar 2017 20:27:49 GMT",
+      "source": ""
+    },
+    {
+      "title": "Is Fidelity Select Gold Portfolio (FSAGX) a Strong Mutual Fund Pick Right Now? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWXJhZnRtUlJncmJtMGpvVU5oS0VPdnV2M19BNWl6X0kydGdCWGxRUERxR3dONmVxNlNXTk9XbUEtVW9kN1JPQjB4V2tiaUlGZ2JzSjV2UEhla204eDVLa3pxWjd5VVRrTXlCV18zalh5Ym5acm1VQXFNckg3dXpDMVZ4NUw5OEs0bGc?oc=5",
+      "pubDate": "Mon, 10 Jun 2024 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Is Fidelity Select Gold Portfolio (FSAGX) a Strong Mutual Fund Pick Right Now? - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbjBvekJsWHN1dkpCQ2JuWTVUM1F5LWhoaVVaME0xN19IRHdmbkJfZXNDVHdHc1JnQ2hUVlRzWW5xamRpSkRiREdWNnI5NjNRU3h3cVd3TW1IUUdSZEtvYk14NzQ5NS0xTy1mYzFCQmtGTWVRZE1wa3hZS1R2bjBpLWRtQ1ZvMEJUNzdHT213?oc=5",
+      "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Is Fidelity Select Gold Portfolio (FSAGX) a Strong Mutual Fund Pick Right Now? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMzJzdmY4SEhqSUZSYVBwMFV0RThsZ09pd1ZUVjZGVC1MWURSUUIta3NET3A0ZldiMDYzVkNkdUpqaE1xd1MzUWJ5Ujd6bXRkbkhnN1JjYUZBSWJTZUh1NXNiSzFVaVNtVFhKZWZ3amNMNmEtbzZZNnBsc1lxNTR4SWUxTVZGeEpWYWc?oc=5",
+      "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "FSAGX ETF Profile: Dividends, Returns (NASDAQ:FSAGX) - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pdlFoT1dLXzFtbGQtRFlLajJubGRrZ2FSRXU4elFsOUpfelNtc1plZ3BhX1lidkF2bnV2R1VxV3Q3MGI1V0ppTjlROHo1dTJkWUNpTTloa05aLU1kdG90X05ON20zYkVU?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 18:20:53 GMT",
+      "source": ""
+    },
+    {
+      "title": "FSAGX Stock Fund Price and Chart \u2014 NASDAQ:FSAGX - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xNzVPU01mXzBhVVd3YUZldlFLdkMxaGNIbjU4Vk55YXZQdnZOeVI0YnhFUmM2UHpJUUJkbUpvNEFSUDVHQWh1ZlptNFNQX2o2emdRSVh1RWMwN1lhcUE?oc=5",
+      "pubDate": "Fri, 12 Dec 2025 17:27:28 GMT",
+      "source": ""
+    },
+    {
+      "title": "Gold Funds for a Rebound: VGPMX, FSAGX, TGLDX - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdWdHTUFFbEpBeGVnN2ZKSzg1b2tCVjBpVHVfd3B2Sm1HUkpodGtXSDB2aGxzS2p5Sm9rMngxclh4QnJPbHZJcVZfUGQ2SjNOM0RHc0FDeE16d3hBcG5LUmd3RkdqV3BCaWloWTRRZk1PQ1FxU2pmWnd4b1FUcmY2YU9xaE1WNmlUZ19nZ25jSmpBVzUwd0F2N2c2cXJCNTVlSzJB?oc=5",
+      "pubDate": "Fri, 02 Nov 2018 07:00:00 GMT",
+      "source": ""
+    }
+  ],
+  "prices": [
+    {
+      "date": "2026-02-04",
+      "close": 67.43
+    },
+    {
+      "date": "2026-02-05",
+      "close": 63.3
+    },
+    {
+      "date": "2026-02-06",
+      "close": 66.42
+    },
+    {
+      "date": "2026-02-09",
+      "close": 70.09
+    },
+    {
+      "date": "2026-02-10",
+      "close": 70.72
+    },
+    {
+      "date": "2026-02-11",
+      "close": 72.37
+    },
+    {
+      "date": "2026-02-12",
+      "close": 67.68
+    },
+    {
+      "date": "2026-02-13",
+      "close": 71.38
+    },
+    {
+      "date": "2026-02-17",
+      "close": 69.38
+    },
+    {
+      "date": "2026-02-18",
+      "close": 71.05
+    },
+    {
+      "date": "2026-02-19",
+      "close": 72.12
+    },
+    {
+      "date": "2026-02-20",
+      "close": 72.86
+    },
+    {
+      "date": "2026-02-23",
+      "close": 75.5
+    },
+    {
+      "date": "2026-02-24",
+      "close": 76.37
+    },
+    {
+      "date": "2026-02-25",
+      "close": 76.65
+    },
+    {
+      "date": "2026-02-26",
+      "close": 78.45
+    },
+    {
+      "date": "2026-02-27",
+      "close": 79.83
+    },
+    {
+      "date": "2026-03-02",
+      "close": 79.81
+    },
+    {
+      "date": "2026-03-03",
+      "close": 73.47
+    },
+    {
+      "date": "2026-03-04",
+      "close": 73.7
+    },
+    {
+      "date": "2026-03-05",
+      "close": 70.66
+    },
+    {
+      "date": "2026-03-06",
+      "close": 70.72
+    },
+    {
+      "date": "2026-03-09",
+      "close": 71.1
+    },
+    {
+      "date": "2026-03-10",
+      "close": 72.01
+    },
+    {
+      "date": "2026-03-11",
+      "close": 70.61
+    },
+    {
+      "date": "2026-03-12",
+      "close": 69.24
+    },
+    {
+      "date": "2026-03-13",
+      "close": 65.58
+    },
+    {
+      "date": "2026-03-16",
+      "close": 66.13
+    },
+    {
+      "date": "2026-03-17",
+      "close": 65.62
+    },
+    {
+      "date": "2026-03-18",
+      "close": 61.63
+    },
+    {
+      "date": "2026-03-19",
+      "close": 57.99
+    },
+    {
+      "date": "2026-03-20",
+      "close": 56.0
+    },
+    {
+      "date": "2026-03-23",
+      "close": 57.93
+    },
+    {
+      "date": "2026-03-24",
+      "close": 58.38
+    },
+    {
+      "date": "2026-03-25",
+      "close": 60.04
+    },
+    {
+      "date": "2026-03-26",
+      "close": 57.54
+    },
+    {
+      "date": "2026-03-27",
+      "close": 59.66
+    },
+    {
+      "date": "2026-03-30",
+      "close": 59.52
+    },
+    {
+      "date": "2026-03-31",
+      "close": 63.78
+    },
+    {
+      "date": "2026-04-01",
+      "close": 66.48
+    },
+    {
+      "date": "2026-04-02",
+      "close": 65.93
+    },
+    {
+      "date": "2026-04-06",
+      "close": 65.68
+    },
+    {
+      "date": "2026-04-07",
+      "close": 66.34
+    },
+    {
+      "date": "2026-04-08",
+      "close": 68.32
+    },
+    {
+      "date": "2026-04-09",
+      "close": 68.37
+    },
+    {
+      "date": "2026-04-10",
+      "close": 67.69
+    },
+    {
+      "date": "2026-04-13",
+      "close": 67.48
+    },
+    {
+      "date": "2026-04-14",
+      "close": 68.57
+    },
+    {
+      "date": "2026-04-15",
+      "close": 66.42
+    },
+    {
+      "date": "2026-04-16",
+      "close": 66.25
+    },
+    {
+      "date": "2026-04-17",
+      "close": 68.22
+    },
+    {
+      "date": "2026-04-20",
+      "close": 67.21
+    },
+    {
+      "date": "2026-04-21",
+      "close": 63.05
+    },
+    {
+      "date": "2026-04-22",
+      "close": 64.04
+    },
+    {
+      "date": "2026-04-23",
+      "close": 62.76
+    },
+    {
+      "date": "2026-04-24",
+      "close": 63.81
+    },
+    {
+      "date": "2026-04-27",
+      "close": 62.84
+    },
+    {
+      "date": "2026-04-28",
+      "close": 59.96
+    },
+    {
+      "date": "2026-04-29",
+      "close": 58.38
+    },
+    {
+      "date": "2026-04-30",
+      "close": 59.58
+    },
+    {
+      "date": "2026-05-01",
+      "close": 58.88
+    },
+    {
+      "date": "2026-05-04",
+      "close": 57.92
+    },
+    {
+      "date": "2026-05-05",
+      "close": 57.86
+    },
+    {
+      "date": "2026-05-06",
+      "close": 62.16
+    },
+    {
+      "date": "2026-05-07",
+      "close": 61.54
+    },
+    {
+      "date": "2026-05-08",
+      "close": 63.57
+    },
+    {
+      "date": "2026-05-11",
+      "close": 65.39
+    },
+    {
+      "date": "2026-05-12",
+      "close": 65.46
+    },
+    {
+      "date": "2026-05-13",
+      "close": 64.99
+    },
+    {
+      "date": "2026-05-14",
+      "close": 63.9
+    },
+    {
+      "date": "2026-05-15",
+      "close": 59.36
+    },
+    {
+      "date": "2026-05-18",
+      "close": 59.43
+    },
+    {
+      "date": "2026-05-19",
+      "close": 56.73
+    },
+    {
+      "date": "2026-05-20",
+      "close": 58.22
+    },
+    {
+      "date": "2026-05-21",
+      "close": 58.18
+    },
+    {
+      "date": "2026-05-22",
+      "close": 57.62
+    },
+    {
+      "date": "2026-05-26",
+      "close": 60.0
+    },
+    {
+      "date": "2026-05-27",
+      "close": 58.12
+    },
+    {
+      "date": "2026-05-28",
+      "close": 59.22
+    },
+    {
+      "date": "2026-05-29",
+      "close": 61.18
+    },
+    {
+      "date": "2026-06-01",
+      "close": 59.42
+    },
+    {
+      "date": "2026-06-02",
+      "close": 60.12
+    },
+    {
+      "date": "2026-06-03",
+      "close": 57.99
+    },
+    {
+      "date": "2026-06-04",
+      "close": 58.97
+    },
+    {
+      "date": "2026-06-05",
+      "close": 53.77
+    },
+    {
+      "date": "2026-06-08",
+      "close": 53.84
+    },
+    {
+      "date": "2026-06-09",
+      "close": 52.85
+    },
+    {
+      "date": "2026-06-10",
+      "close": 50.32
+    },
+    {
+      "date": "2026-06-11",
+      "close": 52.92
+    },
+    {
+      "date": "2026-06-12",
+      "close": 54.64
+    },
+    {
+      "date": "2026-06-15",
+      "close": 58.19
+    },
+    {
+      "date": "2026-06-16",
+      "close": 59.59
+    },
+    {
+      "date": "2026-06-17",
+      "close": 57.99
+    },
+    {
+      "date": "2026-06-18",
+      "close": 56.34
+    },
+    {
+      "date": "2026-06-22",
+      "close": 55.86
+    },
+    {
+      "date": "2026-06-23",
+      "close": 53.21
+    },
+    {
+      "date": "2026-06-24",
+      "close": 50.91
+    },
+    {
+      "date": "2026-06-25",
+      "close": 51.68
+    },
+    {
+      "date": "2026-06-26",
+      "close": 52.59
+    },
+    {
+      "date": "2026-06-29",
+      "close": 51.95
+    },
+    {
+      "date": "2026-06-30",
+      "close": 52.04
+    },
+    {
+      "date": "2026-07-01",
+      "close": 51.97
+    },
+    {
+      "date": "2026-07-02",
+      "close": 53.97
+    },
+    {
+      "date": "2026-07-06",
+      "close": 54.15
+    },
+    {
+      "date": "2026-07-07",
+      "close": 52.19
+    },
+    {
+      "date": "2026-07-08",
+      "close": 50.45
+    },
+    {
+      "date": "2026-07-09",
+      "close": 52.16
+    },
+    {
+      "date": "2026-07-10",
+      "close": 51.93
+    },
+    {
+      "date": "2026-07-13",
+      "close": 50.29
+    },
+    {
+      "date": "2026-07-14",
+      "close": 51.17
+    },
+    {
+      "date": "2026-07-15",
+      "close": 50.79
+    },
+    {
+      "date": "2026-07-16",
+      "close": 48.78
+    },
+    {
+      "date": "2026-07-17",
+      "close": 48.62
+    },
+    {
+      "date": "2026-07-20",
+      "close": 48.37
+    },
+    {
+      "date": "2026-07-21",
+      "close": 50.94
+    },
+    {
+      "date": "2026-07-22",
+      "close": 52.73
+    },
+    {
+      "date": "2026-07-23",
+      "close": 51.77
+    },
+    {
+      "date": "2026-07-24",
+      "close": 51.83
+    },
+    {
+      "date": "2026-07-27",
+      "close": 52.15
+    },
+    {
+      "date": "2026-07-28",
+      "close": 51.05
+    },
+    {
+      "date": "2026-07-29",
+      "close": 50.85
+    },
+    {
+      "date": "2026-07-30",
+      "close": 53.05
+    },
+    {
+      "date": "2026-07-31",
+      "close": 51.23
+    },
+    {
+      "date": "2026-08-03",
+      "close": 51.45
+    }
+  ],
+  "meta": {
+    "currency": "USD",
+    "symbol": "FSAGX",
+    "exchangeName": "NAS",
+    "fullExchangeName": "Nasdaq",
+    "instrumentType": "MUTUALFUND",
+    "firstTradeDate": 503591400,
+    "regularMarketTime": 1785845413,
+    "hasPrePostMarketData": false,
+    "gmtoffset": -14400,
+    "timezone": "EDT",
+    "exchangeTimezoneName": "America/New_York",
+    "regularMarketPrice": 51.45,
+    "fiftyTwoWeekHigh": 79.83,
+    "fiftyTwoWeekLow": 40.66,
+    "longName": "Fidelity Select Gold",
+    "shortName": "Fidelity Select Gold Pt",
+    "chartPreviousClose": 67.43,
+    "priceHint": 2,
+    "currentTradingPeriod": {
+      "pre": {
+        "timezone": "EDT",
+        "start": 1785830400,
+        "end": 1785850200,
+        "gmtoffset": -14400
+      },
+      "regular": {
+        "timezone": "EDT",
+        "start": 1785850200,
+        "end": 1785873600,
+        "gmtoffset": -14400
+      },
+      "post": {
+        "timezone": "EDT",
+        "start": 1785873600,
+        "end": 1785888000,
+        "gmtoffset": -14400
+      }
+    },
+    "dataGranularity": "1d",
+    "range": "6mo",
+    "validRanges": [
+      "1mo",
+      "3mo",
+      "6mo",
+      "ytd",
+      "1y",
+      "2y",
+      "5y",
+      "10y",
+      "max"
+    ]
+  }
+}

@@ -1,0 +1,798 @@
+{
+  "symbol": "FXAIX",
+  "name": "Fidelity 500 Index Fund",
+  "updated": "2026-08-04T19:19:21.984031+00:00",
+  "news": [
+    {
+      "title": "FXAIX Vs. VOO ETF: Which Fund Is The Better Investment? July 2026 Edition - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNVNjTUw1R3JoVzktT0NLZk1oUU16QVdLQmFkOFpHRU45VjFFVE5veE14b1dqUHdoel9pMGdtNTAzSndNb09LZ1RUUlBFajJaaFZQU3phVDAyZFRlMlJadW9vWUxEX2hIdFVMNDZXQVU3SjZwT2lVTnl6aV9kMDY0aU85ejZkaFBmMzNN?oc=5",
+      "pubDate": "Wed, 18 Sep 2024 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Best S&P 500 Funds for 2026 - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyM0RYV1daOEUtdGxLU3dCazU1XzJCeTJ6eGo3WlVlZWROUXdsYm1JaFMzZl9RaEt2czZyUWdBQ21HZ2ZITl9tc2JUMFpmWXpzQ2JkZnNNLUVlQUVGWmZSdXhNN0hfaklOR00ySmpCY25MaDQ?oc=5",
+      "pubDate": "Wed, 11 May 2022 06:31:34 GMT",
+      "source": ""
+    },
+    {
+      "title": "FXAIX Stock Price Prediction 2030: Long-Term Outlook and Market Insights - Vocal",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNnRCN0g4U0lrRGJCeW5lUEU2WE9BVDFZWGE0RTFtTk1UOFgtQzU4WHhjYUVSUkZYS1R0MVIxNC1RajRmYVhHM1pZd0p6aGJNZzV3cDYxam0yY1J6RmJYeG80SmpXSzBQRlVjTHJTY1FXZ29rVGZ5RTdxcktQUi1PbF9EX3dwUl9ObHpSMUwtbWhlMm94Tkx6YUd4SkdvdHc?oc=5",
+      "pubDate": "Wed, 07 Jan 2026 13:24:43 GMT",
+      "source": ""
+    },
+    {
+      "title": "Jeff Merkley Net Worth - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2lIaUF6bnFBR2NtNGhoTldTZkJVQkM5RVp3M3lqZjQ2OW5kb3RvbGozYkdTMlY4aVpJcGFWV2E1UWlaWW93RlJVa3dveU5qcUs4M0Z4UzZwZjhGNHhiUTZLWWlIdEhUREhoLUlYdVdJVXJqclhjc21uZGJBQVpha3pjdE80aHZ6V29mdVduNnc?oc=5",
+      "pubDate": "Tue, 25 Jun 2024 17:20:41 GMT",
+      "source": ""
+    },
+    {
+      "title": "FXAIX Stock Fund Price and Chart \u2014 NASDAQ:FXAIX - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ySXpnMkt3c29rV3YzV2t3ZEFBOWNyLXd5WEZqd0dWSU9tS3JoMGtUeEVfZm53aml2RUNXWVd5WE1rSEQ3Q25PRy1KdWRUNGctQ2ZiSmROZmZJZmFEV3c?oc=5",
+      "pubDate": "Tue, 25 Feb 2025 23:02:03 GMT",
+      "source": ""
+    },
+    {
+      "title": "FXAIX Dividend Yield Insights - YCharts",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50NmlON2hBVlZNZDliNm5DZENjVkNPcTFGdC15cnF2dTZJSENkNm8zSXNRWnVCSHRyLW03UFJWX3BnMkRUaFZLNk9aNkNzcV9SQTNGNVpPZDFkYXY1dmJkU1hHc0k4QQ?oc=5",
+      "pubDate": "Tue, 21 Sep 2021 08:24:44 GMT",
+      "source": ""
+    },
+    {
+      "title": "FNILX vs. FXAIX: Which Large-Cap Fidelity Fund Is Best? - The White Coat Investor",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ocHByb0F3SVRNQlRqUTJFcU12MzlCQlRRZWNKU2VVbW9VSlBnRVJaeThGdHVEcmk1QThJMFFCS1V4b2t4R1lTaGl3N05fOF9RVW9aYUhpYXN4d0RKZ1E?oc=5",
+      "pubDate": "Tue, 18 Jul 2023 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "6 Best Fidelity Mutual Funds To Invest In Now: December 2025 Edition - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRnppVEthamlTRHdmZEJJd2hudmtTaVhXblBxa3NncFM5cXdMUW9QTy1jUnk5elNZbnpJU1VadXdUbVRtRzFRczZuS09Gc0hmM3QwSWN3N3Z1TnJldFNOVm9lY3NoSUpNV0ZkRkx3WnF5QmJ4LXZzQXBJWm1JYjM1SDRkWVJ4aEZ5UWExSWhXendBVS1h?oc=5",
+      "pubDate": "Tue, 17 Sep 2024 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "\u2060S&P 500\u2019s most famous fund has a problem no one notices - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONGhyQUhXblJ0SlVyaWRHd1I2ck5BRTE3NlZOMG9sNjkyZWNFNWthb2FhT01NbEVzVzE1YUd2ZFYyMjZCMVpvSUUwSm12d3pMb25nU29sc1Z1b0FVV3h4RVJvOGtwMHBNSVJJdjc3WDlwWnBzR1dqV1plcGpSM1ZBMzRWRGV5c0hkaHN6MWxVRzgxMy1wWXh6UnJn?oc=5",
+      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "What IRA Investments Are Similar To The TSP Funds? - FedSmith.com",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNlBfSmxsYm1PZ1cxZnpWWTZtVm5pN2Q4SmdIZGcwdS1tLTBXOGY4NmpHd05jOGxaY3VOX1M4S3hUUHg4SzVZekVTTExOSko3LXZYLUxjcFhOenlFVTJURThFdmZGZGZxS0dXdmktMUJ4aE9ObEJ0SHBXYnAyQ19EenB6ZmRuVWxGSWc?oc=5",
+      "pubDate": "Tue, 15 Apr 2025 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Why Fidelity 500 Index is a Top Choice for Investors - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTkRQcEhUSW96VmRzcEk2Y21FMWpjX3h0ckFrMzFlcjZUcm9laUs3OFhQMWpIb0ZGM09aMWVPczVSaU1jRHFISHpiNGlESDNRQUphRml6OUxPOTlDNG9QV2U5SDdWaXltSXRBNGxDcGdVb3JyWUFMb1VhRFpQSTc3MGdYVV9PNGc?oc=5",
+      "pubDate": "Tue, 07 Jun 2022 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "FELC: Don't Bother, This Fund Replicates SPY With Higher Fees (NYSEARCA:FELC) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdUI2SnRGb09NWEFIN2dWWHdWNHRrcFpkdU5PaGcwbWFYcDcweUFqVkxzWTZCV0lvaXY4MUZUUnF0M1ZNYk5aRTBaY3dVem9sOGRVYVRFT0dhb1pYTWlNTC1zOXUtMnVTN3plZDdQRHFpc29zclBrV2xnMTBEYVYzX2dsaVMxOWR4UXFuekVHb2hKUXdtVmpCbkRwX18zTWFiR3EweUhR?oc=5",
+      "pubDate": "Tue, 05 May 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Why the Fidelity 500 Index Fund Is the Quiet Giant of American Investing - Financial-News.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMV9qU01xSlpJZDN1RW9OUHNmZkRZeHZvT3kyU0loV1M4MTJGODhOREVGbWkxUk16ZnRFcUliQ0VSd2FsRFhXb211Z1UxVmtIUEpMdEZFeGNsQ3prQkNWOEFBWkI2YkhCWE9NRUhrb3FmMVV0UkNuUWpxZHdrRlJ1Z1FZWVNrNl9DVU1iZzNweER0ZUhxZmlINVJBeGM3aXYyNXR0ZVJ0Ul9UQQ?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 06:42:24 GMT",
+      "source": ""
+    },
+    {
+      "title": "The Absolute Cheapest Way to Buy the S&P 500? FXAIX Might Be It. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUtTSTgzRTZVXzQxdkMtcjVpYVR2OTAySzZMWVhYeHhZZ01LMXZ4NlhHTUZ5UXZDaHp5Qkw5SFNqbmVHV2I2b2lzc1JTRUI3RGJlZk43MUVPbmtXbjdBazhCT0tiampFN0JmQnFnUEFmWGwzTURJZlppTHJQS1Fwb3VIVU1DN1RBV3ZrN3VoQXYyWS1KMGI4?oc=5",
+      "pubDate": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Top Mutual Funds Holding IBM Stock: Vanguard and Fidelity - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVnlYbUVYZm1zQmd4M0hhRThaSVhlSWsyRFN3S0c5ZWQ0QzJDWFNURG0xODJvT1J1dUw3QnhuNHprX3VmUElycExWY09vSzRMSFEzV0VrTE5ZZC1YT0s2V3VoZS1iOGFUcHdaMU9kUDdKMnpaZ2xIVldHdmlqSUV0OXhSTzVsazdKTWVrN3c0NEZ4NmwzY0xlR1BLMzhyeWFOUVE?oc=5",
+      "pubDate": "Thu, 25 Dec 2025 08:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "S&P 500 Fund Showdown: FXAIX vs VOO \u2014 Which Is the Better Bet for 2026? - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yakkyMmZ0SkhHODNPMV9sdzE0ZkI0MzRwTEdUOEtFV05yRnFsZnBRTzEwUzR2VzhmbGo5Wm92TmVPcmRvQjBEWF91OVR1Wm4wNGM5N1hqZkNjaWJkVmFTWA?oc=5",
+      "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Is Fidelity 500 Index Fund (FXAIX) a Strong Mutual Fund Pick Right Now? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb19udGZCdm1JUFBmUzhrQmRFck51TWtNeHlFMGE2eTdPTHhTZ3Rfc0RtM1Bfb29saFlTZy1tdklnbURrRzdiM0g2SUJxa3BvMmcyb0VxRWJIRGFIMkVJTzl3Ul9UQl9NdnIwdko3Mnp1TjdGVDlUVXJkUk9xR1pYaQ?oc=5",
+      "pubDate": "Thu, 20 Jul 2023 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Is Fidelity 500 Index Fund (FXAIX) a Strong Mutual Fund Pick Right Now? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUU5aRlQ4NEFXN1M0bXFDWnpLUm4tQnRqbWdVcnZnNG9RaEZ4dERPZk81dkFMMm80NWVZWWFhRDZRR3JhZnZNSDBfMEFXSkdWd1BNZnhQc3FqRDh1ZHZJcWp4d0llSXV6ZklIQzlxS3ltelcyaHlSd0ZBS3B2a2FmMw?oc=5",
+      "pubDate": "Thu, 19 Jan 2023 08:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "5 Best Fidelity Mutual Funds to Buy Now - Kiplinger",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbnQ2ellhOGFfQndhSE1Zc0VTRmtyRXo4czhMOEVZckhrQUNNOFJqNjdSNUg4aGNJZ3c3WjZpYkhHMjhOdDV6NFByLUpVdjhPdDYtZ2ktTEVmX3RIQ0VpcThlZnZURVFoQkhqUDdfOFFXa2wyOGZKbDJtUE0zUTJzWFN2a2p6bWM1SW5lT2pvTGdkeTQ?oc=5",
+      "pubDate": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "How to Pick an S&P 500 Fund - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYRVdRUmtuRnFOY0xMbXU4c0JwTC1WQzctMk9POG1SUVh0YzZfaFNOU1IyNU5tMGZtaWttb2U3S2V5MzY0bGVWWFBELVBFMXFsa09DOVdTWmJ1ZGRJaXhOVzVNZVBCUk1s?oc=5",
+      "pubDate": "Thu, 12 Mar 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "The 10 Best Fidelity Index Funds to Invest in 2026 - EBC Financial Group",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vZWExMDVuODVtNWdhVUJsWUZtZ3BPamprTFpPczVsNHYxdVpfU0FCTGxvVEo2SElhcUd0M3VpSTRxNU5Oa0hfVG9XQm1RMEdkeHJEemdjUEcybE12bVJGVm5VS2dfQmgwb2xSNU9UU1FXZlgxS1Jj?oc=5",
+      "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "FXAIX: How the Fidelity 500 Index Fund Fits in a Portfolio - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT19zZDJTWFJuU2o3N2pjQUNnQmg4RE5tOGswZDhsLWpDcjI1X2FLSXpMYTJrYm1qUHdwQndVMGNyU0dLbWg0bkV5VVktcV9tVkNlRk9NT2ZrUWpOeTk4Y252OWtrQ3FENi1CS21qb29tRVA3a3FlQjhxVU1sRFVsS05Ta3VFejd5a0J3NUlBOG5YVmFvRmE2ajNR?oc=5",
+      "pubDate": "Thu, 07 May 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "7 Best S&P 500 Index Funds To Buy In 2026 - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSHZIbGtNLVN1YUlZV3BmSVJDWTVHVW9LdFBYMWlROVRTLTU3V3JzYXNxQ0JKdDM4dDBWUEo1YVRWcW0tVTRLbGRpVWZDdy1NaDMzRm9oN2xzV0JEd0FaaTI2Ung2eVpzNktHa0FEMlppcFlUenlfQW9wS25fbGUzeV9jZWwxYU5LazlVNm1Uaw?oc=5",
+      "pubDate": "Thu, 04 Dec 2025 08:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "FXAIX: How the Fidelity 500 Index Fund Fits in a Portfolio - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QaXBYdWdoNTVzZjlwVG9DbXAwR0tPcU5oRGhXakt6dXMzSWIxLUhxYV9zRWxPNVRWdU0xUDl1WHlzbnFOVUJIaVZFM0Fta3NqRUF2enF5VU4zZFIxWVNudHBSUlZVWnpoN3V3ZmhwMExrbkZXV2hTQUQ3NXZHZw?oc=5",
+      "pubDate": "Sun, 31 May 2026 01:03:28 GMT",
+      "source": ""
+    },
+    {
+      "title": "7 Low-Fee Fidelity Mutual Funds - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNTlYREZDbjZFS1hFbEdvTmhMaC1tXzNQWWp1Mzhuam5ndlA5UmJxZ1p4NjBYVFhsZ3k2ejNzYzUxVjBXTG9SSmxxR3BjUXNHQTY2X2szSENYcjlYR1ZkSDBKdy01Q3ByQjNiQUpsNXF6UVVScjdzNFZNWEc5YkprNVJRYy1YcUVKT2dWZ3RUNS1CdXZMNUxBdlZvUDB6Q01pcG1KZFk2NGlJeTRaVkFzNTNwbURnOUJST1dxMFZOTFd5bXdoZHNrZUYycw?oc=5",
+      "pubDate": "Sun, 29 Jun 2025 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "FXAIX vs VOO: Which S&P 500 Fund Should You Buy in 2026? - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdW4tQzUzX25RTG1iVV9kNEtXNzRqY0FKblExU0gzV3hXbS04cng4NE1GeklaSFNoVlhhZDR4Sy1YQVJONmdBMi12d0RyallwYktGSURDYlVmTFZSd3hXUW4zeFlwbzhRR0lDZm9iY0pxYmxLNi1Ra1VveFZjQWg2SkpJZkt3a1VCdF9r?oc=5",
+      "pubDate": "Sun, 26 Apr 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "3 Ways to Make $1 Billion\u2014One You Might Be Able to Do in Your Lifetime - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLWRFN1hyZ0xXVmtJT1FKdUkwVFRPUkxTbi03YWpFd3U4TGFGWVpTUWJtaW4tN3YwRk5QakNXWkY4b2x5UElpWld5WnFjbTZDbkJTcGllcGhnQ0otMWVLa2pTUkhyVFhLQjFMXzJtZXVzcHp2aGNRUkV1QlRuVVNWNXJoY25EY0R6NjRWcVoyOUhXSE0xZmZSVXI0Nm43Wk55bzRlRExrNmtyUQ?oc=5",
+      "pubDate": "Sun, 23 Mar 2025 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "5 S&P 500 ETFs to watch: Vanguard S&P 500 ETF, SPY, IVV, FXAIX, SWPPX - Markets.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaHhXSjV6OXhuVFk4dUtKTUM3V3UwS3N3VDhLNFZ4aXplWFk4dGplUm5OVkRpbTlCUENoSFhEMnY2aXk4S2pTVGRCR0xSODBENld1bklKYUZOVVh6ZmtRd0w3SHpvQThpTUliVXk3djFwM2NubGNYY0ZwUzlVY011WXpaLXl3ZU5LTDVIQ0REbzEwc1FGUU9BNzBXbjZXbEtFLXB0RlNKTlVuQQ?oc=5",
+      "pubDate": "Sun, 23 Mar 2025 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "FXAIX, SWPPX: 2 S&P 500 Index Funds with More Room for Upside, According to Analysts - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV1o1SlI4bjQyME9oVkQxeW9MOVQ1dHR6Z3FuTi1iYWV4NUZ0Q1NJXzJGNDQzOUVpUTEtYjZ1QnNCSGZJeXpJVGpkSjlvT29YV2I2bXZ4NmZxUVRiWHc1VDVYWWdMWTEwWUtPa0dJcEV5U0ZMMjZtOHc2VlFfOG9UY2JGRk4yY0pZTXFnRF94MzY5VFFGNkRlbjJ4QVJXWUgyYzdaNVVVdThEVk9NNkYw?oc=5",
+      "pubDate": "Sun, 12 May 2024 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "FXAIX Interactive Stock Chart | Fidelity 500 Index Fund Stock - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjcjd2RktRZ1RWTDd6dzdoUlk5bzI2ejdUbzlFYkt2eF90STJzeTZVN2luNzBHaEg5VXBEVTFEYndoY2ZTSTlzUUIwNFktUlk?oc=5",
+      "pubDate": "Sun, 07 May 2017 13:45:19 GMT",
+      "source": ""
+    },
+    {
+      "title": "The 7 Best Fidelity Funds for Retirees - InvestorPlace",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aUXM0TF9NNVZ4c3VIWnpiaDNJeW85LVktS2NsVlN4NFZLNHR4OVBqTzNud0hDUDVMNTRwX05XMjQtTEwyQ0F4UE1FdENPU1lFME1TTjZWb1pPTTNQMkJEWWh0Rk9NQkdpQ1VR?oc=5",
+      "pubDate": "Sun, 07 Aug 2022 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "3 Fidelity Funds Rated 5 Stars by Morningstar - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbjBJZUdvZlhXV0oyVkZNdVdFQzF3eTFGNzhyRVZhYnhuUF9pZG41TV93ZndpSmNkNlk1RGo1MkpuY01UcVBkRTJiWGF0NGpQbFVsbGlKdUV6LVlIUFNVTDJPSUgyX1lfS203S2ZPZnRrblhxZ3lqeFFyMzJaMi1oZDVsbGo2T2ppNHlneEF0RjZfSHpMZ2c4dXVTUGhfcWZwci1B?oc=5",
+      "pubDate": "Sat, 25 Mar 2017 23:14:06 GMT",
+      "source": ""
+    },
+    {
+      "title": "Top 4 Mutual Fund Holders of Verizon (VZ) Shares in 2021 - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZmZrSzZBczVLSXRUeTlBZUJrbDR2c2JnV2pIV01MR1VqdXVhdXBfWTlfcmduSlA2cW5pMVdPMWYzVy10Y2g2MlVXdzF6OVlXaGt0Ukg5UVVNOEdQdzJzaE1QaldCdnN6TFhTLXctSThpa00xbUQ2Q2JxZExoUDVoS0hZQk5QOWU0Nm1XUTRiN2FXeXFBUG4tS1l0RDFMM0JOOVFZ?oc=5",
+      "pubDate": "Sat, 25 Mar 2017 21:35:19 GMT",
+      "source": ""
+    },
+    {
+      "title": "VOO vs. FXAIX: Which Should You Buy? - 247wallst.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNkhOeklsNmhPdUNlY3hVYkFFTzcxY1NaWTB1MFZJMUZ4TzdtY0ZJRkd5Q1RhcFFTQmxQdzFYaEFSUHA5MzMtdEN5Y1hMbTJnTEZuY1V6ZTRHeXF2VllBNmZLa0lqV0NDSy1aX2g2NG81MUVTM0NQZ2FuNTBCNFdETEJkVQ?oc=5",
+      "pubDate": "Mon, 30 Sep 2024 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Top 4 Mutual Fund Holders of Morgan Stanley - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWGVQVV9heHp1bTk0NXctX2NQVUZwQTVGcHNmeThvQk1fN0lQNTF6bkRWaUdlRml5ZTVkLTJoREsyZ1JLNDZ6TDFvRkNGei1xc3pEUGh1bEdUajNKSHEyNHhGVUtsQld1TmtzU2RsRWRWaFRTclp0SEJxeGt2Wmw2YmZ6emkzUFo0NUVya2NCNmNNVkotM2NuakswNV9tYmhaX3VsQ1dVWEpFMkNr?oc=5",
+      "pubDate": "Mon, 29 Jul 2024 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "7 Best Fidelity Mutual Funds to Buy and Hold - U.S. News - Money",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTHFMbVpRMVNmM1JnQzcyMVRmY0FKMTZfbHhkbkM2Q29jUXB3SG5mM0VwUV9BQTdvdXdnZW1WWkhaTE9aVE5kWEJSUDJxM0QzOVZ5UTZxUDdqclZOLWI4UDhyMTc3S05fdjFaeWNNaWZyVWxQd19nMG80dXVpdDMweFBRS3FyZGtFY2hyM3dJNA?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 19:35:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "FXAIX vs VOO: Is Fidelity or Vanguard Better for S&P 500 Exposure? - EBC Financial Group",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdTNsNl85anBadUpvNXpPZV93NERXNnN6UXNaNjFqallxdkFUSUVCYXV1SnFIeVdJdmxkYmhxVGJGWlBWREh4LUJWcGkwVmp1UmZkSjhzcXc0b0FxMEFMT3lWZTZ0N2lqdG14QnZ0OXhrRHBlUFBTdHB0TVlHUFVndGp5ZkZ5UXhwSTBIdndDTm9lbFRnbnZLT0o2dEg5YkE?oc=5",
+      "pubDate": "Mon, 24 Nov 2025 08:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Fidelity 500 Index Fund Stock Forecast 2027\u20132033 - meyka.com",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fd21XeUQyY1JQRDd5LTU1RmZDb092SjZUWmVGNUFVVkwwQml6ZFdqcFFwMmxZSVFPeVZrVUZOZ0VWNHhNeFJ1ajczODdhM2l5ekRtdg?oc=5",
+      "pubDate": "Mon, 20 Oct 2025 00:27:48 GMT",
+      "source": ""
+    },
+    {
+      "title": "5 Best S&P 500 Index Funds to Buy Now - U.S. News - Money",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRmpDaFRFMk9pZ1FYcmEtMnVMa28telA4Q1FTQ1IzWWhtV01NLWc0OWhpdGcyT1NiWm1XZUEtLThsdFVLT0NTMkVBQ2R1aWpqT09BN3NQLXFOV2lZcktZX1VmbGVJSl9YOTN2aXBrZmNaeF94a2hDRjZPTFlrRURSZw?oc=5",
+      "pubDate": "Mon, 18 Nov 2024 21:06:13 GMT",
+      "source": ""
+    },
+    {
+      "title": "3 Best S&P 500 Index Funds To Buy In 2025: December Edition - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Wc0FQQUFUTkh4c1dMcmdQeFpVU3VNUGRPNnRBVUZQcEJIRUE2QjVRRnpEYW5oaDNiU0lldjlXbVNiRW1taGY1SFNGM2g4aUZXNmV3b0RIaTZVLW9Hd05RYmM5X2pudnBRQTBzaDdGQXh5a1F5XzA3dzBIakZNZw?oc=5",
+      "pubDate": "Mon, 16 Dec 2024 08:00:00 GMT",
+      "source": ""
+    }
+  ],
+  "prices": [
+    {
+      "date": "2026-02-04",
+      "close": 239.22
+    },
+    {
+      "date": "2026-02-05",
+      "close": 236.29
+    },
+    {
+      "date": "2026-02-06",
+      "close": 240.95
+    },
+    {
+      "date": "2026-02-09",
+      "close": 242.11
+    },
+    {
+      "date": "2026-02-10",
+      "close": 241.32
+    },
+    {
+      "date": "2026-02-11",
+      "close": 241.32
+    },
+    {
+      "date": "2026-02-12",
+      "close": 237.56
+    },
+    {
+      "date": "2026-02-13",
+      "close": 237.71
+    },
+    {
+      "date": "2026-02-17",
+      "close": 237.99
+    },
+    {
+      "date": "2026-02-18",
+      "close": 239.32
+    },
+    {
+      "date": "2026-02-19",
+      "close": 238.68
+    },
+    {
+      "date": "2026-02-20",
+      "close": 240.34
+    },
+    {
+      "date": "2026-02-23",
+      "close": 237.85
+    },
+    {
+      "date": "2026-02-24",
+      "close": 239.69
+    },
+    {
+      "date": "2026-02-25",
+      "close": 241.64
+    },
+    {
+      "date": "2026-02-26",
+      "close": 240.35
+    },
+    {
+      "date": "2026-02-27",
+      "close": 239.33
+    },
+    {
+      "date": "2026-03-02",
+      "close": 239.44
+    },
+    {
+      "date": "2026-03-03",
+      "close": 237.19
+    },
+    {
+      "date": "2026-03-04",
+      "close": 239.03
+    },
+    {
+      "date": "2026-03-05",
+      "close": 237.69
+    },
+    {
+      "date": "2026-03-06",
+      "close": 234.57
+    },
+    {
+      "date": "2026-03-09",
+      "close": 236.54
+    },
+    {
+      "date": "2026-03-10",
+      "close": 236.06
+    },
+    {
+      "date": "2026-03-11",
+      "close": 235.87
+    },
+    {
+      "date": "2026-03-12",
+      "close": 232.29
+    },
+    {
+      "date": "2026-03-13",
+      "close": 230.91
+    },
+    {
+      "date": "2026-03-16",
+      "close": 233.28
+    },
+    {
+      "date": "2026-03-17",
+      "close": 233.87
+    },
+    {
+      "date": "2026-03-18",
+      "close": 230.68
+    },
+    {
+      "date": "2026-03-19",
+      "close": 230.06
+    },
+    {
+      "date": "2026-03-20",
+      "close": 226.59
+    },
+    {
+      "date": "2026-03-23",
+      "close": 229.19
+    },
+    {
+      "date": "2026-03-24",
+      "close": 228.34
+    },
+    {
+      "date": "2026-03-25",
+      "close": 229.58
+    },
+    {
+      "date": "2026-03-26",
+      "close": 225.59
+    },
+    {
+      "date": "2026-03-27",
+      "close": 221.82
+    },
+    {
+      "date": "2026-03-30",
+      "close": 220.95
+    },
+    {
+      "date": "2026-03-31",
+      "close": 227.41
+    },
+    {
+      "date": "2026-04-01",
+      "close": 229.04
+    },
+    {
+      "date": "2026-04-02",
+      "close": 229.32
+    },
+    {
+      "date": "2026-04-06",
+      "close": 230.35
+    },
+    {
+      "date": "2026-04-07",
+      "close": 230.53
+    },
+    {
+      "date": "2026-04-08",
+      "close": 236.31
+    },
+    {
+      "date": "2026-04-09",
+      "close": 237.78
+    },
+    {
+      "date": "2026-04-10",
+      "close": 236.87
+    },
+    {
+      "date": "2026-04-13",
+      "close": 239.28
+    },
+    {
+      "date": "2026-04-14",
+      "close": 242.1
+    },
+    {
+      "date": "2026-04-15",
+      "close": 244.05
+    },
+    {
+      "date": "2026-04-16",
+      "close": 244.69
+    },
+    {
+      "date": "2026-04-17",
+      "close": 247.64
+    },
+    {
+      "date": "2026-04-20",
+      "close": 247.06
+    },
+    {
+      "date": "2026-04-21",
+      "close": 245.49
+    },
+    {
+      "date": "2026-04-22",
+      "close": 248.06
+    },
+    {
+      "date": "2026-04-23",
+      "close": 247.04
+    },
+    {
+      "date": "2026-04-24",
+      "close": 249.02
+    },
+    {
+      "date": "2026-04-27",
+      "close": 249.33
+    },
+    {
+      "date": "2026-04-28",
+      "close": 248.11
+    },
+    {
+      "date": "2026-04-29",
+      "close": 248.01
+    },
+    {
+      "date": "2026-04-30",
+      "close": 250.56
+    },
+    {
+      "date": "2026-05-01",
+      "close": 251.3
+    },
+    {
+      "date": "2026-05-04",
+      "close": 250.29
+    },
+    {
+      "date": "2026-05-05",
+      "close": 252.33
+    },
+    {
+      "date": "2026-05-06",
+      "close": 256.01
+    },
+    {
+      "date": "2026-05-07",
+      "close": 255.04
+    },
+    {
+      "date": "2026-05-08",
+      "close": 257.23
+    },
+    {
+      "date": "2026-05-11",
+      "close": 257.73
+    },
+    {
+      "date": "2026-05-12",
+      "close": 257.33
+    },
+    {
+      "date": "2026-05-13",
+      "close": 258.84
+    },
+    {
+      "date": "2026-05-14",
+      "close": 260.83
+    },
+    {
+      "date": "2026-05-15",
+      "close": 257.65
+    },
+    {
+      "date": "2026-05-18",
+      "close": 257.48
+    },
+    {
+      "date": "2026-05-19",
+      "close": 255.78
+    },
+    {
+      "date": "2026-05-20",
+      "close": 258.54
+    },
+    {
+      "date": "2026-05-21",
+      "close": 259.02
+    },
+    {
+      "date": "2026-05-22",
+      "close": 260.0
+    },
+    {
+      "date": "2026-05-26",
+      "close": 261.6
+    },
+    {
+      "date": "2026-05-27",
+      "close": 261.65
+    },
+    {
+      "date": "2026-05-28",
+      "close": 263.16
+    },
+    {
+      "date": "2026-05-29",
+      "close": 263.74
+    },
+    {
+      "date": "2026-06-01",
+      "close": 264.46
+    },
+    {
+      "date": "2026-06-02",
+      "close": 264.8
+    },
+    {
+      "date": "2026-06-03",
+      "close": 262.86
+    },
+    {
+      "date": "2026-06-04",
+      "close": 263.97
+    },
+    {
+      "date": "2026-06-05",
+      "close": 257.02
+    },
+    {
+      "date": "2026-06-08",
+      "close": 257.8
+    },
+    {
+      "date": "2026-06-09",
+      "close": 257.15
+    },
+    {
+      "date": "2026-06-10",
+      "close": 252.98
+    },
+    {
+      "date": "2026-06-11",
+      "close": 257.42
+    },
+    {
+      "date": "2026-06-12",
+      "close": 258.73
+    },
+    {
+      "date": "2026-06-15",
+      "close": 263.06
+    },
+    {
+      "date": "2026-06-16",
+      "close": 261.58
+    },
+    {
+      "date": "2026-06-17",
+      "close": 258.4
+    },
+    {
+      "date": "2026-06-18",
+      "close": 261.21
+    },
+    {
+      "date": "2026-06-22",
+      "close": 260.25
+    },
+    {
+      "date": "2026-06-23",
+      "close": 256.52
+    },
+    {
+      "date": "2026-06-24",
+      "close": 256.27
+    },
+    {
+      "date": "2026-06-25",
+      "close": 256.25
+    },
+    {
+      "date": "2026-06-26",
+      "close": 256.14
+    },
+    {
+      "date": "2026-06-29",
+      "close": 259.15
+    },
+    {
+      "date": "2026-06-30",
+      "close": 261.23
+    },
+    {
+      "date": "2026-07-01",
+      "close": 260.67
+    },
+    {
+      "date": "2026-07-02",
+      "close": 260.68
+    },
+    {
+      "date": "2026-07-06",
+      "close": 262.6
+    },
+    {
+      "date": "2026-07-07",
+      "close": 261.43
+    },
+    {
+      "date": "2026-07-08",
+      "close": 260.69
+    },
+    {
+      "date": "2026-07-09",
+      "close": 262.83
+    },
+    {
+      "date": "2026-07-10",
+      "close": 263.26
+    },
+    {
+      "date": "2026-07-13",
+      "close": 261.18
+    },
+    {
+      "date": "2026-07-14",
+      "close": 262.16
+    },
+    {
+      "date": "2026-07-15",
+      "close": 263.18
+    },
+    {
+      "date": "2026-07-16",
+      "close": 261.83
+    },
+    {
+      "date": "2026-07-17",
+      "close": 259.19
+    },
+    {
+      "date": "2026-07-20",
+      "close": 258.7
+    },
+    {
+      "date": "2026-07-21",
+      "close": 260.99
+    },
+    {
+      "date": "2026-07-22",
+      "close": 260.64
+    },
+    {
+      "date": "2026-07-23",
+      "close": 257.49
+    },
+    {
+      "date": "2026-07-24",
+      "close": 257.65
+    },
+    {
+      "date": "2026-07-27",
+      "close": 257.69
+    },
+    {
+      "date": "2026-07-28",
+      "close": 258.23
+    },
+    {
+      "date": "2026-07-29",
+      "close": 254.32
+    },
+    {
+      "date": "2026-07-30",
+      "close": 258.54
+    },
+    {
+      "date": "2026-07-31",
+      "close": 260.37
+    },
+    {
+      "date": "2026-08-03",
+      "close": 264.23
+    }
+  ],
+  "meta": {
+    "currency": "USD",
+    "symbol": "FXAIX",
+    "exchangeName": "NAS",
+    "fullExchangeName": "Nasdaq",
+    "instrumentType": "MUTUALFUND",
+    "firstTradeDate": 1304515800,
+    "regularMarketTime": 1785845413,
+    "hasPrePostMarketData": false,
+    "gmtoffset": -14400,
+    "timezone": "EDT",
+    "exchangeTimezoneName": "America/New_York",
+    "regularMarketPrice": 264.23,
+    "fiftyTwoWeekHigh": 264.8,
+    "fiftyTwoWeekLow": 218.92,
+    "longName": "Fidelity 500 Index",
+    "shortName": "Fidelity 500 Index Fund",
+    "chartPreviousClose": 239.22,
+    "priceHint": 2,
+    "currentTradingPeriod": {
+      "pre": {
+        "timezone": "EDT",
+        "start": 1785830400,
+        "end": 1785850200,
+        "gmtoffset": -14400
+      },
+      "regular": {
+        "timezone": "EDT",
+        "start": 1785850200,
+        "end": 1785873600,
+        "gmtoffset": -14400
+      },
+      "post": {
+        "timezone": "EDT",
+        "start": 1785873600,
+        "end": 1785888000,
+        "gmtoffset": -14400
+      }
+    },
+    "dataGranularity": "1d",
+    "range": "6mo",
+    "validRanges": [
+      "1mo",
+      "3mo",
+      "6mo",
+      "ytd",
+      "1y",
+      "2y",
+      "5y",
+      "10y",
+      "max"
+    ]
+  }
+}

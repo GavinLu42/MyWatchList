@@ -1,0 +1,807 @@
+{
+  "symbol": "SMH",
+  "name": "VanEck Semiconductor ETF",
+  "updated": "2026-08-04T19:19:24.999495+00:00",
+  "news": [
+    {
+      "title": "Inside SMH: The Few Stocks Driving Your Semiconductor Returns - trefis.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOckQzX1JobTJxX1h4ZkZhRWxOWHFDZS04NWFmZnpmQjRuV09qUVVGVE5Demg1RkdoVzd3cjQ2ZUFudFVvM2Z0WmNzWXhtdnBteFBwdUE0ZnY4R0piVjM4c2hrWlJIRUJ6TzBXeG9NZmZiTENuQ2djV2xmTWhfM2cwMUozbDFFdDR5N3RBS1Fvc1IzVUk1WUJEcWNwcFppX1pxRE84Sl9GOGppM09vdVlXMzg0eERLTnRSS2pZNw?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Nvidia\u2019s Upbeat Forecast Lifts SMH\u2019s Earnings Outlook - trefis.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMGFVbjVxWTNyTExlUW1sWldWWThwcTQ2Q2NzVnQ0VGZjOExqZ29FX1IxRVRoYjJoQlhzYmVEWXEwWUJvNFFIOTJ2T3FfWmM4U1BYd1NLTHRjNGVLN1duUW90aHl1VVNrVXYxX2xfbU9MRm4xRFo0Zjd6SmxNX0FZVGk3clF1RXQwbmRIbU5Za0F4Vnk2dm5UMW0yNE04X29XaUE4SnhpcWNQUmxoXzR0UQ?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "TSMC Q2 Earnings Call: What It Means for SMH - VanEck",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS0dXY3pPZkJsbFlvRVdJNUYtTTdDLWJ4Z3U1NUhPYU50UHEtbEZkdktXOE5jZU94emd6TVhpTzlGN3R4Mmt1b2FvbjBzMS1KRWtTa3dhbnRDYUYyc1E4WlBmU25pRmZmWDZfclowRkhyd0ZTQVlqQWxuOGZnY0xHT2cxaTBRMFB2VkRpZkgyN0VHR2YxaGRmMlg1NWFZckk?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "The Semiconductor Industry: 3 Ways To Invest With Semiconductor ETFs - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcElzWEVNUldrTEpsUHVqYUNjc0preHp6MUsyOTBtYnZ1RmpkQXFlQThIMHV1dWpfQzk0OVJZSmtURERVMFc2dkNXUTREUE03RGdIUVg5VTNLc2phOWdoV002WkVzcERESmxuYmlNZ1A0N19vRUoyNmZMVGVjclpQYkxxajc2X1dHV19ULVdEbC1hRFZObWMyS0VDdVkyeWFtZ1RacUg0aw?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Fears of an AI Bubble Are Growing. Should SMH Investors Be Worried? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbUJqODRzOVdvWWVzWGVFa2VLSHNZOXlwZmFxN1ljR2pnSVZfTkw0UkRuQmtLbG53TnNfUUlVU3dwelFGQnJLTllqRFZpNDJ1MzZfckdkbnN1TWVFbEI0QnpYZDhVaHdrQkpsTDIySGtoeU5WRXFueVB1bU81cm9FU2R2RjVraUNfTjBqZXpGcEdHWXloQTBz?oc=5",
+      "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Bank of America Says Long Semiconductors is the \"Most Crowded Trade Ever\" - 247wallst.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMTQ0M1p2el8xakp3NF9aSU5tYl8tNktGOGZPVDRMTVlfT3BXRVQ3dEFad2hNR0c1cjBIMzJuZnI4NGJMdW83SGp5RkhPM3hPXzVodTJBTUhUY29wNkwxSG9SRXhNaFJOSGw4YlZOcW9nYmdFYmY2M0xBRnpNZXNWcGNFVXNrTWtwOHlwM1I2aWQtZWZpWWFsU0NjSnl0SkZ1Vm85LXRTb21BRmxtemsySHpVdHRLdw?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "SMH Returned Over 120% in One Year. Is the VanEck Semiconductor ETF Still a Buy? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM3Rld0cxQi1XSHFKbm9kTnA2NUJ6Qkx4YnZZTEcwWDVCSUV5UlRnV1drdXZ2X050YzZndmllWHdqSnFUYlBJbGpXaEM3ZHJaS3JSTkpNMUFoYlBQQXIzSnV5MWQtQTRwX0xJWE0xb1VoZHgwajFwUUctNjJ2ZzRldmFORmRILWlIaVBEYUpzOWc3anFLTHc?oc=5",
+      "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "SMH vs. SOXX: Which Semiconductor ETF Is the Smarter Chip Bet? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZjFGaEROUGNpaFh4QlMzSFFscmF3UEpqdldmaDlxRFJoajRfT0xkVGhMN1U2dVloZDViWm5ZNGVoZHV1dFZvV1hJdTJ5NWZFWXptQmUwYjJiNnJpOGJRX2hpeHk5MEhqcFBDUlE5RndDN3NfTW11a2RIOWJ3NmM4YkU1dlkyVXVJdWJoUHA2MFpCN1VaNWx1S2Jn?oc=5",
+      "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Here's Why the VanEck Semiconductor ETF Soared in May And Is a Great Way to Play AI Spending - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU2s4TG9aYmVzY3ZrR3FvMU9DWV9rUTFtNXotWmlkbl85YmQtckdBeG1jTFpBUmh4bUVkZ1hxSU9UbmVxOGlLYlpmaGZQOURWVTBRUjlTY0ZscGZZNHYyd1VQNFNaSXRNNm9XTWFMT1RabEZmMWl4WkF6RzhVUGFfakpGZVZPSzMzaVZDS3FqRVRTcl9ValA2cXdfWVpSVGRxa0lfM1h3?oc=5",
+      "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Now Could Be the Time to Buy These 2 ETFS - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZGJPcFIzeEdzcUpZTElnb1Q3UjdzUDN0QW9GYXI0ckU4cm9UOWUxQ0JKcVd4bHU2cmd2cWF0Nmd5S2Q4TTQ5c0Z3SU45cnhRazk1S0RBSU04V0VfSWYtSHg1X3h3R1oxTFZ0Y3ZXWlRCZEEyUjM0QnFBejljZTNfQkxrYl9yR280aUJkMGtR?oc=5",
+      "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "$VanEck Semiconductor ETF (SMH.US)$ - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd0ZhbHc2Zm4zUFZsOXBDRnhJU1FsWFgxeHZscHBUOVZjcDQxa1BpMVk0MkgyVEdZUlozdF93R0R0b0taYzVhTHpubnY1ZlV1emhRNlFweEgxWFZQM3Via2hOUzJlV0VhaVBIdV9ab0l2Sy02UU9tX0kwMURSZWdNM3BtZVNiSmlVQ2tVczhR?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "VanEck Semiconductor ETF (Derivatives) Price Today | Live SMH Price, Chart & Market Data - Binance",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sZ0Vyd2NoaE5yRnY2WnJoeFZheDgzb1ZFdkxldGUxbFRLV0ZpcVlhdjA0alZKU25JSEV2VG93Znd0MmhBcDNZVVpwczdXc0MzaEt2SjVEeWhNQklUZFlsY0lRVkY3SS1ZSkZDdmt4SFU2Ui1Ha3Vkdg?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 17:07:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "SMH: Semiconductor Stocks May Continue To Melt Lower - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcVVCTWFFdGpMN2lsbmJGV1F2MWNfZ0R4WEEzUDhseFhjQnVBZXhzMDNVNjZKbjNVOGtibXRpTTVpV3pTRXh4T0lseHBfdVZQZ3NPVnM5ME1ZdHQweG43OTFTclFhdS1tekQ2aWVQcUxlek1PZlVRVTVnMHU5YW95MkZGUERxUzBwMkx2amRwLVRKT25WTXpr?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 14:32:01 GMT",
+      "source": ""
+    },
+    {
+      "title": "This Chip ETF Just Pulled Off a Historic 2026 While Nvidia Stumbled - 247wallst.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUFNNUNFcFMteUlab29sbG45eklzdkxhMV9nNmNfb25RZDNyOWR2OFBJNUdfQU5ab0R4T2tFVzExTVBub196S3NaRlBOdktSeEVQY0IyOERKSjhnbmUxcmpRVk5KTXpKWV92T1NtcU13UmdIMlFjZUdKSGhHXzRYSVZZMEJWWS01bDJHWGxwNVF3ajE2WUg0b0JrU1VYZXltM1pwRWxBMHBYZ0hxb2lVYnk4ZldiUQ?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 14:15:44 GMT",
+      "source": ""
+    },
+    {
+      "title": "After a 1,930% Decade, Should You Chase SMH or Rotate into SCHD? - NAI500",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWEM5dEQzNlpDeHZDQ1J5Q3JSVXktZGp0VHpsSHdqSFJOY2ZlZ3l0aUhhUEpNRUhlQVBKYmdHb2ZOa2VXOTJjU1NVYUVhMm1WWXBhWVdPU1JlS2FQcnZzeWU4QkZ1NGVzcWNSaHBxSkt2ZERwTlZSNTIwYXJGQ1Vrd1lQSGJ1WUVZd3BmZWRydHc4d3QwT1laOA?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 13:03:05 GMT",
+      "source": ""
+    },
+    {
+      "title": "If You'd Invested $1,000 in SMH 10 Years Ago, Here's How Much You'd Have Today - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOHhkOTlnbXBSMHR4OHRPVWJoYTF2b2hrOTdsWGFlS0VHMW1iYnVoYjhYb3hOTlZYWkZHYTIyYzFtcUJWb3QyZlc2ZDNGRUVnd0hXSExHTWFhMnktM2MzMXpuQndteHNjN0kzVDkwVml1OC03NHlWbGVEem1GazNiMk1PYW9wVDB5OXRWTW02V18tQVliVUxqc1ZzT1REVzMyeTJtM2xfVHNCc0hVZFg4WVpTaU1pYUgtUE5LVUtsVWhvVk1xOTlzSmhBRUlZYnRqbGVMZERnX2p0a3VnWTREclZIclIxWjN0VTJkMg?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 12:20:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "VanEck Semiconductor ETF Cert Deposito Arg Repr 0.02 Revenue Breakdown \u2013 BCBA:SMH - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UbGJaYnJxOFF3SHJnV1VyMlpmU2dONFRwaVBkN2FZZUVVYnp3RHNUbzY3cW42ek1iYS11X0tFWTc1TmsxQXRZWFRLcHJSV256VHFBWDUyYzNMUEtNWm96cjM1RlBQWGhPVk1qckYwLVZlVUU?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 09:27:43 GMT",
+      "source": ""
+    },
+    {
+      "title": "Investing in Semiconductor ETFs & Stocks - VanEck",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNUdGR0hTV0VRQmNuVllqRjBzNUV3QmtVd1BrRXFWcGtiZ2xsbFN2LVhrTFNySTV4aHgyc0pSeGdNc3VGcnpMMl9RSzliajJmX3lCVmF5TDUzczFnVXBzXzgzVC1STlZ4aVVyNUluR0p5ZkdTNjJKZUk2dlR2S2pobFRySjlyc2tvN0JKRjVZQW1QcGZlamFPWlpneGxxVEh0UkYtRTVvQnotdw?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "lets panick $VanEck Semiconductor ETF (SMH.US)$ - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNmh3SjdYdnZfWFdZWEN6LU9xdmt5VGNvWUZoZ3Q3UEVpd212cHpKdDdiSkxsSlI4Z0w5bHdOX3p1b1dYUDVrVkloWmpyTlB2UWt1RGlqeVNoeTdJbXZ4R08zN0RJVHczQXpLTFprYld5UTkyekVBSG9ZM0ZVdHpmdERwOWMxX2Q0NHVzeHJER2paWUVXNG81T0tETFF0QQ?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "SMH Was the One of the Best-Performing Non-Leveraged ETFs of the Last Decade. Here Is the Concentration Risk Investors Miss - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdVNCRlJxQnc1M3pHbGtib0J3dmdoT2VsNXByTjdmVnpIN3hjbTRSSW9QOXRZbENfNUNsWkNQTnhPZ00xdW1XTF9wLUxvdmI1QktUZGZFQWExaVprNVpKM05vQTZSXzhIM0w4UGRqeFVhSHhRRmRqTkRUWWtJT0pBYnctbjNkb1lHZzRjRGdnQkRMSlZRWTJR?oc=5",
+      "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Best Semiconductor ETFs for 2026: 5 Top AI Chip Funds to Buy - MarketWise",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWektKTjFUSkJkbXBJMVFGY2ZxTjBOZzB6dC05YmhXM3h6NDR5VjExZ0lDcmJZWkhQU2dKT0MzUDFhQ0VNb0c0TXlyWmRPNG9DWVlCM2RVSW1iY0hnRmtHeXRiV1FOVU92OE9OM1BxRUxmREU?oc=5",
+      "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "The Semiconductor Industry: Three Ways to Invest with Semiconductor ETFs - VanEck",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUThCajRJUkFnS2UzZlF4WGMtc0lqSkU4OWh5SWJRb3NwRnBtaWVIWkRId2NhTUpvZ09nSEZ4bXBCOVBvZkthWHlrUHAtOXZHUUVHX0VydUhBV1ZfYVVBcDd5bXVDTWh5V2FybGNyMkRPSjdlcnFpdy0wN250bWt0ZVlUYzNYZ3lUZldVRjVNd00yRU5GVXRYS3MtN3VpZk1tTGJPM01JVzVOUWFNd2hSN0t5cG9SdllXYnl0TzFwSHNtMzlBN1VlTE1PaWlEdUxVbUdxU2Z6d1hhLUV4?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "SMH inflows spike as semiconductor stocks weaken, RenMac says (SMH:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQUFMMmtOS0dRMFhJOHRYcGtENFBSV2RZRDNaX3NxdDVBcVk2bDVHY2FJRHpmU0dHVGFKc1JnaVJnNUFsY0tiMEZLUTNEa2t1SjhMek1jMk1FRmpjNlEzTFEtMHJyeE9KaGF3bjZreXVRWi1HSmNDZXZhcm16dWg1cDM0STN0T3FyQmRUUi1RQ3VrV005VGFVRlBHcjZwWlE?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Should You Invest in the VanEck Semiconductor ETF (SMH)? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNFFtdHp2ZW9CSTZFQm42XzcxRlBxRDlZUVhVSzlhaEthUkVBMnlHSGNiTWZrNG02SE5CMF9BVTU4QkhYM0ItWWxDeHVncWZvLXNDcnNsUkNPTHN1TVZSQ3RJODRzY2x5U1BmNjlKOERySzlmdGdIMzNYQ1pkMjlsSUV1SHh1RzFoemxYd2dzVjVTX2dUcFM2SHV0cXJqLWJ5VlE?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Should You Invest in the VanEck Semiconductor ETF (SMH)? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSlV5aHJQWGdkNTRuenhIUEY3MEItRnc3bnhkY2wwUzFiNnhNRzBHeDBOX1ZyUXNNTXFzWTZyUUZRemY1RnF4bGZfLW1Qc0JZb3dRNXZsRWJjeEw3aHVMZmIxeXF1ZkVuRUV4SE9jSGtfVTg5WDllekVqWWRzUDAtWlZOZlFFSzZJTnVCSU9VaVZ3UEF4LTl0M29vUDg1RHUta0E?oc=5",
+      "pubDate": "Tue, 12 May 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "The Semiconductor ETF (SMH.US) has fallen more than 10% from its recent high, with put option volume reaching five times that of call options, as bearish sentiment spreads to the Nasdaq. - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNHJXNllUR2VqaEExMVQ2THBhNFM1Zl9GejNFbXA4NEZEa1l4dVo3Yk9abVdERThhUWdGQzR3MmQ1VzZmT1d3S09tOHNhb0Y4eFNPMGozb2Ntbmx1TFVsUHZyckY1QjY0a0ZjdTNRN3F6T09Pd1I3cndtTlJETHBwZGZ4STI2cHpNV0tydU9wcXZoWnFUM3p3SnJjb3NJZWc?oc=5",
+      "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "A Few Reasons to Buy the Dip in AI & Chip ETFs - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObUpGS1luWndnZHdyemczU0h1N3V1enJQbERwblZacXBUMURYR2QyVE5VX2Y1UUlKZmY0Vkczbl9KZlg1YjkxN3o2RnNpWHU1Y3hLUXM4djZfYXZHMzA5QVYyRjNsMWpwZ0VuZEV0Z2hWWE15SVpXaDlUc2RfSG42dXhLVnJXbmJsbDIxcUhIVjJTUXNELVV5NFc5Z0xPLXhSYWc?oc=5",
+      "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Semiconductor ETF sinks below key technical level amid AI anxiety (SMH:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLU1NN0hrR3YtN0pIdEtNc0wzbFVoZjU1Ty1hY0U4SWtzZU9rTVEtZ2FJRlZJWDRuQ29RMTJxQU9YMmxIZWRnS1E0ejJVVTdnRmk5RkZyVUpwa19MODJfaWhmNWlDdFA4MFlONXFPaUhxa0xCcVY4cDRpbVZNYnJybHdMU1Z0TjZGc2ZlbFFzUk1rR0poTDVHenNpcUtSQkFDaEdhU1dR?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "This Semiconductor ETF Is Up 58% This Year and Doesn\u2019t Own TSMC - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUlA0bFJhYjdnSTRIbFdOc0V4OGtuWGp2dWFBUG9tVWpkNldVVHdqSmZTVkt3WG1OdWhoMm5WbmJNS2oxMTBmbnRpUjQwMXR3Y3hjMmtDNG8wby02SGhPZUVEUE1VeE5PcTBQRml6SHB6cklDaUhwTXFUakREU0dCa1JuN010a25YRE9URU5OODdBZGxXSVBJZw?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Why the VanEck Semiconductor ETF Rallied Over 30% in April - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYzhKbWJwZXFEMmphbDJmT052dmh4X2hsUUFzSTFmVzlCOFZpOHFzRkJuRl9oVlpDVzhRandoWTc3SlAweUw0R3BWR24tMU5Td2Y4Tm83LUktQWo1dlJNRjhUYjRXcm93SHFxOFFtM2pZXzN1RXB1d0xiYjQyN1J3UmtYX3E0Yy1MX2stcHc2TnFNZjU3RWZMZg?oc=5",
+      "pubDate": "Tue, 05 May 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Amplifying SMH Exposure: REX Shares Debuts SMHU & SMHD - ETF Database",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNXBzTlU2YkdwUFRrZjE0M3l1YjdGMFpUX19ZTXhMeTk3cE5FdERyVUctV19vOGRsem54Umw5Z2JZc29IWm9Ia0JwaG11U1JIdTAzMUdDT25zTEpMWjRCY3NEcUJFV2R0R1d4S0k5aWlpSm9pT0MxUUZoNi1kNGxKTUVkZlg2V0k5VmM4eWRyRk00NE9ETl9sUS1tUUJMODdoMlN5N3h3?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 15:22:32 GMT",
+      "source": ""
+    },
+    {
+      "title": "Big Tech's $1.2 Trillion Hyperscaler AI Bet Could Ignite the Next Semiconductor ETF Rally - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNckY5UThzSkZuTnlobmlSUHlGdG1CYTVtSXItdDZrWDltWVRFcWN0aTctcWIwSGNiUm9MaGE1WWM5U2J3a084UUZWdUdhdWJrSjNEc3NHTkM4dXltMExXWXBBX05sZUc0OTRVbGZCS1dhLTg2b1ZKSTNpX2NlRVIyV3dtNXBTVlZSSjJZVmp3Mi02WmxvdWgzZGp0NkhjMGdsckhnckpldzRTci1CSXE3X0wzd0hTNE8ycmFpd1d2NFVBaERkcmFLS3dfQ25uSFVCc0FlVW1YaEYzdEk?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 14:51:31 GMT",
+      "source": ""
+    },
+    {
+      "title": "Micron\u2019s Sharp Pullback Hits These 3 Major Tech ETFs in Very Different Ways - 247wallst.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQW1OakpQWmw5eVNteXNvSnl3WlhTZnBweDZFZTg1c0N4QW1xakZiV29TUWdHdWprNzhVdzBldjZZclNpNnJEaE5OMklkYXF2UEVGNWhrdDNsY05iWC1lcldCMThlZ2h1Y1JXdVNIQUtmYTZLTXRIbGotbWI3cXU2cHBYSmNBZUdOQ181QXJtVTNtUW9rZWRJeEdVX19razRrSmk3VWVJcnppSXVBeHBsZkxaaEhSWVFRVEN2SDZxYw?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 12:35:19 GMT",
+      "source": ""
+    },
+    {
+      "title": "Nvidia Q4 Earnings Call: What It Means for SMH - VanEck",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZjVWejIyUFh4ZGZQYUJoU1VEd3F4WXpMR0hGTU9LZ1BXZ2tlRzVYVjRoZHZxaTNLRDVDUlgwcDVYbFVHSjBOVU11c2NBRkk4SFpfTkZMUmUtSXpvbHp1bmNUNzFxd3Q5OWZRb01BUDRmQmk5V0E1aFo2QmZJRC1GTWczakdFOXJtUVpZZlk0ckJtT09mNkZ5RmQ2WHM2emFMWUE?oc=5",
+      "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Chip ETF Dip-Buyers Need Strong Stomachs: Azure Lifts SMH Off Lows, but $543 Holds Key - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaENiVDRtcWUyNVppRDQ2ZC1Dazl5d3poc1l1UU5DMVBFX1lOOHFJZFdkRndYTWRPRk1SZDlSOTRITzY3UEk4X3hpRlljTERDY3liZWhvSnlFSlhONFhkMnNZYUcyZmg0Z1hMdHNUMHBFN05iOG9HOVZ4dGJSdXQ3em5nM1lmOXM3eHZvX1RwSDhSYTU2WDJwelVwd3p4YlNibEExelN4ZGFnT3NVem9SaU94SmtILVhOX1VYdWw3U2NzdkRqZGFzWXdiNFAtNGs?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 14:57:10 GMT",
+      "source": ""
+    },
+    {
+      "title": "Rally in chip stocks becomes the most hated in history. Here's the data - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRmNVdldVeklCcWczaVE4NjlIRWFxU2d3RU85OVpTa2xZbDdCYVQwNlp1c2ZDdG9MYXFaRExoTTZNWm5CbFYzTElLdDNId25iLXpNdXlxRDJsRUxwT1QwYS1LQkphRGVHbzJINTlINXJKRlZWczdjMlVma0RZeDdjQ3NtWS1TVVBRV21HT1R6dzg4S0t4eHp3RWs1cWJpT3lVLUsybXVob0tod9IBrwFBVV95cUxNUzJZbVVjYUZCQmk2WGVxM3FPSmxFRjVJQm1uNmR2bjRGc0dqbDNKUjhybnJaaFNydGdwNmRuLVBndGF3WksxOExYaTUxdEZaOFpwSWZVd1Z5VENzUW1BRUpfamFITldnZHFBYWVuWFl6WEtpd1k5QXpiTVNxcTZ1b053eFFwb3ppRlhybnNNMml6YkZ2SmxEUHVfSnlrXzRoRVY5T0E4eFF0LU8taFdF?oc=5",
+      "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "VanEck Semiconductor ETF (SMH) 2024 Holdings and Performance Recap - VanEck",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR3VLdGQ5VHFUdGNCOW9jckV0MjV4R1ROa2pIT3pLQ1dPVGF1WUFHZWt4VW5hZHc2bEJUbHZ2WVVPVWFpWlBmcjVYMldZODJDem5jVFEta2xyZkF4T2x4aXNkRm53WFZQQWNxVTlhXzRKQm5aMGRGbHNTV2c1NTNsU2U3UDhRYjlnLW03SlcxM3o5OEtCS2NlZHRXSUhsMHNMdjV0ank3bGVWRlJudU1nNV9rb3liMkk4S09GVXc0VmhvQXlyNHZleFpicExNQ19qNzVqY3l1RjBMZ3c?oc=5",
+      "pubDate": "Thu, 27 Nov 2025 03:00:22 GMT",
+      "source": ""
+    },
+    {
+      "title": "TSMC Q2 Earnings Call: What It Means for SMH - VanEck",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYnF5WlFFTEJPRU1KYlNkV3g5NWRHOGpnSVBjYUhZTjF4WU1seUxJWmpSRW95SVpFUDBZYWtSNzFKaEJYellKeXBlNldpMEVNczZQZjhwbG5xM2Zja2hqeEYwbzAza25tVjkxNUhBcU5nam1mLTlmYkJ4TGRzel9jVUVqVllkWWlza094Xzh2X0d3eUNBMFFkRi1CSDR6RkZESFd3X0ZJdXVlOUVmblU0XzZ3dTB2ZUk?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 20:13:17 GMT",
+      "source": ""
+    },
+    {
+      "title": "AI Chip Stocks Just Got Crushed. 3 Semiconductor ETFs to Buy the Dip On - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOREJWalBOSWNyQWQxcVpSOUtjQWdjb3JvLWdJa0lralU2RlVFdndlSVd0aGFpOGVLX0FnVFpfbllNNEhDRGZZXzlfQ3hvVldOMHZjdERyMXpDaXdKNU5WekV2VVJpR3dWV1JnQ01YUXpJa281ZjlIcG40U0FhbFI4VWYwR2RqYWYzQmFpUzRuY0RJdw?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "SOXX Has Never Had a Run Like This - ETF.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcFdWb1dDbnFPSDFzM0JtNnV3WUp3ZEJ0dHd0ZkY2NFVLZGlJTlZrMlRIdHhqV1dieHNZdERUYmlzTFRlVTd0b0pkdnYySVRKcVNhTkVzbkllSDl0S2VUcUZQZ3FxQ053aDlKa3Z1WEJTem52VFdpSnM0QjZRS1RaTg?oc=5",
+      "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT",
+      "source": ""
+    }
+  ],
+  "prices": [
+    {
+      "date": "2026-02-04",
+      "close": 382.02
+    },
+    {
+      "date": "2026-02-05",
+      "close": 381.07
+    },
+    {
+      "date": "2026-02-06",
+      "close": 401.65
+    },
+    {
+      "date": "2026-02-09",
+      "close": 406.65
+    },
+    {
+      "date": "2026-02-10",
+      "close": 404.76
+    },
+    {
+      "date": "2026-02-11",
+      "close": 414.78
+    },
+    {
+      "date": "2026-02-12",
+      "close": 406.11
+    },
+    {
+      "date": "2026-02-13",
+      "close": 407.72
+    },
+    {
+      "date": "2026-02-17",
+      "close": 407.51
+    },
+    {
+      "date": "2026-02-18",
+      "close": 412.55
+    },
+    {
+      "date": "2026-02-19",
+      "close": 410.2
+    },
+    {
+      "date": "2026-02-20",
+      "close": 415.03
+    },
+    {
+      "date": "2026-02-23",
+      "close": 412.88
+    },
+    {
+      "date": "2026-02-24",
+      "close": 419.16
+    },
+    {
+      "date": "2026-02-25",
+      "close": 426.16
+    },
+    {
+      "date": "2026-02-26",
+      "close": 412.01
+    },
+    {
+      "date": "2026-02-27",
+      "close": 406.37
+    },
+    {
+      "date": "2026-03-02",
+      "close": 406.39
+    },
+    {
+      "date": "2026-03-03",
+      "close": 391.06
+    },
+    {
+      "date": "2026-03-04",
+      "close": 399.1
+    },
+    {
+      "date": "2026-03-05",
+      "close": 395.35
+    },
+    {
+      "date": "2026-03-06",
+      "close": 380.56
+    },
+    {
+      "date": "2026-03-09",
+      "close": 394.37
+    },
+    {
+      "date": "2026-03-10",
+      "close": 397.33
+    },
+    {
+      "date": "2026-03-11",
+      "close": 401.03
+    },
+    {
+      "date": "2026-03-12",
+      "close": 388.13
+    },
+    {
+      "date": "2026-03-13",
+      "close": 387.33
+    },
+    {
+      "date": "2026-03-16",
+      "close": 393.92
+    },
+    {
+      "date": "2026-03-17",
+      "close": 396.88
+    },
+    {
+      "date": "2026-03-18",
+      "close": 393.67
+    },
+    {
+      "date": "2026-03-19",
+      "close": 394.92
+    },
+    {
+      "date": "2026-03-20",
+      "close": 384.74
+    },
+    {
+      "date": "2026-03-23",
+      "close": 391.36
+    },
+    {
+      "date": "2026-03-24",
+      "close": 394.59
+    },
+    {
+      "date": "2026-03-25",
+      "close": 399.02
+    },
+    {
+      "date": "2026-03-26",
+      "close": 380.84
+    },
+    {
+      "date": "2026-03-27",
+      "close": 374.25
+    },
+    {
+      "date": "2026-03-30",
+      "close": 362.53
+    },
+    {
+      "date": "2026-03-31",
+      "close": 383.4
+    },
+    {
+      "date": "2026-04-01",
+      "close": 391.97
+    },
+    {
+      "date": "2026-04-02",
+      "close": 392.32
+    },
+    {
+      "date": "2026-04-06",
+      "close": 395.98
+    },
+    {
+      "date": "2026-04-07",
+      "close": 399.9
+    },
+    {
+      "date": "2026-04-08",
+      "close": 422.92
+    },
+    {
+      "date": "2026-04-09",
+      "close": 430.31
+    },
+    {
+      "date": "2026-04-10",
+      "close": 436.88
+    },
+    {
+      "date": "2026-04-13",
+      "close": 443.34
+    },
+    {
+      "date": "2026-04-14",
+      "close": 452.0
+    },
+    {
+      "date": "2026-04-15",
+      "close": 453.0
+    },
+    {
+      "date": "2026-04-16",
+      "close": 454.8
+    },
+    {
+      "date": "2026-04-17",
+      "close": 464.16
+    },
+    {
+      "date": "2026-04-20",
+      "close": 463.96
+    },
+    {
+      "date": "2026-04-21",
+      "close": 464.66
+    },
+    {
+      "date": "2026-04-22",
+      "close": 476.83
+    },
+    {
+      "date": "2026-04-23",
+      "close": 481.85
+    },
+    {
+      "date": "2026-04-24",
+      "close": 506.44
+    },
+    {
+      "date": "2026-04-27",
+      "close": 506.26
+    },
+    {
+      "date": "2026-04-28",
+      "close": 491.21
+    },
+    {
+      "date": "2026-04-29",
+      "close": 499.58
+    },
+    {
+      "date": "2026-04-30",
+      "close": 506.72
+    },
+    {
+      "date": "2026-05-01",
+      "close": 509.82
+    },
+    {
+      "date": "2026-05-04",
+      "close": 506.79
+    },
+    {
+      "date": "2026-05-05",
+      "close": 522.69
+    },
+    {
+      "date": "2026-05-06",
+      "close": 549.76
+    },
+    {
+      "date": "2026-05-07",
+      "close": 540.1
+    },
+    {
+      "date": "2026-05-08",
+      "close": 566.54
+    },
+    {
+      "date": "2026-05-11",
+      "close": 576.31
+    },
+    {
+      "date": "2026-05-12",
+      "close": 561.25
+    },
+    {
+      "date": "2026-05-13",
+      "close": 572.46
+    },
+    {
+      "date": "2026-05-14",
+      "close": 578.34
+    },
+    {
+      "date": "2026-05-15",
+      "close": 556.34
+    },
+    {
+      "date": "2026-05-18",
+      "close": 546.16
+    },
+    {
+      "date": "2026-05-19",
+      "close": 543.96
+    },
+    {
+      "date": "2026-05-20",
+      "close": 564.66
+    },
+    {
+      "date": "2026-05-21",
+      "close": 567.88
+    },
+    {
+      "date": "2026-05-22",
+      "close": 576.32
+    },
+    {
+      "date": "2026-05-26",
+      "close": 602.14
+    },
+    {
+      "date": "2026-05-27",
+      "close": 595.5
+    },
+    {
+      "date": "2026-05-28",
+      "close": 599.83
+    },
+    {
+      "date": "2026-05-29",
+      "close": 598.93
+    },
+    {
+      "date": "2026-06-01",
+      "close": 607.81
+    },
+    {
+      "date": "2026-06-02",
+      "close": 632.21
+    },
+    {
+      "date": "2026-06-03",
+      "close": 637.9
+    },
+    {
+      "date": "2026-06-04",
+      "close": 627.53
+    },
+    {
+      "date": "2026-06-05",
+      "close": 569.69
+    },
+    {
+      "date": "2026-06-08",
+      "close": 598.16
+    },
+    {
+      "date": "2026-06-09",
+      "close": 591.01
+    },
+    {
+      "date": "2026-06-10",
+      "close": 570.91
+    },
+    {
+      "date": "2026-06-11",
+      "close": 609.45
+    },
+    {
+      "date": "2026-06-12",
+      "close": 619.96
+    },
+    {
+      "date": "2026-06-15",
+      "close": 647.1
+    },
+    {
+      "date": "2026-06-16",
+      "close": 616.0
+    },
+    {
+      "date": "2026-06-17",
+      "close": 623.97
+    },
+    {
+      "date": "2026-06-18",
+      "close": 659.88
+    },
+    {
+      "date": "2026-06-22",
+      "close": 668.91
+    },
+    {
+      "date": "2026-06-23",
+      "close": 622.05
+    },
+    {
+      "date": "2026-06-24",
+      "close": 618.92
+    },
+    {
+      "date": "2026-06-25",
+      "close": 636.88
+    },
+    {
+      "date": "2026-06-26",
+      "close": 611.61
+    },
+    {
+      "date": "2026-06-29",
+      "close": 631.98
+    },
+    {
+      "date": "2026-06-30",
+      "close": 655.89
+    },
+    {
+      "date": "2026-07-01",
+      "close": 620.46
+    },
+    {
+      "date": "2026-07-02",
+      "close": 592.29
+    },
+    {
+      "date": "2026-07-06",
+      "close": 604.3
+    },
+    {
+      "date": "2026-07-07",
+      "close": 581.45
+    },
+    {
+      "date": "2026-07-08",
+      "close": 593.0
+    },
+    {
+      "date": "2026-07-09",
+      "close": 607.73
+    },
+    {
+      "date": "2026-07-10",
+      "close": 611.03
+    },
+    {
+      "date": "2026-07-13",
+      "close": 585.62
+    },
+    {
+      "date": "2026-07-14",
+      "close": 600.31
+    },
+    {
+      "date": "2026-07-15",
+      "close": 590.77
+    },
+    {
+      "date": "2026-07-16",
+      "close": 568.92
+    },
+    {
+      "date": "2026-07-17",
+      "close": 556.53
+    },
+    {
+      "date": "2026-07-20",
+      "close": 558.83
+    },
+    {
+      "date": "2026-07-21",
+      "close": 584.08
+    },
+    {
+      "date": "2026-07-22",
+      "close": 586.91
+    },
+    {
+      "date": "2026-07-23",
+      "close": 580.17
+    },
+    {
+      "date": "2026-07-24",
+      "close": 561.19
+    },
+    {
+      "date": "2026-07-27",
+      "close": 548.55
+    },
+    {
+      "date": "2026-07-28",
+      "close": 529.6
+    },
+    {
+      "date": "2026-07-29",
+      "close": 504.22
+    },
+    {
+      "date": "2026-07-30",
+      "close": 538.9
+    },
+    {
+      "date": "2026-07-31",
+      "close": 540.53
+    },
+    {
+      "date": "2026-08-03",
+      "close": 545.46
+    },
+    {
+      "date": "2026-08-04",
+      "close": 578.32
+    }
+  ],
+  "meta": {
+    "currency": "USD",
+    "symbol": "SMH",
+    "exchangeName": "NGM",
+    "fullExchangeName": "NasdaqGM",
+    "instrumentType": "ETF",
+    "firstTradeDate": 960211800,
+    "regularMarketTime": 1785871163,
+    "hasPrePostMarketData": true,
+    "gmtoffset": -14400,
+    "timezone": "EDT",
+    "exchangeTimezoneName": "America/New_York",
+    "regularMarketPrice": 578.32,
+    "fiftyTwoWeekHigh": 671.83,
+    "fiftyTwoWeekLow": 281.15,
+    "regularMarketDayHigh": 578.6,
+    "regularMarketDayLow": 562.28,
+    "regularMarketVolume": 6644486,
+    "longName": "VanEck Semiconductor ETF",
+    "shortName": "VanEck Semiconductor ETF",
+    "chartPreviousClose": 382.02,
+    "priceHint": 2,
+    "currentTradingPeriod": {
+      "pre": {
+        "timezone": "EDT",
+        "start": 1785830400,
+        "end": 1785850200,
+        "gmtoffset": -14400
+      },
+      "regular": {
+        "timezone": "EDT",
+        "start": 1785850200,
+        "end": 1785873600,
+        "gmtoffset": -14400
+      },
+      "post": {
+        "timezone": "EDT",
+        "start": 1785873600,
+        "end": 1785888000,
+        "gmtoffset": -14400
+      }
+    },
+    "dataGranularity": "1d",
+    "range": "6mo",
+    "validRanges": [
+      "1d",
+      "5d",
+      "1mo",
+      "3mo",
+      "6mo",
+      "1y",
+      "2y",
+      "5y",
+      "10y",
+      "ytd",
+      "max"
+    ]
+  }
+}

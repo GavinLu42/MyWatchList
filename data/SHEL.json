@@ -1,0 +1,807 @@
+{
+  "symbol": "SHEL",
+  "name": "Shell plc",
+  "updated": "2026-08-04T19:19:28.326343+00:00",
+  "news": [
+    {
+      "title": "Shell PLC Stock (SHEL) Moved Up by 3.00% on Jul 29: What Investors Need To Know - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ2p5Z2ttejBGcUJEWEdQdTAyRm5SbmstWnRTTXFQa1BSczU5Y1VXZnFQTUVreGtaTDVndk41QzVkOEUwS1ZjQzExSUZKWk9VYTlEVnBXaU5HSnhFSG5aZzdqb3o3RE1DQm0td2x0aEZoLUJCS2EySVRRZ0pfTzY3cDFqMEJUcnpiTGZJ?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 16:15:43 GMT",
+      "source": ""
+    },
+    {
+      "title": "A \u00a320,000 ISA invested in red-hot BP and Shell shares 1 year ago is now worth\u2026 - The Twelfth Magpie",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZXplOXAxUERIS1VsLS03cEd3RC02T2RoNzE1eWV1Y20xVDJleDNyVWNleTRkcEZLYU1DOXlBaXFnLVlBdE5oNjR6RUlfQWNrcUZqRzNqcEVZdVByak5Hbi1GbUg3emlpX3czTGVYcWJVUVpENWdhMDhwejV0V1hPNU14T3Q0ZU1EeUtZYmN1eklCanB6eHRNcW9HRm92WFpBQVI5QW5jZWlNaldVS3dab21ubVJRN0xx?oc=5",
+      "pubDate": "Wed, 29 Apr 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Morgan Stanley downgrades Shell stock rating on limited upside versus peers - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUEFNaTR5YzhET2JzR1NSTUVQSjdDc01ZMm9jOE5LRzZtdVViU2ktVFU3MFotcVhJOGQzMHpTOWp5ajEzZm9ucVpnYmtNalF2NklpdXl3WmR0enhIWmlONHgydm9zNGhER0I4VElxY1dXeF9CQU9RY0dMTGV5SGJDbG1Cal80UWJpUl9kVmxzeWtMaXJtQldjd2lkRlRzd2E5aFllcGlTQWFNSlNBOUd6UmhpbS1qOXRLV1R4cnoxWFpBNlEyeGZScU0yeXRxQmRf?oc=5",
+      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Shell cancels 225,000 more shares in ongoing buyback - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzeU9GNXFGdnNTdVBZMzZFSFdlWTEzclplMm1iRzBwWTR4SFJrN2FSWG1MMjV4MnlQNFoyZjFmNG5udG1UcG1fVHduaGhYYnF6WVdRRmZLS29XMUxGQ3UweDI0VFpGZFpZMTlNM2E0Nmw4R25BRlFqY3Y3R1VVdw?oc=5",
+      "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "ARC shareholders approve $16.4 billion Shell takeover deal - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT3RwQ3NEaVpRY0FVUUp1d1JuRGZBMWs3S1k0Tm9xRmpFY1Y0NGlEWmdDejZ3SmFuZ29aeG1HQ0MtVVFad2F2NGh5UTd3ZXZUSWlxR1UxeVFtSmdhQTBGSUJWVkViS1Q5SU1SMnY5dWdrQ0V0SkpCNkFfZXNHSTVhVGdSbVhsem9GeTk4dkhUcll1TEpQU2hEUEZlNlFJVENHdkE?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Shell: Q2 Update Suggests A Share Price Bump Once Iran Crisis Ends (NYSE:SHEL) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSW9fdlJHSHp1eVZYSlM4eFoyamhZN09PV3d6UTZmeHc0Mk5wZmlOajlWMEcxZWNBN2R6NnVSZWE4Nmx0ckhkS3hTcEt0Ri1JR280My03cGtYN1JMd2duUXE1emNKV21oQms2ZkgxMGszeVRMZG1JVWJ6TnZrMTZ3ZC0xbWtHNU12dnVSLWwzNHBTYXZueS1ER2ZDeXR1S1hVV2tPWlk4NA?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "The BP and Shell share price are being hammered today \u2013 what should investors do? - The Twelfth Magpie",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTWR4WUxQaVc1SnlPWExDTks1QVhjWDQtNVBzUG1aRDN0Qk1idFkyeUxjTVVVYk9sOVdiakV5VWNwZHgtT1lGUjRZMjdDMWpNRnpjcWJvX0Qxd1NhbXFiWVFFNXpWbDZmWWM2SHRCYWlHT1BLTEIzTWNxUkNiMHppWkdZamd4N2Q1QWl0QkR1VlJkeGt5bTdlMlhPaGFfcU15a3BZSGxESjVTdS1ZVTJlaksyLTVZM1RQMnRtbQ?oc=5",
+      "pubDate": "Wed, 08 Apr 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Down 8%, is Shell\u2019s share price a steal now around \u00a333? - The Twelfth Magpie",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnc0c0drVlVsQnFVbnV5alRvNG1XU1pCVnYxelhUbUJ4eHhwNFNWaV9aNE5SalZjZU5MZi1UX0NCY29GeEtIWk11bFJ6M0JLVlRxWFpKLV9ZLWd0QVphOFExV08zWVlDRC1jQVFVMHc3aDRyNENyRFFGOHNVTU9VZ2wyX29FMXBhT29SRVc0dzdLRlFrM2xV?oc=5",
+      "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Shell lifts dividend 5%, starts $3B buyback after $6.9B quarter - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUlJ2bWhhUlhyS3dCa2JvQXhlVTVtQ1hTQ3UxeDZ6UW1QX212ZlN0QU0wZkRYNm5QQkdZMnRQZ2ZUNVRtM1RZb3dSQ085eWxjcktHUzVjQzhXR2VsMjRqTkx2U3pxRnFMR3hLOThhcWpNOHQyT2d5dG16NkFkZTRucnVVWEtRTEsya0Q2dEZVaTNJYy10c0ZjcDhkT3JTRHhO?oc=5",
+      "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Shell (SHEL) Downgraded to \u2018Overweight\u2019, Price Target Raised by $15.30 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRUNHVGxuQWczejBrdVpYMUdaSDhtcENQamZfTkV6NEV5ZnpKRnVfVFBfeUMtMHpPUVI2QkdhQURTMnJiY3lYaUh3NWg1T2ZOcTZ6RkQ0VERtNldiNHJQblRsMlE3VHRqa3pXYjZUN1NSTlBVdm54Z292Y01KSHVVTEVmMVVvdDBDVWNGUjFWTHpqSjROVUxFOEhLakJmV3l0RjMwdVh3?oc=5",
+      "pubDate": "Wed, 01 Apr 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Shell's April 1 buyback spans London and Amsterdam venues - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zYlZacnNPNU5hWU1sVlJXdXpkN2RGYVVlVFc1VDRWa2VPeGw5cmc2OC1ySm5TTjNtZ3pFRFlUMzVROUpMeXlwUkNDR0w2RkRoYk5GUWdwUlVYd1M4b2tpcWNxR3FDSmhFdXM4dy14TEpSektRc09sWEt0Z1VBZw?oc=5",
+      "pubDate": "Wed, 01 Apr 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Shell Continues Share Buy-Back Programme With London Stock Exchange Purchase - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeXBTT0RBLXV3bmdHS0duZXR4Sk1RUllJNU15V0ZBY0RnX3ZGR0ItYVQ4N05HMWdiR2I2WnFuaXN1RmRWTGl6QVJ0ZnBTczRIckVzR3I2VkhuQ2VpdjJPMGtfa1R0a3lFMnIwa05qLWNoMmJVQ1NwSEFIRGlWMG1YbnlsRG9xdllRWGlmalBCYnJoWDYtRmZLbXNyVFU0Z2dBWENvSU5UQmIxN1VYdkZvS19sNUoyUC0xNHRNUHZ4YXJBTWxfQkx3ZW0ycW1lb3lhWXpubHlsRTFYVjZZakdMQWZzZjR2N1k1TXZpNmxB?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 08:18:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Shell PLC Unsponsored ADR (NYSE:SHEL) Given Consensus Rating of \"Hold\" by Analysts - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS0RHVl9yZzBNeUJMUlNtYlh1UTI4LVUwY2pkbFg4eXJPc2dCck1ad3RWWEJ0NzRPM0JLbGxRMWJ1WEhJOVEzRTZYSXBLaGllcDA5U1o4Y2N2RnZKd2JYR1VmZUI0M3MwazQwTDRVT2l0TkpsVExoMWNFN096cGlldlppc3NReV9VaTRkb2hzUUFrZDNEOUFlM3FqV195QTB5cUdOcXpWb3hKWDREODZxaXU5OUFXUGxDeER5ajlzeTRnZ3R3WEZVV1VXVQ?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 06:37:48 GMT",
+      "source": ""
+    },
+    {
+      "title": "Here's Why Shell (SHEL) is a Strong Value Stock - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMk1ZX0hFNjgzeElpR0NXb3B3OWZfMXc5WHdLRFBMRzkzX0JiN0ZDV2gxODBXS0xHTHR1VnBMaXVWWlhhTzRKcWxyOW5tY3c2bExZTFFhbzhtV1ItYUlZSkt5YWJuUlNPMXpPUVF6RnkzYzMtSkRYdmYtT28zdDZZaFJJYWQ2Vzk5bWF3RUFPQTkwTlJUcWh3?oc=5",
+      "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Shell (SHEL) Price Target Raised Following Recent Acquisition of ARC Resources - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzlrZmRMRUV1V3F4RklNcFBHSFJ2eE43SUswTHZLQ2FWQXdTeU9WNUxENWlEQzV3UHpCc09oOXd6VDFXLU1WLUI2T3lhNW9vMzVKNnh2dkhJOERRMTlkQkxCTmx1SGlIeFBxNllhd3V3MnlTc2xrQmVvT1BVVE1tWjNtV0lmWEZFR0FxSE9NN3pudlNRYk5jN1h2TQ?oc=5",
+      "pubDate": "Tue, 26 May 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "BP and Shell shares slide after oil prices drop on talks to end Iran war - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpNnJnSDl0OGZqQVpvQmRSdzZmQVlBOWItQ3p6dGtMVXhCZ1UxNVZIYktDUEFldktPLWh1RTlXT3VhLVphcUt1OXNjQkRxT3RTbU5pNXNTbnFxbEtFRUJOZmNKQlpOcE4wQ2pubF9oQTIyQzRyYlVyMFFRNGxIbFU?oc=5",
+      "pubDate": "Tue, 26 May 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Shell\u2019s \u00a333+ share price is near an all-time high, so why am I going to buy more as soon as possible? - The Twelfth Magpie",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORnFtZTU4dVhoWVZNeC1oWFoyUjBQaWZBUi1CalFZbzVhNDZVRFNFWUFYNlNLTXhibVVrZjdYdHJTM1JGbmMyenV2NzhZbmNkc0RIXzdrbFBpR1lTMnM1by1tb1ZCSDRpdUZjUkNPUEprVTU3OGV1R1hQcGxZVTU4Wjh0RUZfWGx5Z2lLVjJoV1hURXRGa3lsT1B0SUU1MExaSE9BazF1MG9iSUdQMGhvVVRCQWc0WE50R0VWdzRTSG02SC1ETXVyU0Itdi1oMDZhakJEWA?oc=5",
+      "pubDate": "Tue, 24 Mar 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Shell PLC Stock 12\u2011Month Price Target Cut to $98.2, Implies 23% Upside - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaW4yazl2M3FFNThzYjlOMVlzQzd0a3lLT3BPY1g0TTRpd2RnQk41TWYzYXVHNGg0U29yckZ5WkExci16YnVySC1Rd2RtVk1EVm8zdGYxdzY5Mzh6eW1kQUt5SFpUMmJ6YS1Mel9SZmFWRE85QU1lYmpsaUdoVF9DRk1iNTBrRnFSN09YSnNMT0hYWnQ0bmpEODhMd1pza19SbnhvQjBsTE1Nby0zcWtaUVo1UHd2aUl6NE50SE5qZGZ2Q0NpT042Sg?oc=5",
+      "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Here is Why Shell (SHEL) is Among the Best Crude Oil Stocks to Buy According to Analysts - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObUtDQkx4bDVpOEtQdFZhWVZiOEZUZnphTzBOd05KYWlvR1FGY1ZjVFUzZ1g0Q09YUkN0N21icnF1Q2pSUG9WUUxjWjlLaWozWV9jSV9Qb3dNRmhFYl9sdDZxYkNrb1hjX1RyWEFOV0VLSVRVQk1SdEUzZmdvWmxpUDVrZ1VIQ19OMHhrVHEtT2s0eS0w?oc=5",
+      "pubDate": "Tue, 21 Apr 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Here's Why Shell (SHEL) is a Strong Momentum Stock - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb21zN0hSZi1vMU9aa3p6ZS1weDRFdHNleC03amt2WXkzcmVSbE10dWsyZW0yVUFQVTVLaWxSQlZIdDk0MWtMaVRkcFV0TjQwQURUMDhJZkVxLVZ4WmQtQXY5djFIeGRHSS1nQW9Qd21sN2tKUk5MbklkTVN5OXJsN0NjeWlsVFpvbFk4b3BwdDJJcktIZFFR?oc=5",
+      "pubDate": "Tue, 19 May 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "\u00a310k invested in BP and Shell shares just 1 month ago is now worth\u2026 - The Twelfth Magpie",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb2VfMkV5Vl9jaTI1OWN1NHpMaDJfNkQ0amJlTFZOSzNLc3MwX0N5Uk5Pc082QUlSYVR2WDNmSi1IYUlNUEZBd0daQW1xSUhleVdiLVRWMVBCdlpPdHVEeDI1R1pPVEJvaFN1dGF5aTFSMFNPSmhNZnhkSGZlT2hERW95U2hRblJyekdRWXl3TVNRY0x4NUxENGQ4Nk9sMnEtVDdnbklfYV84ZTA?oc=5",
+      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Why Shell (LON:SHEL) Stock Is Beating the FTSE: A $5.8 Billion Sale Run Reframes the ARC Deal Math - TechStock\u00b2",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUHVOMlJ3WjhzVDl1MnpNYmkxZm9mMkNvckhEbW5RWmFwVlZ1NjMzd0tjei0zVUZOdFExTkREaUU1VnNBZTlOeVFLb19tY0RtbGEtWUxWRlJMRWpweDVnT1pTRGhQOFFDMlpTZzE5dkxNU1NRWmFGc1IwV3BxdXpGMDF5RDJ3N2hBMXJiTWJHSVIzLWlFUlAtUVF3eExfaDg0cGtQVU5XRWdOSnI3Q0VGZkVMd3g?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 09:45:22 GMT",
+      "source": ""
+    },
+    {
+      "title": "Shell (NYSE:SHEL) Stock Passes Above 200 Day Moving Average - Should You Sell? - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc05JUHZkRk0zRGdINVpzcDczeHFnbXRBUHVuYVdFRUJOdGpId3N5VVB5VXVqY0FsU2dFRXZCTFQ1RklVNGNUZHhCZU1pZFQ5X3pMb09rS0tZMkpTM1JTa1BweVU0MDczekMyWUgzdlhrRk5KMDhzM0ZEUWhUNzZoVThfeUJicDluS3hVcU11a0R1M2hrc1RyUmFhQk04X3FoaWJ5ckFRY3ZsRk9oMkUyc3RMNjE5Yjg3Wl9JR3JScEpLTXNk?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Shell (SHEL) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNREdUREFtQVlqdGZQNnJrdnZiWmltOWJxc3A5QUZqZkRULU9KR1J4Z2JBWU9heDJpOUVkQk9kX1NLQ2xGQ0JWZTJuV09kZ0JYZmlnX0FpcTVFT203NG4zcGkyTkt3RmJqM1dtMGhjdnExdjg4MUJqeDBVb1VEdXFodjNMeTNmcFQyVWk4c0h5eEtINUs1WUFSSXRaTQ?oc=5",
+      "pubDate": "Tue, 14 Apr 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "See what \u00a310,000 invested in Shell shares 1 month ago is worth now - The Twelfth Magpie",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ0RTY2hCMFpVTmtSQzBNamtDS3JqZHZpVFRPRmFVaEU5RFFNcTlOVURNaHRKeDlGUnZ6a0xNU2hoNnFLUmNpZzhScGFRSmd5VVRTVjZiS1ppVTRNeDJRZWwtMnpZSWhIY1lIeUV3MlM0NG9WZmlDTGdnNEhtcFhzVUhRaFBNTW4taERyeHNRZXVucUhzb1pOWnJKMm03cUZ6LVpYT2Q4eFhFZw?oc=5",
+      "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Down 10% to under \u00a333! Is Shell\u2019s share price just too cheap for me to ignore? - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oLTMwTWtrUy0yeWkzLTdaR0RZS3gwUzg2SmZLYWZuclJIeE5qTzN6MVYxb1h2eUFRcVFsNXBhWFcxVlJNZUV2T2JXQmtDWVdoREdzQTU4TWNsOW50U0hma3FWM3JDM3lFQzdUd1h3ZHIzNDQzVkVtWm9HZw?oc=5",
+      "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Shell cancels more shares in latest June buyback round - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SdTUzcmItVWxvelN3eHFKbWFseGVCZ0Q1bGwyWGR2dWNfeHBDVTQtQ2tJXzAyTWpwWXB0Z0puTlNfWnlyeW5tZFVyckY2UndhZlVuY1BYb2U1YXRjYkRuS3ZSLVN6ZkNRa1EzeUFock52eC1SMklLcDNNOERPUQ?oc=5",
+      "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Shell PLC-ADR (NYSE:SHEL): A Top Dividend Stock with Strong Fundamentals and Sustainable Yield - ChartMill",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQWFxV3BUa0ZSSVYzU29kX2pka1hwM3hTUVBjMUU4eFY2RThsaFhkNGZ0Y3dBRjMtQlJUck5lN1hfcmExMUlzaWF4Wm1QbEYzVXFYTVJJNE1JbkVLMTl0QzY4S2pJaXNiYVZZb2lCNGFScUhxRFlsR19LRUlTNXZ4aG5zSVdjbVlaamwtMGdvbEw1YktVOFJEbmFyS0dlek9zTkZvclVQbzNHWHpWdDJKcWV6bnI2VHViLU92aEVsNklWWjY4N2Z6S0FkektHdWRuRXhrT1hMNVZLUQ?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Shell Plc Stock 12\u2011Month Price Target Cut to GBX 3727.16, Implies 28% Upside - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOODdRckUzZ0hocHVHUmlJM3FTQkhnbFhCbDJiVU9NNU90aXFVam1LRExBZkt0dU45ZTZRMVpibjU3Mk9PbHZtWkY4cWx5QUk4bU9GTEZ0ZVRjZkJ3MFVDd3VOLVRnMngtZ25DRjNBVXVzMjBBTmR0YTJzSTk5S2xxZWM3WkZyeWJJelo4YkxPcWwwOTYwa0tuRWlwcUs1SFZTT2lYNDlvUHVPaVJ1Mnljazg0dHhTOGVLS21nM3o0OXpqTGpIZk1vcEY1S2dDVmdpQ3c?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "How To Buy Shell (SHEL) Stocks & Shares - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUEhRbHpScmE5Qy1PWmFYcnMteVJwamNORTdjNkpEMEVjMzd1M1doVXZ3cW9XbmQzOWFvTWJqLVVwRnlNTFMzU200eFo1VVdvc1pPSUtQRjlmaWtKWDdPWm1TeFZSOFBCalJYcnpOdmYtc290TFV5U3hvRnVNYW5PMFgtSEVyR2s?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Shell PLC Stock (SHEL) Moved Up by 3.25% on Jul 7: Drivers Behind the Movement - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQnBKOWtrUWRJYzYtMW5SNzRZNXN2VnVQY3dlc2VfUEFRcHZvUHJTVDk2ZnZXOUJ4WjJXZUw5dlJpSWtSRkpvaTNGWGJGc0pXTjI0cWVQTEV3V3JBb0JhZFQxa0E1OVJZTkU1LWRvWXJRdkxCb2kzenNuak9XamU5dTZNUTRadVpUdzkw?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Shell continues buyback program, with Morgan Stanley trading to May 1 - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53ZWszR01McVpYLWd5M0NsZUxtWlZ1Qm84ZUQxdENKN1BENFd2NXI3dVpsNkNnMTFRNXZsS09GdDNLam5uMUxLMk1QeDZaY2R3cGZLdDF2S3pRZ3hZTDlYNWNHWWh1bTVGOWtWUGJ0bnZSOUxteGJ4eW1MMXNIdw?oc=5",
+      "pubDate": "Tue, 07 Apr 2026 16:44:46 GMT",
+      "source": ""
+    },
+    {
+      "title": "Shell buys shares on LSE, Chi-X and XAMS for cancellation - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54b2RBelNEOVduMHVsZGtEUDdLenhSRnA0TzJCdzM5Rl9uaXh3YXNKdXIzNkMwVFZRYjlYSjd1ZVdxeWgtVjBmcDU5M3kyZ08zdERNSEQ5Y1Y3c2RtYnJ1SF9CekxJZGszM2gwUVhPT3NnTUYtMDVpQWpWZTJ3Zw?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 09:37:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "Shell PLC Stock 12\u2011Month Price Target Raised to $98.94, Implies 12% Upside - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa0dpa0Y1YnJJZ0xJYnl6ZUtHcTBnQnRyNTJTNFJkLU9xbTNZam5MS0pueTNEaXJWTUdvV0s3dkp3U0dDSGY5b0FVZ00tZTBwTmpSNk1jdlZhd1ZnUU5WZHVuUXZOeUFqYXRlYXJjenNzbHhOQk9VYVlBRGR4dVpJNGtUbzNYRVp2UXlvbjRNOVZDclZUX1lKNm5SZXZGd2JiRGVNTl9wYlhqQ3N3LTVXdXV2UC1DcVF2MWplT3NGVk9vOEYtVHBwUGt1bUk3Zw?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 22:20:34 GMT",
+      "source": ""
+    },
+    {
+      "title": "Shell Shares Rise After Higher Q2 Results - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWnNRZ09iSHJZNllqQUFjei1XLVJieFE4Mkg2X1RoMVBrQUdMRjNYeTZES3NQdzhralNxRnY2RHZhd1QxdjNnZ05IMVZ1TnctQV9QWDVUeE1UVVFaMXJVRk85c2xtRWYzVnZCU1NuYlI0QlQwNlo4NTZfdlBIOTZxcEZoWUtPWndZRWlZdm5ZRGtuU1J1SXlxS2JR?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 19:33:13 GMT",
+      "source": ""
+    },
+    {
+      "title": "Why Is Shell Stock Gaining Thursday? - Shell (NYSE:SHEL) - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVFlLRlYxdC01SXJyQzgzOTJRdWNyRkV6c0RFaGtUM3FCd0tHWEZNLVNTNExVYUgwNDU5T1Jpc291dW5FSmROcG55TFhJSjZacGtkdUNJOThkaGRxN3VXVS03eU1kRDNvX05HemltNVYteTkzTTRheFVXb2tjUlhXTlJwSDlBQjFjLTJKbV9Bc29Mc1JLTjBQdERQR1VPOFBFdXBtS0hpcTJxWkk?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 13:24:41 GMT",
+      "source": ""
+    },
+    {
+      "title": "Shell (SHEL) declares Q2 2026 dividend and starts multi-billion share buyback - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVnhpWm9UZlJDWEdPZmhkY2MzOFkzU1VxT21paHJXaVVHWGRiczZvdjFnaXUxVGFtaFJkc2RJTjhHbFdtMnlJblE1VVhXd3J1RG9kQUpxZzJmaXQyLWFpQ2lveERtd1dTcUpiODUzbk13ME9oNUpjUm1DWVZxYUVieHowQUQxRnZZaHZQb05oMDlVd3ZzdHpWVGhCLTNkUVNQcGJ6b25Zbm0?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 12:10:07 GMT",
+      "source": ""
+    },
+    {
+      "title": "Shell Unveils New $3 Billion Buyback as First-half Income Jumps on Higher Fuel Prices - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNVp1WUtwaF90LVZSMUVjSmVwSUVjTEVVNW9wR1JCX19yamF0bzJBUlJrczRrVzhna21Za3ZSeXhUMUQ1ck5zZVhaalQyaFN3MUVzQkF3V0c5Q2l4U2NmSHh1WDl2aDRKck9udTBkbWdDbXJDX2YyeUZMWHFya29QZE5tLTd1T2M?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 08:53:40 GMT",
+      "source": ""
+    },
+    {
+      "title": "SHEL|Shell PLC|Price:91.250|Chg%:+0.740 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uOWF4dXhCc0dBa0Y2SHpFNzJ2VnRIX01SUGNmM0NoQnhmLVpuNndHekdIcUVYX0taQ255bUZrX21JZDdSX0xMUElpQlV0UzRFUFJCZEI1T05nelBrUS1XUmlMam0xLTJHTVlHWVp3?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "source": ""
+    },
+    {
+      "title": "SHEL|Shell PLC|Price:91.980|Chg%:+1.480 - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04aXFSaE9sdm9mUGpGMC1yTTktVnhyODRULUdJRlUxaHZCSHJYNDBNQkM5VS1QQ1pUa1VqTXUyaU9KcXg3YlRHenRxbmk3cHVuRWJPV09OdWhVZw?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "source": ""
+    }
+  ],
+  "prices": [
+    {
+      "date": "2026-02-04",
+      "close": 78.79
+    },
+    {
+      "date": "2026-02-05",
+      "close": 74.63
+    },
+    {
+      "date": "2026-02-06",
+      "close": 75.29
+    },
+    {
+      "date": "2026-02-09",
+      "close": 77.8
+    },
+    {
+      "date": "2026-02-10",
+      "close": 77.9
+    },
+    {
+      "date": "2026-02-11",
+      "close": 80.23
+    },
+    {
+      "date": "2026-02-12",
+      "close": 78.22
+    },
+    {
+      "date": "2026-02-13",
+      "close": 78.77
+    },
+    {
+      "date": "2026-02-17",
+      "close": 77.94
+    },
+    {
+      "date": "2026-02-18",
+      "close": 79.87
+    },
+    {
+      "date": "2026-02-19",
+      "close": 80.38
+    },
+    {
+      "date": "2026-02-20",
+      "close": 79.78
+    },
+    {
+      "date": "2026-02-23",
+      "close": 79.97
+    },
+    {
+      "date": "2026-02-24",
+      "close": 80.78
+    },
+    {
+      "date": "2026-02-25",
+      "close": 82.28
+    },
+    {
+      "date": "2026-02-26",
+      "close": 81.18
+    },
+    {
+      "date": "2026-02-27",
+      "close": 83.51
+    },
+    {
+      "date": "2026-03-02",
+      "close": 84.22
+    },
+    {
+      "date": "2026-03-03",
+      "close": 82.33
+    },
+    {
+      "date": "2026-03-04",
+      "close": 82.7
+    },
+    {
+      "date": "2026-03-05",
+      "close": 82.94
+    },
+    {
+      "date": "2026-03-06",
+      "close": 84.7
+    },
+    {
+      "date": "2026-03-09",
+      "close": 85.59
+    },
+    {
+      "date": "2026-03-10",
+      "close": 85.11
+    },
+    {
+      "date": "2026-03-11",
+      "close": 87.4
+    },
+    {
+      "date": "2026-03-12",
+      "close": 88.36
+    },
+    {
+      "date": "2026-03-13",
+      "close": 89.43
+    },
+    {
+      "date": "2026-03-16",
+      "close": 90.48
+    },
+    {
+      "date": "2026-03-17",
+      "close": 91.97
+    },
+    {
+      "date": "2026-03-18",
+      "close": 92.75
+    },
+    {
+      "date": "2026-03-19",
+      "close": 91.19
+    },
+    {
+      "date": "2026-03-20",
+      "close": 90.44
+    },
+    {
+      "date": "2026-03-23",
+      "close": 90.71
+    },
+    {
+      "date": "2026-03-24",
+      "close": 91.12
+    },
+    {
+      "date": "2026-03-25",
+      "close": 91.88
+    },
+    {
+      "date": "2026-03-26",
+      "close": 92.16
+    },
+    {
+      "date": "2026-03-27",
+      "close": 92.17
+    },
+    {
+      "date": "2026-03-30",
+      "close": 92.74
+    },
+    {
+      "date": "2026-03-31",
+      "close": 93.0
+    },
+    {
+      "date": "2026-04-01",
+      "close": 92.03
+    },
+    {
+      "date": "2026-04-02",
+      "close": 93.1
+    },
+    {
+      "date": "2026-04-06",
+      "close": 93.64
+    },
+    {
+      "date": "2026-04-07",
+      "close": 94.15
+    },
+    {
+      "date": "2026-04-08",
+      "close": 92.01
+    },
+    {
+      "date": "2026-04-09",
+      "close": 91.09
+    },
+    {
+      "date": "2026-04-10",
+      "close": 92.21
+    },
+    {
+      "date": "2026-04-13",
+      "close": 92.6
+    },
+    {
+      "date": "2026-04-14",
+      "close": 91.36
+    },
+    {
+      "date": "2026-04-15",
+      "close": 89.84
+    },
+    {
+      "date": "2026-04-16",
+      "close": 91.5
+    },
+    {
+      "date": "2026-04-17",
+      "close": 87.81
+    },
+    {
+      "date": "2026-04-20",
+      "close": 88.0
+    },
+    {
+      "date": "2026-04-21",
+      "close": 88.66
+    },
+    {
+      "date": "2026-04-22",
+      "close": 89.49
+    },
+    {
+      "date": "2026-04-23",
+      "close": 89.27
+    },
+    {
+      "date": "2026-04-24",
+      "close": 89.13
+    },
+    {
+      "date": "2026-04-27",
+      "close": 86.91
+    },
+    {
+      "date": "2026-04-28",
+      "close": 87.59
+    },
+    {
+      "date": "2026-04-29",
+      "close": 88.91
+    },
+    {
+      "date": "2026-04-30",
+      "close": 90.67
+    },
+    {
+      "date": "2026-05-01",
+      "close": 88.98
+    },
+    {
+      "date": "2026-05-04",
+      "close": 89.26
+    },
+    {
+      "date": "2026-05-05",
+      "close": 89.71
+    },
+    {
+      "date": "2026-05-06",
+      "close": 87.2
+    },
+    {
+      "date": "2026-05-07",
+      "close": 84.24
+    },
+    {
+      "date": "2026-05-08",
+      "close": 83.97
+    },
+    {
+      "date": "2026-05-11",
+      "close": 85.36
+    },
+    {
+      "date": "2026-05-12",
+      "close": 85.35
+    },
+    {
+      "date": "2026-05-13",
+      "close": 84.93
+    },
+    {
+      "date": "2026-05-14",
+      "close": 84.51
+    },
+    {
+      "date": "2026-05-15",
+      "close": 85.36
+    },
+    {
+      "date": "2026-05-18",
+      "close": 88.59
+    },
+    {
+      "date": "2026-05-19",
+      "close": 88.46
+    },
+    {
+      "date": "2026-05-20",
+      "close": 86.72
+    },
+    {
+      "date": "2026-05-21",
+      "close": 86.93
+    },
+    {
+      "date": "2026-05-22",
+      "close": 85.71
+    },
+    {
+      "date": "2026-05-26",
+      "close": 85.03
+    },
+    {
+      "date": "2026-05-27",
+      "close": 83.81
+    },
+    {
+      "date": "2026-05-28",
+      "close": 83.83
+    },
+    {
+      "date": "2026-05-29",
+      "close": 84.12
+    },
+    {
+      "date": "2026-06-01",
+      "close": 85.41
+    },
+    {
+      "date": "2026-06-02",
+      "close": 86.82
+    },
+    {
+      "date": "2026-06-03",
+      "close": 86.77
+    },
+    {
+      "date": "2026-06-04",
+      "close": 86.73
+    },
+    {
+      "date": "2026-06-05",
+      "close": 85.4
+    },
+    {
+      "date": "2026-06-08",
+      "close": 86.65
+    },
+    {
+      "date": "2026-06-09",
+      "close": 85.43
+    },
+    {
+      "date": "2026-06-10",
+      "close": 86.05
+    },
+    {
+      "date": "2026-06-11",
+      "close": 85.85
+    },
+    {
+      "date": "2026-06-12",
+      "close": 85.66
+    },
+    {
+      "date": "2026-06-15",
+      "close": 82.61
+    },
+    {
+      "date": "2026-06-16",
+      "close": 82.25
+    },
+    {
+      "date": "2026-06-17",
+      "close": 80.38
+    },
+    {
+      "date": "2026-06-18",
+      "close": 78.81
+    },
+    {
+      "date": "2026-06-22",
+      "close": 79.66
+    },
+    {
+      "date": "2026-06-23",
+      "close": 79.51
+    },
+    {
+      "date": "2026-06-24",
+      "close": 77.7
+    },
+    {
+      "date": "2026-06-25",
+      "close": 77.33
+    },
+    {
+      "date": "2026-06-26",
+      "close": 76.53
+    },
+    {
+      "date": "2026-06-29",
+      "close": 76.89
+    },
+    {
+      "date": "2026-06-30",
+      "close": 77.54
+    },
+    {
+      "date": "2026-07-01",
+      "close": 76.57
+    },
+    {
+      "date": "2026-07-02",
+      "close": 78.02
+    },
+    {
+      "date": "2026-07-06",
+      "close": 78.14
+    },
+    {
+      "date": "2026-07-07",
+      "close": 81.99
+    },
+    {
+      "date": "2026-07-08",
+      "close": 82.24
+    },
+    {
+      "date": "2026-07-09",
+      "close": 81.4
+    },
+    {
+      "date": "2026-07-10",
+      "close": 82.23
+    },
+    {
+      "date": "2026-07-13",
+      "close": 83.98
+    },
+    {
+      "date": "2026-07-14",
+      "close": 84.41
+    },
+    {
+      "date": "2026-07-15",
+      "close": 84.64
+    },
+    {
+      "date": "2026-07-16",
+      "close": 85.08
+    },
+    {
+      "date": "2026-07-17",
+      "close": 87.32
+    },
+    {
+      "date": "2026-07-20",
+      "close": 86.2
+    },
+    {
+      "date": "2026-07-21",
+      "close": 87.2
+    },
+    {
+      "date": "2026-07-22",
+      "close": 87.77
+    },
+    {
+      "date": "2026-07-23",
+      "close": 87.95
+    },
+    {
+      "date": "2026-07-24",
+      "close": 88.38
+    },
+    {
+      "date": "2026-07-27",
+      "close": 86.37
+    },
+    {
+      "date": "2026-07-28",
+      "close": 86.2
+    },
+    {
+      "date": "2026-07-29",
+      "close": 88.34
+    },
+    {
+      "date": "2026-07-30",
+      "close": 90.51
+    },
+    {
+      "date": "2026-07-31",
+      "close": 91.98
+    },
+    {
+      "date": "2026-08-03",
+      "close": 91.08
+    },
+    {
+      "date": "2026-08-04",
+      "close": 90.09
+    }
+  ],
+  "meta": {
+    "currency": "USD",
+    "symbol": "SHEL",
+    "exchangeName": "NYQ",
+    "fullExchangeName": "NYSE",
+    "instrumentType": "EQUITY",
+    "firstTradeDate": 447949800,
+    "regularMarketTime": 1785871163,
+    "hasPrePostMarketData": true,
+    "gmtoffset": -14400,
+    "timezone": "EDT",
+    "exchangeTimezoneName": "America/New_York",
+    "regularMarketPrice": 90.095,
+    "fiftyTwoWeekHigh": 94.9,
+    "fiftyTwoWeekLow": 68.625,
+    "regularMarketDayHigh": 90.405,
+    "regularMarketDayLow": 88.99,
+    "regularMarketVolume": 7519981,
+    "longName": "Shell plc",
+    "shortName": "Shell PLC",
+    "chartPreviousClose": 78.79,
+    "priceHint": 2,
+    "currentTradingPeriod": {
+      "pre": {
+        "timezone": "EDT",
+        "end": 1785850200,
+        "start": 1785830400,
+        "gmtoffset": -14400
+      },
+      "regular": {
+        "timezone": "EDT",
+        "end": 1785873600,
+        "start": 1785850200,
+        "gmtoffset": -14400
+      },
+      "post": {
+        "timezone": "EDT",
+        "end": 1785888000,
+        "start": 1785873600,
+        "gmtoffset": -14400
+      }
+    },
+    "dataGranularity": "1d",
+    "range": "6mo",
+    "validRanges": [
+      "1d",
+      "5d",
+      "1mo",
+      "3mo",
+      "6mo",
+      "1y",
+      "2y",
+      "5y",
+      "10y",
+      "ytd",
+      "max"
+    ]
+  }
+}
