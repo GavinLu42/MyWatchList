@@ -174,6 +174,31 @@
     margin: 6px 0 2px;
   }
 
+  .range-tabs {
+    display: flex;
+    gap: 6px;
+    margin-bottom: 12px;
+  }
+
+  .range-tab {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    color: var(--muted);
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 5px 12px;
+    cursor: pointer;
+  }
+
+  .range-tab:hover { color: var(--text); }
+
+  .range-tab.active {
+    color: var(--accent);
+    border-color: var(--accent);
+    background: var(--panel-alt);
+  }
+
   .chart-wrap {
     background: var(--panel);
     border: 1px solid var(--border);
@@ -221,6 +246,45 @@
     font-family: var(--font-mono);
     font-size: 11px;
     color: var(--muted);
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .news-badge {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    padding: 1px 6px;
+    border-radius: 4px;
+    border: 1px solid var(--border);
+  }
+
+  .news-badge.company { color: var(--accent); border-color: var(--accent); }
+  .news-badge.sector { color: #C58AF9; border-color: #C58AF9; }
+
+  .news-filter {
+    display: flex;
+    gap: 6px;
+    margin-bottom: 14px;
+  }
+
+  .news-filter button {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--muted);
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 4px 10px;
+    cursor: pointer;
+  }
+
+  .news-filter button.active {
+    color: var(--text);
+    border-color: var(--accent);
+    background: var(--panel-alt);
   }
 
   .empty-state {
@@ -268,6 +332,11 @@
         <div id="selected-change" class="ribbon-change"></div>
       </div>
     </div>
+    <div class="range-tabs" id="range-tabs">
+      <div class="range-tab" data-range="5D">5D</div>
+      <div class="range-tab" data-range="3M">3M</div>
+      <div class="range-tab" data-range="1Y">1Y</div>
+    </div>
     <div class="chart-wrap">
       <canvas id="priceChart"></canvas>
     </div>
@@ -276,6 +345,11 @@
   <section class="panel news-panel">
     <h2>Recent news</h2>
     <div class="subtitle">Newest first · links only</div>
+    <div class="news-filter" id="news-filter">
+      <button data-cat="all" class="active">All</button>
+      <button data-cat="company">Company</button>
+      <button data-cat="sector">Sector</button>
+    </div>
     <div class="news-list" id="news-list"></div>
   </section>
 </main>
@@ -283,7 +357,7 @@
 <footer id="footer-note">Loading…</footer>
 
 <script>
-const state = { tickers: [], data: {}, selected: null, chart: null };
+const state = { tickers: [], data: {}, selected: null, chart: null, range: '3M', newsFilter: 'all' };
 
 async function loadJSON(path) {
   const res = await fetch(path, { cache: 'no-store' });
@@ -294,6 +368,12 @@ async function loadJSON(path) {
 function fmtChange(pct) {
   const sign = pct > 0 ? '+' : '';
   return `${sign}${pct.toFixed(2)}%`;
+}
+
+function sliceRange(prices, range) {
+  const counts = { '5D': 5, '3M': 63, '1Y': prices.length };
+  const n = counts[range] ?? prices.length;
+  return prices.slice(-n);
 }
 
 function sparklinePath(prices, w, h) {
@@ -320,7 +400,7 @@ function renderRibbon() {
   ribbon.innerHTML = '';
   state.tickers.forEach(t => {
     const d = state.data[t.symbol];
-    const prices = d?.prices || [];
+    const prices = sliceRange(d?.prices || [], '3M');
     const last = prices[prices.length - 1]?.close;
     const change = pctChange(prices);
     const trendClass = change >= 0 ? 'up' : 'down';
@@ -346,8 +426,10 @@ function renderRibbon() {
 function renderMain() {
   const t = state.tickers.find(t => t.symbol === state.selected);
   const d = state.data[state.selected] || {};
-  const prices = d.prices || [];
-  const news = d.news || [];
+  const allPrices = d.prices || [];
+  const prices = sliceRange(allPrices, state.range);
+  const allNews = d.news || [];
+  const news = state.newsFilter === 'all' ? allNews : allNews.filter(n => n.category === state.newsFilter);
 
   document.getElementById('selected-name').textContent = t?.name || state.selected;
   document.getElementById('selected-symbol').textContent = state.selected;
@@ -356,8 +438,12 @@ function renderMain() {
   const change = pctChange(prices);
   document.getElementById('selected-price').textContent = last != null ? last.toFixed(2) : '—';
   const changeEl = document.getElementById('selected-change');
-  changeEl.textContent = prices.length ? fmtChange(change) + ' (6mo)' : '';
+  changeEl.textContent = prices.length ? fmtChange(change) + ` (${state.range})` : '';
   changeEl.className = 'ribbon-change ' + (change >= 0 ? 'up' : 'down');
+
+  document.querySelectorAll('#range-tabs .range-tab').forEach(el => {
+    el.classList.toggle('active', el.dataset.range === state.range);
+  });
 
   const ctx = document.getElementById('priceChart');
   const lineColor = change >= 0 ? '#34C77B' : '#E5484D';
@@ -371,7 +457,7 @@ function renderMain() {
         borderColor: lineColor,
         backgroundColor: lineColor + '22',
         fill: true,
-        pointRadius: 0,
+        pointRadius: state.range === '5D' ? 3 : 0,
         borderWidth: 2,
         tension: 0.15,
       }]
@@ -387,6 +473,10 @@ function renderMain() {
     }
   });
 
+  document.querySelectorAll('#news-filter button').forEach(el => {
+    el.classList.toggle('active', el.dataset.cat === state.newsFilter);
+  });
+
   const newsList = document.getElementById('news-list');
   if (!news.length) {
     newsList.innerHTML = `<div class="empty-state">No news collected for this ticker yet. It'll appear after the next scheduled update.</div>`;
@@ -394,7 +484,10 @@ function renderMain() {
     newsList.innerHTML = news.map(n => `
       <a class="news-item" href="${n.link}" target="_blank" rel="noopener">
         <div class="news-title">${n.title}</div>
-        <div class="news-meta">${n.source || ''} ${n.pubDate ? '· ' + n.pubDate : ''}</div>
+        <div class="news-meta">
+          <span class="news-badge ${n.category || 'company'}">${n.category || 'company'}</span>
+          ${n.source || ''} ${n.pubDate ? '· ' + n.pubDate : ''}
+        </div>
       </a>
     `).join('');
   }
@@ -405,6 +498,20 @@ function selectTicker(symbol) {
   renderRibbon();
   renderMain();
 }
+
+document.getElementById('range-tabs').addEventListener('click', (e) => {
+  const el = e.target.closest('.range-tab');
+  if (!el) return;
+  state.range = el.dataset.range;
+  renderMain();
+});
+
+document.getElementById('news-filter').addEventListener('click', (e) => {
+  const el = e.target.closest('button');
+  if (!el) return;
+  state.newsFilter = el.dataset.cat;
+  renderMain();
+});
 
 async function init() {
   try {

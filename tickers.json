@@ -1,9 +1,9 @@
 [
-  { "symbol": "FXAIX", "name": "Fidelity 500 Index Fund",              "newsQuery": "FXAIX Fidelity 500 Index Fund" },
-  { "symbol": "FSAGX", "name": "Fidelity Select Gold Portfolio",       "newsQuery": "FSAGX Fidelity gold fund" },
-  { "symbol": "SMH",   "name": "VanEck Semiconductor ETF",             "newsQuery": "SMH semiconductor ETF" },
-  { "symbol": "CVS",   "name": "CVS Health",                          "newsQuery": "CVS Health stock" },
-  { "symbol": "SHEL",  "name": "Shell plc",                           "newsQuery": "Shell plc stock" },
-  { "symbol": "ARE",   "name": "Alexandria Real Estate Equities",      "newsQuery": "Alexandria Real Estate Equities stock" },
-  { "symbol": "TMO",   "name": "Thermo Fisher Scientific",             "newsQuery": "Thermo Fisher Scientific stock" }
+  { "symbol": "FXAIX", "name": "Fidelity 500 Index Fund",         "newsQuery": "FXAIX Fidelity 500 Index Fund", "sectorQuery": "S&P 500 stock market" },
+  { "symbol": "FSAGX", "name": "Fidelity Select Gold Portfolio",  "newsQuery": "FSAGX Fidelity gold fund",      "sectorQuery": "gold mining industry" },
+  { "symbol": "SMH",   "name": "VanEck Semiconductor ETF",        "newsQuery": "SMH semiconductor ETF",         "sectorQuery": "semiconductor industry" },
+  { "symbol": "CVS",   "name": "CVS Health",                     "newsQuery": "CVS Health stock",              "sectorQuery": "pharmacy healthcare retail industry" },
+  { "symbol": "SHEL",  "name": "Shell plc",                      "newsQuery": "Shell plc stock",               "sectorQuery": "oil and gas industry" },
+  { "symbol": "ARE",   "name": "Alexandria Real Estate Equities", "newsQuery": "Alexandria Real Estate Equities stock", "sectorQuery": "life science lab real estate industry" },
+  { "symbol": "TMO",   "name": "Thermo Fisher Scientific",        "newsQuery": "Thermo Fisher Scientific stock", "sectorQuery": "life sciences diagnostics industry" }
 ]

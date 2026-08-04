@@ -20,8 +20,9 @@ from datetime import datetime, timezone
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TICKERS_FILE = os.path.join(ROOT, "tickers.json")
 DATA_DIR = os.path.join(ROOT, "data")
-MAX_NEWS = 40
-PRICE_RANGE = "6mo"  # yahoo chart range param, e.g. 1mo/3mo/6mo/1y/5y
+MAX_COMPANY_NEWS = 30
+MAX_SECTOR_NEWS = 20
+PRICE_RANGE = "1y"  # fetched once; frontend slices this into 5D/3M/1Y views
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; PersonalNewsTracker/1.0)"}
 
@@ -32,7 +33,7 @@ def fetch(url):
         return r.read()
 
 
-def fetch_news(query):
+def fetch_news(query, category):
     q = urllib.parse.quote(query)
     url = f"https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"
     root = ET.fromstring(fetch(url))
@@ -44,7 +45,7 @@ def fetch_news(query):
         source_el = item.find("{https://news.google.com/rss}source")
         source = source_el.text.strip() if source_el is not None and source_el.text else ""
         if title and link:
-            items.append({"title": title, "link": link, "pubDate": pub, "source": source})
+            items.append({"title": title, "link": link, "pubDate": pub, "source": source, "category": category})
     return items
 
 
@@ -80,7 +81,8 @@ def main():
 
     for t in tickers:
         symbol = t["symbol"]
-        query = t.get("newsQuery", symbol)
+        company_query = t.get("newsQuery", symbol)
+        sector_query = t.get("sectorQuery")
         path = os.path.join(DATA_DIR, f"{symbol}.json")
 
         existing = {"news": [], "prices": [], "meta": {}}
@@ -88,11 +90,16 @@ def main():
             with open(path) as f:
                 existing = json.load(f)
 
+        new_items = []
         try:
-            new_items = fetch_news(query)
+            new_items += fetch_news(company_query, "company")
         except Exception as e:
-            new_items = []
-            print(f"[news] failed for {symbol}: {e}")
+            print(f"[news:company] failed for {symbol}: {e}")
+        if sector_query:
+            try:
+                new_items += fetch_news(sector_query, "sector")
+            except Exception as e:
+                print(f"[news:sector] failed for {symbol}: {e}")
 
         seen = {n["link"] for n in existing.get("news", [])}
         merged = list(existing.get("news", []))
@@ -101,7 +108,11 @@ def main():
                 merged.append(n)
                 seen.add(n["link"])
         merged.sort(key=lambda n: n.get("pubDate", ""), reverse=True)
-        merged = merged[:MAX_NEWS]
+
+        # keep the newest N of each category rather than one list swamping the other
+        company_items = [n for n in merged if n.get("category") == "company"][:MAX_COMPANY_NEWS]
+        sector_items = [n for n in merged if n.get("category") == "sector"][:MAX_SECTOR_NEWS]
+        merged = sorted(company_items + sector_items, key=lambda n: n.get("pubDate", ""), reverse=True)
 
         try:
             prices, meta = fetch_prices(symbol)
