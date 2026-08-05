@@ -1,7 +1,7 @@
 {
   "symbol": "SMH",
   "name": "VanEck Semiconductor ETF",
-  "updated": "2026-08-04T23:10:28.490623+00:00",
+  "updated": "2026-08-05T23:09:10.326224+00:00",
   "news": [
     {
       "title": "SIA: Global Semiconductor Market Set to Reach $1.5 Trillion - Electropages",
@@ -18,9 +18,23 @@
       "category": "sector"
     },
     {
+      "title": "Investing In Semiconductor ETFs And Stocks - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZkFpYjhtTXAyRFBNaVRXZWNqMnljWXpOQ0JlckFGQ255dVpXZzRBcHBxdmxPX0lORU5zR2ZRV0JCczRwZXF6T3FUTUxMb0tWdVozTGw2bTFycU5SNV9FTHhZSFJKSWZ1NmZkNEM2TUZCVTM4eTVnNjBDRXRHUXdPM01R?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 07:10:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "The Semiconductor Industry Redefined by AI - Fujitsu Global",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWlJOc3A3MnBRakE5OTVOT01WTFZsenpDTUFvaEdXTXFCYWpmOW44dElnOVQySE1CdHZ0aGlsZm1UN3oxalE2YVZIZXBkLVpzZE4yc09NaERGclBtWWZPMGpzZ2hsbjhic1UxOWdEaEhkSWtDS0F6OVc4dldfaG1CMXc5eW95RE0xMk9Qa2hBc19OMTU2YUJaZ08xTi1scWpYci1VZGRTSjlqQkdKbVpkVHV5djNaZVRXeTZzRA?oc=5",
       "pubDate": "Wed, 29 Jul 2026 04:38:43 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Ari Sulby Joins SIA Team - Semiconductor Industry Association | SIA",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51a2I2Vmd1OWdHZ01HR21vSktJdGVzSUlZZWxNWW5DUC1vcThMejRCLWRyQ3phM3FSYVcwR3FxX3NOUFBBUEU1M0haUC1MWE12NWMzNEJaMWhzcHRYVmNJT25uckhKU2c?oc=5",
+      "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
       "source": "",
       "category": "sector"
     },
@@ -95,6 +109,132 @@
       "category": "company"
     },
     {
+      "title": "Why is the Trump administration imposing new tariffs on polysilicon imports? - Latest news from Azerbaijan",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORjhaQ2VweS1TR2FWYm1FQ1lCU1lnU3F3QjBGeWx1MmVodFNTb2M2eEFXODBKeTYxVURWSDlKdFhzVFRCZ051WlUtNTRYSE9RWDhiOFFra3pid1BnZVk0MmVjQ2RlbXBOTUVXdnZoSVZqUnJqQWdNTThwRWFpaUhxWmU5R3I5eG9QX3B5eDdxVlpwR20yNncxeXhvUUg?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 20:52:28 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Engineered atomic interface opens a new path for atomically thin transistors - Tech Xplore",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdFFjLUJQRkY5MzNCU25QVGwzOXI5SnVONVpTRHB4SkRsbHl0ei1uMFQwdk1uTkxRMDQyQ21venFCTXF5aC1sMnlNRTYxZWNCYm5HMS1oTnZ4YnFQazVvLXQwRlcyeFVFQ1ZISGMzZllYWkFqTDNxS1NhRGJMUThFVjltSC0?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 20:20:07 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "GlobalFoundries Acquires Integrated Voltage Regulator IP - Semiecosystem",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sOEQxU1FZYjBXOFJhXzU0aXRObEdxVG1Hemt2LWlOLUVLYl9BZ0NreDdSMVNfUGQ1UDVqOGdReDJFMkdYYlJlTjhPOHAxMGhVcVRhVHNDb3RvNkFwc2pzald5UTd0dHB3dnZhZlBvNnUxem1obTE2c2ln?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 18:28:50 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Lam Research's Latest Earnings Report Says the AI Chip Supercycle Isn't Over. Here's Why. - aol.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWkZGZ2ZKY2dCanBXb1N1OUNfc0pNMEZvNDJVU1ZwSHZ4YkpTaThldlN4eUwtVTNoMU1Wa1UtTE5YMklTdnlvd0ZCNGcyUkszeFdMRU9hT2dEeFp3enFVOU42VHBYOVlVdDhlNjhhN1ltbTlhSXQ5X2xvdHVKOThrWEk3eWg0WTA?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 18:24:49 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Top AI Semiconductor Stocks 2026: Investment Guide & Analysis - intellectia.ai",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NRWRpVTU3bTFLMWxqaHRWbjRVMDB2eXp6QkFseUh4ZnJ0QTRjRUctYzJGVVNTTFdGZDBRYlFNMjBRNEpWaFZmQkNzWjBQSXVjSTZnLVozYUp5SHdaRDBaNUVKR0FhNTZwdWw2UXcyems0eHplWEE?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 18:11:21 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Why Chip ETFs May Be Poised for a Comeback - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbmxXLUxJTFYySzdYMzVqakl2S1YxMlgyOTN2aGNxS3BEQm5lNXREd3ByYUlUTS1VRFhRdWRPOExadU9Sb2xrOTRhSV82aGdYRTdNeUtodG9ZMTduR2hzOWl3eFlaWUFBSzJ0d0I1M2hfbmlyeHZxNTdteE94NUJGTmxoc0RXM21QTjFWek8wS1BFUmQtYW5tV0FtVHc3SVk?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 17:48:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang Said the Semiconductor Industry Could Grow to $7.9 Trillion to Support the Agentic AI Boom. Here Are 2 Stocks That Could Benefit - aol.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsMjFpYVNvUFpfSzNVSlIzZU94Qm1UOWlUdzVyTjg4RGRrZFdNcjE0b1NmYjI3VzVSNVF6SVM3TmdFVXYyQ0FVNXBpcnQ4WHl4Q0szWENISWdmS09zVXg5emdzQnVOYmpLejdvYmpGblAyOFI3M3NUWWV4Wjc?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 17:12:04 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Apple Failed to Find Fourth DRAM Supplier as 2027 Market Closes Completely - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZzBYb2xmbGtVNkQyNTJWQ1ZTV0VZd3gwWjAxVTAtNEUxNlduWEVnaFFXUmhUTEN6NmNCbkZCQnRpN1ZvVlVjaXJVSkplQnFhaEZrZFdQQlVvSU1PTGtDdjNtWDJ6aHRlVUdORHdEdy02aTFwQmk2UlFPc0VoUFdzTzBtcTR3bjFZdkMtSXJ5TjdEZURxd1BhVFIyV2tJRmJLWmJaNUxpQTkyMjZLb2Z1Q3VzRk5XMWJsYUtYV3phUDI?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 15:19:39 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Diodes earnings on deck as chip maker eyes sequential gains By Investing.com - Investing.com Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTHVFb1hmcUIzOC1JT1JUWkR0a0dVd2trZW1iN1k3VFFQMXkzbmJldEZKTVhzbGN1dUdpZzlrRVRiTmJud1Z6STJoeFpuNkhWUkl4SW45NU9mNGZzRFo0Q3U0OFJTaGQtVHpHQk50ekVLd3hXaWNRcS1qX0dDVC1sRGRLLVVCSkFIdkhzb3ZYS2pxMm5nUVJab2RhQU1EWU9ucEMyOXNGa25DZHVjanpIUg?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 15:09:20 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Chipmaker Broadcom is breaking out. How Tony Zhang is trading it - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbmxxbDE4am1PaWRSZ3BKcHFqR09zakk1LTRkRk5PQUlnMjV3VmVMM05hNlFWWFJDSmZOdG00TUhLbkw1RVR1MXJNNjVQbVdtb1k1SG0yTEowM1MzZGVfT0RnZUVERE1RTnl1WlFYblZJQzB2bDFSVW9BM3ktMHFpTmFUTjVwQzZpcGxLNHBLczRYZC0xM2tpTElfMUxBSmdid2c?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 14:33:38 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Advanced Micro Devices Inc Stock (AMD) Moved Down by 4.33% on Aug 5: What Investors Need To Know - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ2Q5emZ3WXBJQ3h0YTRtZzhKZ29xN1NBQUFmVFAwSkJhSTVJbmhyeF9aQVo5dHp0cXNQa2VhMkI0MWs2ZXRaUkV4QTZmMjBCeVBNVi1faFB0N1Fqd0RqRHJyXzFzRWFFLUtjNHBXU2N4MEpMX2RpdUVTZFkzOEtMazcwa05VM2ozR3c?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 14:15:30 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "SMH ETF analysis: The single most important level to watch - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYlk2SUNpbWdmZkVFMmptQk5COGVXZDFyMEhwNWU5QlViM0RuVnVyMmp6a3JVWVRXRTVNSWhiakNMZld1cmhsaXpQMWNBYU9mSHFKT01EOU4waEZ4QW1HZUMxLXJ3MmpSTmhicHNDWTFac1hGdmtrVm0zRW04Z3AwakFqd0xtYWNCOWFQQ2lVdWVqakdNNFBheGN2c2x0WDR0LWdUSlRWUXRCbVhNUHRWNEEwTTJ3MUZLNUdMZTRJbEl3bVBMdXc?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 13:44:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Safeguarding Fab Throughput with AI-Augmented Data Insights - EE Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOTJxMjZYZlN6OWdPWVA1V3JldUNYZWkwblJWelU2Wk1qcG9OZ0E0S1Rpd1BWWlhWM2hNYVhqMVhNNTdiZVIwVlV4TEVBV1lOcXByQ1pEWlh4U0k2LVpIT2xFZmJtVV9PWDF1MTh6TEFMbGFva2c4WTg0Z0ljcGdabmw2b0xtN2drbUpuSA?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 13:01:06 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "AI Chip Design Era Ends: TSMC Affiliate GUC Posts Record Revenue as Turnkey Surpasses 80% - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeFcySllXclg1bXZXVnVuelU1UnE0aHZXd1BoRERmRXlNOFpaUkxIMF84Y202VjVTUG9xZVV5WnpDX3VXVHhWSng3MUQxRmcxQlhRWVI2WEh5b0c4cGFQNkhjU1dFNmoyTFAxX3RtRHJqOVVZMHN5ZXY2d0JQR3A3TXJzcC1IblJMemdkTHhRU1JHdG5SWkExUllFNWR6dzlaT2F5YThBWGVwVW5kbHByRjAwdEZGTVpKVGpyQWNRRU1Pd3ZnNUNONDFDekRlVHg5SnRMQXpn?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 12:54:24 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Samsung unveils V10 BV-NAND with wafer bonding and 400 layers - Techzine Global",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSmFfYW4yVEFMdDdwc0Uyek1KYTZaQ21PbV9waGEtd2s1LXRSSmFHcU01VVNqcURiUXU3SXFTOGdCZTBDZlBfYmlvZ25SekNFenRFdlB4cjBZOWluTlpCQTdTN3lfTnNlelR1LUptWEZidEtEWHNWSUNDRW1maXVJS3J0TEpPUzA1ZUxadHZxZ3c1NWtoQVdZeVdBN0cxa2lHSENYdlpvMjIxRTZrWEk3LWtrRQ?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 12:27:55 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "FMS 2026: NEO Semiconductor Launches NEO.AI Memory Platform to Solve AI's Two Biggest Memory Bottlenecks - StorageNewsletter",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVFBLWXpORW9wN3NvWnNHQXBXTWdJbGFlRFN5TVN3N3NGYzhmeXpFaXhBN2RLVkUzSnd3TE5kdnNkS1JoNHpubVcwd0pZeHcyTG5OTjFSY2dFYTV0ektzM0dtdDR0RkpKNXBrby1uaTVKbWZaWW1jQndLRUlobWFUZ1BhYlkxR1JWMVRDT3htd3RoLXJUWUpCcXMwMFZobGViMlhtZjZIck1WLV9ucE5qLWw3OHFXRy1xdXBURVNFdHg1a19FVmNJYk8zaDQxblFhZTlraXJoV1JjOE5lcUttN2VB?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 12:02:44 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "RP Tech brings Japanese semiconductor engineering to strengthen India's manufacturing channel - CRN Asia",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQmNnLThmRFB4OTFxNjVzVmdJczdSLWNGNmxDaWpFeEloSnFFQmRQSzlYWlBCT045d2hGYk9iUW44VzE0ZEJOcnNIeFp2a3NHNG00cEc4LUd6QWk0cDZjQzFUWWRIOVRFWmZ5SllvWkZPd3Z0WUluZE9SQ01OekxIR0Zqb1NLbnR2ejZMdnBBTFp4Z0xGOXYtQnFubENmMlJHYnZSY2RnVHhRcDAyYm1aWS14X1RhbGFqaS1UZ3pOUl9zY1lUcU9SSFlvejl1Zw?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 11:40:51 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Best ETFs In 2026? These Four Funds Are Powering Ahead Of SPY - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQm9NUW1oOERaakhKYVlqZUp3bVd4LXpROHhFRUZFXzdLZFRuc3ZQdDNDbXlhbFg0MllrcTNGZnU0VnVfWFdQZko1ZFBfaFQwZm95UlR0UnVLRTZOOXI0bFMzSE1KZ1ExRUktdHJlWlVsMl9YeEJ5LUU5a3FIb2hfM1JyVk1WOVpIdHhEa1hUdTlhQnVQWjM0eUVOQ3JKMFhXNGZPSi1QeGZMQU9KT3ZrYnBvSzhOaHcxWXc?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 08:20:53 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "Here's Why the VanEck Semiconductor ETF Soared in May And Is a Great Way to Play AI Spending - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU2s4TG9aYmVzY3ZrR3FvMU9DWV9rUTFtNXotWmlkbl85YmQtckdBeG1jTFpBUmh4bUVkZ1hxSU9UbmVxOGlLYlpmaGZQOURWVTBRUjlTY0ZscGZZNHYyd1VQNFNaSXRNNm9XTWFMT1RabEZmMWl4WkF6RzhVUGFfakpGZVZPSzMzaVZDS3FqRVRTcl9ValA2cXdfWVpSVGRxa0lfM1h3?oc=5",
       "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT",
@@ -121,20 +261,6 @@
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
       "source": "",
       "category": "company"
-    },
-    {
-      "title": "4 Semiconductor Stocks to Buy Right Now to Ride on the AI Capex Boom - finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEo0TGQyOTllMms1aG0wY1hVVUZOVzBLNzhpUndUY2xyU1RmZ3ZBSG9CbXN2ZUtCaEl1blNhUndkVzdIX080aVd6SWlmTU1oNml1dXBnbDdZaXQ4RW9PNEM2aFlYSVVjSExDNm1tWVl3MnNfYVRFdlVBSkFNWXBERDBhVDIyd3dIXzQ4d0EydmxIclRLR3IyYU93?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "TSMC Expansion Boosts Arizona Semiconductor Industry - Signals AZ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeldva2w2ZFJqSkRSM1lXbURmRnRWTmJRUm4wX2d0a0xRcXlza21Za21EVmI0V3JJdjV3cDlnb0xVaWpPZTFJR3lRVzNVc0pjbkNZRmRRcnYxYnpseWFzc3RCSmx4MERWMFViSmxOcFZxWUFvaDQyNXdwNG1jS2hrN21sR0VVd1lfUUlVMkZ0VmR3QQ?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 23:05:52 GMT",
-      "source": "",
-      "category": "sector"
     },
     {
       "title": "VanEck Semiconductor ETF (Derivatives) Price Today | Live SMH Price, Chart & Market Data - Binance",
@@ -179,6 +305,13 @@
       "category": "company"
     },
     {
+      "title": "Semiconductor stock charts just formed this bearish shape that signals more potential losses - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaUNKVWFzTEdGWGxLWGZuNDl2ZlpBcl9XUC1lLVZkM0NzUFllYlBOc2Z6VzlqRk85aVlrVVpjVUhSLVZUQVNmNUl2NEk4S2dUcWJRcVNSV0EyMTZsNEdEM3lBMjlUNURDMld0YWtFdFVaOElRcG5oZGFMS0g2b3piUFdiTGpWdzNwWlhyUHRVTGJWNDE1Z0VZclpJWWVfbEw5akFzMXViNEVVWUl3TTh6SjYyWXFhUFFyMmdkZHh2VTJaVldRdmVuZndZT0VDeW1RRlQ1SXZYVmRCX3MyR2c2ZDBfQQ?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 08:54:41 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "Investing in Semiconductor ETFs & Stocks - VanEck",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNUdGR0hTV0VRQmNuVllqRjBzNUV3QmtVd1BrRXFWcGtiZ2xsbFN2LVhrTFNySTV4aHgyc0pSeGdNc3VGcnpMMl9RSzliajJmX3lCVmF5TDUzczFnVXBzXzgzVC1STlZ4aVVyNUluR0p5ZkdTNjJKZUk2dlR2S2pobFRySjlyc2tvN0JKRjVZQW1QcGZlamFPWlpneGxxVEh0UkYtRTVvQnotdw?oc=5",
       "pubDate": "Tue, 28 Jul 2026 07:00:00 GMT",
@@ -188,6 +321,13 @@
     {
       "title": "lets panick $VanEck Semiconductor ETF (SMH.US)$ - Moomoo",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNmh3SjdYdnZfWFdZWEN6LU9xdmt5VGNvWUZoZ3Q3UEVpd212cHpKdDdiSkxsSlI4Z0w5bHdOX3p1b1dYUDVrVkloWmpyTlB2UWt1RGlqeVNoeTdJbXZ4R08zN0RJVHczQXpLTFprYld5UTkyekVBSG9ZM0ZVdHpmdERwOWMxX2Q0NHVzeHJER2paWUVXNG81T0tETFF0QQ?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "If You'd Invested $1,000 in SMH 10 Years Ago, Here's How Much You'd Have Today - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRGNCczZMNXlnTllwQ0YtWF8xRURaWFhUWG1QQUprU2FzWWdrZHc2WWItSnRjMU85TXJudGNrYmo0QjNtWFNFMzJvQ19yakV0U0NidkI3dG9xMTl6eEJYUFpiQm9YemxzTFhQTFNQamJ4SDl2b3pEZWJwYlRJSWN3MUdFODE4TllfbF9qVFRIa185bTd4R1V4Xw?oc=5",
       "pubDate": "Tue, 28 Jul 2026 07:00:00 GMT",
       "source": "",
       "category": "company"
@@ -207,158 +347,14 @@
       "category": "company"
     },
     {
-      "title": "PFAS and the future of semiconductor manufacturing - jacobs.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUWFhS3UyT3hKS3F1UnhMSDVxM2pqSzBiSnlMbUhoS2RqbWh3UU51cnJKcl9zSXJsSGd3ZlQ5N3lncXYwVXJ6TUc4Zk1kTjNVUlNKTndnZVAwUWctS1ZJamhRQWNIemhoVG1PLVg0SmVoaS1US2FQUEpJTVFCSEl4ZmNyWDk1MHp6aWFGanZUZGstYUJZdEo5QUNn?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 18:33:52 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
       "title": "The Semiconductor Industry: Three Ways to Invest with Semiconductor ETFs - VanEck",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUThCajRJUkFnS2UzZlF4WGMtc0lqSkU4OWh5SWJRb3NwRnBtaWVIWkRId2NhTUpvZ09nSEZ4bXBCOVBvZkthWHlrUHAtOXZHUUVHX0VydUhBV1ZfYVVBcDd5bXVDTWh5V2FybGNyMkRPSjdlcnFpdy0wN250bWt0ZVlUYzNYZ3lUZldVRjVNd00yRU5GVXRYS3MtN3VpZk1tTGJPM01JVzVOUWFNd2hSN0t5cG9SdllXYnl0TzFwSHNtMzlBN1VlTE1PaWlEdUxVbUdxU2Z6d1hhLUV4?oc=5",
       "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
       "source": "",
       "category": "company"
-    },
-    {
-      "title": "SMH inflows spike as semiconductor stocks weaken, RenMac says (SMH:NASDAQ) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQUFMMmtOS0dRMFhJOHRYcGtENFBSV2RZRDNaX3NxdDVBcVk2bDVHY2FJRHpmU0dHVGFKc1JnaVJnNUFsY0tiMEZLUTNEa2t1SjhMek1jMk1FRmpjNlEzTFEtMHJyeE9KaGF3bjZreXVRWi1HSmNDZXZhcm16dWg1cDM0STN0T3FyQmRUUi1RQ3VrV005VGFVRlBHcjZwWlE?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
-      "title": "The Semiconductor Industry: Three Ways to Invest with Semiconductor ETFs - VanEck",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVFNFWmk2QjJrUk5UQ2trdFF0V3NkOGJtWmpWMUVqZ0V2a21NeDBJVXBJY1NBeXp2THBhQkYyVmJkZXAyaGxDTUpPU25GSE9DN0p0YldrYTBnYXI3OGZjLVlUQ045Vmt0Ymh4VWc4ZTVWYUQ4RWZZVnU2WUswQTRJXzdRSTVLNDMzYkRMSmZiS3E0d0prMjFjUjIwUzJOZXZpbzRiTWJzREwxRDZzb0dmVTJOTGRwSi1FX0M5U1paN2tad1p6cVdhZVNXVDVXWmVkZFlfc01KaERXUnk3?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "5 Semiconductor Stocks To Buy And 1 To Ignore - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaUxTRWN1SXVqNHFRTjRoOTlJcExTUWtMM3k4Rk9vbDlaUnNTWUwtSldVMGExcmktZWVNOG5HRk8xQWlkQXlQMUstNWlmbDBuRmVXWlczZWV5RTdOSHRmbHVvMVQtX3JkTHJCWGc5by1ZdkRLSnlONEhXMVByTmNVaFhrUmU2cmJtaXJlYUZKRlNlUjA?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Uplifting Young Talent in the Semiconductor Industry - Marvell Technology",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZXhRemV1VUwwdGtZblp0OVVBV01iQ3dBRzJMZlZOV1NQRE4wN1JlRmlVYld1ZTZqTm1UZE5SNWV6cHZCNWtkZTFZQnRxTXlfeG9MVjEtZ3FsN0hWLTJ2anhkc3FsUVg1UXVPQldCSnRRWUV0OGZLaURqZEprVEx0XzlLaHA3d3pFUjg1aXNwM2g?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 19:11:36 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Should You Invest in the VanEck Semiconductor ETF (SMH)? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNFFtdHp2ZW9CSTZFQm42XzcxRlBxRDlZUVhVSzlhaEthUkVBMnlHSGNiTWZrNG02SE5CMF9BVTU4QkhYM0ItWWxDeHVncWZvLXNDcnNsUkNPTHN1TVZSQ3RJODRzY2x5U1BmNjlKOERySzlmdGdIMzNYQ1pkMjlsSUV1SHh1RzFoemxYd2dzVjVTX2dUcFM2SHV0cXJqLWJ5VlE?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
-      "title": "Oregon State, partners receive up to $160 million federal grant to build semiconductor industry - Oregon Public Broadcasting - OPB",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMFNLQVlob09CUlA2Zng1NjI0ejZVNTQtcGtYanRZS0JhOUlpVzhJZEhGWldodURNbnRidFFXc2ZKTDRvaHcyNWU1YzJsV25yN0pYUTNhVnBSdzY2ak9fc1pxTFphTFdxV2xxeVhsOU8xWHBqSlNhV1YwZS1qQjRJNDd0T2NtNmZuV2paQzdxdTAyWERucHBVVzJLUkkwQ0h0d0lUV1FrenVleV9rYkE3RVR2NHZ2UDU5SERLcC1VUFo4akJSSTllNnFGMWRSQQ?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Oregon receives $15 million in federal funding to boost semiconductor industry - Oregon Capital Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONGFCLUtKX25uYVliR2g5T0RqbS1kQkJEeWZJN24zVnE2ckFtTUxSSmJOenR1M2JYTjB3R1hxRDVpcUs4dDFBLXV1Qm5lSFdhdEY2cVllRDBfYkRFQ250OFRpYWlyZ2pKYTgyV0pDLVZYUTFjR3hzVmVrMjFmSjhSMnpYRG84aUh6T3hraGVqakNDWnJ4VWE2Rlc3cGJvSUpjQ3ZtQkVhQkt5VGFkbWlzTU1feVVYN19zZTFrSXpfRWpRZw?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Oregon Delegation Welcomes Major Federal Investment in State\u2019s Semiconductor Industry - Merkley (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUkFldUZWNG9yRjc4NU8xUTJQcHNHZXlBZkRrdDVNZG40R3ppc1dsTWxLQXdqQjYwUFA2bkZUNkNMVXlHM0xHUFYzdHRtMjY5RWxQcE9GUkZDZnVHdlBxcFduNy1tc0NHb3N5ejJzbXR5Z0xELWx5bTVpQUw4LWhqQlJlbjZieEZzSlRlZ2c2aFl3MkRFNU9PUDk4SGRlY1dVWVBlNi1BZzR1am9fWWNFNml4SmtSb00?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Should You Invest in the VanEck Semiconductor ETF (SMH)? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSlV5aHJQWGdkNTRuenhIUEY3MEItRnc3bnhkY2wwUzFiNnhNRzBHeDBOX1ZyUXNNTXFzWTZyUUZRemY1RnF4bGZfLW1Qc0JZb3dRNXZsRWJjeEw3aHVMZmIxeXF1ZkVuRUV4SE9jSGtfVTg5WDllekVqWWRzUDAtWlZOZlFFSzZJTnVCSU9VaVZ3UEF4LTl0M29vUDg1RHUta0E?oc=5",
-      "pubDate": "Tue, 12 May 2026 07:00:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
-      "title": "A Tale of Two Approaches to Revitalize Japan's Semiconductor Industry - Shorenstein Asia-Pacific Research Center",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVFlvd1hqVmNuWEp4RVdrdmFYdmZ1dlZqTHNaUlc5N2V2dkpvd2FzeG55aWQ3RHZnYWtPa21qUlN1aW1LcEpBWi14NWxUamNqT1BLQTZtU2xBOEhyZzRUaVBzYUtRaXJKRGtuaHdJZm1Eei1HeUhucUZmbEl1NDZnbXFhaGY0LXEzUnhXM2R5S0ZYbXFHMW12SUd5MHM?oc=5",
-      "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "The Semiconductor ETF (SMH.US) has fallen more than 10% from its recent high, with put option volume reaching five times that of call options, as bearish sentiment spreads to the Nasdaq. - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNHJXNllUR2VqaEExMVQ2THBhNFM1Zl9GejNFbXA4NEZEa1l4dVo3Yk9abVdERThhUWdGQzR3MmQ1VzZmT1d3S09tOHNhb0Y4eFNPMGozb2Ntbmx1TFVsUHZyckY1QjY0a0ZjdTNRN3F6T09Pd1I3cndtTlJETHBwZGZ4STI2cHpNV0tydU9wcXZoWnFUM3p3SnJjb3NJZWc?oc=5",
-      "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
-      "title": "A Few Reasons to Buy the Dip in AI & Chip ETFs - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObUpGS1luWndnZHdyemczU0h1N3V1enJQbERwblZacXBUMURYR2QyVE5VX2Y1UUlKZmY0Vkczbl9KZlg1YjkxN3o2RnNpWHU1Y3hLUXM4djZfYXZHMzA5QVYyRjNsMWpwZ0VuZEV0Z2hWWE15SVpXaDlUc2RfSG42dXhLVnJXbmJsbDIxcUhIVjJTUXNELVV5NFc5Z0xPLXhSYWc?oc=5",
-      "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
-      "title": "Semiconductor ETF sinks below key technical level amid AI anxiety (SMH:NASDAQ) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLU1NN0hrR3YtN0pIdEtNc0wzbFVoZjU1Ty1hY0U4SWtzZU9rTVEtZ2FJRlZJWDRuQ29RMTJxQU9YMmxIZWRnS1E0ejJVVTdnRmk5RkZyVUpwa19MODJfaWhmNWlDdFA4MFlONXFPaUhxa0xCcVY4cDRpbVZNYnJybHdMU1Z0TjZGc2ZlbFFzUk1rR0poTDVHenNpcUtSQkFDaEdhU1dR?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
-      "title": "China\u2019s semiconductor industry is racing to catch the West\u2019s - The Economist",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRlFMNlpVWWlLMGZHcGc4Z0s1WUJkbXhGN1VuSklRbEFrMjFZVTZ5QWJwZ1ROTjJWRnhwUGtadUUyZmdRUk4zZld6RGM5OXFrUkk2MEFKeXVOWXNBdFhieUc3WFA1NWVWSE1mSVZfSkhCR2E4N21FRWVLQ0Jpb2QtN1pvaUw1cVRoMXZhOXdmVHB1RDdEYjBsS3Qybl9PM0VjZ2xrQ29wSQ?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "LB Semicon Wins Qualcomm Production Approval, Begins Mass Production This Month - thelec.net",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iLXlBZTZrZnVGeXFLdlNoVGpWSjJqRGVkS2Zyd3RIZG1ySnpRM1NOU3pHYUhlOXd1WkNfOWNUVWNjQTA1UGFENHNYODBDejJ5MXI2N1ZaUm8xMFBIOVNQbkRJdU0zU2c?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 22:57:00 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Exclusive-US weighs polysilicon price floor, tariffs to counter China in solar and chips - whbl.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQejBZNEhwbWpCOE9XQlBnWG9JdW9nTVZkYlBDX1Y2aC1JN0NSeVRsNFNmMTNqM0ZqRDA0Tk8yb1dQY25OUWF6cXdRQXg2NXB0akpEVG9ZcFM1dDVkT3RRVkQ3T1BYOE0xaTFFUXVpcUxuTmRxdG9YdGtqZUVqdmVrVU1QX1dqeXFWSVlqMmhRN09DU3lxdm1QV0lNMVBHeE1TVnowWTQ3WWs5Zw?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 20:22:17 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "SOXL: The 31% Selloff Has Reset The Semiconductor Bull Trade (NYSEARCA:SOXL) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdVMzU1VJYUNFYVFpcXFnaG5jakZTSDAyZXBndG1qc2FNUm9CN2FjSWpTX19jZ0FPR2Y0enNsZ014UkdhRFhKeXh5b0hSUGQtSXg3X0JnSjZiaVFYS0xaeHBkMVhHSy1xZXp2ODVhLWNpUjFwdWgtWVoxd2FEWk8tZTBxX0k2Q3o1T2FzdG9XZm1ITURoSEpIbENYY09hQnBKZjA4YV8tMEc4MDQ?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 20:19:46 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "EXCLUSIVE: US weighs polysilicon price floor, tariffs to counter China in solar and chips - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZHMyc0hjQmFKeG1UQ240cmpVNmxXMFV2QUlvOTQ3MGhsaDJzRFAtS0E2QmJxWk4xNDFCTThDZlNqeGhfYjFsc2lqV1dOa2lNUmxHWHdDRUlnSFE3UExGN1hQbnZSc0Ytd3ljRnNIVFM0RTYwZTAybjg2blg3QmkwdHFicjc3LVlua2VEUW94ODdBeXlmc0NEeFA5c1FQcWtCLTJmb3RmaW1uS0ZqYk11UnpCWFRiQQ?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 19:09:14 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "An overlooked player in data center buildout delivers once again - cnbc.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZnlOcTkwc09fMUdXank0TEp0QjNkbm5USEF0NzBUSlNOOEFVbHJ1Zkw0VUlsbjlPTjg1bWl4cjdhWDdkVy04NnJZVUZScUJLLTVYRzVDVi1IN0ZGWXpZRW1OSU9qRFFiZkQ0X0sxOUZJeWwxMDNFbjdqRmhCbThvT3B4MWItQ3Y5b3JUUWtOcXB6eEFSQnhub19pdDhjVXRNaVM1cQ?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 18:31:49 GMT",
-      "source": "",
-      "category": "sector"
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-05",
-      "close": 287.1
-    },
     {
       "date": "2025-08-06",
       "close": 286.62
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-08-04",
       "close": 575.71
+    },
+    {
+      "date": "2026-08-05",
+      "close": 569.7
     }
   ],
   "meta": {
@@ -1367,38 +1367,38 @@
     "fullExchangeName": "NasdaqGM",
     "instrumentType": "ETF",
     "firstTradeDate": 960211800,
-    "regularMarketTime": 1785873601,
+    "regularMarketTime": 1785960001,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 575.71,
+    "regularMarketPrice": 569.7,
     "fiftyTwoWeekHigh": 671.83,
     "fiftyTwoWeekLow": 281.15,
-    "regularMarketDayHigh": 578.6,
-    "regularMarketDayLow": 562.28,
-    "regularMarketVolume": 8687193,
+    "regularMarketDayHigh": 585.0,
+    "regularMarketDayLow": 568.38,
+    "regularMarketVolume": 5861033,
     "longName": "VanEck Semiconductor ETF",
     "shortName": "VanEck Semiconductor ETF",
-    "chartPreviousClose": 290.19,
+    "chartPreviousClose": 287.1,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1785830400,
-        "end": 1785850200,
+        "start": 1785916800,
+        "end": 1785936600,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1785850200,
-        "end": 1785873600,
+        "start": 1785936600,
+        "end": 1785960000,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1785873600,
-        "end": 1785888000,
+        "start": 1785960000,
+        "end": 1785974400,
         "gmtoffset": -14400
       }
     },
