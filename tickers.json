@@ -1,9 +1,9 @@
 [
-  { "symbol": "FXAIX", "name": "Fidelity 500 Index Fund",         "newsQuery": "FXAIX Fidelity 500 Index Fund", "sectorQuery": "S&P 500 stock market" },
-  { "symbol": "FSAGX", "name": "Fidelity Select Gold Portfolio",  "newsQuery": "FSAGX Fidelity gold fund",      "sectorQuery": "gold mining industry" },
-  { "symbol": "SMH",   "name": "VanEck Semiconductor ETF",        "newsQuery": "SMH semiconductor ETF",         "sectorQuery": "semiconductor industry" },
-  { "symbol": "CVS",   "name": "CVS Health",                     "newsQuery": "CVS Health stock",              "sectorQuery": "pharmacy healthcare retail industry" },
-  { "symbol": "SHEL",  "name": "Shell plc",                      "newsQuery": "Shell plc stock",               "sectorQuery": "oil and gas industry" },
-  { "symbol": "ARE",   "name": "Alexandria Real Estate Equities", "newsQuery": "Alexandria Real Estate Equities stock", "sectorQuery": "life science lab real estate industry" },
-  { "symbol": "TMO",   "name": "Thermo Fisher Scientific",        "newsQuery": "Thermo Fisher Scientific stock", "sectorQuery": "life sciences diagnostics industry" }
+  { "symbol": "FXAIX", "name": "Fidelity 500 Index Fund",         "newsQuery": "Fidelity 500 Index Fund", "sectorQuery": "S&P 500 stock market" },
+  { "symbol": "FSAGX", "name": "Fidelity Select Gold Portfolio",  "newsQuery": "Fidelity Select Gold Portfolio",      "sectorQuery": "Federal Reserve interest rate OR US inflation OR recession" },
+  { "symbol": "SMH",   "name": "VanEck Semiconductor ETF",        "newsQuery": "VanEck Semiconductor ETF",         "sectorQuery": "semiconductor industry" },
+  { "symbol": "CVS",   "name": "CVS Health",                     "newsQuery": "CVS Health",              "sectorQuery": "pharmacy healthcare retail industry" },
+  { "symbol": "SHEL",  "name": "Shell plc",                      "newsQuery": "Shell plc",               "sectorQuery": "oil and gas industry" },
+  { "symbol": "ARE",   "name": "Alexandria Real Estate Equities", "newsQuery": "Alexandria Real Estate Equities", "sectorQuery": "life science lab real estate industry" },
+  { "symbol": "TMO",   "name": "Thermo Fisher Scientific",        "newsQuery": "Thermo Fisher Scientific", "sectorQuery": "life sciences diagnostics industry" }
 ]
