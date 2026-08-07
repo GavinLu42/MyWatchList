@@ -1,7 +1,7 @@
 {
   "symbol": "FSAGX",
   "name": "Fidelity Select Gold Portfolio",
-  "updated": "2026-08-05T23:09:08.252729+00:00",
+  "updated": "2026-08-07T01:31:32.942501+00:00",
   "news": [
     {
       "title": "Man killed in landslide at Solomon Islands gold mine, police say - apnews.com",
@@ -14,6 +14,13 @@
       "title": "South Africa's gold producers stay in the shallows as prices surge - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLWNCcHE3Sjkzc19yTGgxb0IteUYxTEs3RTh0RkZ5bFkxeTRjSzJQZW5sVlljREQwb3ItamlWbFVsY0xNbnRweHcxQUptaVM0ZkN5WkYxUldrNUFZNmFyNlBTdlo5eV80dHpSVS1qOEZXeVV6V1dOb3EzMERnQWFvQjJ6MFF1VlV6UU5VWl9Fdjc5RlBBSnR0c05HamRYZjllVXFtZUxDOA?oc=5",
       "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Tunnel collapses at British-run gold mine in Kenya, killing workers - TRT World",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mZk16N3ViSlhqb2NWYUJaV2kyalFCbl9RZ1EtMk5Cb1NNczRwRlBtdDF0R08tVV9wTkVCczFEeFB3c2UycEdJY1hwcndoTUN5NXZpNzlyZ3Q?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 14:18:03 GMT",
       "source": "",
       "category": "sector"
     },
@@ -60,6 +67,20 @@
       "category": "sector"
     },
     {
+      "title": "Costa Rica Detains 56 Peruvians Working Illegally at Gold Mine - ticotimes.net",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLU5XTGwxOGR0RVljQWlQRW1McWNaT3oxdXU4UlRLUHNpYVU2XzhqVldlbGpfcUxOOXgyNlFsd0NKcGVkaDBCNmNlX3pfNHJHbFY4YkRHOXdPWnF6ODVsS1A4dGprNzE4WkNPcG9fNjhwWmo0aFpiNUhVV1BXU1ByenV3UXhmR0JDeWc?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 23:51:34 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Jilted gold miner rejects pressure to find rebound deal - afr.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeHN1TnVMeG5WbHZoME9DUWFLVExMS253YktoMFVWNXJDbWFyNHBqRTZQNElxZzkwbDRqTXhFdV9fOTBoWVEwUWI3ZE1mTFZ6RXNQWTRQdXAtOTYwYkRNb01fRGJScmlwRFZ0ajNtUjZjT1hJRjJRWGRXWGQta3U1MWstSjVXZVFNQTJGRV84V3ZmTzlLQnNaTmRkVDlmcTF2M0lrY1Nydm96bkJQ?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 23:00:00 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
       "title": "Equinox Gold Delivers Strong Second Quarter Results; - GlobeNewswire",
       "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPVDNLSndxelRRdTlJV1d4M09GT3VDRTNEcV9TVDQzamRUWHcwRXNOUzNHYVlaZUQxNElRWC1LellaTVp1alYtaGZIaXFTalFUaTlTQWRFWDNGRDJXaFNHRTQ4dXdzU0pLLWNEZ1hzQmZxOFRlWmJ1aUhJZEpfdmo2ZnpfcXNOd3I0N2lGZ0VWcUVGQ0szeEh1a0V6Q095eWwtai0xWXRRc1Z6aUJzQ0ppTmotZEdlaDRva1BhVFRfellfQkR1QmF4M29qSDRRVlYxLWJySEtYa3lsVGlCUF9iS2VGVU9PM3hCbGVvQThuMEtaZjVhZ08zZ3hoc2VPUTBFSTFqenVlLWloWnp0T0UzN0lsX21sTWgtdWpjMVlxakJPM3RBSDJxWkNNTmRGRGFfYTVtSGxfQllqODh2alVTcEFEejFINDRmdnlnUElKbC1iTEdvLXBFSUVBM2l2N1pvSlpBY2M2QUlVZFk?oc=5",
       "pubDate": "Wed, 05 Aug 2026 21:46:28 GMT",
@@ -74,6 +95,13 @@
       "category": "sector"
     },
     {
+      "title": "Contango Celebrates Lucky Shot Activities in Hatcher Pass - Alaska Business Magazine",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT3pXLUZPcHdpUWswS1Qwdk9sZDJiTnFKN0xLcFhJdzB0ZUZZQzdYdmVyY0lhUF9kUV96RTdIVXVSTVhoRnZBbkJhU1I1cVR1RC1ST2dTZnRJUTM4N2ptaVdIaDAxOGU4bHRzcURZOEpMUmFReklGSFVwM2JnY2J2R3Axb3pMQ1RrZFVkZk9nWG5fRDFRLVAw?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 21:05:17 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
       "title": "Deccan Gold Mines produces first gold dor\u00e9 at Altyn Tor - scanx.trade",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX3dNajdETnBNM0tYbVMxTGVjNTZDWlNGM3kzS2haS3JRLVNwamJoRk5LZy11Wld0aHhXM1lremM0ODFBZHBMU3dwQmdSVXlwSHRzekNtd0JISnJ3Tm1lQVFsQVlsOWc3XzE3NzZ0UmRabDVIU0NhRzNFU0tNbUZDVWFRWXVwTmNJSVRXbmg2Ry1sUngzZ1g5T2szZllPdjRmckhJc0s3Q3dtb1FoYUxGcg?oc=5",
       "pubDate": "Wed, 05 Aug 2026 19:45:04 GMT",
@@ -84,6 +112,20 @@
       "title": "Why Is Newmont (NYSE:NEM) Takes Center Stage as Gold Trades Near Record Highs? - Kalkine Media",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbF9jVC1IaGlEM2Fqd0NJY1J2ZmtNWXBJR1RQMmNCY3MwN0JacVBlTFZsMVlLOXVWa013S1IxQjd4eHYtRnNYbFFHejQ3YTUtX0puSGJkMHZ2akRyR3dZdUJ1bkdYanRSYUQ3WWM4QmdPTUNGdU1EMTA2UGFseHRNTG1kVnVBUnBFcTYtcjQwd2Z6SFdfMHB6NkRxTXZKTmlGcXE0MU1vdWdZa2laZTVzdXl3VEQ?oc=5",
       "pubDate": "Wed, 05 Aug 2026 19:22:00 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "How Agnico Eagle (NYSE:AEM) operates within the Gold Price Surge? - Kalkine Media",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQktaeU5ZV05uNXUwbmZ3eFlmMXNSSFJvTjFuNnliVjFmUlgtWUtoNlhwdThfLVBEanBSS0p1ZWthTjZYQkNqaEJXVDRrc05FeGpaM0N1Y2Z3N1ZsMjl5Z3pWNG9fOFpzQ0Y0dWQ3X3IwRmdKWWFwUnRrR2J4cFJPMmFCek5lSmFpRzVrejREWjhrc25uUkZleUg1czMwTDBGVWs0?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 19:22:00 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Is Agnico Eagle (TSX:AEM) The Market's Top Gold Story Today? - Kalkine Media",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ0NpOElWWVBxTHhQY1E1UkFoZllaT0t0VE5ZNGFnUWpGM01iaW9wY3dRQ3pSS1RPY1pzQllpVkJmR1drbVBLQ2V5QVlXMVNvTHJsY2VROEQ3cGlRcU1pcHd0ZmRWZ2VQUU5aRG1XanJuWFFPR2lwLTU0Uk1JdjRNX2pCNWNTZ3dlZnpLUDdOM1g1Z1hDTVp2WFhPQQ?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 18:04:00 GMT",
       "source": "",
       "category": "sector"
     },
@@ -105,48 +147,6 @@
       "title": "Gold's rally has further to run as debt, de-dollarization fuel secular bull market: Gabelli's Mancini - KITCO",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORUxYQXNkX2VNb1ZGWFA1c0ZqSGFFRGI4Q1dkUk9Ockw0bTVmclVPM0JiNmJBaWMwSjlCMUJJY1ZTelNEajBfcFg4d0NkQ3dlcEhQM2syNUw4c1FsMGdFNjBMb0FXWHpNMHFZUjljbGNVdUJEemhwWF9QTGZQVmFOV3g4MTA3bXQ4M08yZzI2bWd4RlFwV05Na3lPajRlRjRLNGFsN1BheHlLR2hpdFgwNmpkRTFvdnFJYS0tTA?oc=5",
       "pubDate": "Wed, 05 Aug 2026 17:03:00 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Asante Gold Updates M&I Resource to 4.6 Million Ounces at Bibiani and Chirano Gold Mines - Junior Mining Network",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQVUJfQUFWckJ3Z0VFT28yaXlmb0ZzblhtYkZKam1mc29OOExfLXcxcnk5azF1aHZmNXZxWm9wVk52c2VNbjJvTFZidHZ6Ym9rRUVZS3lodWJ5bjJ0MjlpSGZIYjB0UnFoNWRrNnBwUGhTR1h2czBKVldwM1pqaE55MWdTZ1BvRU8zZEhHOFBLTlo3cVF5RFRoS2xXblJRQmZSeDBaWkQwR0wzNzJrdGxnTk1nZDlYUHNSenFoSWVEcUNvYUZOZzJGNnFRblZ5MFJxMG5wVWJmMk5EV2NHZzhweVRlWEVxNi1nZkVsdU5HTGVxS2lxbHRndVBjaUxZN2xfemdCR1VmOEp4YndMeU9CSFZ3?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 17:00:20 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Sukari Mine Hits 232,000 oz Gold Output in H1, On Track for 2026 Target - Egypt Oil & Gas",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSTQzNUhCT1p6a2lITEZJV0xwWmpRTC1BSENIUVN0UEV1VVNTZ0U5Rk1BcmFoQjhlMm9pNTlHRklQNTdxTDFIalJzcThRQndoSnY0LUgtSS1Cam5SV2Vvc0p6OGk0b0ZOdEdwUmVhVUNIRWJfUmFvbHI0VGNlaXpSSHE1NWlKN0haWXZOQThuUWtwLVVWUmlXM1hvRnVpYWl5WWc?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 16:28:23 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Gold Mining Stocks Poised for Breakout as UBS Names Six Top Picks - NAI500",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMWhkZzV2TThMYno2SVZsbEcxX3BSczFoVHhobUM4TDZFckdzM1FPMnVpalUtYW1oN2NiZm52NXJvbmdDeXZoWlI3YUJvd1l6eVFuN1l3YXlDYjUyN2ZEdkt6bTBoTHVWQ3JWaFMtTTFuZGRWQmFmZHItczFrX2RmWWQ0dkZ3eFEyaVYwcHZPckd2ck9TcGItYTV0Ykp1SGs?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 14:43:43 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Durrett sees two more legs in gold prices as miners lag - Mining.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYnA0Q1AybE5rNnFWcS1Ic2QzcDdtS2t0ckNFYl9lSjRXcGkwbXd1RGsxTC1fR3N6WmJhWGhPOEhnWVpSWGhfYUw5RER2UlpfeEk4dTBicXJYMl9aeVYxaFdEc2sxSWVYZ1U3NXFONk5JR0pSamgzRUpZdTFaaGt2cXV5OHZrQQ?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 12:09:45 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "United States Antimony Corporation Provides Update on Mining Activities - StreetInsider",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU1N6blZVamVDckZkdEFUay1FY2lrcklyU25zSVMyWEhlR19uY2owU214XzVUa0Y0d2VZY3MxQ2FiMU5YSlFxNFBBQWpBQVNLdC1JUWE1WEtHaEx0RkhUVF81Q0gwR0JwWGFrcDc2Q19aZGdoZ24yNFhMalg5UWlBZ1lmNDVMTjc0dE9uakJUQmRDaXI5eDBPOEVwcmsyX2trOG4xR1hLSjZTb0MxVWlmMWRST25leVhBYW1LUGFDQ1JNN0tvakhmYmxETQ?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 12:01:37 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Legacy Gold Mines Ltd.: Legacy Gold Intersects 1.44 g/t Gold over 80ft (24.4m) Starting 7ft (2.1m) Vertically Below Surface, Incl. 15.8 g/t over 5ft (1.5m), in First 2026 RC Hole, Extending Main Zone 220m (720ft) North at Baner, Idaho - FinanzNachrichten.de",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQdlU4TEpsQlFiWDZhR0llZzZNWl9MbkFMUDZWdktOVmdVWDJYT0dJNTJrbGZraDdHTnZJRFJta3ZLbXBMVzh3Vm9NT18tODNvYndpRVo0VWZhSE15VG5qbjJkUk1XNDZjV0NQWXhHT25LTkNZVEtWbUFkd05EZVhFLU5XVWRFbnFCMTk4ajEwcnJNYUk4RWNSeUFHcEpfeUpOc3ZNM0xDZHc0bVNza2k5engxWkFRRmhsRTMxMFlVdDZ2ZE80c0N4anV4ZU5nbkVtYmh2cVk0QTlPeGZxWHk4dzV4SnRpQThrRlNHWmtLSG1ZSXhadEhQWVJjeVhySF9SSFJQc3RUZFVLQUpUX1FkQW9XbWN5dmJjWF8yNHV5bGtXSUZDZFBKdE1zRHBoaDlpNVlzbQ?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 11:26:00 GMT",
       "source": "",
       "category": "sector"
     },
@@ -236,10 +236,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-06",
-      "close": 41.53
-    },
     {
       "date": "2025-08-07",
       "close": 41.95
@@ -1235,6 +1231,10 @@
     {
       "date": "2026-08-04",
       "close": 53.91
+    },
+    {
+      "date": "2026-08-05",
+      "close": 57.88
     }
   ],
   "meta": {
@@ -1244,35 +1244,35 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 503591400,
-    "regularMarketTime": 1785970415,
+    "regularMarketTime": 1786061313,
     "hasPrePostMarketData": false,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 57.88,
+    "regularMarketPrice": 58.16,
     "fiftyTwoWeekHigh": 79.83,
     "fiftyTwoWeekLow": 40.66,
     "longName": "Fidelity Select Gold",
     "shortName": "Fidelity Select Gold Pt",
-    "chartPreviousClose": 40.88,
+    "chartPreviousClose": 41.53,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1785936600,
-        "start": 1785916800,
+        "start": 1786003200,
+        "end": 1786023000,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1785960000,
-        "start": 1785936600,
+        "start": 1786023000,
+        "end": 1786046400,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1785974400,
-        "start": 1785960000,
+        "start": 1786046400,
+        "end": 1786060800,
         "gmtoffset": -14400
       }
     },
