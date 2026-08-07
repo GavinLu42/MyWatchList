@@ -1,7 +1,7 @@
 {
   "symbol": "CVS",
   "name": "CVS Health",
-  "updated": "2026-08-07T03:16:20.436853+00:00",
+  "updated": "2026-08-07T22:46:12.045541+00:00",
   "news": [
     {
       "title": "CVS Health Corp (CVS) Shares Fall 3.1% -- What GF Score of 75 Te - GuruFocus",
@@ -277,9 +277,9 @@
       "category": "company"
     },
     {
-      "title": "CVS posts sharply improved Q2, details GLP-1 market share plan - The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdTlXVVo0WUZHWnVfMzJENElGdmpUN2NuTUEzNmJzdlNuelozNkwzbVd0b0llWTFCSUVvVlNIUEFKUk5rT2VFOXJXT0ZsdUZObzA4NXRwZ1dQQTdKSXp6eDhvSUNjaF9xTC0taE9Bc1Rodmc5c29TWl82cTBfQUVBdjF5a1MxSk5obzc0SXVTU3VaQQ?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 18:39:00 GMT",
+      "title": "CVS Health Corp (CVS) (Q2 2026) Earnings Call Highlights: Strong - GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVWhXM1Q1bXBuYlNlMDB4ekh1MkFNdWtMVlBDb0R4VnZnOVdOOVN0S0lLVTRGbnVWNFE3alJyNm5ybGt5LWRIWk1LM2J4TEJ0c0s0ZHp4SXdidjVEaF9KbHQ1dkVkXy11UXJOdnlNVS1YQTl4a3FDeGVrdTgxckNWSzNDS1E1cjBEMXlCSEVoU29keEw5Y0s3VjdXOThtOW5lWWJRWGxzNEJEYjBfNUJRcktGSmR0LXIyaXVGMFlaTlU1M2JjLXZsOXo4MUNVb0FKbzBXWUlKU1lkNm5xcTlrOXdzYXk4RWNlZ2JvZXptU1VpRV9UX0E?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 19:01:11 GMT",
       "source": "",
       "category": "company"
     },
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-07",
-      "close": 63.58
-    },
     {
       "date": "2025-08-08",
       "close": 65.54
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-08-06",
       "close": 96.22
+    },
+    {
+      "date": "2026-08-07",
+      "close": 95.7
     }
   ],
   "meta": {
@@ -1367,38 +1367,38 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 99153000,
-    "regularMarketTime": 1786046403,
+    "regularMarketTime": 1786132803,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 96.22,
+    "regularMarketPrice": 95.7,
     "fiftyTwoWeekHigh": 110.68,
-    "fiftyTwoWeekLow": 62.55,
-    "regularMarketDayHigh": 101.0,
-    "regularMarketDayLow": 96.11,
-    "regularMarketVolume": 10479021,
+    "fiftyTwoWeekLow": 63.3,
+    "regularMarketDayHigh": 96.26,
+    "regularMarketDayLow": 94.57,
+    "regularMarketVolume": 12160391,
     "longName": "CVS Health Corporation",
     "shortName": "CVS Health Corporation",
-    "chartPreviousClose": 63.52,
+    "chartPreviousClose": 63.58,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1786003200,
-        "end": 1786023000,
+        "start": 1786089600,
+        "end": 1786109400,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1786023000,
-        "end": 1786046400,
+        "start": 1786109400,
+        "end": 1786132800,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1786046400,
-        "end": 1786060800,
+        "start": 1786132800,
+        "end": 1786147200,
         "gmtoffset": -14400
       }
     },

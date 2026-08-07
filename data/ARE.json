@@ -1,7 +1,7 @@
 {
   "symbol": "ARE",
   "name": "Alexandria Real Estate Equities",
-  "updated": "2026-08-07T03:16:24.580923+00:00",
+  "updated": "2026-08-07T22:46:16.427868+00:00",
   "news": [
     {
       "title": "Alexandria Real Estate Equities, Inc. and Foundation for the National Institutes of Health Announce Foundational Milestone in Mission-Critical Partnership to Advance Precision Medicine for Depression - marketscreener.com",
@@ -63,6 +63,13 @@
       "title": "Alexandria Real Estate Equities Inc (ARE) Shares Surge 5.1% -- W - GuruFocus",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNM1hiN1hLQzQxcVptbFpocmVUUzFHQ2RpWTJQV1BjT3JZVFVZVUNyalA0M1F0UG5IajFMOHpsSUR5QXhkWkF4MDI4a3ZuZlhvU1cxVTZLY3VXMjlEeERLUndHeE9xSmFTUU1qelM3akRDWDhjUl9ZMTF4Z19LMWtaV3FGWWhqblk4c1JPNjd3djRpc0tUUEtGNnVYY0VXaEwxclhFOFVjd0FrTktCdEFMZWwtcEJJalVvU1dRYW9HcDVBa0hOOWxVXzNoTHlxaTVjZW43bUZ0VVdpZw?oc=5",
       "pubDate": "Wed, 29 Jul 2026 00:01:20 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Alexandria Real Estate Equities Inc (ARE) Q1 2026 Earnings Call Highlights: Navigating Market ... - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOFFZMlduVE96ckp6UDB5T3E4T1k2T1M4UjRCdDBIYTNKWWxYNVFQX09Mc0FZVmtBbHdtSlVMb0U1OThsMTlPT09QaVczLUtPdU9xdXo0a0gzbnpWVnlDZmFONGJvdHl4SWRzZkgxZ0ZYZnFZd3M2bGNKcXNyNkpqUnBTdnQwR2diOGM3ZGxqUTlvNjVMcWU4RUIxSmFKaUIyQlE?oc=5",
+      "pubDate": "Wed, 29 Apr 2026 07:00:00 GMT",
       "source": "",
       "category": "company"
     },
@@ -345,20 +352,9 @@
       "pubDate": "Wed, 03 Dec 2025 08:00:00 GMT",
       "source": "",
       "category": "company"
-    },
-    {
-      "title": "Alexandria Real Estate Equities, Inc.'s Stock Price Drops to $52.85, Notching a Decline of 3.68% - Smartkarma",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONlVYXzhJeWVKV0Vsb3Q3UWZPN0RfWkNkRlh3ejBGVVBaSEhRRlhCR1pSaXo4VHNGSXhLVFV6QTc0eDZBVUhXckFaeFdkbUxVRi1XR3ctWHFnd2lIc1RVbVE4RVc0SE9Gdjl1OWxCRExWMTBwQ0ZyejFYQ2FzRE9UcWFsVmlzZUFreWl1cHVSOUNZYzZhRnFubklmMTZUa2RYa2tPWFJhN1c4MVRXVU1lU0QzSkRKYm00S2dsZWdNbmtTZ1RKZ1FmM2NCSU9ZUnBNS3p0Uw?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "company"
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-07",
-      "close": 74.56
-    },
     {
       "date": "2025-08-08",
       "close": 74.21
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-08-06",
       "close": 48.48
+    },
+    {
+      "date": "2026-08-07",
+      "close": 49.74
     }
   ],
   "meta": {
@@ -1367,38 +1367,38 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 864826200,
-    "regularMarketTime": 1786046403,
+    "regularMarketTime": 1786132803,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 48.48,
+    "regularMarketPrice": 49.74,
     "fiftyTwoWeekHigh": 88.24,
     "fiftyTwoWeekLow": 39.41,
-    "regularMarketDayHigh": 50.85,
-    "regularMarketDayLow": 48.46,
-    "regularMarketVolume": 1102741,
+    "regularMarketDayHigh": 50.17,
+    "regularMarketDayLow": 48.18,
+    "regularMarketVolume": 1463698,
     "longName": "Alexandria Real Estate Equities, Inc.",
     "shortName": "Alexandria Real Estate Equities",
-    "chartPreviousClose": 73.85,
+    "chartPreviousClose": 74.56,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1786023000,
-        "start": 1786003200,
+        "start": 1786089600,
+        "end": 1786109400,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1786046400,
-        "start": 1786023000,
+        "start": 1786109400,
+        "end": 1786132800,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1786060800,
-        "start": 1786046400,
+        "start": 1786132800,
+        "end": 1786147200,
         "gmtoffset": -14400
       }
     },

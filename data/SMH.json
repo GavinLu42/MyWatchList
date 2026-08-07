@@ -1,7 +1,7 @@
 {
   "symbol": "SMH",
   "name": "VanEck Semiconductor ETF",
-  "updated": "2026-08-07T03:16:18.473957+00:00",
+  "updated": "2026-08-07T22:46:09.783666+00:00",
   "news": [
     {
       "title": "SIA: Global Semiconductor Market Set to Reach $1.5 Trillion - Electropages",
@@ -298,6 +298,13 @@
       "category": "sector"
     },
     {
+      "title": "VanEck Semiconductor ETF (SMH) Stock Forum and Discussion - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FQnI3d0JQNW0xeEJBdUxqWEl5T2M5R21fS25BeVByZnJUSTc4R0FpaHFuTG9VU21SY24yN2kxdDB1dWdzODVJY2diS2s0dnQ1ZXptSHZXZw?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 11:13:03 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "City Center Advisors, LLC's VanEck Vectors Semiconductor ETF(SMH) Holding History - GuruFocus",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONmlSeTRhMXUtZHU5TzhzZ3FCV2FfQUw1RWdkYTBIWTVaUnFQSUlFT3hoRWk0LXdld3pFaVByZHV0MVM5Q0J2T09aZHZnWHhfT1NNRFpGc2VteU5uN2pjeVJCTTA1VDlKaktwaVJqVjVCbDIzdm9EVW5LQ1BUNnR3YURR?oc=5",
       "pubDate": "Wed, 05 Aug 2026 08:21:38 GMT",
@@ -345,20 +352,9 @@
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
       "source": "",
       "category": "company"
-    },
-    {
-      "title": "$VanEck Semiconductor ETF (SMH.US)$ - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd0ZhbHc2Zm4zUFZsOXBDRnhJU1FsWFgxeHZscHBUOVZjcDQxa1BpMVk0MkgyVEdZUlozdF93R0R0b0taYzVhTHpubnY1ZlV1emhRNlFweEgxWFZQM3Via2hOUzJlV0VhaVBIdV9ab0l2Sy02UU9tX0kwMURSZWdNM3BtZVNiSmlVQ2tVczhR?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "company"
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-07",
-      "close": 291.12
-    },
     {
       "date": "2025-08-08",
       "close": 293.53
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-08-06",
       "close": 571.48
+    },
+    {
+      "date": "2026-08-07",
+      "close": 582.7
     }
   ],
   "meta": {
@@ -1367,38 +1367,38 @@
     "fullExchangeName": "NasdaqGM",
     "instrumentType": "ETF",
     "firstTradeDate": 960211800,
-    "regularMarketTime": 1786046400,
+    "regularMarketTime": 1786132800,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 571.48,
+    "regularMarketPrice": 582.7,
     "fiftyTwoWeekHigh": 671.83,
     "fiftyTwoWeekLow": 281.15,
-    "regularMarketDayHigh": 580.43,
-    "regularMarketDayLow": 559.56,
-    "regularMarketVolume": 5839568,
+    "regularMarketDayHigh": 586.09,
+    "regularMarketDayLow": 572.33,
+    "regularMarketVolume": 6397665,
     "longName": "VanEck Semiconductor ETF",
     "shortName": "VanEck Semiconductor ETF",
-    "chartPreviousClose": 286.62,
+    "chartPreviousClose": 291.12,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1786023000,
-        "start": 1786003200,
+        "end": 1786109400,
+        "start": 1786089600,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1786046400,
-        "start": 1786023000,
+        "end": 1786132800,
+        "start": 1786109400,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1786060800,
-        "start": 1786046400,
+        "end": 1786147200,
+        "start": 1786132800,
         "gmtoffset": -14400
       }
     },

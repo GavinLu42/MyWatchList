@@ -1,7 +1,7 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-08-07T03:16:26.611926+00:00",
+  "updated": "2026-08-07T22:46:18.453126+00:00",
   "news": [
     {
       "title": "Neuch\u00e2tel\u2019s Human Lean Diagnostics cluster is set to welcome its first tenants - ggba.swiss",
@@ -277,6 +277,13 @@
       "category": "company"
     },
     {
+      "title": "Thermo Fisher Scientific to Present at Raymond James Annual Institutional Investors Conference - The National Law Review",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR3VGREhGTkJfNVI2ZmRXNVhSZW9NYVpJMkJxWE4yc0R2TEw2MGt4MTJzN2c1UUpPdXJZdGk3YnFuZWQ3dWpSSTk2UUZmUjVmNnJ4dnBRaWNyRzZ1bTFvQThRbzFqSkhKdlJ5Tzd6Snppd1M4VW1tVWlCWTNnNGczZ2dyT2o2eFB4cXBXWVp3dC1vYmo2TEo5TWhzMXFocWVXSDBTN1U1MklOcno5M3F5dA?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 08:19:30 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "HSBC downgrades Thermo Fisher stock rating on growth concerns - Investing.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMjFaNVg2WHliZXhsRl9uZDRwUER3NUpjV2R6NU0tcHZCNWl3WThQSUlMTHBXLWZjNnhUdWVGX3NyVWxVa3BPNFAtN01pZ0NlNTY5UVRyM0p2dmp4MnBJdnV5bUttb3AyNU4wZ0xKcHR0TGszMGtPa1dFVFFnakp1MHUtbmlFMUFrcGd3alo5c01vNzF2MzJHTDBSVVdfS01iYmVfUDhqaFM3c3ZMaE1KSFVxZnZYRmZWSVlFZzZn?oc=5",
       "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT",
@@ -345,20 +352,9 @@
       "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT",
       "source": "",
       "category": "company"
-    },
-    {
-      "title": "Thermo Fisher inks $1.1B deal to sell microbiology unit to Astorg - MedTech Dive",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWnB3a1BsQ3dvdlNFSXZQWGdHZHF6aDJ6WFl0cmc3NWNlNUU5eWE0S2tYUVRHeDFfU1VadFBqOFZUMHduaTBTYjRacmhfZklNUzFZV044cjEzM2N0bF9xQWJ1MlZFdWRZOEdEVUFzckhfTWl2SlJmMmdJRmRhcU9WdkNMSkZhb2g1MnlpRmt3SzZaN0xJMzBJNHN5MHF0V0k1TjdweElUOA?oc=5",
-      "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT",
-      "source": "",
-      "category": "company"
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-07",
-      "close": 454.74
-    },
     {
       "date": "2025-08-08",
       "close": 460.72
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-08-06",
       "close": 580.02
+    },
+    {
+      "date": "2026-08-07",
+      "close": 594.0
     }
   ],
   "meta": {
@@ -1367,38 +1367,38 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 322151400,
-    "regularMarketTime": 1786046402,
+    "regularMarketTime": 1786132802,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 580.02,
+    "regularMarketPrice": 594.0,
     "fiftyTwoWeekHigh": 643.99,
     "fiftyTwoWeekLow": 435.27,
-    "regularMarketDayHigh": 580.31,
-    "regularMarketDayLow": 569.86,
-    "regularMarketVolume": 1716186,
+    "regularMarketDayHigh": 594.26,
+    "regularMarketDayLow": 574.768,
+    "regularMarketVolume": 1325315,
     "longName": "Thermo Fisher Scientific Inc.",
     "shortName": "Thermo Fisher Scientific Inc",
-    "chartPreviousClose": 448.94,
+    "chartPreviousClose": 454.74,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1786003200,
-        "end": 1786023000,
+        "start": 1786089600,
+        "end": 1786109400,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1786023000,
-        "end": 1786046400,
+        "start": 1786109400,
+        "end": 1786132800,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1786046400,
-        "end": 1786060800,
+        "start": 1786132800,
+        "end": 1786147200,
         "gmtoffset": -14400
       }
     },
