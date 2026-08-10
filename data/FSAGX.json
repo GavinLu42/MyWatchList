@@ -1,7 +1,7 @@
 {
   "symbol": "FSAGX",
   "name": "Fidelity Select Gold Portfolio",
-  "updated": "2026-08-09T22:39:06.463955+00:00",
+  "updated": "2026-08-10T22:47:17.383637+00:00",
   "news": [
     {
       "title": "Federal Reserve holds interest rates steady amid inflation concerns - WBAL-TV",
@@ -30,6 +30,13 @@
       "pubDate": "Wed, 29 Jul 2026 12:29:00 GMT",
       "source": "",
       "category": "sector"
+    },
+    {
+      "title": "The price of gold today, July 29, 2026 \u2014 and the best places to buy - cnbc.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xMHFCMVMwalRRY3ZTYnBkNVBHQWhhR0huYkJyeER5Vk5yS0hnUThaM09fbXM5ek43MzhRazZYbXBTYlJkUmw5SnVoa295d2FJMWxfbWxIQS1qMVJMX1dGZTZuYWp0RVo1N2NRR2JjaXlPdWvSAXhBVV95cUxNS3pCbFU0RnBCb0FremZyemVXM0s4bFc0dDZNbXhPLUZ4MjJtdUhZV0txMHFZaU9aZlg3TEdJX1lkRk1KdVJLdnpGaXM0eTJ5eTVSdU9Bb3pXdW5jVWhNTE9GeGluc2NNa1dnbnZ1Rkd2Y1o5b0xNNWs?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
     },
     {
       "title": "WATCH: Fed chair Warsh holds news conference after leaving interest rate unchanged - PBS",
@@ -345,20 +352,9 @@
       "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
       "source": "",
       "category": "company"
-    },
-    {
-      "title": "Fidelity Investments Canada Boosts ETF Lineup - PR Newswire Canada",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNTBfVHBuWjFKN1Y0WVJnN3dSUWZvcVV2VVl4TjdjUTVpVEx5YkpDT3JnTkJ2b2wtTlR6SUZHWldLcXRCZWhHQ3MtLTRLYzVnSjFvTWk3VWFsbXZUOXBpSGJxanJWUlMzSElqbzh3U1I4Ti1xWDRuTUlTQzc5c01MaUhBaDdPdVk3UnFWZUZRaUNzd3dOOHBTWUtOT3YtTm8?oc=5",
-      "pubDate": "Thu, 25 May 2023 07:00:00 GMT",
-      "source": "",
-      "category": "company"
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-08",
-      "close": 42.0
-    },
     {
       "date": "2025-08-11",
       "close": 41.93
@@ -1367,35 +1363,35 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 503591400,
-    "regularMarketTime": 1786147748,
+    "regularMarketTime": 1786400022,
     "hasPrePostMarketData": false,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 62.08,
+    "regularMarketPrice": 62.44,
     "fiftyTwoWeekHigh": 79.83,
     "fiftyTwoWeekLow": 40.66,
     "longName": "Fidelity Select Gold",
     "shortName": "Fidelity Select Gold Pt",
-    "chartPreviousClose": 41.95,
+    "chartPreviousClose": 42.0,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1786089600,
-        "end": 1786109400,
+        "start": 1786348800,
+        "end": 1786368600,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1786109400,
-        "end": 1786132800,
+        "start": 1786368600,
+        "end": 1786392000,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1786132800,
-        "end": 1786147200,
+        "start": 1786392000,
+        "end": 1786406400,
         "gmtoffset": -14400
       }
     },

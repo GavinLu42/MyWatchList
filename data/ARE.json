@@ -1,7 +1,7 @@
 {
   "symbol": "ARE",
   "name": "Alexandria Real Estate Equities",
-  "updated": "2026-08-09T22:39:15.541652+00:00",
+  "updated": "2026-08-10T22:47:25.605697+00:00",
   "news": [
     {
       "title": "Alexandria Real Estate Equities, Inc. and Foundation for the National Institutes of Health Announce Foundational Milestone in Mission-Critical Partnership to Advance Precision Medicine for Depression - marketscreener.com",
@@ -242,6 +242,13 @@
       "category": "company"
     },
     {
+      "title": "Wu\u2019s plan to scrap Roxbury lab and housing development for new high school stirs bitter reaction - The Boston Globe",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeTRnc0dMVWJvUnJENEpXd29kcjBEckhoa2tLanFLUllhZ19UWE9JT0duVjR0eTNqNDRsa2N5ZXVIYXM4VlhNZGw2RHY4R2dQdVFaaWN2Smd5R29ZcEVTaWtZSTVPT3ZfeHVrUUdkVDNWbGRqd0EtWVVucTdUaktISEpsRTNHQQ?oc=5",
+      "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
       "title": "Alexandria Real Estate Equities, Inc. Stock 12\u2011Month Price Target Cut to $51.25, Implies 10% Upside - TradingView",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWGRNUmwyeWUza3IzV3VqVXd5cExFaGZrVEtmQzZGSmtxLWxTQ1hVMDIxdWxjV1JOcXlFTUJtWnhaRmVaVGh5RU5YVktkdGg1VDI0WkpQdmJReHpTQjllbHI1S3BnVlZQZlNfWFRsTVMyd3hHNTFURHpwTXJSaUZBcGw4bElZX2EzQkU3RGh1anNfVHQ0UUwxRWpYTVVYRzYxUG9aNVZvQl9LREJIcGpPY0ljQ1hhSC1uWkhzSHlSWEpFTVVxMXkyUFNtVV9FYWNqZlNJZnllWlRnMUVDMHBHUGZTOFpMNnNBOUtaUg?oc=5",
       "pubDate": "Wed, 13 May 2026 07:00:00 GMT",
@@ -275,13 +282,6 @@
       "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT",
       "source": "",
       "category": "company"
-    },
-    {
-      "title": "Generation Lab will relocate from San Francisco to take immediate occupancy at The Landing - JLL",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQXA0UUx1Z0JJOWY4RFhYYW5LN1FKdElkSkUxeUVFLXVzQm1jWkRTdXhvRm05b20zejZFU3hHOGtrT0I1VkI4X3JXS0E4T3FRUVBIM3V0TDY0bmZ3MENTTk9nUEVRbG14SzlWS2hoQmhLTU5oNDdYVzhoN0Q1eV85el9mUF9DRzk5YnQxc0pqeHlnS3QwdDd6TnZad2poaEdSUTRZY2VSZGZ0Nng2QmZv?oc=5",
-      "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT",
-      "source": "",
-      "category": "sector"
     },
     {
       "title": "Alexandria Real Estate Equities Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-08",
-      "close": 74.21
-    },
     {
       "date": "2025-08-11",
       "close": 71.86
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-08-07",
       "close": 49.74
+    },
+    {
+      "date": "2026-08-10",
+      "close": 48.35
     }
   ],
   "meta": {
@@ -1367,38 +1367,38 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 864826200,
-    "regularMarketTime": 1786132803,
+    "regularMarketTime": 1786392003,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 49.74,
+    "regularMarketPrice": 48.35,
     "fiftyTwoWeekHigh": 88.24,
     "fiftyTwoWeekLow": 39.41,
-    "regularMarketDayHigh": 50.17,
-    "regularMarketDayLow": 48.18,
-    "regularMarketVolume": 1463698,
+    "regularMarketDayHigh": 49.462,
+    "regularMarketDayLow": 47.51,
+    "regularMarketVolume": 1184406,
     "longName": "Alexandria Real Estate Equities, Inc.",
     "shortName": "Alexandria Real Estate Equities",
-    "chartPreviousClose": 74.56,
+    "chartPreviousClose": 74.21,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1786089600,
-        "end": 1786109400,
+        "start": 1786348800,
+        "end": 1786368600,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1786109400,
-        "end": 1786132800,
+        "start": 1786368600,
+        "end": 1786392000,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1786132800,
-        "end": 1786147200,
+        "start": 1786392000,
+        "end": 1786406400,
         "gmtoffset": -14400
       }
     },
