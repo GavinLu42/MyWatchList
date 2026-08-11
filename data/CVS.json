@@ -1,7 +1,7 @@
 {
   "symbol": "CVS",
   "name": "CVS Health",
-  "updated": "2026-08-10T22:47:21.220925+00:00",
+  "updated": "2026-08-11T22:52:33.438313+00:00",
   "news": [
     {
       "title": "CVS Health Corp (CVS) Shares Fall 3.1% -- What GF Score of 75 Te - GuruFocus",
@@ -305,6 +305,13 @@
       "category": "sector"
     },
     {
+      "title": "Pharmacy\u2019s new era\u2014in the home - McKinsey & Company",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeFZRMXl0UTQtVjF4ZmRJdVF3eWswMzBDckxWaUVfR00waVpaS2dWeHEwU0t0WG1hc3J4NkFxSXhJWFdiRXBKUVBQaXZXdDY4ekZiMHdTX0szd1lZdVNrU29ZQi0wb2VmSUFva2RvWWlLNFhHRW4xdzB0M1JZUXUwbHdJT0VTNWFMcWxLcVVEVnV2Xzg?oc=5",
+      "pubDate": "Wed, 01 Dec 2021 08:00:00 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
       "title": "Retail pharmacy leaders reflect on the first half of 2026 - Healthcare Brew",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQVhpOG44Y2JIajZNNU9jOEpCbW9fUmtfWDR1NmZaaW13X2ptakpiM0oyWXFsemFSQTc2VURLUHZUakhhcHYyT2ViQmZUdFA5ZE45NGlTbmgtVWU0RVNVbnJ1SUdtTktsVUFLVTl4Z1JvM0laVWpLV0dDcldIUFZJc3NBalJpeEpYRTRjZFUtb0luWHFOekc5WUcxMUVadw?oc=5",
       "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT",
@@ -345,20 +352,9 @@
       "pubDate": "Tue, 26 Nov 2024 08:00:00 GMT",
       "source": "",
       "category": "sector"
-    },
-    {
-      "title": "Europe Retail Pharmacy Market to Reach USD 396.17 Billion by 2032 Driven by Prescription Drug Demand and Hybrid Pharmacy Expansion - finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVmphdGhyT1lhWm5XYzZOUFJCeGhsTFFhcV94VkZVYmRPeUpPbEg0WHN1Tm9kOE9xYjBvbHhhTFQxaTRWN2ZORkItLTJZdjV0ZF83WjBpYmJVaktQaE82WXBXQWs5QVF5SUZoNnlnYzZKZUxsa0FGWEJpcnAtdmZzeHBHTnBLTElWaEZrSGo4a3lBZUl6N0NjZ2Q3R0x6dnFQYTNLSVZYUQ?oc=5",
-      "pubDate": "Tue, 26 May 2026 07:00:00 GMT",
-      "source": "",
-      "category": "sector"
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-11",
-      "close": 64.88
-    },
     {
       "date": "2025-08-12",
       "close": 65.51
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-08-10",
       "close": 95.67
+    },
+    {
+      "date": "2026-08-11",
+      "close": 93.5
     }
   ],
   "meta": {
@@ -1367,38 +1367,38 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 99153000,
-    "regularMarketTime": 1786392003,
+    "regularMarketTime": 1786478402,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 95.67,
+    "regularMarketPrice": 93.5,
     "fiftyTwoWeekHigh": 110.68,
     "fiftyTwoWeekLow": 64.32,
-    "regularMarketDayHigh": 96.34,
-    "regularMarketDayLow": 94.68,
-    "regularMarketVolume": 5656204,
+    "regularMarketDayHigh": 96.36,
+    "regularMarketDayLow": 93.011,
+    "regularMarketVolume": 5796237,
     "longName": "CVS Health Corporation",
     "shortName": "CVS Health Corporation",
-    "chartPreviousClose": 65.54,
+    "chartPreviousClose": 64.88,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1786368600,
-        "start": 1786348800,
+        "start": 1786435200,
+        "end": 1786455000,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1786392000,
-        "start": 1786368600,
+        "start": 1786455000,
+        "end": 1786478400,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1786406400,
-        "start": 1786392000,
+        "start": 1786478400,
+        "end": 1786492800,
         "gmtoffset": -14400
       }
     },

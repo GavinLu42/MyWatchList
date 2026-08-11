@@ -1,7 +1,7 @@
 {
   "symbol": "FXAIX",
   "name": "Fidelity 500 Index Fund",
-  "updated": "2026-08-10T22:47:15.400758+00:00",
+  "updated": "2026-08-11T22:52:26.923945+00:00",
   "news": [
     {
       "title": "Stock market today: Dow plunges by 1,100 points, S&P 500 and Nasdaq sink as yields rise on Fed's hawkish hold - Yahoo Finance",
@@ -51,6 +51,20 @@
       "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
       "source": "",
       "category": "sector"
+    },
+    {
+      "title": "1 S&P 500 Stock with Solid Fundamentals and 2 We Ignore - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdFdhaERaVEVmOHh4UU5UWjBEMkZYRE9DX3M1MGsyWXRwY0pmdEx2eURsU2tDdVVrZ3p6WkJRRjhHaWVGdW9MczB1aVAwVjFiTzZBc1ZGaUljenpoSk02ZnhGeHRLNTFsWU56cVg5VTNOazdLSV8zR2tNNVRGS2M0MFhlRVhDQ2NDcEtlNQ?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Vanguard challenges the S&P 500 as a one-stop strategy - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZXlrbDBScFpWLW92THI5blJwVUFRa3RJSVlnNlF6aWV6NHFSdFlhUFhCeXpJR2JhSjF2WDdyME5DQTh1YkdtVmdqTzJ2WTgxQUpJUE9XUFduaHVZUk1YbkFvWmZRa2p1RUJlM3JWVGxHYlFwX3c3YWRCUXVUVXVjNU84Q3YzSXpVbTBoZms5ZDExVGc?oc=5",
+      "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
     },
     {
       "title": "If You Invest $200 per Month in the S&P 500 Right Now, Here's What You Might Have After 30 Years - The Motley Fool",
@@ -228,13 +242,6 @@
       "category": "sector"
     },
     {
-      "title": "Asian Stocks Set for Declines as AI Rally Cools: Markets Wrap - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPalBZaVhYZzF6cHlBTkI0ZEwyT012aU5LdUx5ZU1QRWRtTWsxam41QkJEWkZtNG5QYW1LRU1URzZpX25RZ0FrQkM4bjdfZnFxREFRWk9BLWZaSEpxT3FGVU9RV2RPZzlmQ1BPR2Q1QllNeVNsMF9kOVhnOHBIX2ZXcG9ZU3VhV3dXck1ZVGFyeGtpdDBL?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 22:06:50 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
       "title": "7 Top-Performing US Equity ETFs - Morningstar",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55aElPNUJmalJCYVR1ekZRZmNLSklRQ2NRTFpUTEZsVUg1SVhScVcxdHFOTmNqQzJYRk5KeWlrbUZHTktKc3QtYk5rREYwVXBNOWVmYTZ1WkZYODZYNkZ6VjhaWmlnbENnZGFTVFN4c0xUdS1NWFpkUV94NHZ2UQ?oc=5",
       "pubDate": "Wed, 05 Aug 2026 20:00:28 GMT",
@@ -345,20 +352,9 @@
       "pubDate": "Tue, 24 Mar 2026 07:00:00 GMT",
       "source": "",
       "category": "company"
-    },
-    {
-      "title": "3 Best S&P 500 Index Funds to Buy in 2026 - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa25GSl9WdkluUGk0UGhVVm45eUZYb1JQLTV6Z3JndlEwOHh3Y3ppRk5kTWdsZzBGOG1sek5xTUw2cHhyNEMwRmZpYzczcHY1Z1pNSkVHUENCbzExbk1PUEwzbWJEVkIzb2gxSTEwVXdYTUNRVVdnaVE1SVM0bERsaWJkdzdaUl91?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "company"
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-11",
-      "close": 221.54
-    },
     {
       "date": "2025-08-12",
       "close": 224.06
@@ -1354,6 +1350,10 @@
     {
       "date": "2026-08-07",
       "close": 269.71
+    },
+    {
+      "date": "2026-08-10",
+      "close": 269.58
     }
   ],
   "meta": {
@@ -1363,35 +1363,35 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 1304515800,
-    "regularMarketTime": 1786400023,
+    "regularMarketTime": 1786487620,
     "hasPrePostMarketData": false,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 269.58,
+    "regularMarketPrice": 268.72,
     "fiftyTwoWeekHigh": 269.71,
     "fiftyTwoWeekLow": 220.95,
     "longName": "Fidelity 500 Index",
     "shortName": "Fidelity 500 Index Fund",
-    "chartPreviousClose": 222.08,
+    "chartPreviousClose": 221.54,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1786348800,
-        "end": 1786368600,
+        "start": 1786435200,
+        "end": 1786455000,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1786368600,
-        "end": 1786392000,
+        "start": 1786455000,
+        "end": 1786478400,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1786392000,
-        "end": 1786406400,
+        "start": 1786478400,
+        "end": 1786492800,
         "gmtoffset": -14400
       }
     },
