@@ -1,7 +1,7 @@
 {
   "symbol": "FXAIX",
   "name": "Fidelity 500 Index Fund",
-  "updated": "2026-08-12T22:50:43.259431+00:00",
+  "updated": "2026-08-13T22:52:36.589985+00:00",
   "news": [
     {
       "title": "Stock market today: Dow plunges by 1,100 points, S&P 500 and Nasdaq sink as yields rise on Fed's hawkish hold - Yahoo Finance",
@@ -34,6 +34,13 @@
     {
       "title": "If 90 Percent of Professional Managers Can\u2019t Beat the S&P 500, Why Do You Think You Can - 24/7 Wall St.",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbElWMnpTZ1E4RDNpNjkxLXFUWkdGbUxiMGVMYlVZYjdlME1LT0xqRGhia01VcWNqSHdGak5aV3d5Q2c0UmhBSmY3T1Z1VkI2SnZNd3hRZ2FnNGNyQUxZVHNneGpTWS1fam5XcGVtYm04Rm9wZmgwbWhpeGk2dUxiSll1QUEtenZZaF9UTlVYSC0xNHAzMzBxZE5SQmZ4TTVuemVHVFUwQ29UaG9sVjg3dnNqSV9BSjcxdzBrSTNTdGVLZG1WcUhr?oc=5",
+      "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Invesco Equally-Weighted S&P 500 Fund Q1 2026 Commentary (Mutual Fund:VADAX) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY01WTm0tcG0wVms0UFVuTFQ1d3BCT2JCY1JEVjdEUlVtTlFuMXdFdDNsYndCT3pGOW5ERFoxSGRGbFNDcGlsT3VTTFB1V1VOWmFHUXpNVUNHYWpjRXRSSHdHamEtREdraDBlSnMzSERNRXNpZWkzcUhwM0dzZ1FVNkgzcHFHdVo2enpLTVNoS2RJZkIyWkVlQ01YdTFua2Y2NUxN?oc=5",
       "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
       "source": "",
       "category": "company"
@@ -137,6 +144,13 @@
       "category": "company"
     },
     {
+      "title": "S&P 500 ends higher as CoreWeave results fuel AI optimism - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 23:02:09 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
       "title": "Overnight U.S. Stocks | U.S. July Inflation Meets Expectations, S&P 500 Near Record High; NEBIUS (NBIS.US) Surges Over 34% - Moomoo",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVWNLM2pzRlJvYlhhWjNneExnYXotaTZvX2UwQzJFRFBsM2hCVFFYa2Z4dVhXWC15SU04QjZwX3Q1RlR5Ukp3VmQ1WUV3Z3RqaTJSY3BaU0ZzdWx1RTktYjV3SHU1VXplT0FTVFhJek1aZVlXcG9VVS1RaFNFRFhad29OaHdPNS1WMFVhZElxZ1Fxd1BQYlV2RklZUkx4dFN2SkhhTg?oc=5",
       "pubDate": "Wed, 12 Aug 2026 22:28:49 GMT",
@@ -193,16 +207,9 @@
       "category": "sector"
     },
     {
-      "title": "Don't Ignore The Profits Signal, My New Target For The S&P 500 (NYSEARCA:SPY) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXJ2LTZpcExzaHdaa2RGeTctZF82RzRCNmF0RURSM1FIa294Q1ZMaThkMFZ1RUNtYzQ2MTdIbnRJcE1NOVBGaEJJMjdmREEzODdoaS1rYXAtVERGZGk5bjhfdlQxazRZSERRem9HalJGbmFuaTVoVlIwOXJtZ0MzZU9fdEhoNzhMWXFfZzZNN05VZUtlR0E?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 21:11:37 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "S&P 500 And Dow Jones Industrial Average Rise As Tame Inflation Data, AI Earnings Lift Markets - foreignpolicyjournal.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY1lhSDctV0lQNlRwYV9DdlhYYldtUy1UQU4zYjhtS3RrVVhSVWZxVmlDVmI5ZGQ5bnpDdUl3aUthcmpRc1lvbFNFdEtfN1lDNEpuLVRBN0FtcGQ3VUpxYmhmdDdzOVpvdXVjTzdQU0ZJbE1DZHplX3FmYmlfcVRaYk92VDVBVHk0M2U0ZVluTDB5MnBTcGpmWHBMS2xQUDAwT3IwSVo4WndaWHNpUm5RNVVSd2VtYlFGTEJYZmoyX3RqajM1enBxZ3VBRlJONE4xVndVcDFYYWc?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 21:02:00 GMT",
+      "title": "S&P500, Nasdaq End Higher As Fresh CPI Data Calms Earlier-Than-Expected Rate Hike Fears \u2014 GOOGL, DJT, WEN, BE, SNDK In Focus - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOE80UDhKdDZJbHNVdFk4MHVjV3JpaDhSYWFJbFV5MjZNYXloUXAwMHUydlR1ZVlzTVZ0TDAzZVhmaFV4WlBQNXVWc3NCOEV2Um9KelVjVmEyUUs3MFVOUklrVnJSS1Q5czRxbnNqaFJpVHdQU3dydGFiUEFXZFRiVzJZbGxvT2w2dWNEMjZieEpIZF9uY3hfUg?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 21:20:26 GMT",
       "source": "",
       "category": "sector"
     },
@@ -345,20 +352,9 @@
       "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT",
       "source": "",
       "category": "company"
-    },
-    {
-      "title": "Jeff Merkley Net Worth - Quiver Quantitative",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2lIaUF6bnFBR2NtNGhoTldTZkJVQkM5RVp3M3lqZjQ2OW5kb3RvbGozYkdTMlY4aVpJcGFWV2E1UWlaWW93RlJVa3dveU5qcUs4M0Z4UzZwZjhGNHhiUTZLWWlIdEhUREhoLUlYdVdJVXJqclhjc21uZGJBQVpha3pjdE80aHZ6V29mdVduNnc?oc=5",
-      "pubDate": "Tue, 25 Jun 2024 17:20:41 GMT",
-      "source": "",
-      "category": "company"
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-13",
-      "close": 224.79
-    },
     {
       "date": "2025-08-14",
       "close": 224.87
@@ -1292,14 +1288,6 @@
       "close": 258.7
     },
     {
-      "date": "2026-07-21",
-      "close": 260.99
-    },
-    {
-      "date": "2026-07-22",
-      "close": 260.64
-    },
-    {
       "date": "2026-07-23",
       "close": 257.49
     },
@@ -1322,10 +1310,6 @@
     {
       "date": "2026-07-30",
       "close": 258.54
-    },
-    {
-      "date": "2026-07-31",
-      "close": 260.37
     },
     {
       "date": "2026-08-03",
@@ -1354,6 +1338,10 @@
     {
       "date": "2026-08-11",
       "close": 268.72
+    },
+    {
+      "date": "2026-08-12",
+      "close": 269.44
     }
   ],
   "meta": {
@@ -1363,35 +1351,35 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 1304515800,
-    "regularMarketTime": 1786574022,
+    "regularMarketTime": 1786660376,
     "hasPrePostMarketData": false,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 269.44,
+    "regularMarketPrice": 271.2,
     "fiftyTwoWeekHigh": 269.71,
     "fiftyTwoWeekLow": 220.95,
     "longName": "Fidelity 500 Index",
     "shortName": "Fidelity 500 Index Fund",
-    "chartPreviousClose": 224.06,
+    "chartPreviousClose": 224.79,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1786541400,
-        "start": 1786521600,
+        "start": 1786608000,
+        "end": 1786627800,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1786564800,
-        "start": 1786541400,
+        "start": 1786627800,
+        "end": 1786651200,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1786579200,
-        "start": 1786564800,
+        "start": 1786651200,
+        "end": 1786665600,
         "gmtoffset": -14400
       }
     },
