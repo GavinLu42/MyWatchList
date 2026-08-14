@@ -1,7 +1,7 @@
 {
   "symbol": "FSAGX",
   "name": "Fidelity Select Gold Portfolio",
-  "updated": "2026-08-13T22:52:38.776060+00:00",
+  "updated": "2026-08-14T22:31:14.069395+00:00",
   "news": [
     {
       "title": "Federal Reserve holds interest rates steady amid inflation concerns - WBAL-TV",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-14",
-      "close": 41.6
-    },
     {
       "date": "2025-08-15",
       "close": 41.87
@@ -1342,6 +1338,10 @@
     {
       "date": "2026-08-12",
       "close": 62.8
+    },
+    {
+      "date": "2026-08-13",
+      "close": 61.38
     }
   ],
   "meta": {
@@ -1351,35 +1351,35 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 503591400,
-    "regularMarketTime": 1786660375,
+    "regularMarketTime": 1786745606,
     "hasPrePostMarketData": false,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 61.38,
+    "regularMarketPrice": 62.47,
     "fiftyTwoWeekHigh": 79.83,
     "fiftyTwoWeekLow": 40.66,
     "longName": "Fidelity Select Gold",
     "shortName": "Fidelity Select Gold Pt",
-    "chartPreviousClose": 41.91,
+    "chartPreviousClose": 41.6,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1786608000,
-        "end": 1786627800,
+        "start": 1786694400,
+        "end": 1786714200,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1786627800,
-        "end": 1786651200,
+        "start": 1786714200,
+        "end": 1786737600,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1786651200,
-        "end": 1786665600,
+        "start": 1786737600,
+        "end": 1786752000,
         "gmtoffset": -14400
       }
     },

@@ -1,7 +1,7 @@
 {
   "symbol": "ARE",
   "name": "Alexandria Real Estate Equities",
-  "updated": "2026-08-13T22:52:47.477649+00:00",
+  "updated": "2026-08-14T22:31:22.653009+00:00",
   "news": [
     {
       "title": "Alexandria Real Estate Equities, Inc. and Foundation for the National Institutes of Health Announce Foundational Milestone in Mission-Critical Partnership to Advance Precision Medicine for Depression - marketscreener.com",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-14",
-      "close": 74.51
-    },
     {
       "date": "2025-08-15",
       "close": 76.09
@@ -1288,14 +1284,6 @@
       "close": 50.05
     },
     {
-      "date": "2026-07-21",
-      "close": 50.61
-    },
-    {
-      "date": "2026-07-22",
-      "close": 49.64
-    },
-    {
       "date": "2026-07-23",
       "close": 50.12
     },
@@ -1318,10 +1306,6 @@
     {
       "date": "2026-07-30",
       "close": 52.49
-    },
-    {
-      "date": "2026-07-31",
-      "close": 51.45
     },
     {
       "date": "2026-08-03",
@@ -1358,6 +1342,10 @@
     {
       "date": "2026-08-13",
       "close": 48.42
+    },
+    {
+      "date": "2026-08-14",
+      "close": 48.14
     }
   ],
   "meta": {
@@ -1367,38 +1355,37 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 864826200,
-    "regularMarketTime": 1786651202,
+    "regularMarketTime": 1786737603,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 48.42,
+    "regularMarketPrice": 48.14,
     "fiftyTwoWeekHigh": 88.24,
     "fiftyTwoWeekLow": 39.41,
-    "regularMarketDayHigh": 48.805,
-    "regularMarketDayLow": 47.85,
-    "regularMarketVolume": 1276962,
-    "longName": "Alexandria Real Estate Equities, Inc.",
+    "regularMarketDayHigh": 48.568,
+    "regularMarketDayLow": 48.02,
+    "regularMarketVolume": 1199265,
     "shortName": "Alexandria Real Estate Equities",
-    "chartPreviousClose": 74.98,
+    "chartPreviousClose": 74.51,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1786608000,
-        "end": 1786627800,
+        "start": 1786694400,
+        "end": 1786714200,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1786627800,
-        "end": 1786651200,
+        "start": 1786714200,
+        "end": 1786737600,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1786651200,
-        "end": 1786665600,
+        "start": 1786737600,
+        "end": 1786752000,
         "gmtoffset": -14400
       }
     },

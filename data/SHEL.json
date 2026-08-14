@@ -1,7 +1,7 @@
 {
   "symbol": "SHEL",
   "name": "Shell plc",
-  "updated": "2026-08-13T22:52:45.256565+00:00",
+  "updated": "2026-08-14T22:31:20.507631+00:00",
   "news": [
     {
       "title": "Shell PLC Stock (SHEL) Moved Up by 3.00% on Jul 29: What Investors Need To Know - TradingKey",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-14",
-      "close": 72.64
-    },
     {
       "date": "2025-08-15",
       "close": 71.85
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-08-13",
       "close": 89.92
+    },
+    {
+      "date": "2026-08-14",
+      "close": 90.47
     }
   ],
   "meta": {
@@ -1367,38 +1367,38 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 447949800,
-    "regularMarketTime": 1786651202,
+    "regularMarketTime": 1786737602,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 89.92,
+    "regularMarketPrice": 90.47,
     "fiftyTwoWeekHigh": 94.9,
     "fiftyTwoWeekLow": 68.625,
-    "regularMarketDayHigh": 90.065,
-    "regularMarketDayLow": 88.931,
-    "regularMarketVolume": 3027349,
+    "regularMarketDayHigh": 91.03,
+    "regularMarketDayLow": 89.55,
+    "regularMarketVolume": 4665680,
     "longName": "Shell plc",
     "shortName": "Shell PLC",
-    "chartPreviousClose": 72.75,
+    "chartPreviousClose": 72.64,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1786627800,
-        "start": 1786608000,
+        "start": 1786694400,
+        "end": 1786714200,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1786651200,
-        "start": 1786627800,
+        "start": 1786714200,
+        "end": 1786737600,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1786665600,
-        "start": 1786651200,
+        "start": 1786737600,
+        "end": 1786752000,
         "gmtoffset": -14400
       }
     },
