@@ -1,7 +1,7 @@
 {
   "symbol": "FXAIX",
   "name": "Fidelity 500 Index Fund",
-  "updated": "2026-08-14T22:31:12.039876+00:00",
+  "updated": "2026-08-15T22:29:25.938979+00:00",
   "news": [
     {
       "title": "Stock market today: Dow plunges by 1,100 points, S&P 500 and Nasdaq sink as yields rise on Fed's hawkish hold - Yahoo Finance",
@@ -135,6 +135,13 @@
       "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
       "source": "",
       "category": "sector"
+    },
+    {
+      "title": "The Best Index Funds and How to Start Investing - NerdWallet",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RNS1vM2JCWkxacmVGYWdFRzVyZE1oeUR3MlZ3MTk3eDlneUFiR1B6R21pXzNHSGFTdEdCQlNNMmVCZ2FST0N4UERvVkY3ZWZFMVQweW9XWS0wbEMyd1hJVDZydC1BLXNHbV83TTJKUnhPYjA1ZU9WSUpQcw?oc=5",
+      "pubDate": "Wed, 12 Nov 2025 19:43:51 GMT",
+      "source": "",
+      "category": "company"
     },
     {
       "title": "If You'd Invested $1,000 in the S&P 500 20 Years Ago, Here's What You'd Have Today - Yahoo Finance",
@@ -342,13 +349,6 @@
     {
       "title": "11 Best Growth ETFs to Buy for Long-Term Returns - MarketWise",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9EV1lKZnpWTTFMVVlDQktpWmsydkFESE5hXzNBbE1ob1ZkUEpmUUViSzV3YUF6d2hGWFUwX3MzQnZmQ25PS09hcDZZeWw2S0hRdVpyQ3FwVnFCRElDd1hNTEs5azFhamdtY0kyNmhNdFlJSjZ6X21N?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
-      "title": "How Warren Buffett\u2019s 90/10 Rule Makes Investing Straightforward for Everyday Investors - Investopedia",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUVhvYUxJUjlhZWtSXzlZTUNHNVVCb290WHJTOWZaNEh1TWx5WnhhS2tKcmZxZUFQaTB1OTBvOTJTZXp2R1JIcU0wcFhJV2ZTN3lxM2hKUDBVY0s3RW9qSW1KNjQ0R2pWWUFOTy1fRlNNU2tYWDZPZ2RlTWRBWTJRSWFwRW43MjhIYTFDSFQ4bHhTdG5VRFdJUW5RRjBrZnd4N2pOM0lUdXpDVUptQzRoVS1IRXlNRG1uSHFaczNmRDN0UQ?oc=5",
       "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT",
       "source": "",
       "category": "company"
@@ -1284,14 +1284,6 @@
       "close": 258.7
     },
     {
-      "date": "2026-07-21",
-      "close": 260.99
-    },
-    {
-      "date": "2026-07-22",
-      "close": 260.64
-    },
-    {
       "date": "2026-07-23",
       "close": 257.49
     },
@@ -1314,10 +1306,6 @@
     {
       "date": "2026-07-30",
       "close": 258.54
-    },
-    {
-      "date": "2026-07-31",
-      "close": 260.37
     },
     {
       "date": "2026-08-03",
@@ -1354,6 +1342,10 @@
     {
       "date": "2026-08-13",
       "close": 271.2
+    },
+    {
+      "date": "2026-08-14",
+      "close": 270.77
     }
   ],
   "meta": {
@@ -1363,7 +1355,7 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 1304515800,
-    "regularMarketTime": 1786745607,
+    "regularMarketTime": 1786752506,
     "hasPrePostMarketData": false,
     "gmtoffset": -14400,
     "timezone": "EDT",
@@ -1378,20 +1370,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1786714200,
         "start": 1786694400,
+        "end": 1786714200,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1786737600,
         "start": 1786714200,
+        "end": 1786737600,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1786752000,
         "start": 1786737600,
+        "end": 1786752000,
         "gmtoffset": -14400
       }
     },

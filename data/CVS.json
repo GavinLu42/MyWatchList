@@ -1,7 +1,7 @@
 {
   "symbol": "CVS",
   "name": "CVS Health",
-  "updated": "2026-08-14T22:31:18.426104+00:00",
+  "updated": "2026-08-15T22:29:32.864440+00:00",
   "news": [
     {
       "title": "CVS Health Corp (CVS) Shares Fall 3.1% -- What GF Score of 75 Te - GuruFocus",
@@ -158,6 +158,13 @@
       "category": "company"
     },
     {
+      "title": "CVS is now filling pet prescriptions at its 9,000 pharmacies nationwide - qz.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ELVNJa3hsbkdRai1NWFUzZlpzanhrV1RQSmNjV0hwUUdhcUJma3U0bXB0VHg3ZEVuc1ZXamRPalA4M3hSdTlZYUZGOWpGYmEzNDhUYlphOFR6bS1qSHdhRlNZUGRibGFpSE5NcGFB?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "CVS Health (CVS) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObmROd2ZPZW1GRmRCQ1dMT3lpXzVKX0JMckxGcHV5QUtfOThXQmZoSTBKQW5CMDZUTXVoN1hJTFZOYkc0U0dBN3piLXdRYVA0NndILU5KQnhSc1pqN3MxNGQyN2tKbm1SM1VIc2IzMkZlc01sWkNHNnEtalpFWVNHQjlCbmg5ZEYyV0UxblRHaTFSLTBWbGc?oc=5",
       "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
@@ -280,13 +287,6 @@
       "title": "The biggest payer and provider trends from Q2 - Fierce Healthcare",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRTBiNGYwZy1sUmNUNUVtSmgwbVp1amhYcnRLd2phVlM1cUVYanNXcEVnQUlrOW9HYl8wZTN4VlhPNUJLWnFDTW9RUTY4VU5zc0dBWF8yS1MxSHNsVTZVWElkMms4THhjZFFFeDZWbGpEYVhoWkFXY1ZaeV93UjhHTTJ3?oc=5",
       "pubDate": "Wed, 12 Aug 2026 13:16:40 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
-      "title": "CVS Caremark study shows employers rely on PBM expertise - CVS Health",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPXzlJbmpHTTZGUzgwOWlCcmtoTWJTb054MjA4R3piOFdBU0ZGUEZvdURaY1dWQzNVTmk1aXhWY1Q1ODBER29fbEJPSndHNE9hZ3dsOEhQNXprT2R4RUJDUUt2eFZ0am9FZEt2Y3pFdHRQNi1VMWdMUkY0UWNFZlQ2TUIxdFdIOWtJd3lpaVlmY1puZkc3RnlEUA?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 13:04:25 GMT",
       "source": "",
       "category": "company"
     },
@@ -1374,7 +1374,7 @@
     "exchangeTimezoneName": "America/New_York",
     "regularMarketPrice": 97.16,
     "fiftyTwoWeekHigh": 110.68,
-    "fiftyTwoWeekLow": 67.42,
+    "fiftyTwoWeekLow": 69.4,
     "regularMarketDayHigh": 97.51,
     "regularMarketDayLow": 94.41,
     "regularMarketVolume": 9435378,

@@ -1,7 +1,7 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-08-14T22:31:24.721424+00:00",
+  "updated": "2026-08-15T22:29:40.074907+00:00",
   "news": [
     {
       "title": "Neuch\u00e2tel\u2019s Human Lean Diagnostics cluster is set to welcome its first tenants - ggba.swiss",
@@ -242,6 +242,13 @@
       "category": "company"
     },
     {
+      "title": "Astorg Completes Acquisition of Microbiology Business From Thermo Fisher Scientific, Establishing an Independent Global Diagnostics Specialist - BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQblhZNTFEMk90c2ZEdDN1eFM1XzZuMWFvdlgwd1M1SXBYZFNvUjRhLXNiYlNhNjFtUUJYaFUzSTBXLWk5MV8zenhsMG1WaVlFdEFXWFlkSGdZRXE4bDcxRzZiWXMzLS10cXl6SWRmNWVrOHA4MWhaM2NmQmZ5bG1oUGt4QzB6N2V2LXFFSVRmMVgxMnRIeXBZN2lzWjlrY1VUR0FwWUNWVERaQWpsZkl5a0hOZDI3Zmh0UUptVF9veVlCV2p4OTVrNFVaajZZZlUwMUNfb1hDYjJRS1ZHaUZ0SXI1VFV5dk1jMFlRRW9zQUxxcEVZTjcyaHNTb3M4dUZvbWI5aXVUbXhNeDNQdUE?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 13:37:57 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "Thermo Fisher Completes $1.075B Sale of Microbiology Business to Astorg - citybiz",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUFB1MnVOa3MtS2I4SzRRR0w0V3BkeFFaYldwRzRrSzZLWUpwUTZSeXNKTXkzUi16X1NkREROeERTWGFMWGVzZVJ6b1hyVGI0ZWdPclZiZm5fdnpNdVhNR2s0Y3lVZWNXMjBleU1nZFhWdk9tMUF1ektqN2RoSVg5SmZrR05PaUgzZW44cHR6TkY2aGZ1S3RoRjA4MFpHVmhaYUZaSEZSeUtpUUxyV1E?oc=5",
       "pubDate": "Wed, 12 Aug 2026 13:22:51 GMT",
@@ -308,13 +315,6 @@
       "title": "Astorg completes buyout of Thermo Fisher\u2019s microbiology business - pehub.com",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdWV6YjlueFZvUTZnTENBV2xDRUhpTzZqY1pLR0diWXpraWVEcnJjNkZ0SndUOTJwcEJjdlhwNUFuU2l0eVhNa1NFZ0dtT2FtU1ctVmxBTjh3WXZqNlk3TzRVMVFVNUJvRGJUYzVZaHNDcnpNeGZaZUpuR3VHYk40LWdkWENUSnA4eWNtT1hLVQ?oc=5",
       "pubDate": "Wed, 12 Aug 2026 08:37:20 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
-      "title": "Annex Advisory Services LLC Buys 2,756 Shares of Thermo Fisher Scientific Inc. $TMO - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOY2tDR2NMSjZObTZrU2YzTVRSRnliYXhrZGZDTFF5NHNCcnZrYUx0NnIyRXJWNWptU1lsZnZKV3hvNUJpc0h4TzFvWXhsUFZ4bC1zRV9rWGFINEpMckhKeUZzbkxpYnlMQmNhZEFwX1o3UEowOUtmQTN5bHZhZUdEMnpiNFJyYTFXdkJBN25pM2VwbjVRTW5FdWQzeVRjeEpNTzlzdm5ScDJOWnlZVnl3bGZDRDZJN3FqYngwejVlb0F3Qld0OENFcVhEaWp0a1piVllUWHpEbDg?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 08:05:14 GMT",
       "source": "",
       "category": "company"
     },
@@ -1378,27 +1378,26 @@
     "regularMarketDayHigh": 594.74,
     "regularMarketDayLow": 587.51,
     "regularMarketVolume": 1057632,
-    "longName": "Thermo Fisher Scientific Inc.",
     "shortName": "Thermo Fisher Scientific Inc",
     "chartPreviousClose": 485.04,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1786694400,
         "end": 1786714200,
+        "start": 1786694400,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1786714200,
         "end": 1786737600,
+        "start": 1786714200,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1786737600,
         "end": 1786752000,
+        "start": 1786737600,
         "gmtoffset": -14400
       }
     },
