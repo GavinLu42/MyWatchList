@@ -1,7 +1,7 @@
 {
   "symbol": "ARE",
   "name": "Alexandria Real Estate Equities",
-  "updated": "2026-08-15T22:29:37.808594+00:00",
+  "updated": "2026-08-16T22:29:35.624783+00:00",
   "news": [
     {
       "title": "Alexandria Real Estate Equities, Inc. and Foundation for the National Institutes of Health Announce Foundational Milestone in Mission-Critical Partnership to Advance Precision Medicine for Depression - marketscreener.com",
@@ -1284,6 +1284,14 @@
       "close": 50.05
     },
     {
+      "date": "2026-07-21",
+      "close": 50.61
+    },
+    {
+      "date": "2026-07-22",
+      "close": 49.64
+    },
+    {
       "date": "2026-07-23",
       "close": 50.12
     },
@@ -1306,6 +1314,10 @@
     {
       "date": "2026-07-30",
       "close": 52.49
+    },
+    {
+      "date": "2026-07-31",
+      "close": 51.45
     },
     {
       "date": "2026-08-03",
@@ -1366,6 +1378,7 @@
     "regularMarketDayHigh": 48.568,
     "regularMarketDayLow": 48.02,
     "regularMarketVolume": 1199265,
+    "longName": "Alexandria Real Estate Equities, Inc.",
     "shortName": "Alexandria Real Estate Equities",
     "chartPreviousClose": 74.51,
     "priceHint": 2,

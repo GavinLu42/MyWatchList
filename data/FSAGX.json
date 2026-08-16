@@ -1,12 +1,19 @@
 {
   "symbol": "FSAGX",
   "name": "Fidelity Select Gold Portfolio",
-  "updated": "2026-08-15T22:29:28.250177+00:00",
+  "updated": "2026-08-16T22:29:27.098269+00:00",
   "news": [
     {
       "title": "Federal Reserve holds interest rates steady amid inflation concerns - WBAL-TV",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZDFjV0ZpWGx6SnYzSEJDOS1EQlA3RWl5cVUzeFV3a1hCcTZ1TXZMZmxCUUlKajBrZlVIVFFJRWd6MDdQaWE0Smg3cGtvRHpwQ1B2LWt4eTBvVndNaEdOeWVtVEt0ZDJNMmEwdnlPUHJKRTB0Zk9MYUV6WjExVl83NmJTajVSdnl6MDJGODNoSTBKb24zUThOSg?oc=5",
       "pubDate": "Wed, 29 Jul 2026 22:57:00 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Federal Reserve votes to leave key rate unchanged despite persistently high inflation - WVIR",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY0R1R2FSZjdwMmRPT3oxaXRGc3EzbU4wNzFxX3FYY2szaG5ZdjhDY2FzR0lXb3ZsSkVrOUZ2RFMzdDc5NkdaV3kyZEgyb0Q1NVJDSU4zaFJVdXAyc2d1Wi05MmZVWk9qZmVsYUV4UGx3VFF1WVZpTFN1Z3BrOFEzRkZDTGVOR3RlN0FFLXMyNVl4YTVWUEtseVNKTWpKalFVRkVPQjhIMUUtZW5YLVp3Mi02WDdtTUFC0gHMAUFVX3lxTFAzbWdKTEhKbGdXYlg3WWJCbDljWVJNVmlld3diS01oWkdNSDJURWhSV29hQk1OVC1uVWJmZmp1RlQ3VUIzeERWZGZ5RUY2SjlETnZIN3FQX0NSby1LaHZIYlpqMXhGbUp1MDJIM2I4LVpLQ2RLbzBqN3RIYzBCTW85dklaMWhuMnZjS1YxREtyWHlBaVlfdEprUzBQcDNmVnB5MWJ3QmJ5dlFvUFNYeEtJM1FibUtLRjNkbWE4VWRwVGg4bnA5aE1Gc3ExZQ?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 22:32:00 GMT",
       "source": "",
       "category": "sector"
     },
@@ -139,13 +146,6 @@
     {
       "title": "Two key takeaways from the Fed\u2019s unusually unpredictable meeting - CNN",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5WFlYR005RGsxTFhUTHg0M3FyX0NHMlpUUTdoQnZiWjVtQVdBVFpEMzFGM3J4eW5yc2V4ZWdoUzRyY3lETHdWUVg0Vm9MV2NnaHZKZDdkcms1cGd0UmozVmtrWXI5SzhiTnJvX2RR?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Fed leaves interest rate unchanged but with 3 dissents as Warsh praises \u2018good family fight\u2019 - AP News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN0dYeFppekRSNVVZZFhyUjJpLXd4aWlvMWpiZDc5M3lVcXZFWW9WbjVLSzl3MEZDcHhBMkdjZkpWTjRoY2ZRVThJeHN1emVWVzZXRmlOTFEwM0ZiR1d6NWV4b2dqdno0d0F2cU55emE2RjBjNmJtLUIwMzhfcFNlMUdEY0FJNnNTT2N4Sm55RDBJblExX2dYbmJCMWU1ZnNzVE5jbTdLQVZ6VF94OFE?oc=5",
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
       "source": "",
       "category": "sector"
@@ -1284,6 +1284,14 @@
       "close": 48.37
     },
     {
+      "date": "2026-07-21",
+      "close": 50.94
+    },
+    {
+      "date": "2026-07-22",
+      "close": 52.73
+    },
+    {
       "date": "2026-07-23",
       "close": 51.77
     },
@@ -1306,6 +1314,10 @@
     {
       "date": "2026-07-30",
       "close": 53.05
+    },
+    {
+      "date": "2026-07-31",
+      "close": 51.23
     },
     {
       "date": "2026-08-03",

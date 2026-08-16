@@ -1,7 +1,7 @@
 {
   "symbol": "FXAIX",
   "name": "Fidelity 500 Index Fund",
-  "updated": "2026-08-15T22:29:25.938979+00:00",
+  "updated": "2026-08-16T22:29:25.055087+00:00",
   "news": [
     {
       "title": "Stock market today: Dow plunges by 1,100 points, S&P 500 and Nasdaq sink as yields rise on Fed's hawkish hold - Yahoo Finance",
@@ -228,6 +228,13 @@
       "category": "company"
     },
     {
+      "title": "I\u2019ve Been Buying Fidelity\u2019s Gigantic FXAIX Fund For Six Years Straight Before Realizing The True Cost - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWGVmVnhqRHFiaWVPcEN5ZElvblk1NWVaQUJxY1BWV0dockFSeGx6UHRGdXRLSHFvb04zMG12dHNuWHRKZFhQNjFoWnl2MzNpZzdWbFI3NjN4VzRvQmZwengtbi13TDNXSl9DRmxsN1g5dHc0WkZuUWt4Zi1MQ2c2Q092SQ?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "Best S&P 500 Funds for 2026 - Forbes",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyM0RYV1daOEUtdGxLU3dCazU1XzJCeTJ6eGo3WlVlZWROUXdsYm1JaFMzZl9RaEt2czZyUWdBQ21HZ2ZITl9tc2JUMFpmWXpzQ2JkZnNNLUVlQUVGWmZSdXhNN0hfaklOR00ySmpCY25MaDQ?oc=5",
       "pubDate": "Wed, 11 May 2022 06:31:34 GMT",
@@ -343,13 +350,6 @@
       "title": "Top 15 Actively Managed Wealth Creators in the Fund Industry - Morningstar",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNFFFVk1CenNlbDJibjVJM2p0d2tnYmNKYmdyN3M1UFdqV21lZksxdVh1M09CU1hsZktOcFRJRUhMZGxXbDk2Q1daLXZ0dFMtRkwtQzNKdEFmM3lkVTl1TzJXWm1GaU9oOHdHWnJ6ZzZZeDZaMU1rT001c05fN0FMWXpFYzVOdEd3Uk5oakl6NFY?oc=5",
       "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
-      "title": "11 Best Growth ETFs to Buy for Long-Term Returns - MarketWise",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9EV1lKZnpWTTFMVVlDQktpWmsydkFESE5hXzNBbE1ob1ZkUEpmUUViSzV3YUF6d2hGWFUwX3MzQnZmQ25PS09hcDZZeWw2S0hRdVpyQ3FwVnFCRElDd1hNTEs5azFhamdtY0kyNmhNdFlJSjZ6X21N?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT",
       "source": "",
       "category": "company"
     }
@@ -1284,6 +1284,14 @@
       "close": 258.7
     },
     {
+      "date": "2026-07-21",
+      "close": 260.99
+    },
+    {
+      "date": "2026-07-22",
+      "close": 260.64
+    },
+    {
       "date": "2026-07-23",
       "close": 257.49
     },
@@ -1306,6 +1314,10 @@
     {
       "date": "2026-07-30",
       "close": 258.54
+    },
+    {
+      "date": "2026-07-31",
+      "close": 260.37
     },
     {
       "date": "2026-08-03",

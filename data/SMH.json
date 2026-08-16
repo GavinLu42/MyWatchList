@@ -1,7 +1,7 @@
 {
   "symbol": "SMH",
   "name": "VanEck Semiconductor ETF",
-  "updated": "2026-08-15T22:29:30.586243+00:00",
+  "updated": "2026-08-16T22:29:29.220020+00:00",
   "news": [
     {
       "title": "SIA: Global Semiconductor Market Set to Reach $1.5 Trillion - Electropages",
@@ -121,6 +121,13 @@
       "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
       "source": "",
       "category": "company"
+    },
+    {
+      "title": "Governor Hochul Announces Launch of New Semiconductor Manufacturing Workforce Training Tax Credit Program - Empire State Development (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTDc4TnlqRmlleWdRNXozSWNlQU5XWjhmRXBzbG1VdDBOVFhDakIwQlJSdHFvbzZPSmZMMjhLOGY1akEwcGE1WjNHUG1CSm50cXFsUDJpZXE0bnF1bnBURzRucF9ScDBwOWY5d3cwMGJHTUFNYzBFV0V2NmE0ZmJCOTVqb1U3YzVPRXoxLXhsMmNmLXg0WEdDNXhPOUxlQ1hDeG9fWTc3S3pna2cwQnA0OWQtWHJ6UQ?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 16:14:00 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
       "title": "Bank of America Says Long Semiconductors is the \"Most Crowded Trade Ever\" - 24/7 Wall St.",
@@ -245,13 +252,6 @@
       "title": "BE Semiconductor Industries (OTCMKTS:BESIY) Sees Unusually-High Trading Volume - Time to Buy? - MarketBeat",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdzdVSnROTUQzQl9QU1RkMVYtZ21HQVpPaUdzZ0VnLVhpc0JRNjkwcVBtSkRJS25FWmVwXzRrWVZXMUZYYzFMQ2Vpc0Nzd3NuV0U3VktIc2R4SEVoN0h5cnJMQ0R6R01Fa05EbjdRZjZJQWxXekNzeXVyWkd5QmxJbTZhZ3BMdHJsWUdDeEdTTzJaM2JVamlJZmh1OXhjZ1hJRGo0RGZlRkpIWkR3M2VDU05kLW9PbVNIXzNZTVk0MjN1dHVxRV9IWmNfcWlQQURtMjRlTkt4eVo?oc=5",
       "pubDate": "Wed, 12 Aug 2026 18:25:44 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Entegris, Penguin Solutions, Seagate, Applied Materials, and KLA Corporation Shares Are Soaring, What You Need To Know - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNTlRhdXc3RVFVemNEWEI4d0I4NzZhOTE2NjN4VnY5N3N1T1BOTElSbU5mQnhvZXRHQkowcE9xajd0QW9HY2ZsOW1XQ2tXSndFcEVmWXBlNzJfR1hKQk13TVpjcXdZQ3FlNkRVM3puZGJLRkZMNnlqOUVraWhEZTFqbEdXRG91ZkZIQWFIdzJZN3JlbFdWRGFqRFlKLXFpRUhCa1NKNU9JS3U1OU1jXzJjYklNNjFhdkpaTVAzVWw5MFdnbUtaczRFN2thanRJN2MwR3BKU0l0YldyUkdnREU2M09qRFpDVjdnRTdJT1RXTnJnS05BN1ZaTTVsbmpEeUg5U0VKWg?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 18:06:09 GMT",
       "source": "",
       "category": "sector"
     },
@@ -1377,7 +1377,8 @@
     "fiftyTwoWeekLow": 281.15,
     "regularMarketDayHigh": 590.28,
     "regularMarketDayLow": 581.87,
-    "regularMarketVolume": 5463900,
+    "regularMarketVolume": 5524295,
+    "longName": "VanEck Semiconductor ETF",
     "shortName": "VanEck Semiconductor ETF",
     "chartPreviousClose": 301.92,
     "priceHint": 2,
