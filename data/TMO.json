@@ -1,7 +1,7 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-08-16T22:29:37.666447+00:00",
+  "updated": "2026-08-17T22:31:58.821519+00:00",
   "news": [
     {
       "title": "Neuch\u00e2tel\u2019s Human Lean Diagnostics cluster is set to welcome its first tenants - ggba.swiss",
@@ -319,9 +319,9 @@
       "category": "company"
     },
     {
-      "title": "Northside Capital Management LLC Raises Holdings in Thermo Fisher Scientific Inc. $TMO - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeVZCOGtxYnNlSjFfOG9adERudWRyY2loZlZpMGt1SmwtWC1hSEMxS0oxQ2lMeDRBRGhsZXU3ZG91RjVxX24takhFVGE1YjFWN1JadGtBa19ZVkYwbGxuaEI5RFVuOFltaTdOSURmNzhsYlFweTV4ZC14NkVaNTlNeWl1M083NG8wUExoOER5TWcxc193Rk1aZ29OdVZjM25KVHRJODVGSjZUTEJWM3FCcm8xZG1zVTRfcUJkT1VSLXQzN2o3U3A2WGU4elBxNDBBbHVNMktFNE0xYlRaZXc?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 11:15:52 GMT",
+      "title": "Thermo Fisher Scientific Completes Sale of its Microbiology Business to Astorg - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYkl4X3FMb0NyT3FUWWtZSjU3aWRkNVpZV0stRWZma0lOZzFzeE5GR2V5Zy1HaGxmaVBzcHREdEN2cnd6ejhQN2pwREEzdnlvOFE0ZDMzT1ExREhKVUNHcE1lYW51TG1BX2Q1WW1FdjhHQzVMQWVra1Q0MS1ZS2wxcjI3SHAzNjVUbTBPeXNmM3drd0F4ZTFQVG1mQkZxdGxxamc?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 12:00:00 GMT",
       "source": "",
       "category": "company"
     },
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-15",
-      "close": 489.01
-    },
     {
       "date": "2025-08-18",
       "close": 487.54
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-08-14",
       "close": 588.29
+    },
+    {
+      "date": "2026-08-17",
+      "close": 585.51
     }
   ],
   "meta": {
@@ -1367,38 +1367,38 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 322151400,
-    "regularMarketTime": 1786737602,
+    "regularMarketTime": 1786996802,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 588.29,
+    "regularMarketPrice": 585.51,
     "fiftyTwoWeekHigh": 643.99,
     "fiftyTwoWeekLow": 435.27,
-    "regularMarketDayHigh": 594.74,
-    "regularMarketDayLow": 587.51,
-    "regularMarketVolume": 1057632,
+    "regularMarketDayHigh": 592.32,
+    "regularMarketDayLow": 581.81,
+    "regularMarketVolume": 667064,
     "longName": "Thermo Fisher Scientific Inc.",
     "shortName": "Thermo Fisher Scientific Inc",
-    "chartPreviousClose": 485.04,
+    "chartPreviousClose": 489.01,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1786694400,
-        "end": 1786714200,
+        "end": 1786973400,
+        "start": 1786953600,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1786714200,
-        "end": 1786737600,
+        "end": 1786996800,
+        "start": 1786973400,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1786737600,
-        "end": 1786752000,
+        "end": 1787011200,
+        "start": 1786996800,
         "gmtoffset": -14400
       }
     },

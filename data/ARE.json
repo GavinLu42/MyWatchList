@@ -1,7 +1,7 @@
 {
   "symbol": "ARE",
   "name": "Alexandria Real Estate Equities",
-  "updated": "2026-08-16T22:29:35.624783+00:00",
+  "updated": "2026-08-17T22:31:56.792631+00:00",
   "news": [
     {
       "title": "Alexandria Real Estate Equities, Inc. and Foundation for the National Institutes of Health Announce Foundational Milestone in Mission-Critical Partnership to Advance Precision Medicine for Depression - marketscreener.com",
@@ -277,6 +277,13 @@
       "category": "company"
     },
     {
+      "title": "Alexandria Real Estate prices $1B subordinated notes offering - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcmhxb3JuUkw2SFhBWXJ5SFI3dmQ4RXNUWWpUQU8ydkM3S1Zvd292NTlnaC1mS0lweFdXOTRKeFBUMW1MS1lzQ01sOTJKTktkTDN1YjRDWkhmV0p0dGRmOFNlcHE1ZnJxWWlYcnBWMEVQNjZTeTdtU0ZBRjYyamhCelNueVlRTjQxUGZZTXpidWVTX0pJbEZtUkNUY01Yc1Btb1ZGcHI1RDZIUG5WNWFXVXdGZDRFdXJl?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 22:57:31 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "Alexandria Real Estate prices $1B subordinated notes offering By Investing.com - Investing.com Canada",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUkxXNm05bHRRa2F5dXdYVTFuT2VaSUNDcS1QTU56SklnWXpJd0p6dUxqcEVhRmFIU1dTLWZjbWItb2t0T3EtbEdYTmJ0QnFieTZucG1nNjlScHpkSU1OSEs2MGhNZUdld0FRTEY1dm16ZzgyeTNsd3hOaU9LZksyUlhBZURDZVIwYnI0aEFHNXdCZXdYU2h0SGdaT0N5dER3RzkxMW9PT1dETDdEYVN6SGJydHJoQ0FrZVZHLVJR?oc=5",
       "pubDate": "Wed, 12 Aug 2026 22:30:46 GMT",
@@ -345,20 +352,9 @@
       "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT",
       "source": "",
       "category": "company"
-    },
-    {
-      "title": "Alexandria Real Estate Equities Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeGNFb0JwcUlNM0EtV202WFhzTnM2amxtd2lzbnZLcFFsZnlweWRaTlRUeFd3anNQS1VMcXotWVNFdDczX0NnamJsSmZYa2V2cWt6UEVqR01QZVFqenVidEVMaVgxenhUSUhoOHNOQi1PQUxCTUhtYjhpNkVxYnBoWTlXQXI5TkZqU1N3aGxPWllZdDFseDFfZXpPVkZTdkRmcWtaVEpzWE53Rm1ZQS0tZkFSNHF0bHlYdzVwd0tPcGY2LTFrQzFFMzB4WGNNYlVYUmZpa0luOHlEZ1J5Y2V1cDNfeUxMRzhzY1E?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "company"
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-15",
-      "close": 76.09
-    },
     {
       "date": "2025-08-18",
       "close": 77.21
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-08-14",
       "close": 48.14
+    },
+    {
+      "date": "2026-08-17",
+      "close": 46.94
     }
   ],
   "meta": {
@@ -1367,38 +1367,38 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 864826200,
-    "regularMarketTime": 1786737603,
+    "regularMarketTime": 1786996803,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 48.14,
+    "regularMarketPrice": 46.94,
     "fiftyTwoWeekHigh": 88.24,
     "fiftyTwoWeekLow": 39.41,
-    "regularMarketDayHigh": 48.568,
-    "regularMarketDayLow": 48.02,
-    "regularMarketVolume": 1199265,
+    "regularMarketDayHigh": 47.948,
+    "regularMarketDayLow": 46.1,
+    "regularMarketVolume": 2276019,
     "longName": "Alexandria Real Estate Equities, Inc.",
     "shortName": "Alexandria Real Estate Equities",
-    "chartPreviousClose": 74.51,
+    "chartPreviousClose": 76.09,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1786694400,
-        "end": 1786714200,
+        "end": 1786973400,
+        "start": 1786953600,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1786714200,
-        "end": 1786737600,
+        "end": 1786996800,
+        "start": 1786973400,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1786737600,
-        "end": 1786752000,
+        "end": 1787011200,
+        "start": 1786996800,
         "gmtoffset": -14400
       }
     },

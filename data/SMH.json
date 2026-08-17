@@ -1,7 +1,7 @@
 {
   "symbol": "SMH",
   "name": "VanEck Semiconductor ETF",
-  "updated": "2026-08-16T22:29:29.220020+00:00",
+  "updated": "2026-08-17T22:31:50.173213+00:00",
   "news": [
     {
       "title": "SIA: Global Semiconductor Market Set to Reach $1.5 Trillion - Electropages",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-15",
-      "close": 295.65
-    },
     {
       "date": "2025-08-18",
       "close": 296.86
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-08-14",
       "close": 587.82
+    },
+    {
+      "date": "2026-08-17",
+      "close": 594.07
     }
   ],
   "meta": {
@@ -1367,38 +1367,38 @@
     "fullExchangeName": "NasdaqGM",
     "instrumentType": "ETF",
     "firstTradeDate": 960211800,
-    "regularMarketTime": 1786737600,
+    "regularMarketTime": 1786996800,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 587.82,
+    "regularMarketPrice": 594.07,
     "fiftyTwoWeekHigh": 671.83,
     "fiftyTwoWeekLow": 281.15,
-    "regularMarketDayHigh": 590.28,
-    "regularMarketDayLow": 581.87,
-    "regularMarketVolume": 5524295,
+    "regularMarketDayHigh": 600.37,
+    "regularMarketDayLow": 591.5,
+    "regularMarketVolume": 7582654,
     "longName": "VanEck Semiconductor ETF",
     "shortName": "VanEck Semiconductor ETF",
-    "chartPreviousClose": 301.92,
+    "chartPreviousClose": 295.65,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1786694400,
-        "end": 1786714200,
+        "end": 1786973400,
+        "start": 1786953600,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1786714200,
-        "end": 1786737600,
+        "end": 1786996800,
+        "start": 1786973400,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1786737600,
-        "end": 1786752000,
+        "end": 1787011200,
+        "start": 1786996800,
         "gmtoffset": -14400
       }
     },
