@@ -1,7 +1,7 @@
 {
   "symbol": "CVS",
   "name": "CVS Health",
-  "updated": "2026-08-17T22:31:52.321480+00:00",
+  "updated": "2026-08-18T22:31:31.612259+00:00",
   "news": [
     {
       "title": "CVS Health Corp (CVS) Shares Fall 3.1% -- What GF Score of 75 Te - GuruFocus",
@@ -41,6 +41,13 @@
     {
       "title": "CVS Health stock may move 5.8% on August earnings report - Investing.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNnNjSzlUSmlTcTRQdTFDVmhTYkE1cVJGdDR6SXM0WWRwQnlaQ1lwOHJjRXlGenRkTWJTaW80VnNlWFU2OU1Ldk9RNjRCTzJoM1Q1S3hPbmZPZkctUzR4alAzaTZNZjl1X0dKNmJuOUNOSHJVcjVCLXpnaV93bHJrRjRjcjcxRDlMcFJQX09oYkUtYUVzZl9NODB0UU5rdVJENHFuTFBiVi1mMThveXNkbEVrVkVjN2M?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "CVS Health (CVS) Earnings Expected to Grow: Should You Buy? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR2plOGE1NUZzM2djd3lBdnp4MzFOVF8yYV9kOEdVMXdnUEpmUEdCb3p6QVdnbkV2ZlFMR3JMT0V5WnkwSDFLb1dVOXVFRk1CamJSRkFlZ0duRnpUdm9tb0Z5TjQySTI4ektldjBEaVFJN0ZKMW8zQ0drWWdJR19PMzdLZUV4WFV4X1gxWjRUYlNOVzVrYzgyUGVqUTF5Zw?oc=5",
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
       "source": "",
       "category": "company"
@@ -291,13 +298,6 @@
       "category": "company"
     },
     {
-      "title": "The biggest payer and provider trends from Q2 - Fierce Healthcare",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRTBiNGYwZy1sUmNUNUVtSmgwbVp1amhYcnRLd2phVlM1cUVYanNXcEVnQUlrOW9HYl8wZTN4VlhPNUJLWnFDTW9RUTY4VU5zc0dBWF8yS1MxSHNsVTZVWElkMms4THhjZFFFeDZWbGpEYVhoWkFXY1ZaeV93UjhHTTJ3?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 13:16:40 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
       "title": "Retail in the Middle East is being rebuilt in real time. These 60 leaders are designing what comes next - fastcompanyme.com",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWTlxbmVKdlcxd1g2ZFRmSEdPdllfMWtkUzdlanVCbFFtV1Y2RjBzUnhUUmM4ME9KYXVDaXFqd0FHZnZ5djRzZms3V2YwckhydUlDT0hFRXFaaWZURnE5UjNWRUNPODRtWTV4N2QyaTlGLUVSbTJNYjJrRGJ4Nm45RUZkZnBmYjdRbVdzc3pEMjF6YWZrVDZPWDVNd0J1NEk3VHVza3pxTTUxb252UzFFODQ5RS1PYjRqbnV5bFd0cjdBU3MxSm5lSw?oc=5",
       "pubDate": "Wed, 11 Mar 2026 06:13:50 GMT",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-18",
-      "close": 70.17
-    },
     {
       "date": "2025-08-19",
       "close": 70.97
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-08-17",
       "close": 94.01
+    },
+    {
+      "date": "2026-08-18",
+      "close": 94.91
     }
   ],
   "meta": {
@@ -1367,38 +1367,38 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 99153000,
-    "regularMarketTime": 1786996802,
+    "regularMarketTime": 1787083202,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 94.01,
+    "regularMarketPrice": 94.91,
     "fiftyTwoWeekHigh": 110.68,
-    "fiftyTwoWeekLow": 69.4,
-    "regularMarketDayHigh": 96.3,
-    "regularMarketDayLow": 93.74,
-    "regularMarketVolume": 7295683,
+    "fiftyTwoWeekLow": 69.51,
+    "regularMarketDayHigh": 95.24,
+    "regularMarketDayLow": 93.89,
+    "regularMarketVolume": 5074877,
     "longName": "CVS Health Corporation",
     "shortName": "CVS Health Corporation",
-    "chartPreviousClose": 68.6,
+    "chartPreviousClose": 70.17,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1786973400,
-        "start": 1786953600,
+        "end": 1787059800,
+        "start": 1787040000,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1786996800,
-        "start": 1786973400,
+        "end": 1787083200,
+        "start": 1787059800,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1787011200,
-        "start": 1786996800,
+        "end": 1787097600,
+        "start": 1787083200,
         "gmtoffset": -14400
       }
     },

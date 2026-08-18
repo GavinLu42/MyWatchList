@@ -1,7 +1,7 @@
 {
   "symbol": "SMH",
   "name": "VanEck Semiconductor ETF",
-  "updated": "2026-08-17T22:31:50.173213+00:00",
+  "updated": "2026-08-18T22:31:29.349865+00:00",
   "news": [
     {
       "title": "SIA: Global Semiconductor Market Set to Reach $1.5 Trillion - Electropages",
@@ -305,6 +305,13 @@
       "category": "company"
     },
     {
+      "title": "Why This Semiconductor ETF Might Be the Most Underrated AI Play Right Now - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWml5RlNIbFN3eC1Oc0Z4a1dTRXFGRi1nOEhueFNMWkZGemNhTUFmNWJFTDl3R1FfU1ZHTW5BRnRDc3VLT2pUUmpyR29WT3JVSGx5ZlVYbHNGTzA3MDl3d1VxNU02NjBrUVpwZDJNeTM2TEpaZmU3Zno0Rno4ZnpjZGk1ZHRBY0h3VVk4?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "VanEck Vectors ETF Trust - VanEck Vectors Semiconductor ETF (0LLB.L) stock price, news, quote and history - Yahoo Finance UK",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ER08zSU1rX1VBekhnb09nbHBtMk42XzFyRC1uTWZ5Sk1XV0Y2RGxzY0g0MGk2OFNlQ2hRSzZ0U1ltOHYybHByalNYMXhXSGpqX3BZRXNzLWJ2Q1VjamxmcDhKZm0?oc=5",
       "pubDate": "Wed, 05 Aug 2026 21:34:39 GMT",
@@ -345,20 +352,9 @@
       "pubDate": "Wed, 05 Aug 2026 17:48:00 GMT",
       "source": "",
       "category": "company"
-    },
-    {
-      "title": "SMH ETF analysis: The single most important level to watch - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYlk2SUNpbWdmZkVFMmptQk5COGVXZDFyMEhwNWU5QlViM0RuVnVyMmp6a3JVWVRXRTVNSWhiakNMZld1cmhsaXpQMWNBYU9mSHFKT01EOU4waEZ4QW1HZUMxLXJ3MmpSTmhicHNDWTFac1hGdmtrVm0zRW04Z3AwakFqd0xtYWNCOWFQQ2lVdWVqakdNNFBheGN2c2x0WDR0LWdUSlRWUXRCbVhNUHRWNEEwTTJ3MUZLNUdMZTRJbEl3bVBMdXc?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 13:44:00 GMT",
-      "source": "",
-      "category": "company"
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-18",
-      "close": 296.86
-    },
     {
       "date": "2025-08-19",
       "close": 290.87
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-08-17",
       "close": 594.07
+    },
+    {
+      "date": "2026-08-18",
+      "close": 569.77
     }
   ],
   "meta": {
@@ -1367,38 +1367,38 @@
     "fullExchangeName": "NasdaqGM",
     "instrumentType": "ETF",
     "firstTradeDate": 960211800,
-    "regularMarketTime": 1786996800,
+    "regularMarketTime": 1787083201,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 594.07,
+    "regularMarketPrice": 569.77,
     "fiftyTwoWeekHigh": 671.83,
     "fiftyTwoWeekLow": 281.15,
-    "regularMarketDayHigh": 600.37,
-    "regularMarketDayLow": 591.5,
-    "regularMarketVolume": 7582654,
+    "regularMarketDayHigh": 577.76,
+    "regularMarketDayLow": 562.64,
+    "regularMarketVolume": 11137496,
     "longName": "VanEck Semiconductor ETF",
     "shortName": "VanEck Semiconductor ETF",
-    "chartPreviousClose": 295.65,
+    "chartPreviousClose": 296.86,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1786973400,
-        "start": 1786953600,
+        "start": 1787040000,
+        "end": 1787059800,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1786996800,
-        "start": 1786973400,
+        "start": 1787059800,
+        "end": 1787083200,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1787011200,
-        "start": 1786996800,
+        "start": 1787083200,
+        "end": 1787097600,
         "gmtoffset": -14400
       }
     },

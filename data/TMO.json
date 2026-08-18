@@ -1,8 +1,15 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-08-17T22:31:58.821519+00:00",
+  "updated": "2026-08-18T22:31:39.033515+00:00",
   "news": [
+    {
+      "title": "Thermo Fisher Scientific Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkcjBaaWJUbFdlTTEzOVVMOVhJT0x5Q0daN3JxMVVvNnB1RE1XS3pURGRwMXJUNzRWV2FOWDNBYnY4MFBiZ2VGLTJDTXlXbi16NXhGNFZNQXdMeFNqNzlMeWJzSjNCZDhDU1o4U1pHNWpaWXNZNlBPSUp1cGY?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 01:10:00 GMT",
+      "source": "",
+      "category": "company"
+    },
     {
       "title": "Neuch\u00e2tel\u2019s Human Lean Diagnostics cluster is set to welcome its first tenants - ggba.swiss",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU2J4THI2dWoyMldfdUpaZ3BIWUR6UkNSR1B1TkxIR3czYXFZRGFYSi14V25oSjFPXzZIc2kwNVlBN09lVmE0Q0ZTRndmRWRVVVpLQTFnMTdUbXNRSHVCanlPNng5dVNHN0YtbnVpWGpyZFVHckk4aGdGeE1yZXJzVmtQRFB3X3I4ejlQdGwxMWtLZV9SZlIyYU52X2F5cFRyR0E?oc=5",
@@ -319,13 +326,6 @@
       "category": "company"
     },
     {
-      "title": "Thermo Fisher Scientific Completes Sale of its Microbiology Business to Astorg - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYkl4X3FMb0NyT3FUWWtZSjU3aWRkNVpZV0stRWZma0lOZzFzeE5GR2V5Zy1HaGxmaVBzcHREdEN2cnd6ejhQN2pwREEzdnlvOFE0ZDMzT1ExREhKVUNHcE1lYW51TG1BX2Q1WW1FdjhHQzVMQWVra1Q0MS1ZS2wxcjI3SHAzNjVUbTBPeXNmM3drd0F4ZTFQVG1mQkZxdGxxamc?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 12:00:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
       "title": "Theranos isn\u2019t the only diagnostics company exploiting regulatory loopholes - The Verge",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc2Y2clIyeVFLVlNfVkkxWUtVX0h5UHNodHpLOVNuSlktLXl4bTVpS25CSDFyeXV2dHBaTE02ZzBZYnpfbF8tQV9YVHdCc0RYSzk3VnBkd0FCVFBXQ3NZOXhKQVFiVXFTb00tNEpkWUVOaXNwYU9rLTNNbWctVnM3bXBkdHN1b1F6MmJONmZDbHAzMzEtZTNfbnFVZUhJM2tiaC1vaS1NcHo1elp4YVlGZ2lCdEVFM3lBMG41OQ?oc=5",
       "pubDate": "Wed, 11 Nov 2015 08:00:00 GMT",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-18",
-      "close": 487.54
-    },
     {
       "date": "2025-08-19",
       "close": 498.29
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-08-17",
       "close": 585.51
+    },
+    {
+      "date": "2026-08-18",
+      "close": 589.04
     }
   ],
   "meta": {
@@ -1367,38 +1367,38 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 322151400,
-    "regularMarketTime": 1786996802,
+    "regularMarketTime": 1787083202,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 585.51,
+    "regularMarketPrice": 589.04,
     "fiftyTwoWeekHigh": 643.99,
     "fiftyTwoWeekLow": 435.27,
-    "regularMarketDayHigh": 592.32,
-    "regularMarketDayLow": 581.81,
-    "regularMarketVolume": 667064,
+    "regularMarketDayHigh": 592.22,
+    "regularMarketDayLow": 584.86,
+    "regularMarketVolume": 835630,
     "longName": "Thermo Fisher Scientific Inc.",
     "shortName": "Thermo Fisher Scientific Inc",
-    "chartPreviousClose": 489.01,
+    "chartPreviousClose": 487.54,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1786973400,
-        "start": 1786953600,
+        "start": 1787040000,
+        "end": 1787059800,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1786996800,
-        "start": 1786973400,
+        "start": 1787059800,
+        "end": 1787083200,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1787011200,
-        "start": 1786996800,
+        "start": 1787083200,
+        "end": 1787097600,
         "gmtoffset": -14400
       }
     },
