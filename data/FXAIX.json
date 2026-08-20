@@ -1,7 +1,7 @@
 {
   "symbol": "FXAIX",
   "name": "Fidelity 500 Index Fund",
-  "updated": "2026-08-19T22:32:10.151338+00:00",
+  "updated": "2026-08-20T22:35:04.470241+00:00",
   "news": [
     {
       "title": "Stock market today: Dow plunges by 1,100 points, S&P 500 and Nasdaq sink as yields rise on Fed's hawkish hold - Yahoo Finance",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-20",
-      "close": 222.43
-    },
     {
       "date": "2025-08-21",
       "close": 221.57
@@ -1272,14 +1268,6 @@
       "close": 258.7
     },
     {
-      "date": "2026-07-21",
-      "close": 260.99
-    },
-    {
-      "date": "2026-07-22",
-      "close": 260.64
-    },
-    {
       "date": "2026-07-23",
       "close": 257.49
     },
@@ -1302,10 +1290,6 @@
     {
       "date": "2026-07-30",
       "close": 258.54
-    },
-    {
-      "date": "2026-07-31",
-      "close": 260.37
     },
     {
       "date": "2026-08-03",
@@ -1354,6 +1338,10 @@
     {
       "date": "2026-08-18",
       "close": 267.54
+    },
+    {
+      "date": "2026-08-19",
+      "close": 268.13
     }
   ],
   "meta": {
@@ -1363,35 +1351,35 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 1304515800,
-    "regularMarketTime": 1787177632,
+    "regularMarketTime": 1787263983,
     "hasPrePostMarketData": false,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 268.13,
+    "regularMarketPrice": 265.83,
     "fiftyTwoWeekHigh": 271.2,
     "fiftyTwoWeekLow": 220.95,
     "longName": "Fidelity 500 Index",
     "shortName": "Fidelity 500 Index Fund",
-    "chartPreviousClose": 222.97,
+    "chartPreviousClose": 222.43,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1787126400,
-        "end": 1787146200,
+        "start": 1787212800,
+        "end": 1787232600,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1787146200,
-        "end": 1787169600,
+        "start": 1787232600,
+        "end": 1787256000,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1787169600,
-        "end": 1787184000,
+        "start": 1787256000,
+        "end": 1787270400,
         "gmtoffset": -14400
       }
     },

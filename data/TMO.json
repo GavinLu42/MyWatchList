@@ -1,7 +1,7 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-08-19T22:32:23.023562+00:00",
+  "updated": "2026-08-20T22:35:17.132184+00:00",
   "news": [
     {
       "title": "Thermo Fisher Scientific Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
@@ -144,6 +144,13 @@
       "category": "company"
     },
     {
+      "title": "Q2 Earnings Highs And Lows: Thermo Fisher (NYSE:TMO) Vs The Rest Of The Research Tools & Consumables Stocks - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUWVaLXlDUGpMSUllZVdwVEpZOXVsZXBkU21uZ253ZFZYYWdtX1hCVEdBTWdIWFdnS0FSbDVrVHdGMHg4NGNqSV9vNFhiZVd0TVRzR1gtTW41QVNybUJsRWx3UFI4THBqRXNiRlYzOUxIZUowX2h1NXpsbm5ZSmZIem5ZXzFBUTh2Z0MyUHptQUR5Q1NT?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 13:02:02 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "Thermo Fisher launches the Thermo Scientific InstaFlux - Scientist Live",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZjQwUjdfQXAxR0tXU0NvT2JWa2pXdGEySzdydWFycEpSSmduRWZRY3hUa2hxZWNJbkdtNUZjMHpVUndCVkpUZ1lvRW1PNmh6Mm1RMk5jdGlPNll1WlBtR0RNUkdPMzA3WnN5MzlCTTlZd0NPallqdDNudmlPZGtMRGhMNklPRWl0cVpCOUhB?oc=5",
       "pubDate": "Wed, 19 Aug 2026 10:55:12 GMT",
@@ -249,13 +256,6 @@
       "category": "company"
     },
     {
-      "title": "Citizens Financial Group Inc. RI Buys New Holdings in Thermo Fisher Scientific Inc. $TMO - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRHh1dFNWR0xBeWljYzJyZjVfTmpEZ1pxWTlRMzJUUmxoUWVZNUVYYlhMMUk3WDJHUHlBWmpZUENCVjgzV2JJQ19zZTJ3UnZ3ODM0MDJxaHdzMmFNV2ppdFBpZ2stTDB1WWg0aWNtbWxKRGo4TnNRd09oMWtrT0llUFgtWTFpd2RJVzZyRTBhOWpPN3RLeDduUzNzZG0yNnFTbjBMNmxza2tGWVpSRG9wTnptbFFxejdsRGtpTFVwNmxOV3FQd2ktY3RMUUlJcXBFLXR4NXBhVkxULXFqS0lv?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 08:19:21 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
       "title": "Life Science Tools Market Size, Share, Growth & Industry Forecast 2035 - Research Nester",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CNWp1ZHFZRk14Rl9uUjdoalRjbTRHRU04bkJIQWFkSlM5bUNLczBRZmlpcThsSmNITHR4ODdvZ09NVXVJTS1GX3FzSk9zRGI5UWdsMi1tZ3ozbXY5RTJ6TnFXUDRMS0ZxQUJ0NjhLb3loRWxqR1NQMw?oc=5",
       "pubDate": "Wed, 17 Sep 2025 07:00:00 GMT",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-20",
-      "close": 494.81
-    },
     {
       "date": "2025-08-21",
       "close": 483.76
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-08-19",
       "close": 613.54
+    },
+    {
+      "date": "2026-08-20",
+      "close": 627.55
     }
   ],
   "meta": {
@@ -1367,38 +1367,37 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 322151400,
-    "regularMarketTime": 1787169602,
+    "regularMarketTime": 1787256002,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 613.54,
+    "regularMarketPrice": 627.55,
     "fiftyTwoWeekHigh": 643.99,
     "fiftyTwoWeekLow": 435.27,
-    "regularMarketDayHigh": 620.475,
-    "regularMarketDayLow": 594.995,
-    "regularMarketVolume": 1684050,
-    "longName": "Thermo Fisher Scientific Inc.",
+    "regularMarketDayHigh": 634.7,
+    "regularMarketDayLow": 608.82,
+    "regularMarketVolume": 2750067,
     "shortName": "Thermo Fisher Scientific Inc",
-    "chartPreviousClose": 498.29,
+    "chartPreviousClose": 494.81,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1787146200,
-        "start": 1787126400,
+        "start": 1787212800,
+        "end": 1787232600,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1787169600,
-        "start": 1787146200,
+        "start": 1787232600,
+        "end": 1787256000,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1787184000,
-        "start": 1787169600,
+        "start": 1787256000,
+        "end": 1787270400,
         "gmtoffset": -14400
       }
     },
