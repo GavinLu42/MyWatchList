@@ -1,7 +1,7 @@
 {
   "symbol": "SHEL",
   "name": "Shell plc",
-  "updated": "2026-08-20T22:35:12.913596+00:00",
+  "updated": "2026-08-21T22:31:57.865409+00:00",
   "news": [
     {
       "title": "2026 Oil and Gas Industry Outlook - Deloitte",
@@ -90,6 +90,13 @@
     {
       "title": "Shell plc publishes second quarter 2026 press release - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUS1ibW5hZk5zU1M0R0ZPbFJCU3JIV0o3a2pwN0x1SWdkRjRNYmZSMTQxcFFyRHZJSnRyVmJyOTRualJESmlPZjdxQXR0akh2Z3JZZkw2ekREQWdUei1zc0ZvU2xHU1JvYVVEcEk2R1BvZlR1MnNWWDdlVHdmUURkajgxckVuRVNraWI4amhUMS0wNEh2ZVE?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Nigeria: Lifting the Lid: Internal documents expose Shell\u2019s negligent oil operations - Amnesty International",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xS0RJcy1WaDZEcU5tdG1lYkpKV01GbC1RRlFLR291TnhyRXJJRDhJcGowdTA4MXNrazVpS3VBSzlwenVZNEpxRjE5V1g3MjB3OHNQYzExVW5nbUtWa2dObnllX2JuYWM?oc=5",
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
       "source": "",
       "category": "company"
@@ -345,20 +352,9 @@
       "pubDate": "Wed, 19 Aug 2026 08:34:00 GMT",
       "source": "",
       "category": "company"
-    },
-    {
-      "title": "Shell stock edges higher as buybacks and oil support it - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLTNOLTVfUnF2a1JQVE0zVkhJd1FtZ0h4c0trclRHSk1MNkplUG8tMFI3aW1GdjY5Ml9UckNsSm5FUlI4WVptd0JZNHVBdmltaE1YLTRJQ1RLZHZ2NGlfbHNqV0Z3YTZ1S3JBMTI0eHF1WXdLbHVRZXJaU1M1cUpBd2tDY3E4eUZPdjZZcldWLUh6VW5kRUN6MXZpelZycm9Eem90NXhOOFFXWElrRXBVQUhRNll3WlE1anc?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 04:40:02 GMT",
-      "source": "",
-      "category": "company"
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-21",
-      "close": 72.49
-    },
     {
       "date": "2025-08-22",
       "close": 73.32
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-08-20",
       "close": 93.65
+    },
+    {
+      "date": "2026-08-21",
+      "close": 93.33
     }
   ],
   "meta": {
@@ -1367,38 +1367,38 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 447949800,
-    "regularMarketTime": 1787256002,
+    "regularMarketTime": 1787342402,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 93.65,
+    "regularMarketPrice": 93.33,
     "fiftyTwoWeekHigh": 94.9,
     "fiftyTwoWeekLow": 68.625,
-    "regularMarketDayHigh": 94.7,
-    "regularMarketDayLow": 93.63,
-    "regularMarketVolume": 4923981,
+    "regularMarketDayHigh": 94.02,
+    "regularMarketDayLow": 93.07,
+    "regularMarketVolume": 3312137,
     "longName": "Shell plc",
     "shortName": "Shell PLC",
-    "chartPreviousClose": 72.09,
+    "chartPreviousClose": 72.49,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1787212800,
-        "end": 1787232600,
+        "end": 1787319000,
+        "start": 1787299200,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1787232600,
-        "end": 1787256000,
+        "end": 1787342400,
+        "start": 1787319000,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1787256000,
-        "end": 1787270400,
+        "end": 1787356800,
+        "start": 1787342400,
         "gmtoffset": -14400
       }
     },

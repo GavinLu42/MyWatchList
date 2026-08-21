@@ -1,7 +1,7 @@
 {
   "symbol": "ARE",
   "name": "Alexandria Real Estate Equities",
-  "updated": "2026-08-20T22:35:15.044641+00:00",
+  "updated": "2026-08-21T22:32:00.281876+00:00",
   "news": [
     {
       "title": "Alexandria Real Estate Equities, Inc. and Foundation for the National Institutes of Health Announce Foundational Milestone in Mission-Critical Partnership to Advance Precision Medicine for Depression - marketscreener.com",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-21",
-      "close": 77.41
-    },
     {
       "date": "2025-08-22",
       "close": 80.93
@@ -1268,6 +1264,14 @@
       "close": 50.05
     },
     {
+      "date": "2026-07-21",
+      "close": 50.61
+    },
+    {
+      "date": "2026-07-22",
+      "close": 49.64
+    },
+    {
       "date": "2026-07-23",
       "close": 50.12
     },
@@ -1290,6 +1294,10 @@
     {
       "date": "2026-07-30",
       "close": 52.49
+    },
+    {
+      "date": "2026-07-31",
+      "close": 51.45
     },
     {
       "date": "2026-08-03",
@@ -1346,6 +1354,10 @@
     {
       "date": "2026-08-20",
       "close": 52.94
+    },
+    {
+      "date": "2026-08-21",
+      "close": 53.49
     }
   ],
   "meta": {
@@ -1355,37 +1367,37 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 864826200,
-    "regularMarketTime": 1787256002,
+    "regularMarketTime": 1787342403,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 52.94,
+    "regularMarketPrice": 53.49,
     "fiftyTwoWeekHigh": 88.24,
     "fiftyTwoWeekLow": 39.41,
-    "regularMarketDayHigh": 53.295,
-    "regularMarketDayLow": 50.145,
-    "regularMarketVolume": 2964441,
+    "regularMarketDayHigh": 54.01,
+    "regularMarketDayLow": 51.81,
+    "regularMarketVolume": 2153751,
     "shortName": "Alexandria Real Estate Equities",
-    "chartPreviousClose": 77.46,
+    "chartPreviousClose": 77.41,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1787212800,
-        "end": 1787232600,
+        "start": 1787299200,
+        "end": 1787319000,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1787232600,
-        "end": 1787256000,
+        "start": 1787319000,
+        "end": 1787342400,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1787256000,
-        "end": 1787270400,
+        "start": 1787342400,
+        "end": 1787356800,
         "gmtoffset": -14400
       }
     },
