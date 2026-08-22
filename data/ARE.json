@@ -1,7 +1,7 @@
 {
   "symbol": "ARE",
   "name": "Alexandria Real Estate Equities",
-  "updated": "2026-08-21T22:32:00.281876+00:00",
+  "updated": "2026-08-22T22:29:51.102090+00:00",
   "news": [
     {
       "title": "Alexandria Real Estate Equities, Inc. and Foundation for the National Institutes of Health Announce Foundational Milestone in Mission-Critical Partnership to Advance Precision Medicine for Depression - marketscreener.com",
@@ -125,6 +125,13 @@
     {
       "title": "Alexandria Scraps Fenway Lab Conversion Plans - Bisnow",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWFNkYnRWZW0tV2dWTWRFY3F2Y2dVUnRISmROT1FwN0FKVnp4cXlYYnpHd0RVODRJRldCc1A0T2paOUZMRlNsbUNlQTZ4cENJN1hzWC1NNGc2UU5jVS1wNmZzaXA5d29sOUdrTjBqMTJqcXg0NXpqZTZTSzZ6elNEaVdYRTNDLXo4Q2MzdjNzOGtGcTM0VlU2QjNqNE1PU3BySkpR?oc=5",
+      "pubDate": "Wed, 28 Jan 2026 08:00:00 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Life science, but not as we know it - Property Week",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWW5uZ2hXdUY0U3BsRURaYlZwNHpUejdLMDZYcXVtT1k2Vm82WUhCUDJySnRtZnYzeUpyVnZXSmhJUjJQcWRQRjBVTUxPaEwzRnppdFF0ekRCZjhTaHRjNVQzWUZ0endhbVlRakJQeE1wZjlNb2pMLXpPMEVzRU9lN3VnV2M?oc=5",
       "pubDate": "Wed, 28 Jan 2026 08:00:00 GMT",
       "source": "",
       "category": "sector"
@@ -345,13 +352,6 @@
       "pubDate": "Wed, 12 Aug 2026 22:20:00 GMT",
       "source": "",
       "category": "company"
-    },
-    {
-      "title": "2026 U.S. Life Sciences Trends - CBRE",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sY0lqdlhWOVRaZFozNEFQVk5Pcjd0YkJ3NlpoYWp6TE91bWtHMHV4U2kyTFdkaDk0VVpLcGZ5bm9VdlV5WjYzYXI5azU5eEt3MFNqNFNfZVpqdG13TmVLSTJ2Q3RNNkVJekVzR0FGRURUcUN3?oc=5",
-      "pubDate": "Wed, 11 Mar 2026 23:39:41 GMT",
-      "source": "",
-      "category": "sector"
     }
   ],
   "prices": [
@@ -1384,20 +1384,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1787299200,
         "end": 1787319000,
+        "start": 1787299200,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1787319000,
         "end": 1787342400,
+        "start": 1787319000,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1787342400,
         "end": 1787356800,
+        "start": 1787342400,
         "gmtoffset": -14400
       }
     },
