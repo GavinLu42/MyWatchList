@@ -1,12 +1,19 @@
 {
   "symbol": "SMH",
   "name": "VanEck Semiconductor ETF",
-  "updated": "2026-08-22T22:29:44.678250+00:00",
+  "updated": "2026-08-23T22:29:36.739757+00:00",
   "news": [
     {
       "title": "SIA: Global Semiconductor Market Set to Reach $1.5 Trillion - Electropages",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd3RoNzVsODhVcWZ1bVBqQXRjWUxGTWJZUm41NDk3TjRtVEFnRDRJdHluNkV6YWRENmRsVE1FZjRRdFZPbUNISDZ2RVIyM0prTkVJVUxsTFUxTWdsVXdxSGlHODVkMWFmc2poNDZDOGY0bkU4QTlJTkNMd2R3Z2ZienZGbDZjdE10UG80TlRuanRHdEdaaWI2Z0hsN0pBU3BEOUhUNHpjdzdmZXU4VW9LUA?oc=5",
       "pubDate": "Wed, 29 Jul 2026 15:06:16 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "KIT - Media - News - News 2026 - KIT Strengthens Baden-W\u00fcrttemberg\u2019s Semiconductor Industry - Karlsruher Institut f\u00fcr Technologie (KIT)",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdjJxRG4tUVNYTWhVbjJQT05ieW9KX0ZlRGVsMzU4TElfVjVYOFVCcVJmM1NoNnVLb253Z3ZEWWp0a0hENFE5aUNNTkhwUDFDek1nVWdudnduRVhxV2c4OG1SWkRtT0MxSVVSdXJCYnh3eU1fTEVzMl9VVS1tZVRYLWYteUFvdWdHa3dlZWVaYVFka0ItOXo1V3lGRngxc096?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 11:28:26 GMT",
       "source": "",
       "category": "sector"
     },
@@ -217,13 +224,6 @@
       "title": "AI Startups Revolutionize 3D Data Compression and Semiconductor Design - \uc870\uc120\uc77c\ubcf4",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ2NvT3hjWlZXc3BtMEp0MTZxampYbVNJTVF5UW4xMlFDMGxKYVI1VW40bWFnbnFkdmxSWFNpZDJBS3NGVnhnQnlpaGlPMmxKTDBFNWh2eUtLNW9HUXQ1MHZhNDY1QTZGU29MV1IyWko5Qkc0NnRhOUw5MkM3YUxUclJNT25NLS1C?oc=5",
       "pubDate": "Wed, 19 Aug 2026 15:42:45 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Lattice Semiconductor (LSCC) Stock Looks Fully Priced Despite Strong 114% Returns - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOUN1VlhlRG9YTjZPaTRpbmsyVE13T0hyTjFiclRERlhwYWdUWXFzTUxDUko4a3Rkd1R6eHZLVHdHQUZrTXdyVWFMa3g5Vm9DdkRFSThieEhuemRhNGJFX094dkc3d21hTjJDa014TVF2bnc0VFlOX3VMeEhmR1JmNU8tVFVPUUJCTlJTaGxxODNUT3RVYXhCVklSU1BPWlNvdEc0ZGdKMUxZcHJFenQ1OVYxdkpPT19adGladW5YVGQ3alNTYjFnWEtjcGdKVUZLUHBUN29NMFgxMFFpSGfSAeMBQVVfeXFMUEtSQi04UUJXOFJpUjVMVjFfc1NORk43bUZuMWlNckhOd1Q5cjZ5UEg1LVBXRmlqRHYtYlNacXd2UFlHTng2dWk1bnRfSlQtVFdiNDljVlZ2V09MNkh0UzBLTEpqbHE3c3NPM3g5U29ZbGhaM2NjcTc5QUNzM1FLU3MtUGY0cGQtUW80bnpIVVh1bG5BWUFuRk1rU0xzVV90czdUNmR5aXNFM3hSX1JhR0tlaEVBby1vM2pZc3JMOXN2SUJKRnJCVWYtXzN2S05HMElmOVgzSzVWLVZFVi1Gc2ZPNGc?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 15:36:15 GMT",
       "source": "",
       "category": "sector"
     },
@@ -1377,7 +1377,7 @@
     "fiftyTwoWeekLow": 281.74,
     "regularMarketDayHigh": 569.145,
     "regularMarketDayLow": 556.1,
-    "regularMarketVolume": 9574408,
+    "regularMarketVolume": 9619330,
     "shortName": "VanEck Semiconductor ETF",
     "chartPreviousClose": 287.46,
     "priceHint": 2,
