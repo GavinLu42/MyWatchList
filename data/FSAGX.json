@@ -1,7 +1,7 @@
 {
   "symbol": "FSAGX",
   "name": "Fidelity Select Gold Portfolio",
-  "updated": "2026-08-23T22:29:34.250683+00:00",
+  "updated": "2026-08-24T22:34:31.657874+00:00",
   "news": [
     {
       "title": "Federal Reserve holds interest rates steady amid inflation concerns - WBAL-TV",
@@ -207,6 +207,13 @@
       "category": "company"
     },
     {
+      "title": "Fund Files: Fidelity PM departs, Virtus PM to retire - Citywire",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGZSZEZWUDhFYXc0YVRKQzdMd3lNQ0tqWkZ3eW5jV3NrYmt6eFNSMnI5M0d1MWRUX3pjUGN2U2IzTUFKbXFPakhMZnBSMDU4ZHE2VFRoQ0ExWmxTOFRMNk9uYmxwbzhIRkdsWUVxZVF0MFdSZWdiaFA5ZEVScGFBRnRvQXVCSGhDTS1UZXVUMDdQZnZwYW5NcS13WQ?oc=5",
+      "pubDate": "Wed, 11 Dec 2024 08:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "Fidelity Select Industrials Portfolio Q1 2025 Commentary - Seeking Alpha",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUkxMTmRhNkFxYTRZTERXOXdOTXVHMkYyOTk5UmNUUVl6QXJlOHRDd3UtZEJkdXg1bEhULU5Yb3dzRlF3TWJsTjZuXzVvdmJKMVhpdmxrb2QtV2tYUjBBYnB3OGpxbU5wLV9TZTZwRngtRVFsUEoyOUlDMGJacWNVQVdzVi1kVlFvMTBWQ25LVm5sQ283ZFRPTmdvSHdLUQ?oc=5",
       "pubDate": "Wed, 07 May 2025 07:00:00 GMT",
@@ -345,20 +352,9 @@
       "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT",
       "source": "",
       "category": "company"
-    },
-    {
-      "title": "Fidelity Select Energy Portfolio Q3 2025 Commentary (FSENX) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdGw1WmQ2RE9QR0FBRHRzOGVwT2RBdmlqTkdhT3NrZnVQMTBQSk1fZE0zOUlGWHhKQTlSSE1ObG1sZG1mVjcySFpoLTZCQ1FMRGhJTkxIRmZ0SGMwbGlrbFY4c0JGZ2hxM3NjcFB4c0szN1Fxa29lNWItZUNmUVZHdFZucUJzZjMyOExjSkJaOS1QZkJrVUx3?oc=5",
-      "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT",
-      "source": "",
-      "category": "company"
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-22",
-      "close": 43.07
-    },
     {
       "date": "2025-08-25",
       "close": 43.08
@@ -1367,35 +1363,35 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 503591400,
-    "regularMarketTime": 1787357308,
+    "regularMarketTime": 1787609589,
     "hasPrePostMarketData": false,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 71.11,
+    "regularMarketPrice": 71.69,
     "fiftyTwoWeekHigh": 79.83,
     "fiftyTwoWeekLow": 43.08,
     "longName": "Fidelity Select Gold",
     "shortName": "Fidelity Select Gold Pt",
-    "chartPreviousClose": 42.43,
+    "chartPreviousClose": 43.07,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1787299200,
-        "end": 1787319000,
+        "end": 1787578200,
+        "start": 1787558400,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1787319000,
-        "end": 1787342400,
+        "end": 1787601600,
+        "start": 1787578200,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1787342400,
-        "end": 1787356800,
+        "end": 1787616000,
+        "start": 1787601600,
         "gmtoffset": -14400
       }
     },

@@ -1,7 +1,7 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-08-23T22:29:46.097155+00:00",
+  "updated": "2026-08-24T22:34:42.335889+00:00",
   "news": [
     {
       "title": "Thermo Fisher Scientific Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
@@ -291,6 +291,13 @@
       "category": "sector"
     },
     {
+      "title": "Germany Veterinary Diagnostics Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV3g5VzJiSDFuSE1MRlZVVXdTLVR6TllRNG9hU3NDZ1JVNzZvMFdPbUpuVjRNU3dqUk90RVVSMGh3a2J4V19fNnoxWU82dGlmclVLWDc3SGk2bmEzbkFVY3FIdUZLMEdzRjBVRGJWMzJucVVhZ193bl9TZGtUOHVmd05TZlRoTzRua1JLMTBTSjBOOG56Y3pEZnl3WWs?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 23:47:03 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
       "title": "Australia In Vitro Diagnostics Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSHlLWDlUVHYzeHRIZzlTRTZNc0FJVnBEUnVmTmJoUVJTUmZvZGt6ZVpoaXZaR2tTZFV3Wi14d3BuOWJuQ2xGRzJuX2toa25JajhtVFlvendGVmZWaEVSS1Y1VmlPWVFWckwzaVpHX093Q3hmODBLcE91ekVsTEh4Q0g3NVF5cXNWRktIQWs3NWFSU05uNnFmQzNKdEZ3XzRLalE?oc=5",
       "pubDate": "Wed, 15 Jul 2026 22:19:19 GMT",
@@ -345,20 +352,9 @@
       "pubDate": "Wed, 12 Feb 2025 08:00:00 GMT",
       "source": "",
       "category": "sector"
-    },
-    {
-      "title": "FDA AI Guidance - A New Era for Biotech, Diagnostics and Regulatory Compliance - Duane Morris LLP",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU2RVT0x5bk1YZGZLNWs1bklvOWxsRnpVX0VLanVqNlFRX0FNYVFJOXBwUS04WW42c1RNUkhDaTZPMlRjUGJLRE9GMmR2a19taHA1V1ZqYk5mbWZvVFpfRFZBLWJMS1hTbEhoWVZSZVR0WWNQWTVzSU5yR2duQVNkdE5JbkRYeGFZQm9KUEtMeUFUaTVTdmZ1ZUxvUkxsdlBSLUxxdkxrRDVoWk9yeVc4?oc=5",
-      "pubDate": "Wed, 12 Feb 2025 08:00:00 GMT",
-      "source": "",
-      "category": "sector"
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-22",
-      "close": 499.99
-    },
     {
       "date": "2025-08-25",
       "close": 490.75
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-08-21",
       "close": 629.27
+    },
+    {
+      "date": "2026-08-24",
+      "close": 628.74
     }
   ],
   "meta": {
@@ -1367,37 +1367,38 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 322151400,
-    "regularMarketTime": 1787342402,
+    "regularMarketTime": 1787601602,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 629.27,
+    "regularMarketPrice": 628.74,
     "fiftyTwoWeekHigh": 643.99,
     "fiftyTwoWeekLow": 435.27,
-    "regularMarketDayHigh": 629.49,
-    "regularMarketDayLow": 616.27,
-    "regularMarketVolume": 1555958,
+    "regularMarketDayHigh": 629.11,
+    "regularMarketDayLow": 615.97,
+    "regularMarketVolume": 1727016,
+    "longName": "Thermo Fisher Scientific Inc.",
     "shortName": "Thermo Fisher Scientific Inc",
-    "chartPreviousClose": 483.76,
+    "chartPreviousClose": 499.99,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1787319000,
-        "start": 1787299200,
+        "end": 1787578200,
+        "start": 1787558400,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1787342400,
-        "start": 1787319000,
+        "end": 1787601600,
+        "start": 1787578200,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1787356800,
-        "start": 1787342400,
+        "end": 1787616000,
+        "start": 1787601600,
         "gmtoffset": -14400
       }
     },
