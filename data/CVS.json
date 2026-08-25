@@ -1,7 +1,7 @@
 {
   "symbol": "CVS",
   "name": "CVS Health",
-  "updated": "2026-08-24T22:34:35.730816+00:00",
+  "updated": "2026-08-25T22:34:52.332127+00:00",
   "news": [
     {
       "title": "CVS Health Corp (CVS) Shares Fall 3.1% -- What GF Score of 75 Te - GuruFocus",
@@ -347,18 +347,14 @@
       "category": "sector"
     },
     {
-      "title": "Chemist Warehouse to become country's largest pharmacy group after ACCC approves $8.8 billion deal - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSzh1ZEZrZ0JpZUlvN1duOEUtUTVXNThLdFZqZ3hlVXlMQjRiUnB4RGd0b2dUNjk4RjE3anpfZU1NTG44ZGlyMHNkRW10R1hGa182RmZfcllQZnRrUEZlZ04wdm02bnNZSWt6N09xSWFUdTNEZ0xkdzZHcnU5R29oN2xDckNsZUc4Q0ZKWXR3cE1POG5uOWR2YmhuZW5PYUJRYUpvWU5Rdw?oc=5",
-      "pubDate": "Wed, 06 Nov 2024 08:00:00 GMT",
+      "title": "Retail pharmacy must mine the gaps - Drug Store News",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5QmI3VHdtYllneExUSUh4ZGhfNnV5TlpGUXdUc1ozc0xub3VGM0p4RVJHVHdKSHNWQTRMSldxOEFIRTlmaEFaMGFKSHJmWWVNdlM4U3o3QjBFMmxxMk4zNmVTX0NNOTA?oc=5",
+      "pubDate": "Wed, 09 Apr 2025 07:00:00 GMT",
       "source": "",
       "category": "sector"
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-25",
-      "close": 71.21
-    },
     {
       "date": "2025-08-26",
       "close": 71.55
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-08-24",
       "close": 94.11
+    },
+    {
+      "date": "2026-08-25",
+      "close": 92.9
     }
   ],
   "meta": {
@@ -1367,38 +1367,38 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 99153000,
-    "regularMarketTime": 1787601603,
+    "regularMarketTime": 1787688003,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 94.11,
+    "regularMarketPrice": 92.9,
     "fiftyTwoWeekHigh": 110.68,
     "fiftyTwoWeekLow": 69.51,
-    "regularMarketDayHigh": 94.177,
-    "regularMarketDayLow": 92.54,
-    "regularMarketVolume": 8496748,
+    "regularMarketDayHigh": 94.11,
+    "regularMarketDayLow": 92.71,
+    "regularMarketVolume": 4100958,
     "longName": "CVS Health Corporation",
     "shortName": "CVS Health Corporation",
-    "chartPreviousClose": 71.3,
+    "chartPreviousClose": 71.21,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1787558400,
-        "end": 1787578200,
+        "start": 1787644800,
+        "end": 1787664600,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1787578200,
-        "end": 1787601600,
+        "start": 1787664600,
+        "end": 1787688000,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1787601600,
-        "end": 1787616000,
+        "start": 1787688000,
+        "end": 1787702400,
         "gmtoffset": -14400
       }
     },

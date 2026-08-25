@@ -1,7 +1,7 @@
 {
   "symbol": "SHEL",
   "name": "Shell plc",
-  "updated": "2026-08-24T22:34:38.004437+00:00",
+  "updated": "2026-08-25T22:34:54.700536+00:00",
   "news": [
     {
       "title": "2026 Oil and Gas Industry Outlook - Deloitte",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-25",
-      "close": 73.82
-    },
     {
       "date": "2025-08-26",
       "close": 73.66
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-08-24",
       "close": 93.0
+    },
+    {
+      "date": "2026-08-25",
+      "close": 92.22
     }
   ],
   "meta": {
@@ -1367,38 +1367,38 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 447949800,
-    "regularMarketTime": 1787601602,
+    "regularMarketTime": 1787688002,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 93.0,
+    "regularMarketPrice": 92.22,
     "fiftyTwoWeekHigh": 94.9,
     "fiftyTwoWeekLow": 68.625,
-    "regularMarketDayHigh": 93.61,
-    "regularMarketDayLow": 92.71,
-    "regularMarketVolume": 5658574,
+    "regularMarketDayHigh": 92.71,
+    "regularMarketDayLow": 91.97,
+    "regularMarketVolume": 5644304,
     "longName": "Shell plc",
     "shortName": "Shell PLC",
-    "chartPreviousClose": 73.32,
+    "chartPreviousClose": 73.82,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1787558400,
-        "end": 1787578200,
+        "end": 1787664600,
+        "start": 1787644800,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1787578200,
-        "end": 1787601600,
+        "end": 1787688000,
+        "start": 1787664600,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1787601600,
-        "end": 1787616000,
+        "end": 1787702400,
+        "start": 1787688000,
         "gmtoffset": -14400
       }
     },

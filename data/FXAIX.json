@@ -1,7 +1,7 @@
 {
   "symbol": "FXAIX",
   "name": "Fidelity 500 Index Fund",
-  "updated": "2026-08-24T22:34:29.684571+00:00",
+  "updated": "2026-08-25T22:34:45.831775+00:00",
   "news": [
     {
       "title": "Stock market today: Dow plunges by 1,100 points, S&P 500 and Nasdaq sink as yields rise on Fed's hawkish hold - Yahoo Finance",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-25",
-      "close": 223.99
-    },
     {
       "date": "2025-08-26",
       "close": 224.93
@@ -1354,6 +1350,10 @@
     {
       "date": "2026-08-21",
       "close": 267.0
+    },
+    {
+      "date": "2026-08-24",
+      "close": 266.26
     }
   ],
   "meta": {
@@ -1363,35 +1363,35 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 1304515800,
-    "regularMarketTime": 1787609590,
+    "regularMarketTime": 1787696013,
     "hasPrePostMarketData": false,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 266.26,
+    "regularMarketPrice": 267.12,
     "fiftyTwoWeekHigh": 271.2,
     "fiftyTwoWeekLow": 220.95,
     "longName": "Fidelity 500 Index",
     "shortName": "Fidelity 500 Index Fund",
-    "chartPreviousClose": 224.95,
+    "chartPreviousClose": 223.99,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1787558400,
-        "end": 1787578200,
+        "start": 1787644800,
+        "end": 1787664600,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1787578200,
-        "end": 1787601600,
+        "start": 1787664600,
+        "end": 1787688000,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1787601600,
-        "end": 1787616000,
+        "start": 1787688000,
+        "end": 1787702400,
         "gmtoffset": -14400
       }
     },
