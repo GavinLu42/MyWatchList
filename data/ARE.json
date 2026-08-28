@@ -1,7 +1,7 @@
 {
   "symbol": "ARE",
   "name": "Alexandria Real Estate Equities",
-  "updated": "2026-08-27T03:02:52.204591+00:00",
+  "updated": "2026-08-28T06:03:37.718575+00:00",
   "news": [
     {
       "title": "Alexandria Real Estate Equities, Inc. and Foundation for the National Institutes of Health Announce Foundational Milestone in Mission-Critical Partnership to Advance Precision Medicine for Depression - marketscreener.com",
@@ -156,6 +156,13 @@
       "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
       "source": "",
       "category": "company"
+    },
+    {
+      "title": "For U.S. Life Sciences Real Estate, 2026 Is a Tale of Stabilization - Commercial Observer",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVlBybHpQSV84Uk01UXRjRUZiSmFVTU1jd2tKUm9wOU1vWTBET2VRMWlBY2FVdExWUy1fOGIxZ3NKZHBzVlJYM25aZGlvVmJzbHZNRXNBWG9rSzZwQjJoM3lfb3p1VmpOT3FyX0ozWExsZVpTaWcwUEpoVi1NN0JVMQ?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 20:40:36 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
       "title": "Boston\u2019s lab market is down, but it still leads the country - The Business Journals",
@@ -345,20 +352,9 @@
       "pubDate": "Wed, 17 Dec 2025 08:00:00 GMT",
       "source": "",
       "category": "sector"
-    },
-    {
-      "title": "Ian Anderson: Life Sciences Hiring Rebounds 2.1% in 2026, But Lab Vacancies Hit Record Highs - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95N3ZRZERzUUFVbDY1TkJSeGt6UHdpMzNvX0hJSm1YMVNtQ1lPdW5wbzNXeldMeWpnUEUtd3JaNjl1M0s2NndXZUs3Um1KNHc3Nm56Yjg3TVU3bFk?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "sector"
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-27",
-      "close": 81.72
-    },
     {
       "date": "2025-08-28",
       "close": 81.83
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-08-26",
       "close": 52.97
+    },
+    {
+      "date": "2026-08-27",
+      "close": 52.28
     }
   ],
   "meta": {
@@ -1367,38 +1367,38 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 864826200,
-    "regularMarketTime": 1787774402,
+    "regularMarketTime": 1787860803,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 52.97,
+    "regularMarketPrice": 52.28,
     "fiftyTwoWeekHigh": 88.24,
     "fiftyTwoWeekLow": 39.41,
-    "regularMarketDayHigh": 53.24,
-    "regularMarketDayLow": 51.99,
-    "regularMarketVolume": 2163959,
+    "regularMarketDayHigh": 53.04,
+    "regularMarketDayLow": 52.06,
+    "regularMarketVolume": 1429381,
     "longName": "Alexandria Real Estate Equities, Inc.",
     "shortName": "Alexandria Real Estate Equities",
-    "chartPreviousClose": 80.83,
+    "chartPreviousClose": 81.72,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1787731200,
-        "end": 1787751000,
+        "end": 1787923800,
+        "start": 1787904000,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1787751000,
-        "end": 1787774400,
+        "end": 1787947200,
+        "start": 1787923800,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1787774400,
-        "end": 1787788800,
+        "end": 1787961600,
+        "start": 1787947200,
         "gmtoffset": -14400
       }
     },

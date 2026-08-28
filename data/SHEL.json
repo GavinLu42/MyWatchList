@@ -1,7 +1,7 @@
 {
   "symbol": "SHEL",
   "name": "Shell plc",
-  "updated": "2026-08-27T03:02:50.052518+00:00",
+  "updated": "2026-08-28T06:03:35.654625+00:00",
   "news": [
     {
       "title": "2026 Oil and Gas Industry Outlook - Deloitte",
@@ -200,6 +200,13 @@
       "category": "sector"
     },
     {
+      "title": "Guest Essay: Abandoned Oil & Gas Wells Pose Hidden Threats To A.I. Data Center Development - A Proposed Site In Washington County Is Just One Example - PA Environment Digest Blog",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT3VtY2hlSzlwelotbktwWGlYRk82TkY2TkFQa1NKQ1B4N2QyZnlQUmI0M3hmR21QRnRwamhfcXpkV0VfN1E4TjZlZ1o3eG5RazlGNGRlWjlCeFptRzQxbUh0am1YUG9RZ2g1U2R6Rzg5N21NMXgwRERFQzZNZGxBeGZOa21yNjBkcDJWeW4zUHo?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 21:31:03 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
       "title": "Big oil and gas companies are partly responsible for California\u2019s water woes, study finds - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX0F4WjRyeVp2cEZmNkNvZDlUX1lkVUthbVl0MTUzTm15bWRHU0xmeHdRNjAxZzhhTnZFYmdZN2sxUWQwSTlMUHdCYXRySk5IRVRVYmVDaFg4cXJpanhWZ1lKemFYQzRmMWFRcjFPeFJUaWJGV005cGtTU1FIb1pxRkhDcEt6TFJ4bVE?oc=5",
       "pubDate": "Wed, 26 Aug 2026 21:22:03 GMT",
@@ -252,13 +259,6 @@
       "title": "New Study: How drones and other new technologies can help find hidden oil and gas wells - Environmental Defense Fund",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZFWl84d0o5MlZiLXVsOU5fRlRtNzB6aVAxRkJtUUhJR19TR0RKaDlYNVF6dDFnRnV5YS11QzVDTlBwR0JUd2o5c2FXQU1mOFc4bWt1cm5pRGxtT2xxazJZWGp2ZENXY2VLTG9WOVk0S2NUWDk2MjVoUUczeGktdWNrTG9xNEVTQXVJczhlMUZrTmVVUXNSelM1VXFZdFhRNEN2QmNpNVRjXzdmUndGdUFiWGZXRlNiSXpPNDJxZkMtU21raEl5S1c2Sl90cmhD?oc=5",
       "pubDate": "Wed, 26 Aug 2026 19:17:13 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "New Ohio oil and gas law brings changes for landowners \u2013 Ohio Ag Net - Ohio's Country Journal",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLXROem1Qa0dlS2R5eW9XY0diUVNWdS0wZHBYUW1wVkN5LWJ0ZFJNZ1JKRVBLU281djFRQUkzUE9Pa2IxV1Q2a2YwY1JyVzBaNktLNnltZTZRWHJobm5ieDJrZW1XWVB4VTkzNVV2RVZTSHBtaUpkRlhwSHVBY3FJMTJGOTNRdw?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 19:05:00 GMT",
       "source": "",
       "category": "sector"
     },
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-27",
-      "close": 73.71
-    },
     {
       "date": "2025-08-28",
       "close": 73.93
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-08-26",
       "close": 91.11
+    },
+    {
+      "date": "2026-08-27",
+      "close": 90.7
     }
   ],
   "meta": {
@@ -1367,38 +1367,38 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 447949800,
-    "regularMarketTime": 1787774402,
+    "regularMarketTime": 1787860802,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 91.11,
+    "regularMarketPrice": 90.7,
     "fiftyTwoWeekHigh": 94.9,
     "fiftyTwoWeekLow": 68.625,
-    "regularMarketDayHigh": 92.24,
-    "regularMarketDayLow": 91.01,
-    "regularMarketVolume": 7935825,
+    "regularMarketDayHigh": 91.34,
+    "regularMarketDayLow": 90.05,
+    "regularMarketVolume": 6905657,
     "longName": "Shell plc",
     "shortName": "Shell PLC",
-    "chartPreviousClose": 73.66,
+    "chartPreviousClose": 73.71,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1787731200,
-        "end": 1787751000,
+        "end": 1787923800,
+        "start": 1787904000,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1787751000,
-        "end": 1787774400,
+        "end": 1787947200,
+        "start": 1787923800,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1787774400,
-        "end": 1787788800,
+        "end": 1787961600,
+        "start": 1787947200,
         "gmtoffset": -14400
       }
     },

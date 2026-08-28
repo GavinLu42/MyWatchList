@@ -1,8 +1,15 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-08-27T03:02:54.252077+00:00",
+  "updated": "2026-08-28T06:03:39.633390+00:00",
   "news": [
+    {
+      "title": "A Bold New Beginning for PE's Life Sciences & Diagnostic Units - Medical Device and Diagnostic industry",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSjBHVExNLVZ2RmRwVmM4ZUJQY3Fyb1M0ZXlJeEhpMl85aTgzZWlHcGJYaDZwaHowZlV4UG80dWFCOTIwcHhTZXZKRi1yZWtBV2Z4VV9wMDdqVlVMS3hEcUhUanJpeHcwNVo4dlRVQTRzZ2lkUmZyQjlDem54eHFybW41VzA1ZTVmMXkwWGcyNFlaVTdRZ2c?oc=5",
+      "pubDate": "Wed, 29 Nov 2023 11:25:23 GMT",
+      "source": "",
+      "category": "sector"
+    },
     {
       "title": "Thermo Fisher Scientific Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkcjBaaWJUbFdlTTEzOVVMOVhJT0x5Q0daN3JxMVVvNnB1RE1XS3pURGRwMXJUNzRWV2FOWDNBYnY4MFBiZ2VGLTJDTXlXbi16NXhGNFZNQXdMeFNqNzlMeWJzSjNCZDhDU1o4U1pHNWpaWXNZNlBPSUp1cGY?oc=5",
@@ -345,20 +352,9 @@
       "pubDate": "Wed, 12 Jul 2023 07:00:00 GMT",
       "source": "",
       "category": "sector"
-    },
-    {
-      "title": "BD\u2019s Future Plans: Shed Life Sciences to Fund Medical Technology - Lab Manager",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2RRaC04bzdHWGZoVTZLR1FZQlJwVXZ3T0dSbEl6dnlzRmtVekV6bHdWX0k3WTFqZTZKNVJ5Xy0yczN0LXVsTW1OZU9IRXdqZ1I2aXEzTXVuNWZrb0Jta2tqWnAxY1FtcnVFSmtELVlORkFkN1U4Vko0dk5HQl9DdXgtWjdnUm4yZEhNZFdvbTRiNTZ3cjZSVHc4Wjc?oc=5",
-      "pubDate": "Wed, 12 Feb 2025 08:00:00 GMT",
-      "source": "",
-      "category": "sector"
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-27",
-      "close": 488.12
-    },
     {
       "date": "2025-08-28",
       "close": 489.74
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-08-26",
       "close": 633.71
+    },
+    {
+      "date": "2026-08-27",
+      "close": 630.7
     }
   ],
   "meta": {
@@ -1367,38 +1367,38 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 322151400,
-    "regularMarketTime": 1787774402,
+    "regularMarketTime": 1787860802,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 633.71,
+    "regularMarketPrice": 630.7,
     "fiftyTwoWeekHigh": 647.0,
     "fiftyTwoWeekLow": 435.27,
-    "regularMarketDayHigh": 636.06,
-    "regularMarketDayLow": 624.01,
-    "regularMarketVolume": 1842590,
+    "regularMarketDayHigh": 637.13,
+    "regularMarketDayLow": 626.33,
+    "regularMarketVolume": 1466900,
     "longName": "Thermo Fisher Scientific Inc.",
     "shortName": "Thermo Fisher Scientific Inc",
-    "chartPreviousClose": 488.48,
+    "chartPreviousClose": 488.12,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1787751000,
-        "start": 1787731200,
+        "start": 1787904000,
+        "end": 1787923800,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1787774400,
-        "start": 1787751000,
+        "start": 1787923800,
+        "end": 1787947200,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1787788800,
-        "start": 1787774400,
+        "start": 1787947200,
+        "end": 1787961600,
         "gmtoffset": -14400
       }
     },

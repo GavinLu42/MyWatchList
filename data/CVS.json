@@ -1,7 +1,7 @@
 {
   "symbol": "CVS",
   "name": "CVS Health",
-  "updated": "2026-08-27T03:02:47.800428+00:00",
+  "updated": "2026-08-28T06:03:33.346650+00:00",
   "news": [
     {
       "title": "CVS Health Corp (CVS) Shares Fall 3.1% -- What GF Score of 75 Te - GuruFocus",
@@ -158,6 +158,13 @@
       "category": "company"
     },
     {
+      "title": "Onos Health Raises $17 Million Series A to Accelerate Adoption of its Behavioral Health AI Platform for Health Plans - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxORWY3bDRCUm5ET204d0U2Zk1kcWpTdUJCeWVWdGhiZm4xb0NhdGlfU1BSb0U1VGZ2emwwbFBEN09ocWlidlVGdlVIdHNERDhya1BqT2gxLThhSTdkckp5VnR1ejVadnI3akNiMTRfTGFyZVpmcVRmeGIzendBU2MwaHhtdlltQ1dDYnlKUzZfRFVBWXNwOEF0cDNmQ0ZpVWZsRkh0d01yUmVKX1p3SXJaRzkzcW5uRGhZQktBYkJ4VTZMNUJ6QnN3dFZyamVtWERxajMtOUdJQkd1LTZKTlUzOFA2X0pfa3hva3g2LVZJb1JHdlhfYVlJTEtVY21tQkZGemxjbFZ5VQ?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 14:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "Back-to-school health checklist: What parents can do to help kids start the school year strong - CVS Health",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd3daTUlpVExHckNSM1dhbUQ3bEV0R1BEQmpNdk50MGIyNGx4SVNTa3JYaERyblI0a3VUNEo1bWNiZF9oc0ZEX3BqRGVNbFl3aXBaaGZ5bkdlUTU1Rlo5S0lsNGt1N25xM19Fd0lOTnBHODNqVndINDVRZnUyelRFcDlDYw?oc=5",
       "pubDate": "Wed, 26 Aug 2026 13:13:35 GMT",
@@ -284,13 +291,6 @@
       "category": "company"
     },
     {
-      "title": "CVS is now filling pet prescriptions at its 9,000 pharmacies nationwide - qz.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ELVNJa3hsbkdRai1NWFUzZlpzanhrV1RQSmNjV0hwUUdhcUJma3U0bXB0VHg3ZEVuc1ZXamRPalA4M3hSdTlZYUZGOWpGYmEzNDhUYlphOFR6bS1qSHdhRlNZUGRibGFpSE5NcGFB?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
       "title": "Court approves fire sale of most of Rite Aid's pharmacy assets - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX1MwV3l5N0FhRWhvLW91eGFnNWdyRkJZMklkZGtlVGhCd01JT21ZZDUxTGdsUDJSeEpNWFZkVnVoS1hZdGdKVjhYMzdCRDkydHZqT2o3R082VF9iZGtjeEwyeDlfdW05X3pVXzBXQnNNZWJpa3dJaUpxRzFxeGFhRnBoNXJHbFZ4aFM1ZzdyTGduZklYcmlVc1pkc1N1ZHhOTlVQSi1veFdqVTd3YzN3Rzk1bTlUVDNhbUtOQTBqSlI2cG5Ebnc?oc=5",
       "pubDate": "Wed, 21 May 2025 07:00:00 GMT",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-27",
-      "close": 71.93
-    },
     {
       "date": "2025-08-28",
       "close": 72.14
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-08-26",
       "close": 94.32
+    },
+    {
+      "date": "2026-08-27",
+      "close": 92.92
     }
   ],
   "meta": {
@@ -1367,38 +1367,38 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 99153000,
-    "regularMarketTime": 1787774402,
+    "regularMarketTime": 1787860802,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 94.32,
+    "regularMarketPrice": 92.92,
     "fiftyTwoWeekHigh": 110.68,
     "fiftyTwoWeekLow": 69.51,
-    "regularMarketDayHigh": 94.855,
-    "regularMarketDayLow": 92.91,
-    "regularMarketVolume": 6160068,
+    "regularMarketDayHigh": 94.14,
+    "regularMarketDayLow": 92.85,
+    "regularMarketVolume": 4327262,
     "longName": "CVS Health Corporation",
     "shortName": "CVS Health Corporation",
-    "chartPreviousClose": 71.55,
+    "chartPreviousClose": 71.93,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1787731200,
-        "end": 1787751000,
+        "start": 1787904000,
+        "end": 1787923800,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1787751000,
-        "end": 1787774400,
+        "start": 1787923800,
+        "end": 1787947200,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1787774400,
-        "end": 1787788800,
+        "start": 1787947200,
+        "end": 1787961600,
         "gmtoffset": -14400
       }
     },

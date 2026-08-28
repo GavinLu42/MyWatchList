@@ -1,7 +1,7 @@
 {
   "symbol": "SMH",
   "name": "VanEck Semiconductor ETF",
-  "updated": "2026-08-27T03:02:45.734692+00:00",
+  "updated": "2026-08-28T06:03:31.417965+00:00",
   "news": [
     {
       "title": "SIA: Global Semiconductor Market Set to Reach $1.5 Trillion - Electropages",
@@ -200,9 +200,23 @@
       "category": "company"
     },
     {
+      "title": "VanEck Semiconductor ETF Tokenized ETF (Robinhood) - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ1dZOU4yUThuY3NNNUU2ZWxhaVp2dDRjam9WbklWWnhnY1R3a3VSX0oxUjYxR0hFSzVpWm5FLTZ6TnBubGR6c2lfcmNHSU5rUmpNVVBNNVVpbEEzRW9fa1UtM1VGRTVaS2RoZmVJUWlJVnVCU1Jra0NCSFVnVmZicXBNdDVhS1U?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 02:49:36 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "How do I convert VanEck Semiconductor ETF Tokenized ETF (Robinhood) (SMH) to Indian Rupee (INR)? - CryptoRank",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaWxadkhSMzhBdVVWdVZlaTBHWXpqMVJ5WUhlMEI0UUE0YnpORi1Fc2k5TTZDS2tyaTRYRmRJeXp2V3hvLVVZQkkzUWwtVnc3TGJha0VuV1ZzWG1PcTl0c0N6ZEpyMldyS0FuNWgtcjdTN2M3QVhLdFA3T3M3UnBQY0NJV2cxSm8?oc=5",
       "pubDate": "Wed, 26 Aug 2026 02:41:43 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "VanEck Semiconductor ETF Tokenized ETF (Robinhood) - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOENkTkJWSGNQSEg3djVpNTNnVC03SW1EcWY4bzlFSFgtX0ZlS0Qwdk1BY0stNXV2M1k3eGUzTVVZOTRhT2xONTFzdnJVWEVxT09aRS1OME1qbFc0RWFyVU05TTAwN25PUTE1UkpBN2FNY2FkZ01IRGN3UWVUMS1wUXBMd2dTbU0?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 02:29:32 GMT",
       "source": "",
       "category": "company"
     },
@@ -338,27 +352,9 @@
       "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
       "source": "",
       "category": "company"
-    },
-    {
-      "title": "SMH Returned Over 120% in One Year. Is the VanEck Semiconductor ETF Still a Buy? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSmxmY3RIYlZrQW9JaDR4WXh6TFN0N2pnTDB1c0hVcnNkeGhma0p2TjIwZWtjU2tISFRCdHFWNy1YWDdKZjFwYm9nbkdhX1dhNmdQRTJubkxFSmhnY3N5UU9UbDhwYjgyaTNCR2oyOTlvOVhXZlVZR1RUM2xNUGFRNVQydUYwRk9mcjlEMU9XSWZQc2pt?oc=5",
-      "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
-      "title": "You Skipped the AI Rally Because Retirement Felt Too Close. These 3 ETFs Get You In Without Betting Your Nest Egg - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNa3BrNElsemREa0pMeng1MFNya09Pems2c09NLU9yUGJyNGplVnctWHFvbWQwZWNkNWJaZU1qRlJIdGRZZG9ucEdENU9HcVZ3UFR3enowRXAzRlRzclNjRXY3MmQ0SlJ3VTIweTRuc0ZicWRNaGF4MllnZEdWQlk4ZTJmYjdBSFAxd1RBR2NNRFNzUHd6ZkVnMDlCSzE2WnhjdE05S2hXZk1qaE5mTHN1ZUxCYVFlR2thdkpYaHV5WEZiS3RpR0tuMXpHODhqRmhMdnRvNTk2WkRRaFRDb3l0ejdMaWVkOUJMRTNEdXVUN3ZhUQ?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 21:35:22 GMT",
-      "source": "",
-      "category": "company"
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-27",
-      "close": 297.66
-    },
     {
       "date": "2025-08-28",
       "close": 298.88
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-08-26",
       "close": 555.77
+    },
+    {
+      "date": "2026-08-27",
+      "close": 573.0
     }
   ],
   "meta": {
@@ -1367,38 +1367,38 @@
     "fullExchangeName": "NasdaqGM",
     "instrumentType": "ETF",
     "firstTradeDate": 960211800,
-    "regularMarketTime": 1787774400,
+    "regularMarketTime": 1787860800,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 555.77,
+    "regularMarketPrice": 573.0,
     "fiftyTwoWeekHigh": 671.83,
     "fiftyTwoWeekLow": 281.74,
-    "regularMarketDayHigh": 557.78,
-    "regularMarketDayLow": 550.54,
-    "regularMarketVolume": 3599394,
+    "regularMarketDayHigh": 573.209,
+    "regularMarketDayLow": 562.54,
+    "regularMarketVolume": 6482777,
     "longName": "VanEck Semiconductor ETF",
     "shortName": "VanEck Semiconductor ETF",
-    "chartPreviousClose": 296.75,
+    "chartPreviousClose": 297.66,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1787731200,
-        "end": 1787751000,
+        "start": 1787904000,
+        "end": 1787923800,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1787751000,
-        "end": 1787774400,
+        "start": 1787923800,
+        "end": 1787947200,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1787774400,
-        "end": 1787788800,
+        "start": 1787947200,
+        "end": 1787961600,
         "gmtoffset": -14400
       }
     },
