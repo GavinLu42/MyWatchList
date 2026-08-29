@@ -1,7 +1,7 @@
 {
   "symbol": "CVS",
   "name": "CVS Health",
-  "updated": "2026-08-28T06:03:33.346650+00:00",
+  "updated": "2026-08-29T03:37:30.340850+00:00",
   "news": [
     {
       "title": "CVS Health Corp (CVS) Shares Fall 3.1% -- What GF Score of 75 Te - GuruFocus",
@@ -104,6 +104,13 @@
     {
       "title": "Drugstores say Medicare's $50 obesity drug program is catching on - NPR",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtWmxGZzVURTRXUHYzaWh5NkRSRzF3bkhyeGVlWmo1WHR3LVZDUjdPRkozRWdHMHNMTzVBZ3huOUZreGc4MzRRLWNVelRnRU1XSGVUYTBya1k?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 21:11:42 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Drugstores say Medicare's $50 obesity drug program is catching on - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZWltSmhHbktlbWdmSFc2WnFHX2tkaURZVXJka25aRUdTN00xRmhDQ0FxMlZkNElQQzdQMnN3c2ZvZnFYa1hnc2pMbEN4YTl5LUpxREdfaW5Gd0lINXEzamhPeXJIRG9ZVVBKamd1WmVQMGpGTHdZcHduUnRnSUtkM3ZxYXdVVzJwaVdqZERvSmZSZXViTGpmNXhFTTBlbzktb0lSYlRvVDF1d3hxN2kta3c1NjZNeTJGY0czSDNkNmR4Vmw1bEhN?oc=5",
       "pubDate": "Wed, 26 Aug 2026 21:11:42 GMT",
       "source": "",
       "category": "company"
@@ -284,13 +291,6 @@
       "category": "company"
     },
     {
-      "title": "CVS now filling some pet prescriptions at stores nationwide - WTVG",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUlBoQWRac0RzdFVVZFh6R2YzclJmeWdHQWxTcDhFUUwyM2w4dTRGdmw5Rmg1V1JSekhORDBXSFNHa3VkdzJpNXduWnU5bzhnNEVtanBVeEUteTFGbWFzY1pXVlhVRW11OGtaUFZhbXYyYkJmYkZRTzYwZzBtVkxZX3dTMWVHZTNoSThjdzJVdXlHZFdP0gGoAUFVX3lxTE1oTUlZb2U3OW92Z3RBTmtrVGRjV1Y0MVFQT0tIblNkbFA1cWpyLXUyQ3NVOFktTE5DZkY3czJQZEpBSzd6dEV1alJkcHVkODkwcGRvMmVaQ215a1FRSU5yRndLVnNBRFRQUDNDeU9LU284c1NMV1U5TVZZV3ZsSWJuRXFUazZzNlBSemo5ZzEtZUFaU19JdnlFTW11S1JGdlVzaDJKTWZmYQ?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
       "title": "Court approves fire sale of most of Rite Aid's pharmacy assets - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX1MwV3l5N0FhRWhvLW91eGFnNWdyRkJZMklkZGtlVGhCd01JT21ZZDUxTGdsUDJSeEpNWFZkVnVoS1hZdGdKVjhYMzdCRDkydHZqT2o3R082VF9iZGtjeEwyeDlfdW05X3pVXzBXQnNNZWJpa3dJaUpxRzFxeGFhRnBoNXJHbFZ4aFM1ZzdyTGduZklYcmlVc1pkc1N1ZHhOTlVQSi1veFdqVTd3YzN3Rzk1bTlUVDNhbUtOQTBqSlI2cG5Ebnc?oc=5",
       "pubDate": "Wed, 21 May 2025 07:00:00 GMT",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-28",
-      "close": 72.14
-    },
     {
       "date": "2025-08-29",
       "close": 73.15
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-08-27",
       "close": 92.92
+    },
+    {
+      "date": "2026-08-28",
+      "close": 93.06
     }
   ],
   "meta": {
@@ -1367,20 +1367,21 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 99153000,
-    "regularMarketTime": 1787860802,
+    "regularMarketTime": 1787947202,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 92.92,
+    "regularMarketPrice": 93.06,
+    "regularMarketChangePercent": 0.151,
     "fiftyTwoWeekHigh": 110.68,
     "fiftyTwoWeekLow": 69.51,
-    "regularMarketDayHigh": 94.14,
-    "regularMarketDayLow": 92.85,
-    "regularMarketVolume": 4327262,
+    "regularMarketDayHigh": 93.93,
+    "regularMarketDayLow": 93.02,
+    "regularMarketVolume": 3992593,
     "longName": "CVS Health Corporation",
     "shortName": "CVS Health Corporation",
-    "chartPreviousClose": 71.93,
+    "chartPreviousClose": 72.14,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
