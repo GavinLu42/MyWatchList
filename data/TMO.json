@@ -1,7 +1,7 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-08-29T03:37:36.707517+00:00",
+  "updated": "2026-08-30T00:04:17.070903+00:00",
   "news": [
     {
       "title": "A Bold New Beginning for PE's Life Sciences & Diagnostic Units - Medical Device and Diagnostic industry",
@@ -1386,20 +1386,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1787923800,
         "start": 1787904000,
+        "end": 1787923800,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1787947200,
         "start": 1787923800,
+        "end": 1787947200,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1787961600,
         "start": 1787947200,
+        "end": 1787961600,
         "gmtoffset": -14400
       }
     },

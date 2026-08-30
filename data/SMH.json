@@ -1,7 +1,7 @@
 {
   "symbol": "SMH",
   "name": "VanEck Semiconductor ETF",
-  "updated": "2026-08-29T03:37:28.284292+00:00",
+  "updated": "2026-08-30T00:04:08.850726+00:00",
   "news": [
     {
       "title": "SIA: Global Semiconductor Market Set to Reach $1.5 Trillion - Electropages",
@@ -207,6 +207,13 @@
       "category": "company"
     },
     {
+      "title": "VanEck Semiconductor ETF Tokenized ETF (Robinhood) Analytics - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNTkwWjNSdGRuaU9tb0xrcEhxMkJhY3ZtVFBvcjdCVnZwdC15OWtUb25jRTcxRVp4b0czYWh4cUFmMDhVbTUxVnVGQTdKaGQwSXEzM2hobFNYS09TSDN4VTRaSGtFVnFGY1UwbmFFTHpaSFFVa1lUTkZSRFBRVzJ0b1BjRy1XX3d1em1KcjdiRQ?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 02:45:36 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "How do I convert VanEck Semiconductor ETF Tokenized ETF (Robinhood) (SMH) to Indian Rupee (INR)? - CryptoRank",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaWxadkhSMzhBdVVWdVZlaTBHWXpqMVJ5WUhlMEI0UUE0YnpORi1Fc2k5TTZDS2tyaTRYRmRJeXp2V3hvLVVZQkkzUWwtVnc3TGJha0VuV1ZzWG1PcTl0c0N6ZEpyMldyS0FuNWgtcjdTN2M3QVhLdFA3T3M3UnBQY0NJV2cxSm8?oc=5",
       "pubDate": "Wed, 26 Aug 2026 02:41:43 GMT",
@@ -343,13 +350,6 @@
       "title": "Bank of America Says Long Semiconductors is the \"Most Crowded Trade Ever\" - 24/7 Wall St.",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMTQ0M1p2el8xakp3NF9aSU5tYl8tNktGOGZPVDRMTVlfT3BXRVQ3dEFad2hNR0c1cjBIMzJuZnI4NGJMdW83SGp5RkhPM3hPXzVodTJBTUhUY29wNkwxSG9SRXhNaFJOSGw4YlZOcW9nYmdFYmY2M0xBRnpNZXNWcGNFVXNrTWtwOHlwM1I2aWQtZWZpWWFsU0NjSnl0SkZ1Vm85LXRTb21BRmxtemsySHpVdHRLdw?oc=5",
       "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
-      "title": "SMH Returned Over 120% in One Year. Is the VanEck Semiconductor ETF Still a Buy? - fool.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM3Rld0cxQi1XSHFKbm9kTnA2NUJ6Qkx4YnZZTEcwWDVCSUV5UlRnV1drdXZ2X050YzZndmllWHdqSnFUYlBJbGpXaEM3ZHJaS3JSTkpNMUFoYlBQQXIzSnV5MWQtQTRwX0xJWE0xb1VoZHgwajFwUUctNjJ2ZzRldmFORmRILWlIaVBEYUpzOWc3anFLTHc?oc=5",
-      "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
       "source": "",
       "category": "company"
     }
@@ -1386,20 +1386,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1787923800,
         "start": 1787904000,
+        "end": 1787923800,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1787947200,
         "start": 1787923800,
+        "end": 1787947200,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1787961600,
         "start": 1787947200,
+        "end": 1787961600,
         "gmtoffset": -14400
       }
     },
