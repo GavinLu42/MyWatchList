@@ -1,7 +1,7 @@
 {
   "symbol": "FSAGX",
   "name": "Fidelity Select Gold Portfolio",
-  "updated": "2026-08-30T00:04:06.628344+00:00",
+  "updated": "2026-08-31T00:22:04.210821+00:00",
   "news": [
     {
       "title": "Federal Reserve holds interest rates steady amid inflation concerns - WBAL-TV",
@@ -1383,20 +1383,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1787923800,
         "start": 1787904000,
+        "end": 1787923800,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1787947200,
         "start": 1787923800,
+        "end": 1787947200,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1787961600,
         "start": 1787947200,
+        "end": 1787961600,
         "gmtoffset": -14400
       }
     },
