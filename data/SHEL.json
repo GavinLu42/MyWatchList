@@ -1,7 +1,7 @@
 {
   "symbol": "SHEL",
   "name": "Shell plc",
-  "updated": "2026-09-01T01:11:05.302329+00:00",
+  "updated": "2026-09-01T23:57:14.081001+00:00",
   "news": [
     {
       "title": "2026 Oil and Gas Industry Outlook - Deloitte",
@@ -1358,6 +1358,10 @@
     {
       "date": "2026-08-31",
       "close": 91.45
+    },
+    {
+      "date": "2026-09-01",
+      "close": 93.51
     }
   ],
   "meta": {
@@ -1367,18 +1371,18 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 447949800,
-    "regularMarketTime": 1788206402,
+    "regularMarketTime": 1788292802,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 91.45,
-    "regularMarketChangePercent": 0.594,
+    "regularMarketPrice": 93.51,
+    "regularMarketChangePercent": 2.253,
     "fiftyTwoWeekHigh": 94.9,
     "fiftyTwoWeekLow": 68.625,
-    "regularMarketDayHigh": 92.55,
-    "regularMarketDayLow": 91.02,
-    "regularMarketVolume": 6129784,
+    "regularMarketDayHigh": 93.86,
+    "regularMarketDayLow": 92.48,
+    "regularMarketVolume": 11083582,
     "longName": "Shell plc",
     "shortName": "Shell PLC",
     "chartPreviousClose": 73.88,
@@ -1386,20 +1390,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1788163200,
-        "end": 1788183000,
+        "start": 1788249600,
+        "end": 1788269400,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1788183000,
-        "end": 1788206400,
+        "start": 1788269400,
+        "end": 1788292800,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1788206400,
-        "end": 1788220800,
+        "start": 1788292800,
+        "end": 1788307200,
         "gmtoffset": -14400
       }
     },

@@ -1,7 +1,7 @@
 {
   "symbol": "FXAIX",
   "name": "Fidelity 500 Index Fund",
-  "updated": "2026-09-01T01:10:56.486779+00:00",
+  "updated": "2026-09-01T23:57:05.694308+00:00",
   "news": [
     {
       "title": "Stock market today: Dow plunges by 1,100 points, S&P 500 and Nasdaq sink as yields rise on Fed's hawkish hold - Yahoo Finance",
@@ -137,6 +137,13 @@
       "category": "sector"
     },
     {
+      "title": "Markets News, Aug. 26, 2026: Dow\u2019s Winning Streak Ends as Inflation Data Lands Slightly Hot; Nvidia Sales, Earnings Beat Estimates - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLWlld2RuOXNmV0FGWThudnNTcE4xWTlMM3Z5SUJ5aG1JVlRzcUhzT3otbTBuamF4NnZNOHZnbVhSaS1BUmU2MkQ4UlJYdTZieVctTk5PS2JUMnhxeWxzU1ktZ3ZMbzVleG9GMEIzWE1fMF9aVFl5QVV4dkxXTHVGV1BhNnBTbTM4NF9tX2dxZmk?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 19:15:53 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
       "title": "There Are Only a Handful of S&P 500 Stocks That Yield Over 5%. Here's My Top Pick to Buy Before the End of August. - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdjBmSTMzUkdOeTVMSkdiRl93SU9Ja2tTVzBMX1pHZGcyeHM5LVQ2WnpMejU1V1pYRmp6NHV4dFJ3SXFOVThWb3ZOY2VZOWFObDluS0Nicm9ILTB4N0tlek1ETGpoX2Z5OHBVRTg4cHZzWndoWWFuZ2dXU3VneVBobVNmcExxbHd3aE5wNjl1S1BHYno4WG1acg?oc=5",
       "pubDate": "Wed, 26 Aug 2026 19:15:00 GMT",
@@ -154,13 +161,6 @@
       "title": "Prediction: If a Recession Is Coming, This ETF Will Be the Smartest Investment Right Now - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR3BlYW1OYVFybG1RdThqNGpJeXJVdk1BdWF0WWdrM0hWR3BDcXptaUJYSW13TE1HNVlTWFQyem5JRlVxNmY3eUw5Z01KVjhKRHVrSnotMXFSQmZCN3pQbVhjd1Vaa1JYejNnUENaYTFaZUhmSHF5ZjZaNUhpREU2NVZwdERsc1JpNkdobEJVZDl2V1VZd295ZzAzREh1NjQ?oc=5",
       "pubDate": "Wed, 26 Aug 2026 18:20:00 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Explore the S&P500 index on Wednesday and find out which stocks are the most active in today's session. - ChartMill",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWThOZDdHMi1HV05CRlhyWVFyeDRZUFJTTGYzajVqY0xkOF9JOGNvV3VyY0VMVTRheXVxbTc5aGlUWUxHREp6QnJwZ1pCQ0ZmOUtxWkdqVkNIb24weXZvX3FrcGlmZHJPY0NmcVpsaVFkZUFUV3F6Y090azROTWYwWUhSUk9teEt4UkMxOS1BZ3FiOHFxa2pfZ0J5WWZFUHZ3UThwTm1zbGZ3WHptUlRSa0hDTUxqOVo0RmtlRzQ1amg2VWtBMDVEQWpVSVg0YWJkdFM3NFpXeVJCVlBMSzg5dXBKS3pCUQ?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 18:05:01 GMT",
       "source": "",
       "category": "sector"
     },
@@ -1352,8 +1352,8 @@
       "close": 268.99
     },
     {
-      "date": "2026-08-28",
-      "close": 268.33
+      "date": "2026-08-31",
+      "close": 267.46
     }
   ],
   "meta": {
@@ -1363,13 +1363,13 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 1304515800,
-    "regularMarketTime": 1788221314,
+    "regularMarketTime": 1788303181,
     "hasPrePostMarketData": false,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 267.46,
-    "regularMarketChangePercent": -0.324,
+    "regularMarketPrice": 265.58,
+    "regularMarketChangePercent": -0.703,
     "fiftyTwoWeekHigh": 271.2,
     "fiftyTwoWeekLow": 220.95,
     "longName": "Fidelity 500 Index",
@@ -1379,20 +1379,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1788163200,
-        "end": 1788183000,
+        "start": 1788249600,
+        "end": 1788269400,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1788183000,
-        "end": 1788206400,
+        "start": 1788269400,
+        "end": 1788292800,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1788206400,
-        "end": 1788220800,
+        "start": 1788292800,
+        "end": 1788307200,
         "gmtoffset": -14400
       }
     },

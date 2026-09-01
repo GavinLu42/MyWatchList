@@ -1,7 +1,7 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-09-01T01:11:09.871007+00:00",
+  "updated": "2026-09-01T23:57:18.158863+00:00",
   "news": [
     {
       "title": "A Bold New Beginning for PE's Life Sciences & Diagnostic Units - Medical Device and Diagnostic industry",
@@ -1352,12 +1352,12 @@
       "close": 630.7
     },
     {
-      "date": "2026-08-28",
-      "close": 622.18
-    },
-    {
       "date": "2026-08-31",
       "close": 617.1
+    },
+    {
+      "date": "2026-09-01",
+      "close": 600.5
     }
   ],
   "meta": {
@@ -1367,18 +1367,18 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 322151400,
-    "regularMarketTime": 1788206403,
+    "regularMarketTime": 1788292802,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 617.1,
-    "regularMarketChangePercent": -0.816,
+    "regularMarketPrice": 600.5,
+    "regularMarketChangePercent": -2.69,
     "fiftyTwoWeekHigh": 647.0,
     "fiftyTwoWeekLow": 435.27,
-    "regularMarketDayHigh": 620.715,
-    "regularMarketDayLow": 610.35,
-    "regularMarketVolume": 1419052,
+    "regularMarketDayHigh": 621.0,
+    "regularMarketDayLow": 599.56,
+    "regularMarketVolume": 1370009,
     "longName": "Thermo Fisher Scientific Inc.",
     "shortName": "Thermo Fisher Scientific Inc",
     "chartPreviousClose": 492.72,
@@ -1386,20 +1386,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1788163200,
-        "end": 1788183000,
+        "start": 1788249600,
+        "end": 1788269400,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1788183000,
-        "end": 1788206400,
+        "start": 1788269400,
+        "end": 1788292800,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1788206400,
-        "end": 1788220800,
+        "start": 1788292800,
+        "end": 1788307200,
         "gmtoffset": -14400
       }
     },

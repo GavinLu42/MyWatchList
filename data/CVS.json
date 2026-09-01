@@ -1,7 +1,7 @@
 {
   "symbol": "CVS",
   "name": "CVS Health",
-  "updated": "2026-09-01T01:11:03.111077+00:00",
+  "updated": "2026-09-01T23:57:11.919876+00:00",
   "news": [
     {
       "title": "CVS Health Corp (CVS) Shares Fall 3.1% -- What GF Score of 75 Te - GuruFocus",
@@ -1352,12 +1352,12 @@
       "close": 92.92
     },
     {
-      "date": "2026-08-28",
-      "close": 93.06
-    },
-    {
       "date": "2026-08-31",
       "close": 93.91
+    },
+    {
+      "date": "2026-09-01",
+      "close": 97.6
     }
   ],
   "meta": {
@@ -1367,18 +1367,18 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 99153000,
-    "regularMarketTime": 1788206402,
+    "regularMarketTime": 1788292802,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 93.91,
-    "regularMarketChangePercent": 0.913,
+    "regularMarketPrice": 97.6,
+    "regularMarketChangePercent": 3.929,
     "fiftyTwoWeekHigh": 110.68,
     "fiftyTwoWeekLow": 69.51,
-    "regularMarketDayHigh": 94.37,
-    "regularMarketDayLow": 92.86,
-    "regularMarketVolume": 10674579,
+    "regularMarketDayHigh": 97.6,
+    "regularMarketDayLow": 94.68,
+    "regularMarketVolume": 8337785,
     "longName": "CVS Health Corporation",
     "shortName": "CVS Health Corporation",
     "chartPreviousClose": 73.15,
@@ -1386,20 +1386,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1788163200,
-        "end": 1788183000,
+        "start": 1788249600,
+        "end": 1788269400,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1788183000,
-        "end": 1788206400,
+        "start": 1788269400,
+        "end": 1788292800,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1788206400,
-        "end": 1788220800,
+        "start": 1788292800,
+        "end": 1788307200,
         "gmtoffset": -14400
       }
     },
