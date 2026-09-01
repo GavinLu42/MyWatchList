@@ -1,7 +1,7 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-08-31T00:22:16.523046+00:00",
+  "updated": "2026-09-01T01:11:09.871007+00:00",
   "news": [
     {
       "title": "A Bold New Beginning for PE's Life Sciences & Diagnostic Units - Medical Device and Diagnostic industry",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-08-29",
-      "close": 492.72
-    },
     {
       "date": "2025-09-02",
       "close": 487.53
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-08-28",
       "close": 622.18
+    },
+    {
+      "date": "2026-08-31",
+      "close": 617.1
     }
   ],
   "meta": {
@@ -1367,39 +1367,39 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 322151400,
-    "regularMarketTime": 1787947202,
+    "regularMarketTime": 1788206403,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 622.18,
-    "regularMarketChangePercent": -1.351,
+    "regularMarketPrice": 617.1,
+    "regularMarketChangePercent": -0.816,
     "fiftyTwoWeekHigh": 647.0,
     "fiftyTwoWeekLow": 435.27,
-    "regularMarketDayHigh": 630.0,
-    "regularMarketDayLow": 617.45,
-    "regularMarketVolume": 1016554,
+    "regularMarketDayHigh": 620.715,
+    "regularMarketDayLow": 610.35,
+    "regularMarketVolume": 1419052,
     "longName": "Thermo Fisher Scientific Inc.",
     "shortName": "Thermo Fisher Scientific Inc",
-    "chartPreviousClose": 489.74,
+    "chartPreviousClose": 492.72,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1787904000,
-        "end": 1787923800,
+        "start": 1788163200,
+        "end": 1788183000,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1787923800,
-        "end": 1787947200,
+        "start": 1788183000,
+        "end": 1788206400,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1787947200,
-        "end": 1787961600,
+        "start": 1788206400,
+        "end": 1788220800,
         "gmtoffset": -14400
       }
     },
