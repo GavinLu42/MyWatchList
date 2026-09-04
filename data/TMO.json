@@ -1,7 +1,7 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-09-03T23:55:43.307270+00:00",
+  "updated": "2026-09-04T23:54:23.998543+00:00",
   "news": [
     {
       "title": "GTCR Funds Former Gen-Probe Execs to Form Maravai Life Sciences - Clinical Lab Products",
@@ -161,6 +161,13 @@
       "title": "LA\u2019s Life Science and Biotechnology Industry Continues Growth - City of Los Angeles (.gov)",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdGFxMjRCTGVDLXUwX0tBOFFMU0VWOS0wUF93dDBQNE5pNlVjTHNiVkpQM0xPbnpRRHFoMGtQcEdTa1RvbWl1QWNYdWhGLUpIeGpkcWdjVUlMdk1EYktJUHktcVVBaThCR0VQRGU5c1BLVjZCUExrNmxCVExLTl9fbndyWmV6UnhzMnMySUdWZ3BacmU1?oc=5",
       "pubDate": "Wed, 22 Oct 2025 07:00:00 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Canada Microfluidics Market Size, Share,Trends, Growth Analysis Report, 2030 - marketsandmarkets.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYVo2aDhyY3F5RUNSSUJud3Y4VVFUYTZqY1M5S3pwZzZLdXlseks1WGgyOFkzTi1lYk9Ib1hVSVpQNXRTeDBpclNMT21qRVdTUVZXZ0UwLWhNdDRtY2hXS3dodDJRNDlXVzhUaDUxeHlhTnFaLWpnTGk0QTVjenY1T0NhMFhGVF9odzlPT2ppZw?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 14:46:07 GMT",
       "source": "",
       "category": "sector"
     },
@@ -345,20 +352,9 @@
       "pubDate": "Wed, 15 Jul 2026 23:47:03 GMT",
       "source": "",
       "category": "sector"
-    },
-    {
-      "title": "Australia In Vitro Diagnostics Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSHlLWDlUVHYzeHRIZzlTRTZNc0FJVnBEUnVmTmJoUVJTUmZvZGt6ZVpoaXZaR2tTZFV3Wi14d3BuOWJuQ2xGRzJuX2toa25JajhtVFlvendGVmZWaEVSS1Y1VmlPWVFWckwzaVpHX093Q3hmODBLcE91ekVsTEh4Q0g3NVF5cXNWRktIQWs3NWFSU05uNnFmQzNKdEZ3XzRLalE?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 22:19:19 GMT",
-      "source": "",
-      "category": "sector"
     }
   ],
   "prices": [
-    {
-      "date": "2025-09-04",
-      "close": 489.49
-    },
     {
       "date": "2025-09-05",
       "close": 492.6
@@ -1362,6 +1358,10 @@
     {
       "date": "2026-09-03",
       "close": 618.43
+    },
+    {
+      "date": "2026-09-04",
+      "close": 613.78
     }
   ],
   "meta": {
@@ -1371,42 +1371,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 322151400,
-    "regularMarketTime": 1788465602,
+    "regularMarketTime": 1788552002,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 618.43,
-    "regularMarketChangePercent": 1.625,
-    "fulldayPrice": 618.43,
-    "fulldayChange": 9.89,
-    "fulldayChangePercent": 1.625,
+    "regularMarketPrice": 613.78,
+    "regularMarketChangePercent": -0.752,
+    "fulldayPrice": 612.39,
+    "fulldayChange": -4.65,
+    "fulldayChangePercent": -0.752,
     "fiftyTwoWeekHigh": 647.0,
     "fiftyTwoWeekLow": 435.27,
-    "regularMarketDayHigh": 622.91,
-    "regularMarketDayLow": 603.52,
-    "regularMarketVolume": 1804922,
+    "regularMarketDayHigh": 615.58,
+    "regularMarketDayLow": 605.525,
+    "regularMarketVolume": 1216225,
     "longName": "Thermo Fisher Scientific Inc.",
     "shortName": "Thermo Fisher Scientific Inc",
-    "chartPreviousClose": 484.55,
+    "chartPreviousClose": 489.49,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1788422400,
-        "end": 1788442200,
+        "start": 1788508800,
+        "end": 1788528600,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1788442200,
-        "end": 1788465600,
+        "start": 1788528600,
+        "end": 1788552000,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1788465600,
-        "end": 1788480000,
+        "start": 1788552000,
+        "end": 1788566400,
         "gmtoffset": -14400
       }
     },

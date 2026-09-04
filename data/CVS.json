@@ -1,7 +1,7 @@
 {
   "symbol": "CVS",
   "name": "CVS Health",
-  "updated": "2026-09-03T23:55:35.973904+00:00",
+  "updated": "2026-09-04T23:54:17.375936+00:00",
   "news": [
     {
       "title": "CVS Health Corp (CVS) Shares Fall 3.1% -- What GF Score of 75 Te - GuruFocus",
@@ -221,6 +221,13 @@
       "category": "company"
     },
     {
+      "title": "Should CVS Health\u2019s (CVS) New Director and Youth Soccer Push Reshape Its Investment Story? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYjYxVzlrSURSaGJpOTFXNWo3aEZrUU5BSFBhQ0xCVnpXMzVmY25Lby0zX19uTXpuRDBSOGpXX25aQ1Bnb1ROWmRqQlNfakQzazRXY0tkUERjSWcxOW1PZndJbk84cnZNdFJVTHJIcHdORGN4RXozUDZNdjBTMnpRR1lDZnQ5clJfeHNYR2NHTy13SVpaaWFMTHR3?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "In-Depth Report: The Logic Behind JD Health\u2019s Today and Tomorrow - JD Corporate Blog",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZmV5bW1ndDYxallDQnFYTEZSR3hpbVBzUFZiR3I3NUZqVGhZeFZsekdFOXdwVmNadkJ0UlFyM2tsWG5tLVdlUHZZRTV0WmVFRVFRcjl6cHZDb0tEUThVV0hQNGlWRHJXR1NBMlkzZ2pXRng0blZEdDhqZU5jOHpuMWhvckxoNUlkV2t3LUc5ZGxFWTNrWHc?oc=5",
       "pubDate": "Wed, 25 Mar 2020 07:00:00 GMT",
@@ -291,13 +298,6 @@
       "category": "company"
     },
     {
-      "title": "2 Absurdly Cheap Healthcare Stocks to Buy Before July Ends - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLURKWFVyQVo2eDFScnJRbExuZWVoVjJycnljaUkyVlE3dlZSOXBMQXlqdVB2X3cxYy1EQ2VCZmxzYTAtZFdDeHpyY0s5eFpSODVnVk5tdHRvOURkMWJnRmVlbDRRZDZodHFfYnN2SjJ3YnItbXcteTNOQVJsSG1QaGpHakw1RVJETHpELWtSWEJYbFNDZXhMYW9xcw?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
       "title": "Court approves fire sale of most of Rite Aid's pharmacy assets - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX1MwV3l5N0FhRWhvLW91eGFnNWdyRkJZMklkZGtlVGhCd01JT21ZZDUxTGdsUDJSeEpNWFZkVnVoS1hZdGdKVjhYMzdCRDkydHZqT2o3R082VF9iZGtjeEwyeDlfdW05X3pVXzBXQnNNZWJpa3dJaUpxRzFxeGFhRnBoNXJHbFZ4aFM1ZzdyTGduZklYcmlVc1pkc1N1ZHhOTlVQSi1veFdqVTd3YzN3Rzk1bTlUVDNhbUtOQTBqSlI2cG5Ebnc?oc=5",
       "pubDate": "Wed, 21 May 2025 07:00:00 GMT",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-09-04",
-      "close": 73.69
-    },
     {
       "date": "2025-09-05",
       "close": 73.78
@@ -1362,6 +1358,10 @@
     {
       "date": "2026-09-03",
       "close": 97.2
+    },
+    {
+      "date": "2026-09-04",
+      "close": 96.74
     }
   ],
   "meta": {
@@ -1371,42 +1371,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 99153000,
-    "regularMarketTime": 1788465603,
+    "regularMarketTime": 1788552002,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 97.2,
-    "regularMarketChangePercent": -0.031,
-    "fulldayPrice": 97.205,
-    "fulldayChange": -0.03,
-    "fulldayChangePercent": -0.031,
+    "regularMarketPrice": 96.74,
+    "regularMarketChangePercent": -0.473,
+    "fulldayPrice": 96.55,
+    "fulldayChange": -0.46,
+    "fulldayChangePercent": -0.473,
     "fiftyTwoWeekHigh": 110.68,
     "fiftyTwoWeekLow": 69.51,
-    "regularMarketDayHigh": 98.07,
-    "regularMarketDayLow": 95.67,
-    "regularMarketVolume": 4783096,
+    "regularMarketDayHigh": 97.69,
+    "regularMarketDayLow": 96.285,
+    "regularMarketVolume": 4477395,
     "longName": "CVS Health Corporation",
     "shortName": "CVS Health Corporation",
-    "chartPreviousClose": 73.32,
+    "chartPreviousClose": 73.69,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1788442200,
-        "start": 1788422400,
+        "end": 1788528600,
+        "start": 1788508800,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1788465600,
-        "start": 1788442200,
+        "end": 1788552000,
+        "start": 1788528600,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1788480000,
-        "start": 1788465600,
+        "end": 1788566400,
+        "start": 1788552000,
         "gmtoffset": -14400
       }
     },
