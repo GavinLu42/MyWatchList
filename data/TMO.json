@@ -1,7 +1,7 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-09-04T23:54:23.998543+00:00",
+  "updated": "2026-09-05T23:44:46.895768+00:00",
   "news": [
     {
       "title": "GTCR Funds Former Gen-Probe Execs to Form Maravai Life Sciences - Clinical Lab Products",
@@ -1378,7 +1378,7 @@
     "exchangeTimezoneName": "America/New_York",
     "regularMarketPrice": 613.78,
     "regularMarketChangePercent": -0.752,
-    "fulldayPrice": 612.39,
+    "fulldayPrice": 611.5,
     "fulldayChange": -4.65,
     "fulldayChangePercent": -0.752,
     "fiftyTwoWeekHigh": 647.0,

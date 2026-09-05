@@ -1,7 +1,7 @@
 {
   "symbol": "ARE",
   "name": "Alexandria Real Estate Equities",
-  "updated": "2026-09-04T23:54:21.846079+00:00",
+  "updated": "2026-09-05T23:44:44.954740+00:00",
   "news": [
     {
       "title": "Alexandria Real Estate Equities, Inc. and Foundation for the National Institutes of Health Announce Foundational Milestone in Mission-Critical Partnership to Advance Precision Medicine for Depression - marketscreener.com",
@@ -298,6 +298,13 @@
       "category": "company"
     },
     {
+      "title": "Unveiling Alexandria Real Estate Equities (ARE) Q1 Outlook: Wall Street Estimates for Key Metrics - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYy1GSHhyb1gyZmo0WV9fWDJuamFIajdzZmw5TEFzX3NXMkNpRmdSSWVGeFlaVkZkR2ZEd0J5TlFkckgyZFdZUEFUak85WWlFWEl3VjladUxMV2ZoRFlZZVVZUkVhQTNwQ2h5TExTN1B3SFZzeWNMR1FhYmJOOEFZbEF5T2J1RlVOOGlGMFhMS0VGN1Q2T1lWZDN5Ync0VjgzTEozc1BDTjNIQQ?oc=5",
+      "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "Life sciences lab real estate is clawing back from disaster. Here\u2019s what that means for investors - cnbc.com",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LNjA5RmtqYnRiYVZwSDNkbWg1QndZeDE2YTRGQW5haWY4bl9rZWFKRlNGSEMzRmFvOFdzTU8zZHNmeDBGeDNjSjFqeGJOOWNZanQ0bnp2M1JmSG1TVklxOGVnUFR3ZHFCOUlDV3dwQkw1OFVJV0dyc1lzNEZoTm8?oc=5",
       "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
@@ -336,13 +343,6 @@
       "title": "Alexandria Real Estate (NYSE: ARE) insider buys 5,000 outside trading plan - Stock Titan",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOem1uVkhSQkhvRzNmcG9zZDFnSzdxdjliUE5WSVRkRExYVG5uckVyc0hpa1hCNnN6dkpURTVhdDBDTVlqWE02TnBxNkZkSEhUaEczMGhmQWxrVnVRT1FTQVVKNlZkc1A3THRKbDRWeGVVWHpOWVQySm9lQTg4NkVURDFwS0prWXgyZTlMOFlXN2szZ2JvWmlhSmJvRm9QU0lnMmRYNnhobXZmamlfZ0h2ZDNPbXkzUDlaMnowMG8xUXFYd2cxWVdR?oc=5",
       "pubDate": "Wed, 19 Aug 2026 20:37:44 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
-      "title": "Alexandria Real Estate Equities Inc. stock outperforms competitors on strong trading day - MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNX3I2eDRod0I1TXd3dlZRNmZLQ1JoVXpRajZvdlJQMk93eUpCdHRiSUQ1OF9OZWFmWkRkN2Z0XzJNdVRWUGZESXRsWkRmTXdUTTZXV0UxdWw0Q01rdVNVVE9vOThCc0s1cXB0M1Q4b25yci1IMTVWYWV2OGdFME5SSWNWOVZ6XzFQczRZZXgzdFllU21SSVpNNzZrSWpGajBKMmpsY3J4SGhiaTlJalJZUGxPa2YtSkVCeERxNHVDaGQ5WmhldUZ0Z016b0JHYjNNazJuLTJkdUVPc3FuVlhVOA?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 20:30:00 GMT",
       "source": "",
       "category": "company"
     },
@@ -1393,20 +1393,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1788508800,
         "end": 1788528600,
+        "start": 1788508800,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1788528600,
         "end": 1788552000,
+        "start": 1788528600,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1788552000,
         "end": 1788566400,
+        "start": 1788552000,
         "gmtoffset": -14400
       }
     },

@@ -1,7 +1,7 @@
 {
   "symbol": "FSAGX",
   "name": "Fidelity Select Gold Portfolio",
-  "updated": "2026-09-04T23:54:13.043399+00:00",
+  "updated": "2026-09-05T23:44:36.621048+00:00",
   "news": [
     {
       "title": "Federal Reserve holds interest rates steady amid inflation concerns - WBAL-TV",
@@ -1358,6 +1358,10 @@
     {
       "date": "2026-09-03",
       "close": 69.74
+    },
+    {
+      "date": "2026-09-04",
+      "close": 68.6
     }
   ],
   "meta": {
@@ -1367,7 +1371,7 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 503591400,
-    "regularMarketTime": 1788562357,
+    "regularMarketTime": 1788566853,
     "hasPrePostMarketData": false,
     "gmtoffset": -14400,
     "timezone": "EDT",
@@ -1378,7 +1382,7 @@
     "fulldayChange": -1.14,
     "fulldayChangePercent": -1.635,
     "fiftyTwoWeekHigh": 79.83,
-    "fiftyTwoWeekLow": 47.45,
+    "fiftyTwoWeekLow": 47.53,
     "longName": "Fidelity Select Gold",
     "shortName": "Fidelity Select Gold Pt",
     "chartPreviousClose": 46.3,
