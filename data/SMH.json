@@ -1,7 +1,7 @@
 {
   "symbol": "SMH",
   "name": "VanEck Semiconductor ETF",
-  "updated": "2026-09-05T23:44:38.682757+00:00",
+  "updated": "2026-09-06T23:43:20.754127+00:00",
   "news": [
     {
       "title": "SIA: Global Semiconductor Market Set to Reach $1.5 Trillion - Electropages",
@@ -214,6 +214,13 @@
       "category": "company"
     },
     {
+      "title": "Prediction: SOXX Will Continue to Outperform SMH. Here's Why. - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYWplRTlncmhkRF9CTk9nV185amJ2bXV2aExlcGN4V1pSUVBzLWVGQ1pDVXhyV1VlcUt2QjJiVC1RYndoTl9WUDQtM2ZLV0NVNk1nSURaM3g1aDlEWFhfcFBNRm1OdHd6bVg5Z3hXZ3JOeTBYY3RLa2s4bmtYelEwTnFUU1VneUFBb3kzVVlsbDViUDIzYlMyU0ZsWmItOWNONG9SVWZkWTA1VG9ZVHVsVUVuMm9JX1BlQUpQcW9OeDRuek8ydnVmc1dSX21aSzJOQl93TVVYRnVhZw?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "VanEck Semiconductor ETF Tokenized ETF (Robinhood) - CryptoRank",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ1dZOU4yUThuY3NNNUU2ZWxhaVp2dDRjam9WbklWWnhnY1R3a3VSX0oxUjYxR0hFSzVpWm5FLTZ6TnBubGR6c2lfcmNHSU5rUmpNVVBNNVVpbEEzRW9fa1UtM1VGRTVaS2RoZmVJUWlJVnVCU1Jra0NCSFVnVmZicXBNdDVhS1U?oc=5",
       "pubDate": "Wed, 26 Aug 2026 02:49:36 GMT",
@@ -343,13 +350,6 @@
       "title": "TSMC Q2 Earnings Call: What It Means for SMH - VanEck",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYnF5WlFFTEJPRU1KYlNkV3g5NWRHOGpnSVBjYUhZTjF4WU1seUxJWmpSRW95SVpFUDBZYWtSNzFKaEJYellKeXBlNldpMEVNczZQZjhwbG5xM2Zja2hqeEYwbzAza25tVjkxNUhBcU5nam1mLTlmYkJ4TGRzel9jVUVqVllkWWlza094Xzh2X0d3eUNBMFFkRi1CSDR6RkZESFd3X0ZJdXVlOUVmblU0XzZ3dTB2ZUk?oc=5",
       "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
-      "title": "Fears of an AI Bubble Are Growing. Should SMH Investors Be Worried? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbUJqODRzOVdvWWVzWGVFa2VLSHNZOXlwZmFxN1ljR2pnSVZfTkw0UkRuQmtLbG53TnNfUUlVU3dwelFGQnJLTllqRFZpNDJ1MzZfckdkbnN1TWVFbEI0QnpYZDhVaHdrQkpsTDIySGtoeU5WRXFueVB1bU81cm9FU2R2RjVraUNfTjBqZXpGcEdHWXloQTBz?oc=5",
-      "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
       "source": "",
       "category": "company"
     }
@@ -1385,7 +1385,7 @@
     "fiftyTwoWeekLow": 294.8,
     "regularMarketDayHigh": 569.392,
     "regularMarketDayLow": 557.9,
-    "regularMarketVolume": 9156475,
+    "regularMarketVolume": 9456112,
     "longName": "VanEck Semiconductor ETF",
     "shortName": "VanEck Semiconductor ETF",
     "chartPreviousClose": 289.86,

@@ -1,7 +1,7 @@
 {
   "symbol": "FSAGX",
   "name": "Fidelity Select Gold Portfolio",
-  "updated": "2026-09-05T23:44:36.621048+00:00",
+  "updated": "2026-09-06T23:43:18.610059+00:00",
   "news": [
     {
       "title": "Federal Reserve holds interest rates steady amid inflation concerns - WBAL-TV",
@@ -249,6 +249,13 @@
       "category": "company"
     },
     {
+      "title": "Is Franklin Gold & Precious Metals A (FKRCX) a Strong Mutual Fund Pick Right Now? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdkNtSXZnMmk0OV9wX1pDZFZZQXlwWm03cUpsdFU2NFNreU9jTU52MGx3b00yRUNxZFluX19qaDBHU0E4UWplT1RJcDRoM01KNWFhcXNTMDhKOXUzdDVoN0xlNC1Yb3ZHSmIwOEdhX1JTVWRHRE1TV0lfSEE3YUpNY3pxM0s0WURr?oc=5",
+      "pubDate": "Wed, 06 Aug 2025 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "The Top High-Dividend ETFs for Passive Income in 2026 - Morningstar",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV2lsZXl3V0hRSU01SEF6Ul85R1VSYU9NN0FVS0JPVjUzbi1EaUFqNHdBZWdEaUFYTEMxQzZQSFBORVdJQ0Y3M2pTaWt3eldGOV9wYlZkOWVrRlE0c1F0QkRCaS1GY3oxaXFsUFpKLVJUOHlMbmxKVW4wSms2aVhRYjJR?oc=5",
       "pubDate": "Wed, 04 Feb 2026 11:02:53 GMT",
@@ -343,13 +350,6 @@
       "title": "Best Gold Mutual Funds to Invest in 2024 to Invest in 2026 - Benzinga",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnN0psdHpRNURsMnVUeE1KeERFV1pwT253U2JEWW9TSGk4NURYeWNDTVZGVERVcWkxMElsN21DUDJ0dUN5N3k4OEUxY042ZjRpOFU1UTJTdzFHaC1oLV8zdlRpTQ?oc=5",
       "pubDate": "Tue, 10 Dec 2024 08:00:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
-      "title": "Fidelity Select Technology Portfolio Q1 2026 Commentary - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbUFoV1NfM0dKcGFodDV6SzA2RW1LdWlpR2lHUHNrdlhKZmt1Z2M4SXlLMjJhTlJZdURiVzBTUXBqb0RWNkItZ0hkd1lpTmtaT0ZTSkVMb25jRENySkQ1ZzlFVlZVa0JCUVNGdU5Lekt2dVdkT0ZROEd3aFl3aEE1Z0lMYTFQNk9vN3B4bkdLUWQ3WlMwWDJHREN5ZC0?oc=5",
-      "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT",
       "source": "",
       "category": "company"
     }
@@ -1390,20 +1390,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1788508800,
         "end": 1788528600,
+        "start": 1788508800,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1788528600,
         "end": 1788552000,
+        "start": 1788528600,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1788552000,
         "end": 1788566400,
+        "start": 1788552000,
         "gmtoffset": -14400
       }
     },
