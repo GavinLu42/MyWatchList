@@ -1,7 +1,7 @@
 {
   "symbol": "SHEL",
   "name": "Shell plc",
-  "updated": "2026-09-06T23:43:24.844750+00:00",
+  "updated": "2026-09-08T00:08:54.910845+00:00",
   "news": [
     {
       "title": "2026 Oil and Gas Industry Outlook - Deloitte",
@@ -1378,7 +1378,7 @@
     "exchangeTimezoneName": "America/New_York",
     "regularMarketPrice": 92.95,
     "regularMarketChangePercent": 0.671,
-    "fulldayPrice": 93.13,
+    "fulldayPrice": 92.91,
     "fulldayChange": 0.62,
     "fulldayChangePercent": 0.671,
     "fiftyTwoWeekHigh": 94.9,
