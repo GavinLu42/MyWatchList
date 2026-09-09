@@ -1,7 +1,7 @@
 {
   "symbol": "FSAGX",
   "name": "Fidelity Select Gold Portfolio",
-  "updated": "2026-09-08T00:08:48.794885+00:00",
+  "updated": "2026-09-09T00:00:18.648470+00:00",
   "news": [
     {
       "title": "Federal Reserve holds interest rates steady amid inflation concerns - WBAL-TV",
@@ -355,14 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-09-05",
-      "close": 47.45
-    },
-    {
-      "date": "2025-09-08",
-      "close": 48.19
-    },
     {
       "date": "2025-09-09",
       "close": 47.8
@@ -1371,39 +1363,39 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 503591400,
-    "regularMarketTime": 1788566853,
+    "regularMarketTime": 1788908024,
     "hasPrePostMarketData": false,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 68.6,
-    "regularMarketChangePercent": -1.635,
-    "fulldayPrice": 68.6,
-    "fulldayChange": -1.14,
-    "fulldayChangePercent": -1.635,
+    "regularMarketPrice": 68.26,
+    "regularMarketChangePercent": -0.496,
+    "fulldayPrice": 68.26,
+    "fulldayChange": -0.34,
+    "fulldayChangePercent": -0.496,
     "fiftyTwoWeekHigh": 79.83,
     "fiftyTwoWeekLow": 47.53,
     "longName": "Fidelity Select Gold",
     "shortName": "Fidelity Select Gold Pt",
-    "chartPreviousClose": 46.3,
+    "chartPreviousClose": 48.19,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1788508800,
-        "end": 1788528600,
+        "end": 1788874200,
+        "start": 1788854400,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1788528600,
-        "end": 1788552000,
+        "end": 1788897600,
+        "start": 1788874200,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1788552000,
-        "end": 1788566400,
+        "end": 1788912000,
+        "start": 1788897600,
         "gmtoffset": -14400
       }
     },
