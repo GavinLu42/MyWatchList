@@ -1,7 +1,7 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-09-10T00:02:12.730899+00:00",
+  "updated": "2026-09-10T23:57:12.883172+00:00",
   "news": [
     {
       "title": "GTCR Funds Former Gen-Probe Execs to Form Maravai Life Sciences - Clinical Lab Products",
@@ -186,6 +186,13 @@
       "category": "sector"
     },
     {
+      "title": "Thermo Fisher Scientific Reports First Quarter 2026 Results - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcmhMbkNkRkQ2NVJ6ZTg0cmdqRkRlSTNJV3h0N2pQbHdRR0gtNnVxTjNSdTNqRjJUQTFzYWxHRWk2MFEtNnE3ZDNEMEstRUFFNUNZNTFtZDV4VVgzVlVOZHRBY1lyREhMamxtU3JVZlVWd043THZZb1Y0TlpQUThMa1Z1NVBkRDZONVVUc0JUOHlZQllfR2lyYUNvbWFjRktwUnY2LWZVOXhRU211WVRPR0dCRDA3Y3M?oc=5",
+      "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "Thermo Fisher Scientific Highlights Industry Leadership, Growth Outlook and Long-Term Value Creation at 2026 Investor Day - Business Wire",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTnNZN3BRRlk5RUlZbHoyWjFBTi02cDZBQUpZZzQydllvR25Na0VsbVNUa2FGZy1rXzc0VF93NzV6UVpHXzViQ202Vmo2SXJKUVRXLWdGWk9TWlA3Y3pJOGlfNXNLRmNYZFJXOTNXTmNCNDczS0Z3MkZtRWUxTFhPUWlKOTQ1TUo0TnB4REVXMXBsS1VJVF9hTzdqOVJEeWVFc084a3dxYjJselJfYUx6LXgxQnhmN3pReFpNYmNDeHI3aTZXbVZGQklDVFo1QkZONmVPd1lTclBmVHdjOU5uZ1dsT0JBUk12cG1LMDhGSkdsTC1xd0FraFNnd245eHY5d2dqelVJVk8?oc=5",
       "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
@@ -291,13 +298,6 @@
       "category": "company"
     },
     {
-      "title": "R.H. Investment Group LLC Buys New Shares in Thermo Fisher Scientific Inc. $TMO - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeDRvQTBOakVTMzBnaFhSb29RY0tSemh1ckJDencxU3NNZ0RWakZrOEpIcE84ZEk1MVdLUWZ6eFpNbzdLM0VUcVYydkpSYnRjbUxXbEo0Z244a0hBWWNoQjlEX2lUQUZVd0NxdFo2SWxjOXlLMk1tWmJKSmdZdGVJaTlhOXNOVndWUk9aZzFVakYyN2pza3ZobnJDSnVxZHhFd2ZWblpvSVdBNllHRHBTSkphSWstVHppVTVTNXB2eEZXU2Z0M2c4X1I0c1d6dW1QTUE?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 09:51:52 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
       "title": "Life Science Tools Market Size, Share, Growth & Industry Forecast 2035 - Research Nester",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CNWp1ZHFZRk14Rl9uUjdoalRjbTRHRU04bkJIQWFkSlM5bUNLczBRZmlpcThsSmNITHR4ODdvZ09NVXVJTS1GX3FzSk9zRGI5UWdsMi1tZ3ozbXY5RTJ6TnFXUDRMS0ZxQUJ0NjhLb3loRWxqR1NQMw?oc=5",
       "pubDate": "Wed, 17 Sep 2025 07:00:00 GMT",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-09-10",
-      "close": 476.54
-    },
     {
       "date": "2025-09-11",
       "close": 491.41
@@ -1354,6 +1350,14 @@
     {
       "date": "2026-09-08",
       "close": 603.02
+    },
+    {
+      "date": "2026-09-09",
+      "close": 605.69
+    },
+    {
+      "date": "2026-09-10",
+      "close": 603.18
     }
   ],
   "meta": {
@@ -1363,42 +1367,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 322151400,
-    "regularMarketTime": 1788984002,
+    "regularMarketTime": 1789070402,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 605.69,
-    "regularMarketChangePercent": 0.443,
-    "fulldayPrice": 605.69,
-    "fulldayChange": 2.67,
-    "fulldayChangePercent": 0.443,
+    "regularMarketPrice": 603.18,
+    "regularMarketChangePercent": -0.414,
+    "fulldayPrice": 603.18,
+    "fulldayChange": -2.51,
+    "fulldayChangePercent": -0.414,
     "fiftyTwoWeekHigh": 647.0,
     "fiftyTwoWeekLow": 435.27,
-    "regularMarketDayHigh": 609.51,
-    "regularMarketDayLow": 597.31,
-    "regularMarketVolume": 1919360,
+    "regularMarketDayHigh": 606.63,
+    "regularMarketDayLow": 594.82,
+    "regularMarketVolume": 1539451,
     "longName": "Thermo Fisher Scientific Inc.",
     "shortName": "Thermo Fisher Scientific Inc",
-    "chartPreviousClose": 482.41,
+    "chartPreviousClose": 476.54,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1788940800,
-        "end": 1788960600,
+        "start": 1789027200,
+        "end": 1789047000,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1788960600,
-        "end": 1788984000,
+        "start": 1789047000,
+        "end": 1789070400,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1788984000,
-        "end": 1788998400,
+        "start": 1789070400,
+        "end": 1789084800,
         "gmtoffset": -14400
       }
     },
