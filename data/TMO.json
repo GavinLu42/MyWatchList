@@ -1,7 +1,7 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-09-09T00:00:30.107085+00:00",
+  "updated": "2026-09-10T00:02:12.730899+00:00",
   "news": [
     {
       "title": "GTCR Funds Former Gen-Probe Execs to Form Maravai Life Sciences - Clinical Lab Products",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-09-09",
-      "close": 482.41
-    },
     {
       "date": "2025-09-10",
       "close": 476.54
@@ -1354,6 +1350,10 @@
     {
       "date": "2026-09-04",
       "close": 613.78
+    },
+    {
+      "date": "2026-09-08",
+      "close": 603.02
     }
   ],
   "meta": {
@@ -1363,42 +1363,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 322151400,
-    "regularMarketTime": 1788897602,
+    "regularMarketTime": 1788984002,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 603.02,
-    "regularMarketChangePercent": -1.753,
-    "fulldayPrice": 603.02,
-    "fulldayChange": -10.76,
-    "fulldayChangePercent": -1.753,
+    "regularMarketPrice": 605.69,
+    "regularMarketChangePercent": 0.443,
+    "fulldayPrice": 605.69,
+    "fulldayChange": 2.67,
+    "fulldayChangePercent": 0.443,
     "fiftyTwoWeekHigh": 647.0,
     "fiftyTwoWeekLow": 435.27,
-    "regularMarketDayHigh": 608.1,
-    "regularMarketDayLow": 595.82,
-    "regularMarketVolume": 2654165,
+    "regularMarketDayHigh": 609.51,
+    "regularMarketDayLow": 597.31,
+    "regularMarketVolume": 1919360,
     "longName": "Thermo Fisher Scientific Inc.",
     "shortName": "Thermo Fisher Scientific Inc",
-    "chartPreviousClose": 487.65,
+    "chartPreviousClose": 482.41,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1788854400,
-        "end": 1788874200,
+        "start": 1788940800,
+        "end": 1788960600,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1788874200,
-        "end": 1788897600,
+        "start": 1788960600,
+        "end": 1788984000,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1788897600,
-        "end": 1788912000,
+        "start": 1788984000,
+        "end": 1788998400,
         "gmtoffset": -14400
       }
     },

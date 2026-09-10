@@ -1,7 +1,7 @@
 {
   "symbol": "CVS",
   "name": "CVS Health",
-  "updated": "2026-09-09T00:00:23.123842+00:00",
+  "updated": "2026-09-10T00:02:04.734826+00:00",
   "news": [
     {
       "title": "CVS Health Corp (CVS) Shares Fall 3.1% -- What GF Score of 75 Te - GuruFocus",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-09-09",
-      "close": 71.75
-    },
     {
       "date": "2025-09-10",
       "close": 73.97
@@ -1354,6 +1350,10 @@
     {
       "date": "2026-09-04",
       "close": 96.74
+    },
+    {
+      "date": "2026-09-08",
+      "close": 96.07
     }
   ],
   "meta": {
@@ -1363,42 +1363,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 99153000,
-    "regularMarketTime": 1788897603,
+    "regularMarketTime": 1788984002,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 96.07,
-    "regularMarketChangePercent": -0.693,
-    "fulldayPrice": 96.07,
-    "fulldayChange": -0.67,
-    "fulldayChangePercent": -0.693,
+    "regularMarketPrice": 95.38,
+    "regularMarketChangePercent": -0.718,
+    "fulldayPrice": 95.38,
+    "fulldayChange": -0.69,
+    "fulldayChangePercent": -0.718,
     "fiftyTwoWeekHigh": 110.68,
     "fiftyTwoWeekLow": 69.51,
-    "regularMarketDayHigh": 96.73,
-    "regularMarketDayLow": 95.24,
-    "regularMarketVolume": 4152343,
+    "regularMarketDayHigh": 97.98,
+    "regularMarketDayLow": 92.79,
+    "regularMarketVolume": 6078497,
     "longName": "CVS Health Corporation",
     "shortName": "CVS Health Corporation",
-    "chartPreviousClose": 70.26,
+    "chartPreviousClose": 71.75,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1788874200,
-        "start": 1788854400,
+        "end": 1788960600,
+        "start": 1788940800,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1788897600,
-        "start": 1788874200,
+        "end": 1788984000,
+        "start": 1788960600,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1788912000,
-        "start": 1788897600,
+        "end": 1788998400,
+        "start": 1788984000,
         "gmtoffset": -14400
       }
     },
