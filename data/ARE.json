@@ -1,7 +1,7 @@
 {
   "symbol": "ARE",
   "name": "Alexandria Real Estate Equities",
-  "updated": "2026-09-12T00:04:42.082724+00:00",
+  "updated": "2026-09-12T23:54:39.160803+00:00",
   "news": [
     {
       "title": "Alexandria Real Estate Equities, Inc. and Foundation for the National Institutes of Health Announce Foundational Milestone in Mission-Critical Partnership to Advance Precision Medicine for Depression - marketscreener.com",
@@ -1354,6 +1354,10 @@
     {
       "date": "2026-09-10",
       "close": 49.56
+    },
+    {
+      "date": "2026-09-11",
+      "close": 51.14
     }
   ],
   "meta": {

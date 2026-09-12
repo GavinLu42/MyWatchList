@@ -1,7 +1,7 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-09-12T00:04:44.172860+00:00",
+  "updated": "2026-09-12T23:54:41.529025+00:00",
   "news": [
     {
       "title": "GTCR Funds Former Gen-Probe Execs to Form Maravai Life Sciences - Clinical Lab Products",
@@ -1354,6 +1354,10 @@
     {
       "date": "2026-09-10",
       "close": 603.18
+    },
+    {
+      "date": "2026-09-11",
+      "close": 609.82
     }
   ],
   "meta": {
@@ -1385,20 +1389,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1789113600,
         "end": 1789133400,
+        "start": 1789113600,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1789133400,
         "end": 1789156800,
+        "start": 1789133400,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1789156800,
         "end": 1789171200,
+        "start": 1789156800,
         "gmtoffset": -14400
       }
     },

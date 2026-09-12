@@ -1,7 +1,7 @@
 {
   "symbol": "CVS",
   "name": "CVS Health",
-  "updated": "2026-09-12T00:04:37.612564+00:00",
+  "updated": "2026-09-12T23:54:33.734465+00:00",
   "news": [
     {
       "title": "CVS Health Corp (CVS) Shares Fall 3.1% -- What GF Score of 75 Te - GuruFocus",
@@ -1354,6 +1354,10 @@
     {
       "date": "2026-09-10",
       "close": 95.29
+    },
+    {
+      "date": "2026-09-11",
+      "close": 94.66
     }
   ],
   "meta": {
@@ -1370,7 +1374,7 @@
     "exchangeTimezoneName": "America/New_York",
     "regularMarketPrice": 94.66,
     "regularMarketChangePercent": -0.661,
-    "fulldayPrice": 94.5,
+    "fulldayPrice": 94.55,
     "fulldayChange": -0.63,
     "fulldayChangePercent": -0.661,
     "fiftyTwoWeekHigh": 110.68,

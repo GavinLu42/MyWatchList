@@ -1,7 +1,7 @@
 {
   "symbol": "FSAGX",
   "name": "Fidelity Select Gold Portfolio",
-  "updated": "2026-09-12T00:04:33.425253+00:00",
+  "updated": "2026-09-12T23:54:29.150696+00:00",
   "news": [
     {
       "title": "Federal Reserve holds interest rates steady amid inflation concerns - WBAL-TV",
@@ -168,6 +168,13 @@
       "title": "Fidelity Select Communication Services Portfolio Q4 2025 Commentary (Mutual Fund:FBMPX) - Seeking Alpha",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZnotaFc1NXZWTWZMYzNDZmVqaEJkZmp3TXRpU1Vadi1mZW9GOVVrQ2ZwVUFqSGlETzZ6akJLS19SdEFTNlJzQk9wNFk0bWlkUEJaaElPTnpsN1FVWl9hUllPUGxHMEZJOHFjeEZQbjVjY25ZUFJhWlEzRjM4QjdvOTA2TGNhdldTRGI0TWJlYTl5UnhwMlo1ejJnWm1ObkdHSVRPeFhNTkZFYnVI?oc=5",
       "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Is Vanguard Global Capital Cycles Fund Investor (VGPMX) a Strong Mutual Fund Pick Right Now? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeWhUZjdfOHJhRkZLdVlGVjVxdmxTSUY4Sk9vMWR2R1hMNnpBSEM2NUQ1UVhubWNBSWRwbWN5RmEzQzVDd2hsb1ZsekFFcExtajMyU19KVllpd0xtNld0N2lCWkpLRm1iRlk0cE5QRml0OWdEZHhHSjRDUHRmWEw4Q2h5cFppR0Mx?oc=5",
+      "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT",
       "source": "",
       "category": "company"
     },
@@ -343,13 +350,6 @@
       "title": "Is Fidelity Select Gold Portfolio (FSAGX) a Strong Mutual Fund Pick Right Now? - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaV8yTDlnMW84VG80aWZ3NjR1MkZQYk1GRmxNazJsZVRYV0tNMi0zd0FMeGFidllxZDJjME9BU0lzV3dTRGpfTHZ1WFdwN0luX2t3SE0ySWtBZEN2YWc4UjNURDV2aG9wam9xTlRPZFcxcm94NndFdzUyblA1b3JzN1NYb1cxWjl4M2c?oc=5",
       "pubDate": "Tue, 10 Jun 2025 07:00:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
-      "title": "Best Gold Mutual Funds to Invest in 2024 to Invest in 2026 - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnN0psdHpRNURsMnVUeE1KeERFV1pwT253U2JEWW9TSGk4NURYeWNDTVZGVERVcWkxMElsN21DUDJ0dUN5N3k4OEUxY042ZjRpOFU1UTJTdzFHaC1oLV8zdlRpTQ?oc=5",
-      "pubDate": "Tue, 10 Dec 2024 08:00:00 GMT",
       "source": "",
       "category": "company"
     }
@@ -1354,6 +1354,10 @@
     {
       "date": "2026-09-10",
       "close": 66.83
+    },
+    {
+      "date": "2026-09-11",
+      "close": 67.46
     }
   ],
   "meta": {
@@ -1363,7 +1367,7 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 503591400,
-    "regularMarketTime": 1789167199,
+    "regularMarketTime": 1789171698,
     "hasPrePostMarketData": false,
     "gmtoffset": -14400,
     "timezone": "EDT",
@@ -1382,20 +1386,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1789113600,
         "end": 1789133400,
+        "start": 1789113600,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1789133400,
         "end": 1789156800,
+        "start": 1789133400,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1789156800,
         "end": 1789171200,
+        "start": 1789156800,
         "gmtoffset": -14400
       }
     },
