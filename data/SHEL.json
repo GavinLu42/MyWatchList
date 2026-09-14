@@ -1,7 +1,7 @@
 {
   "symbol": "SHEL",
   "name": "Shell plc",
-  "updated": "2026-09-12T23:54:36.699591+00:00",
+  "updated": "2026-09-14T00:02:42.793599+00:00",
   "news": [
     {
       "title": "2026 Oil and Gas Industry Outlook - Deloitte",
@@ -1374,7 +1374,7 @@
     "exchangeTimezoneName": "America/New_York",
     "regularMarketPrice": 96.77,
     "regularMarketChangePercent": 0.844,
-    "fulldayPrice": 96.8,
+    "fulldayPrice": 96.77,
     "fulldayChange": 0.81,
     "fulldayChangePercent": 0.844,
     "fiftyTwoWeekHigh": 96.99,
@@ -1389,20 +1389,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1789133400,
         "start": 1789113600,
+        "end": 1789133400,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1789156800,
         "start": 1789133400,
+        "end": 1789156800,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1789171200,
         "start": 1789156800,
+        "end": 1789171200,
         "gmtoffset": -14400
       }
     },

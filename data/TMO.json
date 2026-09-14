@@ -1,7 +1,7 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-09-12T23:54:41.529025+00:00",
+  "updated": "2026-09-14T00:02:46.930992+00:00",
   "news": [
     {
       "title": "GTCR Funds Former Gen-Probe Execs to Form Maravai Life Sciences - Clinical Lab Products",
@@ -35,6 +35,13 @@
       "title": "Advancing POC diagnostics - healthcare-in-europe.com",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tZW1qUmd6enR6Nld4VUg1OFFLZ2F3c2FHZTltRVYxV0VLUHZ3UEJENHIwdWZRUW0tX0Z5LUhHOTEyaUpmZWt0dHlrdVRxaTB1WnhlTEpsMnlHbnJidjNHQU1CSW9US1RvMmxjX0ZKTnF0TmZseG8xV0tIUQ?oc=5",
       "pubDate": "Wed, 29 Dec 2010 08:00:00 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Rethinking customer engagement in diagnostics: Are manufacturers prepared? - Deloitte",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLUV5SHhIZ3lsbVhtZE1qYU1mbTZId1I0R01MQ2wyb1BmbHNEdkJEcVRyOXN3YjdRZm5sU0hYemxrbHRDcmJVd1ZURENpUW9hN1NLTmVGVFhGbTBuWDA1OEt1YUxvMGxscmRFcnFobkdJaXZES3Q2WFdpaHc4RG8wcDVwQWxPMjh2REpKSl9KU2JPQ0FwbzBERXlDT1J4aFJrLVE?oc=5",
+      "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
       "source": "",
       "category": "sector"
     },
@@ -343,13 +350,6 @@
       "title": "Australia Veterinary Diagnostics Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRHdmUkY4dHAwMjJfVW5aTzRJRVpOZ05KWTJnMmlnV0QxcDY5MXRZU0NheFJGM21xRFpRX3BrRU9wLWlRT0dpRFBXSWRydVUzSFFtUjd4THBrZ0thT1J5MjdhQ3VUcjgweFM2N3FLY0MyMVpybF9BbFNaZWM4dC1oV29aTE1DNC1CQkhWRVEyNmNBMlQ2WmJCZjZsWDZwQ3M?oc=5",
       "pubDate": "Wed, 15 Jul 2026 23:54:49 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Germany Veterinary Diagnostics Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV3g5VzJiSDFuSE1MRlZVVXdTLVR6TllRNG9hU3NDZ1JVNzZvMFdPbUpuVjRNU3dqUk90RVVSMGh3a2J4V19fNnoxWU82dGlmclVLWDc3SGk2bmEzbkFVY3FIdUZLMEdzRjBVRGJWMzJucVVhZ193bl9TZGtUOHVmd05TZlRoTzRua1JLMTBTSjBOOG56Y3pEZnl3WWs?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 23:47:03 GMT",
       "source": "",
       "category": "sector"
     }
@@ -1389,20 +1389,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1789133400,
         "start": 1789113600,
+        "end": 1789133400,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1789156800,
         "start": 1789133400,
+        "end": 1789156800,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1789171200,
         "start": 1789156800,
+        "end": 1789171200,
         "gmtoffset": -14400
       }
     },
