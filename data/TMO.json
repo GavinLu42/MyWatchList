@@ -1,7 +1,7 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-09-16T00:06:33.791483+00:00",
+  "updated": "2026-09-17T00:17:16.060228+00:00",
   "news": [
     {
       "title": "GTCR Funds Former Gen-Probe Execs to Form Maravai Life Sciences - Clinical Lab Products",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-09-16",
-      "close": 480.74
-    },
     {
       "date": "2025-09-17",
       "close": 472.64
@@ -1354,6 +1350,10 @@
     {
       "date": "2026-09-14",
       "close": 613.62
+    },
+    {
+      "date": "2026-09-15",
+      "close": 641.39
     }
   ],
   "meta": {
@@ -1363,42 +1363,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 322151400,
-    "regularMarketTime": 1789502402,
+    "regularMarketTime": 1789588802,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 641.39,
-    "regularMarketChangePercent": 4.606,
-    "fulldayPrice": 641.39,
-    "fulldayChange": 28.24,
-    "fulldayChangePercent": 4.606,
-    "fiftyTwoWeekHigh": 647.0,
+    "regularMarketPrice": 648.43,
+    "regularMarketChangePercent": 1.098,
+    "fulldayPrice": 648.43,
+    "fulldayChange": 7.04,
+    "fulldayChangePercent": 1.098,
+    "fiftyTwoWeekHigh": 653.4,
     "fiftyTwoWeekLow": 435.27,
-    "regularMarketDayHigh": 641.89,
-    "regularMarketDayLow": 613.95,
-    "regularMarketVolume": 2938484,
+    "regularMarketDayHigh": 653.4,
+    "regularMarketDayLow": 638.0,
+    "regularMarketVolume": 2879928,
     "longName": "Thermo Fisher Scientific Inc.",
     "shortName": "Thermo Fisher Scientific Inc",
-    "chartPreviousClose": 474.46,
+    "chartPreviousClose": 480.74,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1789459200,
-        "end": 1789479000,
+        "end": 1789565400,
+        "start": 1789545600,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1789479000,
-        "end": 1789502400,
+        "end": 1789588800,
+        "start": 1789565400,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1789502400,
-        "end": 1789516800,
+        "end": 1789603200,
+        "start": 1789588800,
         "gmtoffset": -14400
       }
     },
