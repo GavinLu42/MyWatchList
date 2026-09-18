@@ -1,7 +1,7 @@
 {
   "symbol": "SHEL",
   "name": "Shell plc",
-  "updated": "2026-09-17T00:17:11.867242+00:00",
+  "updated": "2026-09-18T00:02:41.483919+00:00",
   "news": [
     {
       "title": "2026 Oil and Gas Industry Outlook - Deloitte",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-09-17",
-      "close": 71.41
-    },
     {
       "date": "2025-09-18",
       "close": 71.44
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-09-16",
       "close": 95.7
+    },
+    {
+      "date": "2026-09-17",
+      "close": 95.82
     }
   ],
   "meta": {
@@ -1367,42 +1367,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 447949800,
-    "regularMarketTime": 1789588802,
+    "regularMarketTime": 1789675203,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 95.7,
-    "regularMarketChangePercent": -3.284,
-    "fulldayPrice": 95.7,
-    "fulldayChange": -3.25,
-    "fulldayChangePercent": -3.284,
+    "regularMarketPrice": 95.82,
+    "regularMarketChangePercent": 0.125,
+    "fulldayPrice": 95.82,
+    "fulldayChange": 0.12,
+    "fulldayChangePercent": 0.125,
     "fiftyTwoWeekHigh": 99.155,
     "fiftyTwoWeekLow": 68.625,
-    "regularMarketDayHigh": 97.93,
-    "regularMarketDayLow": 95.35,
-    "regularMarketVolume": 5775308,
+    "regularMarketDayHigh": 96.12,
+    "regularMarketDayLow": 95.325,
+    "regularMarketVolume": 3703250,
     "longName": "Shell plc",
     "shortName": "Shell PLC",
-    "chartPreviousClose": 72.33,
+    "chartPreviousClose": 71.41,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1789565400,
-        "start": 1789545600,
+        "start": 1789632000,
+        "end": 1789651800,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1789588800,
-        "start": 1789565400,
+        "start": 1789651800,
+        "end": 1789675200,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1789603200,
-        "start": 1789588800,
+        "start": 1789675200,
+        "end": 1789689600,
         "gmtoffset": -14400
       }
     },
