@@ -1,7 +1,7 @@
 {
   "symbol": "FXAIX",
   "name": "Fidelity 500 Index Fund",
-  "updated": "2026-09-18T00:02:31.796953+00:00",
+  "updated": "2026-09-19T00:06:50.834535+00:00",
   "news": [
     {
       "title": "Stock market today: Dow plunges by 1,100 points, S&P 500 and Nasdaq sink as yields rise on Fed's hawkish hold - Yahoo Finance",
@@ -277,6 +277,13 @@
       "category": "company"
     },
     {
+      "title": "6 Best Dividend Index Funds to Buy in 2026 - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14UWhFYTFma2gydU1pZVdFQUNNWFB5eGUwSW9ROU9fek1McGV1Mnl2MUdWcG5SS095Q3FPb3JNM3l3azV2MkhlRzM0ZTFoSFdLT1NJNmRWbHB1R1lySUg0S3hnYUtFMzI4Mkh0bVdsRHU0SHoteUE?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 17:56:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "Overwhelmed by investing? Here's the quickest way to simplify - USA Today",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaEtFb0d3TG40QzBjUWlXaDc4ZzFfRUxQaUstdWVybTNsLUpVOEJ4MVIxQzlrQzVFd0VRUzV3Z25zR0hiTXhoSHdBVlpPdnZKbWlqR3VOeEluYnVCQjRNQUtXZ3kzdUZ0Q1cyV3FrejF0eTB1RUNUSzZ0Q0lMTVlNdjk4eThOSFFlNmxWMXFBWHU4N2NzVzNMTA?oc=5",
       "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
@@ -345,20 +352,9 @@
       "pubDate": "Wed, 12 Aug 2026 07:00:00 GMT",
       "source": "",
       "category": "company"
-    },
-    {
-      "title": "Best S&P 500 Funds for 2026 - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyM0RYV1daOEUtdGxLU3dCazU1XzJCeTJ6eGo3WlVlZWROUXdsYm1JaFMzZl9RaEt2czZyUWdBQ21HZ2ZITl9tc2JUMFpmWXpzQ2JkZnNNLUVlQUVGWmZSdXhNN0hfaklOR00ySmpCY25MaDQ?oc=5",
-      "pubDate": "Wed, 11 May 2022 06:31:34 GMT",
-      "source": "",
-      "category": "company"
     }
   ],
   "prices": [
-    {
-      "date": "2025-09-18",
-      "close": 230.94
-    },
     {
       "date": "2025-09-19",
       "close": 232.07
@@ -1354,6 +1350,10 @@
     {
       "date": "2026-09-16",
       "close": 262.99
+    },
+    {
+      "date": "2026-09-17",
+      "close": 265.99
     }
   ],
   "meta": {
@@ -1363,39 +1363,39 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 1304515800,
-    "regularMarketTime": 1789685603,
+    "regularMarketTime": 1789772014,
     "hasPrePostMarketData": false,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 265.99,
-    "regularMarketChangePercent": 1.141,
-    "fulldayPrice": 265.99,
-    "fulldayChange": 3.0,
-    "fulldayChangePercent": 1.141,
+    "regularMarketPrice": 266.43,
+    "regularMarketChangePercent": 0.165,
+    "fulldayPrice": 266.43,
+    "fulldayChange": 0.44,
+    "fulldayChangePercent": 0.165,
     "fiftyTwoWeekHigh": 271.2,
     "fiftyTwoWeekLow": 220.95,
     "longName": "Fidelity 500 Index",
     "shortName": "Fidelity 500 Index Fund",
-    "chartPreviousClose": 229.83,
+    "chartPreviousClose": 230.94,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1789651800,
-        "start": 1789632000,
+        "end": 1789738200,
+        "start": 1789718400,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1789675200,
-        "start": 1789651800,
+        "end": 1789761600,
+        "start": 1789738200,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1789689600,
-        "start": 1789675200,
+        "end": 1789776000,
+        "start": 1789761600,
         "gmtoffset": -14400
       }
     },
