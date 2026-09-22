@@ -1,7 +1,7 @@
 {
   "symbol": "CVS",
   "name": "CVS Health",
-  "updated": "2026-09-21T00:05:28.930397+00:00",
+  "updated": "2026-09-22T00:41:55.977622+00:00",
   "news": [
     {
       "title": "CVS Health Corp (CVS) Shares Fall 3.1% -- What GF Score of 75 Te - GuruFocus",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-09-19",
-      "close": 74.92
-    },
     {
       "date": "2025-09-22",
       "close": 75.13
@@ -1367,42 +1363,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 99153000,
-    "regularMarketTime": 1789761603,
+    "regularMarketTime": 1790020802,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 88.84,
-    "regularMarketChangePercent": -1.584,
-    "fulldayPrice": 89.25,
-    "fulldayChange": -1.43,
-    "fulldayChangePercent": -1.584,
+    "regularMarketPrice": 87.6,
+    "regularMarketChangePercent": -1.396,
+    "fulldayPrice": 87.6,
+    "fulldayChange": -1.24,
+    "fulldayChangePercent": -1.396,
     "fiftyTwoWeekHigh": 110.68,
     "fiftyTwoWeekLow": 69.51,
-    "regularMarketDayHigh": 90.48,
-    "regularMarketDayLow": 88.15,
-    "regularMarketVolume": 21869077,
+    "regularMarketDayHigh": 88.91,
+    "regularMarketDayLow": 87.19,
+    "regularMarketVolume": 9310101,
     "longName": "CVS Health Corporation",
     "shortName": "CVS Health Corporation",
-    "chartPreviousClose": 74.42,
+    "chartPreviousClose": 74.92,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1789718400,
-        "end": 1789738200,
+        "start": 1789977600,
+        "end": 1789997400,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1789738200,
-        "end": 1789761600,
+        "start": 1789997400,
+        "end": 1790020800,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1789761600,
-        "end": 1789776000,
+        "start": 1790020800,
+        "end": 1790035200,
         "gmtoffset": -14400
       }
     },

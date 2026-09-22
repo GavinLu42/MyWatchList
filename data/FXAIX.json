@@ -1,7 +1,7 @@
 {
   "symbol": "FXAIX",
   "name": "Fidelity 500 Index Fund",
-  "updated": "2026-09-21T00:05:21.662517+00:00",
+  "updated": "2026-09-22T00:41:48.794783+00:00",
   "news": [
     {
       "title": "Stock market today: Dow plunges by 1,100 points, S&P 500 and Nasdaq sink as yields rise on Fed's hawkish hold - Yahoo Finance",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-09-19",
-      "close": 232.07
-    },
     {
       "date": "2025-09-22",
       "close": 233.11
@@ -1367,39 +1363,39 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 1304515800,
-    "regularMarketTime": 1789776515,
+    "regularMarketTime": 1790035722,
     "hasPrePostMarketData": false,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 266.43,
-    "regularMarketChangePercent": 0.165,
-    "fulldayPrice": 266.43,
-    "fulldayChange": 0.44,
-    "fulldayChangePercent": 0.165,
+    "regularMarketPrice": 270.43,
+    "regularMarketChangePercent": 1.501,
+    "fulldayPrice": 270.43,
+    "fulldayChange": 4.0,
+    "fulldayChangePercent": 1.501,
     "fiftyTwoWeekHigh": 271.2,
     "fiftyTwoWeekLow": 220.95,
     "longName": "Fidelity 500 Index",
     "shortName": "Fidelity 500 Index Fund",
-    "chartPreviousClose": 230.94,
+    "chartPreviousClose": 232.07,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1789738200,
-        "start": 1789718400,
+        "start": 1789977600,
+        "end": 1789997400,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1789761600,
-        "start": 1789738200,
+        "start": 1789997400,
+        "end": 1790020800,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1789776000,
-        "start": 1789761600,
+        "start": 1790020800,
+        "end": 1790035200,
         "gmtoffset": -14400
       }
     },
