@@ -1,7 +1,7 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-09-22T00:42:03.107819+00:00",
+  "updated": "2026-09-23T00:14:45.252527+00:00",
   "news": [
     {
       "title": "GTCR Funds Former Gen-Probe Execs to Form Maravai Life Sciences - Clinical Lab Products",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-09-22",
-      "close": 474.99
-    },
     {
       "date": "2025-09-23",
       "close": 469.75
@@ -1354,6 +1350,10 @@
     {
       "date": "2026-09-18",
       "close": 651.45
+    },
+    {
+      "date": "2026-09-21",
+      "close": 658.76
     }
   ],
   "meta": {
@@ -1363,42 +1363,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 322151400,
-    "regularMarketTime": 1790020802,
+    "regularMarketTime": 1790107202,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 658.76,
-    "regularMarketChangePercent": 1.122,
-    "fulldayPrice": 658.76,
-    "fulldayChange": 7.31,
-    "fulldayChangePercent": 1.122,
+    "regularMarketPrice": 658.52,
+    "regularMarketChangePercent": -0.036,
+    "fulldayPrice": 658.52,
+    "fulldayChange": -0.24,
+    "fulldayChangePercent": -0.036,
     "fiftyTwoWeekHigh": 663.57,
     "fiftyTwoWeekLow": 435.27,
-    "regularMarketDayHigh": 660.435,
-    "regularMarketDayLow": 649.12,
-    "regularMarketVolume": 1922969,
+    "regularMarketDayHigh": 662.87,
+    "regularMarketDayLow": 651.82,
+    "regularMarketVolume": 2103278,
     "longName": "Thermo Fisher Scientific Inc.",
     "shortName": "Thermo Fisher Scientific Inc",
-    "chartPreviousClose": 479.58,
+    "chartPreviousClose": 474.99,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1789977600,
-        "end": 1789997400,
+        "start": 1790064000,
+        "end": 1790083800,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1789997400,
-        "end": 1790020800,
+        "start": 1790083800,
+        "end": 1790107200,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1790020800,
-        "end": 1790035200,
+        "start": 1790107200,
+        "end": 1790121600,
         "gmtoffset": -14400
       }
     },
