@@ -1,7 +1,7 @@
 {
   "symbol": "CVS",
   "name": "CVS Health",
-  "updated": "2026-09-23T00:14:38.193686+00:00",
+  "updated": "2026-09-24T00:22:17.847270+00:00",
   "news": [
     {
       "title": "CVS Health Corp (CVS) Shares Fall 3.1% -- What GF Score of 75 Te - GuruFocus",
@@ -277,6 +277,13 @@
       "category": "sector"
     },
     {
+      "title": "CVS Health stock falls 2.93 percent at the close - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN3J1SjBlQmF1d2hPUVZJZWpaSWxXRzFDLWF5OVpZVW5ER0lKWVl3Zm9QM2lxdElqZkVRU29BSW5sMkpBWm1qZG1jR2FOS2NJa0Z3a205aTJyN1prb0tTQ3VSQnFCV3JraTNsTlpZdUdNeUx4cU5KV2J6ak0wazBzS3JQRWRKYXQ5ekhDdlJ2b29mMnZ0ZTdONTNPOHlfVXZLdHVjQzFwSVhTb0E?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 20:42:02 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "A New Prescription for US Pharmacy - Bain",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aQmVtSzRzelRmdEJBcG5fbHdPNU91Z01GOWVCNnFkRThhVWRncXJMX2pUUmR3czVsRno3SDNCVnJQbXRUamF0R3B3OHVUcXh5anRQa3BfQ25Ca1FWWUdlWGJvSXhQdFZKdkViRGlaXzFRVm8?oc=5",
       "pubDate": "Wed, 23 Apr 2025 07:00:00 GMT",
@@ -289,13 +296,6 @@
       "pubDate": "Wed, 22 Oct 2025 07:00:00 GMT",
       "source": "",
       "category": "sector"
-    },
-    {
-      "title": "CVS Health Helping to Strengthen Communities Across Massachusetts - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT2JCZTdEb3luOUx0YldRaW1lYlJLQ1F2aGUxRGxzS19ISWpvSlpRemloWmJ3MUJFSkdOOEp4WE5kZlN6M3Y5U1N5VGhCeXhacUdQSUE0QTVRbVB4OUtvN2YzcHpOSHJRcmpjcXZLdXpfY3hLM0EtWDc2TW0zaFZPWm9sWHNaVkE1TVE2R3ppSlgtNl9EMUU4STNvNVZ5Rzd3WlRHWEhQR1dKd25NWVl0VDVFajZSQjNxT2NIZ1Jn?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 13:00:00 GMT",
-      "source": "",
-      "category": "company"
     },
     {
       "title": "Court approves fire sale of most of Rite Aid's pharmacy assets - Reuters",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-09-23",
-      "close": 76.5
-    },
     {
       "date": "2025-09-24",
       "close": 76.38
@@ -1363,42 +1359,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 99153000,
-    "regularMarketTime": 1790107202,
+    "regularMarketTime": 1790193603,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 87.1,
-    "regularMarketChangePercent": -0.571,
-    "fulldayPrice": 87.1,
-    "fulldayChange": -0.5,
-    "fulldayChangePercent": -0.571,
+    "regularMarketPrice": 85.86,
+    "regularMarketChangePercent": -1.424,
+    "fulldayPrice": 85.86,
+    "fulldayChange": -1.24,
+    "fulldayChangePercent": -1.424,
     "fiftyTwoWeekHigh": 110.68,
     "fiftyTwoWeekLow": 69.51,
-    "regularMarketDayHigh": 88.28,
-    "regularMarketDayLow": 86.68,
-    "regularMarketVolume": 8678530,
+    "regularMarketDayHigh": 86.98,
+    "regularMarketDayLow": 85.67,
+    "regularMarketVolume": 7225910,
     "longName": "CVS Health Corporation",
     "shortName": "CVS Health Corporation",
-    "chartPreviousClose": 75.13,
+    "chartPreviousClose": 76.5,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1790083800,
-        "start": 1790064000,
+        "end": 1790170200,
+        "start": 1790150400,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1790107200,
-        "start": 1790083800,
+        "end": 1790193600,
+        "start": 1790170200,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1790121600,
-        "start": 1790107200,
+        "end": 1790208000,
+        "start": 1790193600,
         "gmtoffset": -14400
       }
     },
