@@ -1,7 +1,7 @@
 {
   "symbol": "FSAGX",
   "name": "Fidelity Select Gold Portfolio",
-  "updated": "2026-09-24T00:22:13.873498+00:00",
+  "updated": "2026-09-25T00:24:57.476223+00:00",
   "news": [
     {
       "title": "Federal Reserve holds interest rates steady amid inflation concerns - WBAL-TV",
@@ -207,6 +207,13 @@
       "category": "company"
     },
     {
+      "title": "Montage Gold Corp. (MAU.TO) stock major holders - Yahoo Finance Australia",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oZy1hWE1sZHBCQ3N5cWVwd2x1LVQzbDVSRU1rbEk4TW5pM0NURDJrT3RfRUt3T2tMeEpWTHNZT1lvX0FCYUg0T1NEcEoxd1luREVVSWxISndMdjd2S0NV?oc=5",
+      "pubDate": "Wed, 14 May 2025 04:50:54 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "Fidelity Select Health Care Portfolio Q4 2024 Review (Mutual Fund:FSPHX) - Seeking Alpha",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQjFycURNX2lXRG5HUFRDZkFwYVU4NF9yMFl1Q1A3Wl96c25vU3Q2MXNaNDZJdDhoNmNyR3pKQ1d1Rk8xT05qYkZGbElla1hDNVVjZTBfZnM0OE52V0ZCMjZnU2JBS0ZWZ25Md3ptRDRuY2gyTWxjSzdiMkI1eWZkSFN1a19FUmg0bG9WVDgtUThUTi1MNkVkbA?oc=5",
       "pubDate": "Wed, 12 Mar 2025 07:00:00 GMT",
@@ -345,20 +352,9 @@
       "pubDate": "Tue, 22 Sep 2026 12:07:00 GMT",
       "source": "",
       "category": "company"
-    },
-    {
-      "title": "2 best-selling gold mining funds - fidelity.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQURNZ2tIRHowdG1ZQzFpUkdocjJ2ZDlRd1J2TktNRHotLUR5WldEeFpUVXlEalA2ZjF2b2p6cWRuWTZxUzZsaUo1VkMzdVlPeWd2c0k4dnZLS2V4YkU0a2pHcUI4aUJDT1o4Q3AzMkdfVnZoMTlqMlpxeWxQbEJBWTl0SE9ucC1NbWxZUVFJamJRcnRCTnJYT2x6QmNfeDVf?oc=5",
-      "pubDate": "Tue, 21 Oct 2025 07:00:00 GMT",
-      "source": "",
-      "category": "company"
     }
   ],
   "prices": [
-    {
-      "date": "2025-09-24",
-      "close": 50.49
-    },
     {
       "date": "2025-09-25",
       "close": 50.88
@@ -1350,6 +1346,10 @@
     {
       "date": "2026-09-21",
       "close": 66.04
+    },
+    {
+      "date": "2026-09-23",
+      "close": 65.65
     }
   ],
   "meta": {
@@ -1359,39 +1359,39 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 503591400,
-    "regularMarketTime": 1790204023,
+    "regularMarketTime": 1790294890,
     "hasPrePostMarketData": false,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 65.65,
-    "regularMarketChangePercent": -3.978,
-    "fulldayPrice": 65.65,
-    "fulldayChange": -2.72,
-    "fulldayChangePercent": -3.978,
+    "regularMarketPrice": 64.88,
+    "regularMarketChangePercent": -1.172887,
+    "fulldayPrice": 64.88,
+    "fulldayChange": -0.77,
+    "fulldayChangePercent": -1.172887,
     "fiftyTwoWeekHigh": 79.83,
     "fiftyTwoWeekLow": 47.53,
     "longName": "Fidelity Select Gold",
     "shortName": "Fidelity Select Gold Pt",
-    "chartPreviousClose": 51.82,
+    "chartPreviousClose": 50.49,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1790150400,
-        "end": 1790170200,
+        "start": 1790236800,
+        "end": 1790256600,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1790170200,
-        "end": 1790193600,
+        "start": 1790256600,
+        "end": 1790280000,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1790193600,
-        "end": 1790208000,
+        "start": 1790280000,
+        "end": 1790294400,
         "gmtoffset": -14400
       }
     },

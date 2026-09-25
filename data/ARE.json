@@ -1,7 +1,7 @@
 {
   "symbol": "ARE",
   "name": "Alexandria Real Estate Equities",
-  "updated": "2026-09-24T00:22:22.049794+00:00",
+  "updated": "2026-09-25T00:25:06.203621+00:00",
   "news": [
     {
       "title": "Alexandria Real Estate Equities, Inc. and Foundation for the National Institutes of Health Announce Foundational Milestone in Mission-Critical Partnership to Advance Precision Medicine for Depression - marketscreener.com",
@@ -270,6 +270,13 @@
       "category": "sector"
     },
     {
+      "title": "Alexandria Real Estate Equities (ARE) Stock Forecasts - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeHliVGtDSHk3SlBtZ013MDZ0czRGY1N2ZlJxZVFROXB5aDk3d2RqdVZZV0JiT3QtblNUQjJiTEJ2bVF1TDcyU093MTBHcVJxNmU0TkVDOTA1dThKbXNFMGl0X1NPNWRIa0JYN3M4WFlidmNDcHJlYzZESGJ6OTRaSGJiQ3VvdEZ5M2tnMmFLcw?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 23:20:23 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "Alexandria Real Estate Equities Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZ01zRFZHVFUyS1pxTVNScFc3OTBIM3lnQThKN2ZycXpoeTF5a2s3RElPazNrLXRTT3FWVE5tZ1dxY1UxZXpCT0hDX1J5cGtTZFpTYjBYOUJvZWRvbTlHbi1OWkpDMUtBTllMR0VrUkV0a3YtWmRxWmU5TlMyTXhKcnBWRmZvQW9SSlpNN0owdGFJZEtSM0hPRE81YkZvUzRIbXNPYzhjdmNBdWtxQVpCakI4cmJ3YkE0TS1rZ3luNWhsWkxldmRsc2wxMDVZdFFWRlhwMnZvQkdhUk0ybzMtU1FobDhKTHNlTFE?oc=5",
       "pubDate": "Wed, 23 Sep 2026 20:30:00 GMT",
@@ -326,13 +333,6 @@
       "category": "sector"
     },
     {
-      "title": "Alexandria Real Estate Equities (ARE) Delivers 427,000 RSF Bristol Myers Squibb R And D Hub - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaUd3NDFRQVZEc3Jtc3p0TERQN3VxdzZoTGpUWEtfWk5WWW9XSzN1WmFpYlVMU0FCMFRBZEFBS3RIN1F5cDQzbzU4VTJGSWpGaDI4X2hhdW5VcHlzSWFfQTRuVEdiVG1GcUx2Y0NMUDU3TllGWVJsc0trUkM4a0I4c0JwVWU0SmZQNEczT05lR2lWMXJBcFdHRi1IdkdXVFZjNGRSMg?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
       "title": "Life sciences lab real estate is clawing back from disaster. Here\u2019s what that means for investors - cnbc.com",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LNjA5RmtqYnRiYVZwSDNkbWg1QndZeDE2YTRGQW5haWY4bl9rZWFKRlNGSEMzRmFvOFdzTU8zZHNmeDBGeDNjSjFqeGJOOWNZanQ0bnp2M1JmSG1TVklxOGVnUFR3ZHFCOUlDV3dwQkw1OFVJV0dyc1lzNEZoTm8?oc=5",
       "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-09-24",
-      "close": 85.89
-    },
     {
       "date": "2025-09-25",
       "close": 84.16
@@ -1350,6 +1346,10 @@
     {
       "date": "2026-09-21",
       "close": 53.34
+    },
+    {
+      "date": "2026-09-23",
+      "close": 51.86
     }
   ],
   "meta": {
@@ -1359,42 +1359,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 864826200,
-    "regularMarketTime": 1790193603,
+    "regularMarketTime": 1790280002,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 51.86,
-    "regularMarketChangePercent": -3.695,
-    "fulldayPrice": 51.86,
-    "fulldayChange": -1.99,
-    "fulldayChangePercent": -3.695,
-    "fiftyTwoWeekHigh": 86.74,
+    "regularMarketPrice": 50.48,
+    "regularMarketChangePercent": -2.661,
+    "fulldayPrice": 50.35,
+    "fulldayChange": -1.38,
+    "fulldayChangePercent": -2.661,
+    "fiftyTwoWeekHigh": 85.78,
     "fiftyTwoWeekLow": 39.41,
-    "regularMarketDayHigh": 53.93,
-    "regularMarketDayLow": 51.53,
-    "regularMarketVolume": 1925094,
+    "regularMarketDayHigh": 51.865,
+    "regularMarketDayLow": 50.385,
+    "regularMarketVolume": 1628062,
     "longName": "Alexandria Real Estate Equities, Inc.",
     "shortName": "Alexandria Real Estate Equities",
-    "chartPreviousClose": 86.97,
+    "chartPreviousClose": 85.89,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1790150400,
-        "end": 1790170200,
+        "start": 1790236800,
+        "end": 1790256600,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1790170200,
-        "end": 1790193600,
+        "start": 1790256600,
+        "end": 1790280000,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1790193600,
-        "end": 1790208000,
+        "start": 1790280000,
+        "end": 1790294400,
         "gmtoffset": -14400
       }
     },

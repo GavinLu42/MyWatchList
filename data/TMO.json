@@ -1,7 +1,7 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-09-24T00:22:23.950001+00:00",
+  "updated": "2026-09-25T00:25:08.287136+00:00",
   "news": [
     {
       "title": "GTCR Funds Former Gen-Probe Execs to Form Maravai Life Sciences - Clinical Lab Products",
@@ -200,6 +200,13 @@
       "category": "company"
     },
     {
+      "title": "Thermo Fisher launches CHO-K1 cell culture media panel - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMHJhMzhCV3pXbFRuVGsteDJvMm5UUjVGVWtwZWpMSXZGQVpkZjhtXzcyWktNX3Q0QWVCcWZ1WC1PZmh0azdVTGJLMnNuN0RQX1JYZC1icjZlRTktalp0Z0lpY1ozdlJLS1lvaThxZzlVMjA1UklBVDFGWHE5Ri1WUVJGX0ZGMzNPS0F0UzF0WUpXc1F5cVhyYTNMMjR1eGl5QVBsamJqRFpoRTZ3enFv?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 13:09:04 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "Thermo Fisher launches CHO-K1 cell culture media panel By Investing.com - Investing.com UK",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOclJ1RjRnOWZmY1BlLW5Oa3YzZWRFenROSnNfTlVXVG5PMHZQVEF1YkZEMWRXWHZTU0k1M2VXRktrM3FOVDJBc1RLcDNsQUNqQnhZUU5acjl0bURjWk9TU2hfTE5ReXh3UVQ4YmJhMlktRzB1MDNnc1JtNWplYnN2XzBxODdibGUtTW9LY3N1Ti1TNG9yTzcyd3AtWWhkZXAySFlLS1FlSEswa0dBTnhydmUxVl8?oc=5",
       "pubDate": "Wed, 23 Sep 2026 12:38:00 GMT",
@@ -284,13 +291,6 @@
       "category": "company"
     },
     {
-      "title": "Thermo Fisher to pay $0.47 per share dividend on July 15 - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSHZSeElUYmg4TDMyeFgyWTctUGdsQzE5ME9vNUl2R3V3M0dWVzF3cHpQa0pmbGVYd2N2UlBxRDNubUk3d05nak1TVHMxbHNsQjdsVzF4TzZZbTdxeDhWYlhvRndOM2Ffd3lQVFZ2WmJtN1NpcFZXOGlNZ0pmZGZ0cC1iVTh3RGU5aUhaQURwZTdKd3IwS05scTAxMmFmUUE?oc=5",
-      "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
       "title": "Petrichor Names Diagnostics Industry Leader Don Hardison as Operating Partner - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSlkycnkzNnBmd3Jyb21BcUpvUWM1VE1zWjBWQzlnb0xmeHU1ZEFLUC00ZzhWWUpKYlVhVFhmVWV3STYtVGFsMGNkRF94dmN3VzIxWG5qS0lqOWNMZURCY1UtTGY3eWswNFRSUUdjcG1BZE1tQWJWS3R5Rkg4bjhVendFZlFyT2xMckdzdE1haTJNZjhueUtrdllfaktMdFdDWGJZY0luUEY3Qmx2X3NDbzNmYWdZbUh5TnV5QWVOYWNyZE1jbldWS2luRmtOQQ?oc=5",
       "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-09-24",
-      "close": 468.0
-    },
     {
       "date": "2025-09-25",
       "close": 459.22
@@ -1350,6 +1346,10 @@
     {
       "date": "2026-09-21",
       "close": 658.76
+    },
+    {
+      "date": "2026-09-23",
+      "close": 665.3
     }
   ],
   "meta": {
@@ -1359,42 +1359,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 322151400,
-    "regularMarketTime": 1790193602,
+    "regularMarketTime": 1790280002,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 665.3,
-    "regularMarketChangePercent": 1.03,
-    "fulldayPrice": 665.3,
-    "fulldayChange": 6.78,
-    "fulldayChangePercent": 1.03,
-    "fiftyTwoWeekHigh": 671.47,
+    "regularMarketPrice": 678.39,
+    "regularMarketChangePercent": 1.968,
+    "fulldayPrice": 678.39,
+    "fulldayChange": 13.09,
+    "fulldayChangePercent": 1.968,
+    "fiftyTwoWeekHigh": 682.98,
     "fiftyTwoWeekLow": 435.27,
-    "regularMarketDayHigh": 671.47,
-    "regularMarketDayLow": 655.78,
-    "regularMarketVolume": 2315339,
+    "regularMarketDayHigh": 682.98,
+    "regularMarketDayLow": 655.95,
+    "regularMarketVolume": 2081279,
     "longName": "Thermo Fisher Scientific Inc.",
     "shortName": "Thermo Fisher Scientific Inc",
-    "chartPreviousClose": 469.75,
+    "chartPreviousClose": 468.0,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1790150400,
-        "end": 1790170200,
+        "end": 1790256600,
+        "start": 1790236800,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1790170200,
-        "end": 1790193600,
+        "end": 1790280000,
+        "start": 1790256600,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1790193600,
-        "end": 1790208000,
+        "end": 1790294400,
+        "start": 1790280000,
         "gmtoffset": -14400
       }
     },

@@ -1,7 +1,7 @@
 {
   "symbol": "SHEL",
   "name": "Shell plc",
-  "updated": "2026-09-24T00:22:19.961973+00:00",
+  "updated": "2026-09-25T00:25:04.109102+00:00",
   "news": [
     {
       "title": "2026 Oil and Gas Industry Outlook - Deloitte",
@@ -97,6 +97,20 @@
     {
       "title": "Nigeria: Lifting the Lid: Internal documents expose Shell\u2019s negligent oil operations - Amnesty International",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xS0RJcy1WaDZEcU5tdG1lYkpKV01GbC1RRlFLR291TnhyRXJJRDhJcGowdTA4MXNrazVpS3VBSzlwenVZNEpxRjE5V1g3MjB3OHNQYzExVW5nbUtWa2dObnllX2JuYWM?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Shell plc Second Quarter 2026 Interim Dividend - uk.finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdU04b182RjEzdzRkSVFyVG9ZZzdLRG9hM181bUJ6NS1WWkdhUlBsUkxkc1o2VnpmZkZyeTBUYnNsN0gyc1hkdlVUY1pmZmJMVjZXUHpMMFpEX3hiZGM4WWhDNEd1XzR4Y2dRbGVYaGZib21uU3RtUU11cG16bzlzc0szeEo?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Shell plc publishes second quarter 2026 press release - uk.finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOHYybTVYbHBHcUpWOTFGa2pVQVVaSmI0V0hSN3NMLWRMLURyOXJYNi13TV9HQ0hQVFFSNHJXU1JDbmYwUVljeDVkNUhmcFdWdkY3VmlYU20yakFLdVNJWFM0Vmozak9WTkE1OU90SkZfdkJXS0trRGJ3bHpwYTQyQmpianIxQ0x4TzVz?oc=5",
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
       "source": "",
       "category": "company"
@@ -338,27 +352,9 @@
       "pubDate": "Wed, 26 Aug 2026 11:55:00 GMT",
       "source": "",
       "category": "company"
-    },
-    {
-      "title": "BP And Shell Dividend Resilience Meets A Sudden Oil-Price Reversal - Kalkine Media",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSm85elZ1VGZjci1CUlBCWEowZkYzcjRfaVdlakRPcmFlYjFWSm1WV3d0UHh1WFhGbHNiR2J3WkxDVDN0bkowMmFPTnhha0haeUFpNWM1RkxiNDlyekpqa0RBczJsRXlYU2JXcXo5V3JuYm5SbTIzSnFQT1g4ZE9TaHhXY3VENUZwN2hLeUN6LV9YNTFQanBVS1hOTDY1TEZ0V2hSRURLR2RuZGl5b2pN?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 11:54:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
-      "title": "Shell plc (LSE:SHEL) Puts Energy Stocks In Focus As London Selects Its Leaders - Kalkine Media",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMXotVW5vWVNXYnRVYllGNm9iamJ6VmZYeFlKaExiUnRtLWJiOXRqeFlwQnhScWxuaEZNWWFQbXJwOU1jUjkybzNHQXY1Q29kMFhkeWtUei1feVRldG5uelNyMERtWDhpMF9wZHVQa3RJV3NmTjFtWVZqZmZkaENaRGltUkNvMEZPQXlIb0JPX3RhOWRpMnZvTWRMa2M2dVhvRl9Zb1p6bDJsVVUwLTZ1WnlVSkF5Y1BX?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 11:30:00 GMT",
-      "source": "",
-      "category": "company"
     }
   ],
   "prices": [
-    {
-      "date": "2025-09-24",
-      "close": 72.12
-    },
     {
       "date": "2025-09-25",
       "close": 72.89
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-09-23",
       "close": 95.41
+    },
+    {
+      "date": "2026-09-24",
+      "close": 95.6
     }
   ],
   "meta": {
@@ -1367,42 +1367,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 447949800,
-    "regularMarketTime": 1790193602,
+    "regularMarketTime": 1790280002,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 95.41,
-    "regularMarketChangePercent": 1.576,
-    "fulldayPrice": 95.41,
-    "fulldayChange": 1.48,
-    "fulldayChangePercent": 1.576,
+    "regularMarketPrice": 95.6,
+    "regularMarketChangePercent": 0.199,
+    "fulldayPrice": 95.6,
+    "fulldayChange": 0.19,
+    "fulldayChangePercent": 0.199,
     "fiftyTwoWeekHigh": 99.155,
     "fiftyTwoWeekLow": 68.625,
-    "regularMarketDayHigh": 95.495,
-    "regularMarketDayLow": 94.1,
-    "regularMarketVolume": 5253204,
+    "regularMarketDayHigh": 96.76,
+    "regularMarketDayLow": 95.52,
+    "regularMarketVolume": 5373795,
     "longName": "Shell plc",
     "shortName": "Shell PLC",
-    "chartPreviousClose": 71.54,
+    "chartPreviousClose": 72.12,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1790150400,
-        "end": 1790170200,
+        "end": 1790256600,
+        "start": 1790236800,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1790170200,
-        "end": 1790193600,
+        "end": 1790280000,
+        "start": 1790256600,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1790193600,
-        "end": 1790208000,
+        "end": 1790294400,
+        "start": 1790280000,
         "gmtoffset": -14400
       }
     },

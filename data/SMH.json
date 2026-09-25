@@ -1,7 +1,7 @@
 {
   "symbol": "SMH",
   "name": "VanEck Semiconductor ETF",
-  "updated": "2026-09-24T00:22:15.788587+00:00",
+  "updated": "2026-09-25T00:24:59.603072+00:00",
   "news": [
     {
       "title": "SIA: Global Semiconductor Market Set to Reach $1.5 Trillion - Electropages",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-09-24",
-      "close": 321.11
-    },
     {
       "date": "2025-09-25",
       "close": 321.06
@@ -1354,6 +1350,10 @@
     {
       "date": "2026-09-22",
       "close": 607.46
+    },
+    {
+      "date": "2026-09-23",
+      "close": 601.41
     }
   ],
   "meta": {
@@ -1363,42 +1363,42 @@
     "fullExchangeName": "NasdaqGM",
     "instrumentType": "ETF",
     "firstTradeDate": 960211800,
-    "regularMarketTime": 1790193600,
+    "regularMarketTime": 1790280000,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 601.41,
-    "regularMarketChangePercent": -0.996,
-    "fulldayPrice": 599.2,
-    "fulldayChange": -8.26,
-    "fulldayChangePercent": -1.36,
+    "regularMarketPrice": 600.52,
+    "regularMarketChangePercent": -0.148,
+    "fulldayPrice": 600.0,
+    "fulldayChange": -1.41,
+    "fulldayChangePercent": -0.234,
     "fiftyTwoWeekHigh": 671.83,
     "fiftyTwoWeekLow": 313.6,
-    "regularMarketDayHigh": 606.285,
-    "regularMarketDayLow": 593.79,
-    "regularMarketVolume": 6050308,
+    "regularMarketDayHigh": 602.03,
+    "regularMarketDayLow": 588.92,
+    "regularMarketVolume": 5612349,
     "longName": "VanEck Semiconductor ETF",
     "shortName": "VanEck Semiconductor ETF",
-    "chartPreviousClose": 321.7,
+    "chartPreviousClose": 321.11,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1790150400,
-        "end": 1790170200,
+        "start": 1790236800,
+        "end": 1790256600,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1790170200,
-        "end": 1790193600,
+        "start": 1790256600,
+        "end": 1790280000,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1790193600,
-        "end": 1790208000,
+        "start": 1790280000,
+        "end": 1790294400,
         "gmtoffset": -14400
       }
     },
