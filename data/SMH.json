@@ -1,7 +1,7 @@
 {
   "symbol": "SMH",
   "name": "VanEck Semiconductor ETF",
-  "updated": "2026-09-26T00:29:29.224595+00:00",
+  "updated": "2026-09-27T00:24:34.174348+00:00",
   "news": [
     {
       "title": "SIA: Global Semiconductor Market Set to Reach $1.5 Trillion - Electropages",
@@ -319,6 +319,13 @@
       "category": "company"
     },
     {
+      "title": "VanEck China Semiconductor ETF (SMHC) stock price, news, quote and history - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PZlFSc1V6bTdoMmlHTHJuazlQamFtdWZPTVVCSGtPS3otTTdpbllmZjNSbUJwNm4yUkJGY3Q0SFBxSGhLRk56aFRlSGp6MG44LUE?oc=5",
+      "pubDate": "Wed, 24 Jun 2026 00:10:19 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "VanEck Semiconductor ETF (SMH) Stock Price, News, Quote & History - Yahoo! Finance Canada",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sdmFESnNQOTlpU1ZjU2ZLUjNFQmlNYTg5cWVRVWVpMWJfTlc3b3BZd3RNRng1eWtYVnV1SC1TbU5TR1ZFNXQ2N3RnQWlNVDNP?oc=5",
       "pubDate": "Wed, 23 Sep 2026 16:41:26 GMT",
@@ -340,16 +347,9 @@
       "category": "company"
     },
     {
-      "title": "Semiconductor relative momentum falls below 20-year average (SMH:NASDAQ) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPanBWM0hqeFVjbE42NHNJRjk2ZkxMelZ0ZGFMUXRzRXpybjJpejJ6eC1hRVhmT0RpMTByakt2UXZxTVRlbldZY0xHeVNHVl9HS0c2cEZXVjNCMWdSRmhYaE5TMF9RTjVQUk5oVDFjNWJRMFAzdHR0ZTJXQ0tSYWNWTERoV2VmSkVZQTJubU9yU2Z4MmNlUEdjS2kwb0tKUQ?oc=5",
-      "pubDate": "Wed, 23 Sep 2026 10:23:41 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
-      "title": "TSMC Q2 Earnings Call: What It Means for SMH - VanEck",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS0dXY3pPZkJsbFlvRVdJNUYtTTdDLWJ4Z3U1NUhPYU50UHEtbEZkdktXOE5jZU94emd6TVhpTzlGN3R4Mmt1b2FvbjBzMS1KRWtTa3dhbnRDYUYyc1E4WlBmU25pRmZmWDZfclowRkhyd0ZTQVlqQWxuOGZnY0xHT2cxaTBRMFB2VkRpZkgyN0VHR2YxaGRmMlg1NWFZckk?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+      "title": "This Unstoppable ETF Is Down 12% From Its High -- and History Says Now Is a Smart Time to Invest - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DaVFPMGY1aWtvMkZvd2xZSnIwQmRjcHAzWUVOMVZFVFNrRHVuVkZUelVhYVVMSnBxVHJJN2xaMldoaVR0d0Q3MERodzljTE9nZWk4S2ZxRWpyMGxSNGF4NXZkcGRubk9sZzQ0QUZpaHBUNV9TLWhfYzVURlU?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 15:50:00 GMT",
       "source": "",
       "category": "company"
     }
@@ -1354,6 +1354,10 @@
     {
       "date": "2026-09-24",
       "close": 600.52
+    },
+    {
+      "date": "2026-09-25",
+      "close": 606.56
     }
   ],
   "meta": {
@@ -1385,20 +1389,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1790323200,
         "end": 1790343000,
+        "start": 1790323200,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1790343000,
         "end": 1790366400,
+        "start": 1790343000,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1790366400,
         "end": 1790380800,
+        "start": 1790366400,
         "gmtoffset": -14400
       }
     },

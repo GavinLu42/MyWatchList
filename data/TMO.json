@@ -1,7 +1,7 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-09-26T00:29:39.103236+00:00",
+  "updated": "2026-09-27T00:24:43.940919+00:00",
   "news": [
     {
       "title": "GTCR Funds Former Gen-Probe Execs to Form Maravai Life Sciences - Clinical Lab Products",
@@ -228,6 +228,13 @@
       "category": "company"
     },
     {
+      "title": "Thermo Fisher Scientific Launches Gibco\u2122 CHO-K1 Catalog Panel Media and Feed to Accelerate Biologics Development - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbHZ2eDcwTXZmS2ZST2pMVG9fUnVFQ3pOQ3BSaTlnYW4wRzhYYW5lVU1IU201alBMMVBWNE1lWVVxcVh6TkZJSEEzbW0tNjUtYXBRTmpWSm5KaFNXUTR2Q1h0Vm5wSEVhYnVnNXliVXhFT3ZMOUhkTFRpWlhFMEZ0NjZnTlZ6Zi1tY0pRT1ByQ2F1N0d4eHh3bm54a1E0V21aR0E?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 12:30:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "Thermo Fisher Scientific stock slips 0.20 percent ahead of the open - AD HOC NEWS",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYWgxV2tCQWtoVm1HeVNiMTRGTTl1QWVBZ0w2THNTd28tempBZ0wzNmdkTngwYm5XNkxiNG5xQUtzLUstQzRBZzVRVzBHMG1ZWlgwVEdHdlQ0SzFhcDJpWlBpU1ZxZC1sVnBDZVJHS0pJQ29rSVp6ZWdNZ29tM3RqT3BvRWFVbWJJLWNQcW9GR2FITjRZZWtPckFCbVBnV3lPSVphSXFGOGxNUGxPZDdSNER1aFNhRTFySzZqZ0ItRjByZlFRTEVyem5R?oc=5",
       "pubDate": "Wed, 23 Sep 2026 05:01:09 GMT",
@@ -280,13 +287,6 @@
       "title": "Thermo Fisher Scientific Reports First Quarter 2026 Results - Business Wire",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcmhMbkNkRkQ2NVJ6ZTg0cmdqRkRlSTNJV3h0N2pQbHdRR0gtNnVxTjNSdTNqRjJUQTFzYWxHRWk2MFEtNnE3ZDNEMEstRUFFNUNZNTFtZDV4VVgzVlVOZHRBY1lyREhMamxtU3JVZlVWd043THZZb1Y0TlpQUThMa1Z1NVBkRDZONVVUc0JUOHlZQllfR2lyYUNvbWFjRktwUnY2LWZVOXhRU211WVRPR0dCRDA3Y3M?oc=5",
       "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
-      "title": "Thermo Fisher Scientific Highlights Industry Leadership, Growth Outlook and Long-Term Value Creation at 2026 Investor Day - Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTnNZN3BRRlk5RUlZbHoyWjFBTi02cDZBQUpZZzQydllvR25Na0VsbVNUa2FGZy1rXzc0VF93NzV6UVpHXzViQ202Vmo2SXJKUVRXLWdGWk9TWlA3Y3pJOGlfNXNLRmNYZFJXOTNXTmNCNDczS0Z3MkZtRWUxTFhPUWlKOTQ1TUo0TnB4REVXMXBsS1VJVF9hTzdqOVJEeWVFc084a3dxYjJselJfYUx6LXgxQnhmN3pReFpNYmNDeHI3aTZXbVZGQklDVFo1QkZONmVPd1lTclBmVHdjOU5uZ1dsT0JBUk12cG1LMDhGSkdsTC1xd0FraFNnd245eHY5d2dqelVJVk8?oc=5",
-      "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
       "source": "",
       "category": "company"
     },
@@ -1354,6 +1354,10 @@
     {
       "date": "2026-09-24",
       "close": 678.39
+    },
+    {
+      "date": "2026-09-25",
+      "close": 675.0
     }
   ],
   "meta": {
