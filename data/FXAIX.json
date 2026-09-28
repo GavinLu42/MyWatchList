@@ -1,7 +1,7 @@
 {
   "symbol": "FXAIX",
   "name": "Fidelity 500 Index Fund",
-  "updated": "2026-09-27T00:24:29.647501+00:00",
+  "updated": "2026-09-28T00:29:27.657566+00:00",
   "news": [
     {
       "title": "Stock market today: Dow plunges by 1,100 points, S&P 500 and Nasdaq sink as yields rise on Fed's hawkish hold - Yahoo Finance",
@@ -1386,20 +1386,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1790323200,
         "end": 1790343000,
+        "start": 1790323200,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1790343000,
         "end": 1790366400,
+        "start": 1790343000,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1790366400,
         "end": 1790380800,
+        "start": 1790366400,
         "gmtoffset": -14400
       }
     },

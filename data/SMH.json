@@ -1,7 +1,7 @@
 {
   "symbol": "SMH",
   "name": "VanEck Semiconductor ETF",
-  "updated": "2026-09-27T00:24:34.174348+00:00",
+  "updated": "2026-09-28T00:29:32.797648+00:00",
   "news": [
     {
       "title": "SIA: Global Semiconductor Market Set to Reach $1.5 Trillion - Electropages",
@@ -1374,14 +1374,14 @@
     "exchangeTimezoneName": "America/New_York",
     "regularMarketPrice": 606.56,
     "regularMarketChangePercent": 1.006,
-    "fulldayPrice": 607.5,
+    "fulldayPrice": 608.0,
     "fulldayChange": 6.04,
     "fulldayChangePercent": 1.006,
     "fiftyTwoWeekHigh": 671.83,
     "fiftyTwoWeekLow": 315.05,
     "regularMarketDayHigh": 609.66,
     "regularMarketDayLow": 602.22,
-    "regularMarketVolume": 4585524,
+    "regularMarketVolume": 4660131,
     "longName": "VanEck Semiconductor ETF",
     "shortName": "VanEck Semiconductor ETF",
     "chartPreviousClose": 321.06,

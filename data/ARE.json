@@ -1,7 +1,7 @@
 {
   "symbol": "ARE",
   "name": "Alexandria Real Estate Equities",
-  "updated": "2026-09-27T00:24:41.618808+00:00",
+  "updated": "2026-09-28T00:29:40.271998+00:00",
   "news": [
     {
       "title": "Alexandria Real Estate Equities, Inc. and Foundation for the National Institutes of Health Announce Foundational Milestone in Mission-Critical Partnership to Advance Precision Medicine for Depression - marketscreener.com",
@@ -291,6 +291,13 @@
       "category": "company"
     },
     {
+      "title": "New York Life Sciences Vacancy Hits 32.5% as VC Funding Jumps - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcm1wakJ0OGdxVTNnZUtacllYbnZfX3JpZ2xZa2dNQ3QxTzdvSUtMSUxYWXN4SjBBWW0zUjUyNmVLdktBUTNOOUFsVXFKanVST0lOWmEzWmM1WERCWnQ4WkloLXd2dW9ZVGVRMGs1b210bmhsemZHbmtJREZ5VzJpVjRsck9uUFpxY05Sd1F2NFE3V0Y3UzMwRg?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 15:10:16 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
       "title": "Alexandria Real Estate Equities stock gains 0.96 percent - AD HOC NEWS",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYzV3MjhPcnpaaTdkajZyU0psaDFmY2dJRUxPR25IX0l6dTV0OXFmYWFOeEVYV3JtOUJuNk9pNFk1ZXl4ZzEwWXFqYzZoNVdtbnVtQXZRT2d6VU5aUVExYjhxWUVsQ1ZrUFd4dXRhOFZibmc0RVlFRXEtWUFSUWpFS1NmcEp0U3pQbllDVzVsUERJREtSMXAwSVRQcU45eHBkbHczbEp2cGQ1RUQySndubzRwVEFqdw?oc=5",
       "pubDate": "Wed, 23 Sep 2026 08:06:58 GMT",
@@ -343,13 +350,6 @@
       "title": "Life sciences AI: Four impacts on real estate and facilities - JLL",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN242dVBRWFFZWUFDd0tyYXZLei1zbGRIWW9MYUd0aXVDMjBPSlpjd1ByandlT1UwRjJpdU5OWjZWRFk3bVUzcE91ZmNxcjZoaDZDaGF4Vk1UWTVtLTFISWZ4bDJXWXdWN1FXNDl1OWUxVGZlVjlicDFla3BxQVNWT1dtZHJSYml3ZmtzaDBCOU5HdlJhMEFv?oc=5",
       "pubDate": "Wed, 21 Aug 2024 07:00:00 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "From Reset to Readiness: Navigating the Life Science Real Estate Market in 2026 - Area Development",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLVFlODBYUjRoMXJmeVlqbmlsOS1VMDJmNV9RR1RDSm5IdnQxR0ZXOHl3XzZwNk0tc1FjdlYyTXZGQy1XMm1XcUpBOHpxTzFmbHpNSnlOOFpsWFA1UjJDRG54YUNDX2xCYm9vVGE5SmNfc3FEbndWVHZTUE9zU2x0UHgydFBlNG1MY1FPcklpT2JUX0Fwd2k4dHFLeHpsWlQzc2VQLWFHb3plTUtPUmZiWEotWWd4bmNESVpyMGV4VGxUbEc5Vk5BUV9OLVk?oc=5",
-      "pubDate": "Wed, 20 May 2026 20:08:00 GMT",
       "source": "",
       "category": "sector"
     }
@@ -1374,7 +1374,7 @@
     "exchangeTimezoneName": "America/New_York",
     "regularMarketPrice": 49.93,
     "regularMarketChangePercent": -1.09,
-    "fulldayPrice": 49.96,
+    "fulldayPrice": 50.29,
     "fulldayChange": -0.55,
     "fulldayChangePercent": -1.09,
     "fiftyTwoWeekHigh": 85.37,
