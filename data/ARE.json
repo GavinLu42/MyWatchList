@@ -1,7 +1,7 @@
 {
   "symbol": "ARE",
   "name": "Alexandria Real Estate Equities",
-  "updated": "2026-09-28T00:29:40.271998+00:00",
+  "updated": "2026-09-29T01:44:25.901732+00:00",
   "news": [
     {
       "title": "Alexandria Real Estate Equities, Inc. and Foundation for the National Institutes of Health Announce Foundational Milestone in Mission-Critical Partnership to Advance Precision Medicine for Depression - marketscreener.com",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-09-26",
-      "close": 83.85
-    },
     {
       "date": "2025-09-29",
       "close": 84.42
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-09-25",
       "close": 49.93
+    },
+    {
+      "date": "2026-09-28",
+      "close": 48.66
     }
   ],
   "meta": {
@@ -1367,42 +1367,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 864826200,
-    "regularMarketTime": 1790366403,
+    "regularMarketTime": 1790625603,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 49.93,
-    "regularMarketChangePercent": -1.09,
-    "fulldayPrice": 50.29,
-    "fulldayChange": -0.55,
-    "fulldayChangePercent": -1.09,
+    "regularMarketPrice": 48.66,
+    "regularMarketChangePercent": -2.544,
+    "fulldayPrice": 48.66,
+    "fulldayChange": -1.27,
+    "fulldayChangePercent": -2.544,
     "fiftyTwoWeekHigh": 85.37,
     "fiftyTwoWeekLow": 39.41,
-    "regularMarketDayHigh": 50.605,
-    "regularMarketDayLow": 49.38,
-    "regularMarketVolume": 1505901,
+    "regularMarketDayHigh": 49.695,
+    "regularMarketDayLow": 47.865,
+    "regularMarketVolume": 1869576,
     "longName": "Alexandria Real Estate Equities, Inc.",
     "shortName": "Alexandria Real Estate Equities",
-    "chartPreviousClose": 84.16,
+    "chartPreviousClose": 83.85,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1790343000,
-        "start": 1790323200,
+        "end": 1790602200,
+        "start": 1790582400,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1790366400,
-        "start": 1790343000,
+        "end": 1790625600,
+        "start": 1790602200,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1790380800,
-        "start": 1790366400,
+        "end": 1790640000,
+        "start": 1790625600,
         "gmtoffset": -14400
       }
     },
