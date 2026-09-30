@@ -1,8 +1,43 @@
 {
   "symbol": "SHEL",
   "name": "Shell plc",
-  "updated": "2026-09-29T01:44:23.836643+00:00",
+  "updated": "2026-09-30T01:11:49.344955+00:00",
   "news": [
+    {
+      "title": "Weiser speaks about the oil and gas industry - 9News",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTU1wbEo5OFpfdFJRbnoxejZGandJN1lvZ2Y3Vk5QU0MtX3hsQi1mSFlaSVo1MzFfYnE2ZGZ1WGdVVWpaTERxNzZMc0YtNjZpM1JhNWp1Nm9kT045VFRvQ1BxTTVBS1c0cS1RQkVqSmlLbGU5VGVxZ29UdWt2Q3JzZXBlT3NSV0tnYnNLb0tvR1ZtUmZiR3Q1UmtRSmY0ZmkzOGZTZThYWXJ5bVllY0ZfQXJvcy1rcTdJOVFsZlRpTFVIM1V0Zm5pSEt1clBSRlVMaDY5ZA?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 00:55:00 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "LNG Canada, TC Energy multi-billion expansions to double gas export capacity - Northern Beat News",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15YmFTVmxFNHhWa29OQXVlZ29CVG5wRzhNVzVIT2xlNnIwSUJKLVpUQTlEaW00RVczbmpDM0R1eHA3WVhUMThQT1g3RkpWdzV1c0NoRzNLRG5NSmZ1YVNj?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 00:44:04 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "LNG Canada's Phase 2 switches from plan to project under construction with decision - Vancouver Sun",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94UFFKamx2cHg4WFNUMVY4ZXF2Q3NETzJCVHVnVXJnZTF5d0dCWTJEM2hDM3JTZ2hkWGVsOF9hd1JKa19GcmZ1WDRjclBQYlozS1JJZGZxd19DN0ZHNlhyMHlWZElRQ2NsM0JjZmNWWV9VM2tZM3Q2bQ?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 00:33:45 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Shell PLC (SHEL) Shares Fall 1.4% -- GF Value Says Still Overval - GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeWNSUC1wZ3ZtbjVhSzlQanFKUDBvZkItTTUtRzhYNlVnUFJ0ZlZsT1NxRkVaRWxPMHdOd196MkV2N3ZmMTZ0b0tqWkxfUklxMXFFWS1JTFNydWx1cVhpcGxyZHZmd1ZXSUxuOGJta0FJT21BZVB2M0E2NWVXZGlZUHQ1NlFtaUlMRkVfdFlGUnZYMndVOXdCOTBqY2wxZUpu?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 00:31:59 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Shell approves C$33 billion LNG Canada expansion - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd2FUQkdzWmFYdi1OMDFVNFZUZjNvZXVvMGdDbjVUYVJ3ZGdQY0syRDZ2WFZPd0RwbUh0ejFuOFJYd01HM1NQcnpmX2hGVEZZRTlBQ3ExbGhkMnRLdmFGMzEycWh3a3JjVnV2UmJPSVgxcmctbWFPU2UtWlFhcHdKUFVjbVM5UFRpd3ZLRXgxeUtWLTd2a0J6Zy16TUp4ODZRMFpPbw?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 00:15:36 GMT",
+      "source": "",
+      "category": "company"
+    },
     {
       "title": "2026 Oil and Gas Industry Outlook - Deloitte",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcE9nTGJZeGxmY1k5QTZBaXpCOS1wdW9rWnJQX2RNNjFLbl9pZmZMOFhBOHFhRzk2YUNxLWFROGRGUzJRN1lGWHZ5Y0IzclZtODdPU0hjRWlCdUt5cU9sX0MwZlBkd25xZ3NXaU9aT3F1cmVkOFVXZ0poV1g2R0FUYkVUWGZaUHQtMDZKUWR0SjF6MXVmVFpaSHF3?oc=5",
@@ -256,27 +291,6 @@
       "category": "sector"
     },
     {
-      "title": "Qatar loses $24 billion as LNG exports collapse 96% - Oil & Gas 360",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTVIxamNDWVM2b25FQ01wX1hqOWZlWWtMR3I1TXFKeVlzdFJDdGo0YktJNlRNakxZQmh6NS1TdGUzMUpGT3NtczJqa2Yzb1JJSURoUXR5LUNieFZLT2g5Y3lfa2kwWjJWV1hJTlcyNnpyZVlkX2NTVnVqRTBNM2tXU1duZWNXUQ?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 19:46:57 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "BLM quarterly oil and gas lease sale in New Mexico, Oklahoma, and Texas raises $139 million across 25 parcels - Energies Media",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYdF9HbGROME9HSWFDMWdJWVlhZC1VZ2UwNWF5Qm40MUVyTkhGaGk2Z0hOYUxXdmt2eGY2cXJNMjNGbHhvN1dOMG40RDlQelc3Y2RHRHhzeGFFRU11UnlhZURmeDVzSHVnYWVtWFByMGxPeFlRbnc?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 19:42:17 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "New Study: How drones and other new technologies can help find hidden oil and gas wells - Environmental Defense Fund",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1ZFWl84d0o5MlZiLXVsOU5fRlRtNzB6aVAxRkJtUUhJR19TR0RKaDlYNVF6dDFnRnV5YS11QzVDTlBwR0JUd2o5c2FXQU1mOFc4bWt1cm5pRGxtT2xxazJZWGp2ZENXY2VLTG9WOVk0S2NUWDk2MjVoUUczeGktdWNrTG9xNEVTQXVJczhlMUZrTmVVUXNSelM1VXFZdFhRNEN2QmNpNVRjXzdmUndGdUFiWGZXRlNiSXpPNDJxZkMtU21raEl5S1c2Sl90cmhD?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 19:17:13 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
       "title": "What will happen to Shell's giant Woodcreek campus in the Energy Corridor? - KHOU",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY1N1UFNNVHkzX1E3MUlpbUhUWTUwNnRibTktM3NDWnlLX2pSXzR0Wm5nVVFSUG8yNVFlMkM3aUFPZk9kdFVkQWRidVRGUS1TWEhieTM1cERrSFpKZ1RkYVdDWG93ZnFDUUF0elZabG5pa181a0hySVJycDNkbTRSZWZzakRJOE8tblY0am9qLVN0bWlCZV95V1p2Tm4tbDBTUUhqcmY1Z1pxMWZ3UjU1SVo3R1RlV0oyMnB0VmtBZzV6NjNPLUZZelFVTUduWTVIR3JkYzY2eTBodlBtcExXckZNcXJtSEFJX0lURFFkRVBQdFRI?oc=5",
       "pubDate": "Wed, 26 Aug 2026 18:34:00 GMT",
@@ -338,27 +352,9 @@
       "pubDate": "Wed, 26 Aug 2026 12:34:00 GMT",
       "source": "",
       "category": "company"
-    },
-    {
-      "title": "Shell (LSE:SHEL) Could Be 5% Undervalued As Chemicals Sale Interest Builds - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR2QwZ3o4bFJpNUIxZC1sbWpuTUE0SjI4ZDlNLW1NZzBRVTlfVnJBYkR2alNfcjd6ZDJNb3JVR2FBM3NKdDdlU0lvQVpKMkVWWVprdDh6cDdRMjhnaFNJdTN1TzRLeDlvc2pKSUNNd0FvNFUxY0E4QWNVUjJNQWdoVDA2SVVoS3FyMlc4aFZJdTM?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 12:15:26 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
-      "title": "Shell Commodity Volatility Refocuses Capital Returns - Kalkine Media",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMmppTXlYUWw2dFBONXlQUGEwQmd6eGpHSDllVElhaFNuM3NhQl9hSk9HWl9RMDduX0dYZWtxVVFOaWo2RGRhV0Q0VVFjYnQ1OFdmME1PWWZzbmV6QjY4TWhmVElOdG5ac2tGZmRlc1J3SjBtVGxrT280UWxGek9SMm5zS0VHVHBGQnpQa1BSRXBuTlBVcjhSeTZB?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 11:55:00 GMT",
-      "source": "",
-      "category": "company"
     }
   ],
   "prices": [
-    {
-      "date": "2025-09-29",
-      "close": 72.45
-    },
     {
       "date": "2025-09-30",
       "close": 71.53
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-09-28",
       "close": 96.47
+    },
+    {
+      "date": "2026-09-29",
+      "close": 95.14
     }
   ],
   "meta": {
@@ -1367,42 +1367,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 447949800,
-    "regularMarketTime": 1790625602,
+    "regularMarketTime": 1790712002,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 96.47,
-    "regularMarketChangePercent": 0.72,
-    "fulldayPrice": 95.67,
-    "fulldayChange": 0.69,
-    "fulldayChangePercent": 0.72,
+    "regularMarketPrice": 95.14,
+    "regularMarketChangePercent": -1.379,
+    "fulldayPrice": 94.96,
+    "fulldayChange": -1.33,
+    "fulldayChangePercent": -1.379,
     "fiftyTwoWeekHigh": 99.155,
     "fiftyTwoWeekLow": 68.625,
-    "regularMarketDayHigh": 97.63,
-    "regularMarketDayLow": 96.365,
-    "regularMarketVolume": 7534069,
+    "regularMarketDayHigh": 95.78,
+    "regularMarketDayLow": 94.72,
+    "regularMarketVolume": 7476822,
     "longName": "Shell plc",
     "shortName": "Shell PLC",
-    "chartPreviousClose": 73.4,
+    "chartPreviousClose": 72.45,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1790582400,
-        "end": 1790602200,
+        "start": 1790668800,
+        "end": 1790688600,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1790602200,
-        "end": 1790625600,
+        "start": 1790688600,
+        "end": 1790712000,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1790625600,
-        "end": 1790640000,
+        "start": 1790712000,
+        "end": 1790726400,
         "gmtoffset": -14400
       }
     },

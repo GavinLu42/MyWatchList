@@ -1,8 +1,22 @@
 {
   "symbol": "SMH",
   "name": "VanEck Semiconductor ETF",
-  "updated": "2026-09-29T01:44:19.809680+00:00",
+  "updated": "2026-09-30T01:11:45.064967+00:00",
   "news": [
+    {
+      "title": "Semiconductor Boom, Stock Market Lift Tax Revenue by 88.4 Trillion - \uc870\uc120\uc77c\ubcf4",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRi1VSlByeFJjenNpZDIwdFhZc0VmNTRWRTFFV3k2LThGQXlmSHdObGcxVEtyRXI1M205NFNDMnRBVTZZN1ZvbEVxdzBLUkJVVzRGb1YzLWRseFUybldoQTVxYUZCV3hUN2hRNWhVdElMRURPMVJzUHAxajBudkJtSkl3RFdObVVYQTI3ZlJ3?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 00:07:01 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "AMD CEO Lisa Su to Visit South Korea After 7 Months for Follow-Up Talks with Samsung and NPU Firms - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OY1BrVHdhaGZiX3hsRHdGRWNsOFY1QzRMQV9IY0Mza3NpcEdkR3AxSEZGSVJ3SmI5X1VIVF9aRm1LZXh0SFh1YWNPVXR4STVhSExRNUNqODRQRXhETUNNY1ctYnU2Zm4tS0Z6WlJvMXdsLVpsMVE?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 00:05:00 GMT",
+      "source": "",
+      "category": "sector"
+    },
     {
       "title": "SIA: Global Semiconductor Market Set to Reach $1.5 Trillion - Electropages",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd3RoNzVsODhVcWZ1bVBqQXRjWUxGTWJZUm41NDk3TjRtVEFnRDRJdHluNkV6YWRENmRsVE1FZjRRdFZPbUNISDZ2RVIyM0prTkVJVUxsTFUxTWdsVXdxSGlHODVkMWFmc2poNDZDOGY0bkU4QTlJTkNMd2R3Z2ZienZGbDZjdE10UG80TlRuanRHdEdaaWI2Z0hsN0pBU3BEOUhUNHpjdzdmZXU4VW9LUA?oc=5",
@@ -156,20 +170,6 @@
       "pubDate": "Wed, 26 Aug 2026 18:24:45 GMT",
       "source": "",
       "category": "company"
-    },
-    {
-      "title": "Silfex's Ohio Investment: A Building Block of Ohio's Semiconductor Industry - JobsOhio",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaTRBR1NPdnlEUkdrYVhyc2NqaTliT19EZTZUWnU5SG9mQUFuMkFrSFUtYnM5TFZVVlBXeHhQRDdFbTdfWXdvMC16MGktVm80NGFOWnZuX0hhVWE5RS1ROXNteTZJS0ZFNkNRbTNhQ29oZFJ3QXY0QnJrR3BjSnV1VVJSOUZuVWg3eG9tR3diTGpteS1EdTdhNFpHQzlXXy1FbUR3dkd3VEhuX1VBRGM0dG5hT25EQ2RoOUxF?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 17:54:18 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Marketech International's Backlog Surpasses NT$130 Billion; Chairman Says Business Momentum to Stay Strong Through 2028 - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fbUZ1bGdPcDVWTXAxbHdPWEtoNE4zWTFnMnpXQ3R4amMwQlZKNDRKVnREYU1oSEdCazNscWE2clR2bllOVFJYajhjVDFSS3lhaGozUUY5WUZ0TWV5T2hKT0hRT1RaMk9LN09XdUVMNk1iVURDRlE?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 17:35:00 GMT",
-      "source": "",
-      "category": "sector"
     },
     {
       "title": "Chip ETF's Moment of Truth: Rising Memory Costs and a Lender's Balance Sheet Collide With Nvidia's E - Ad-hoc-news.de",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-09-29",
-      "close": 322.66
-    },
     {
       "date": "2025-09-30",
       "close": 326.36
@@ -1367,42 +1363,42 @@
     "fullExchangeName": "NasdaqGM",
     "instrumentType": "ETF",
     "firstTradeDate": 960211800,
-    "regularMarketTime": 1790625600,
+    "regularMarketTime": 1790712000,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 600.01,
-    "regularMarketChangePercent": -1.08,
-    "fulldayPrice": 598.82,
-    "fulldayChange": -7.74,
-    "fulldayChangePercent": -1.276,
+    "regularMarketPrice": 606.9,
+    "regularMarketChangePercent": 1.148,
+    "fulldayPrice": 607.68,
+    "fulldayChange": 7.67,
+    "fulldayChangePercent": 1.278,
     "fiftyTwoWeekHigh": 671.83,
     "fiftyTwoWeekLow": 315.05,
-    "regularMarketDayHigh": 607.92,
-    "regularMarketDayLow": 591.92,
-    "regularMarketVolume": 5798378,
+    "regularMarketDayHigh": 613.27,
+    "regularMarketDayLow": 604.985,
+    "regularMarketVolume": 5591311,
     "longName": "VanEck Semiconductor ETF",
     "shortName": "VanEck Semiconductor ETF",
-    "chartPreviousClose": 321.82,
+    "chartPreviousClose": 322.66,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1790582400,
-        "end": 1790602200,
+        "start": 1790668800,
+        "end": 1790688600,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1790602200,
-        "end": 1790625600,
+        "start": 1790688600,
+        "end": 1790712000,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1790625600,
-        "end": 1790640000,
+        "start": 1790712000,
+        "end": 1790726400,
         "gmtoffset": -14400
       }
     },

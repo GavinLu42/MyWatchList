@@ -1,8 +1,15 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-09-29T01:44:27.876626+00:00",
+  "updated": "2026-09-30T01:11:53.572745+00:00",
   "news": [
+    {
+      "title": "Thermo Fisher Scientific Inc (TMO) Stock Up 0.1% but GF Value Sa - GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNnJ3R0otaG4zeUlLLVJScW51SExvWHRqZmdOeVgtQlI5OGdZWnlxSjg1Tm5BWjNRX0xIYVJXdGQ4QXRPYml5VHp5TmtUNFVjM0syWUlrblhNZ2hIQlhEbGQxZHVuOVMwRlJ0R3VhRFN2ZjA2OVFGRDJYNHVVS3BlbkliTFFiZzNwS09hRzkyVEtvRktGTXpHNkdmQlJlN1lqajJyWEJXdENDZ0xjczA2aWJ4NXFwUjQwSUtYWlJ3bi1FXzk4ZHc?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 00:31:59 GMT",
+      "source": "",
+      "category": "company"
+    },
     {
       "title": "GTCR Funds Former Gen-Probe Execs to Form Maravai Life Sciences - Clinical Lab Products",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQejliS1VwS1E1bUQ4aHNJMTRCMlVXSG42a1p3XzI3ejVZRVFxSC0zcFpxSnpqNDhhYmRGVWJvUHZ4bFdLVndfdkhMOHkzVEVMY1pTaUQweGZpTDkxV3UyOXhfcGJSdkEyMFNBRjNvX290OEU1R0twODJIak9XUWVVQmw3OFlSUHF3Y1dteXlxQjBjc01ybEM2RlRMcnBpMXF1SFpNY2lHeE1MT2RVRjE2dU1OVkt4aFRpbExYakhXRFdhN2p3?oc=5",
@@ -284,13 +291,6 @@
       "category": "sector"
     },
     {
-      "title": "Thermo Fisher Scientific Reports First Quarter 2026 Results - Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcmhMbkNkRkQ2NVJ6ZTg0cmdqRkRlSTNJV3h0N2pQbHdRR0gtNnVxTjNSdTNqRjJUQTFzYWxHRWk2MFEtNnE3ZDNEMEstRUFFNUNZNTFtZDV4VVgzVlVOZHRBY1lyREhMamxtU3JVZlVWd043THZZb1Y0TlpQUThMa1Z1NVBkRDZONVVUc0JUOHlZQllfR2lyYUNvbWFjRktwUnY2LWZVOXhRU211WVRPR0dCRDA3Y3M?oc=5",
-      "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
       "title": "Petrichor Names Diagnostics Industry Leader Don Hardison as Operating Partner - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSlkycnkzNnBmd3Jyb21BcUpvUWM1VE1zWjBWQzlnb0xmeHU1ZEFLUC00ZzhWWUpKYlVhVFhmVWV3STYtVGFsMGNkRF94dmN3VzIxWG5qS0lqOWNMZURCY1UtTGY3eWswNFRSUUdjcG1BZE1tQWJWS3R5Rkg4bjhVendFZlFyT2xMckdzdE1haTJNZjhueUtrdllfaktMdFdDWGJZY0luUEY3Qmx2X3NDbzNmYWdZbUh5TnV5QWVOYWNyZE1jbldWS2luRmtOQQ?oc=5",
       "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-09-29",
-      "close": 462.04
-    },
     {
       "date": "2025-09-30",
       "close": 485.02
@@ -1367,42 +1363,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 322151400,
-    "regularMarketTime": 1790625602,
+    "regularMarketTime": 1790712002,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 678.6,
-    "regularMarketChangePercent": 0.533,
-    "fulldayPrice": 676.4,
-    "fulldayChange": 1.4,
-    "fulldayChangePercent": 0.207,
+    "regularMarketPrice": 679.61,
+    "regularMarketChangePercent": 0.149,
+    "fulldayPrice": 679.61,
+    "fulldayChange": 1.01,
+    "fulldayChangePercent": 0.149,
     "fiftyTwoWeekHigh": 682.98,
     "fiftyTwoWeekLow": 435.27,
-    "regularMarketDayHigh": 682.43,
-    "regularMarketDayLow": 664.23,
-    "regularMarketVolume": 1904159,
+    "regularMarketDayHigh": 681.33,
+    "regularMarketDayLow": 670.895,
+    "regularMarketVolume": 1745988,
     "longName": "Thermo Fisher Scientific Inc.",
     "shortName": "Thermo Fisher Scientific Inc",
-    "chartPreviousClose": 464.24,
+    "chartPreviousClose": 462.04,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1790602200,
-        "start": 1790582400,
+        "end": 1790688600,
+        "start": 1790668800,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1790625600,
-        "start": 1790602200,
+        "end": 1790712000,
+        "start": 1790688600,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1790640000,
-        "start": 1790625600,
+        "end": 1790726400,
+        "start": 1790712000,
         "gmtoffset": -14400
       }
     },
