@@ -1,54 +1,145 @@
 {
   "symbol": "FSAGX",
   "name": "Fidelity Select Gold Portfolio",
-  "updated": "2026-09-30T01:11:42.916349+00:00",
+  "updated": "2026-10-01T01:11:29.748402+00:00",
   "news": [
     {
-      "title": "US Federal Reserve\u2019s Williams sees one more interest rate hike in late 2026 - The Straits Times",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQjlxWXI4bGV2TzhwOUpJdVotZmMtWTRTY3hwVmVaRk9tdXNvdTZXMFljbWZhR3RmSjJ6QW91bjhHdVY1LV9Ud0ptNG0tZUwtSGF3V3pBejg4ZlVtSzNVcWpkQjF5S2l3ZEFSZkdnbkt6YWhvWFpTYWZIT1IzRkpVRmVFaC1wQ0FnZVhHTHh0TzN2OHo0WlVFWlJaTVBSVUcwUW4zZkdhYUJSZy0tdE5QdlV3eFNSY20zdE1ZdnBkSjV0TlZ5R3JnaldJUQ?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 00:55:00 GMT",
+      "title": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdXFFNHNQQUxXRkRPN3ZndG5TZS1PSGpvaFZPMG8zRU1oNFdrOUFZQnNsT183YWZ2R3NoNGNUX1NVdmtZNmxaYVc2X2c0Vm5tNWZjbEo1ZkYzNzVqeW1BS0VTaWZYc1hKRlRaRGxrQlk1aGlpQTROOV9mSDZldFlkejFZVGxKYmZzQ3czLUFPUDRBVmNJNWpuMnBPdE00QUlncU9EU2lXZw?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 23:40:02 GMT",
       "source": "",
       "category": "sector"
     },
     {
-      "title": "Dollar Powers to Best Month Since June on Fed\u2019s Inflation Fight - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTE1JRURrOTVvcUhsZEJIWVowbngyNm52NVNsTml2VGIyNlhTT05DVHV2SFhMN25Xc0tlWjRnQ1ljdFpYQ0haSGl1WEpJUzBZTFJ2WU11cGpZYUV4VGlhN01CQmpob0MxVDlkSmNvQjhLcjV2eEJVMUJNYUNBNUNEUUxLZV9RNmt5Rm5rWUYyN2l4ZDFTTVYyeVUxTXBUT2tsTkwzZ0dQWnVBVXg1ay1adGpUWnc?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 00:18:00 GMT",
+      "title": "Fed's Kashkari says central bank must lower inflation pressures - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeTlKd3dqckEtNW9HN0FfbXFDN0UtUmllQmZrWXZicXVGbW9NQUtISC1tZjdlNWc1M2I3RjNSVXNROTNwR29sTV9WSEhYRzN2clFxUUwyNGhwa2szN3JRbGJhbVczOFZNZVZaMkdhcGItcW1fNGRXdUF2Y0YzR212amt4S0phQ0pYWmxPdHN3ZDdFM0luRDJ2SE42UEs?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 22:56:28 GMT",
       "source": "",
       "category": "sector"
     },
     {
-      "title": "Federal Reserve holds interest rates steady amid inflation concerns - WBAL-TV",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZDFjV0ZpWGx6SnYzSEJDOS1EQlA3RWl5cVUzeFV3a1hCcTZ1TXZMZmxCUUlKajBrZlVIVFFJRWd6MDdQaWE0Smg3cGtvRHpwQ1B2LWt4eTBvVndNaEdOeWVtVEt0ZDJNMmEwdnlPUHJKRTB0Zk9MYUV6WjExVl83NmJTajVSdnl6MDJGODNoSTBKb24zUThOSg?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 22:57:00 GMT",
+      "title": "U.S. inflation cools, easing pressure for Fed rate hike - Finance & Commerce",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RVTdLZldPTnUzYmJwS1FydVd3SHlBMVJNM2J1U1BjdUloZHd3dm9mQjNOMkU0UlJLNjdvcEtsbUVrUFdiaEFIM3gtZ2tGNzZUWlEtelVVNEZiQ2txRTU4em5oWGhOYllrWDVXX3Z3RnBZbk8wM29j?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 20:39:26 GMT",
       "source": "",
       "category": "sector"
     },
     {
-      "title": "Federal Reserve votes to leave key rate unchanged despite persistently high inflation - WVIR",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY0R1R2FSZjdwMmRPT3oxaXRGc3EzbU4wNzFxX3FYY2szaG5ZdjhDY2FzR0lXb3ZsSkVrOUZ2RFMzdDc5NkdaV3kyZEgyb0Q1NVJDSU4zaFJVdXAyc2d1Wi05MmZVWk9qZmVsYUV4UGx3VFF1WVZpTFN1Z3BrOFEzRkZDTGVOR3RlN0FFLXMyNVl4YTVWUEtseVNKTWpKalFVRkVPQjhIMUUtZW5YLVp3Mi02WDdtTUFC0gHMAUFVX3lxTFAzbWdKTEhKbGdXYlg3WWJCbDljWVJNVmlld3diS01oWkdNSDJURWhSV29hQk1OVC1uVWJmZmp1RlQ3VUIzeERWZGZ5RUY2SjlETnZIN3FQX0NSby1LaHZIYlpqMXhGbUp1MDJIM2I4LVpLQ2RLbzBqN3RIYzBCTW85dklaMWhuMnZjS1YxREtyWHlBaVlfdEprUzBQcDNmVnB5MWJ3QmJ5dlFvUFNYeEtJM1FibUtLRjNkbWE4VWRwVGg4bnA5aE1Gc3ExZQ?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 22:32:00 GMT",
+      "title": "S&P 500 dips, Nasdaq higher on modest rise in inflation - The Detroit News",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONGJFUnZObmo3MzFGdXFTWGxEeDh6UEY1Y0RMclFGdFRZeVFOZnNEd3EyY2FzdkpRYVBKUmFPU0pNQl9JNHNKNENxV2xFMHlXU2pnVFlNb2FoQlBCT1VmSWZLbG5yTGtCTjNyWW5fYVpIYlJWTFQzU3R3ckhhdVdCaUs1eDBCRk52SGlhcXdXNGRJanRHSGZwb1NZdGpoakVRQXlRLVctWGdya29CR28wbTRSQkhnRHR1c1cxUzhIZEJjWkU0REg2eUZVVTVqUzhMMGlj?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 20:30:00 GMT",
       "source": "",
       "category": "sector"
     },
     {
-      "title": "Federal Funds Rate History 1990 to 2026 - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsNEtLYjBNb05hZjBmRkV5NDctYTNrTTF1a0FwQzlpdG42Y3ROZmNVdmROTHRMbTBobHFhTnBzUVVDZEwxdGk5cm9HRWlWMTBCYk5EM0doODFNNnFPb0JfRDR1VVFwSzlsYnV0MUVfeldlTGpw?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 20:42:00 GMT",
+      "title": "Why AI Is Boosting US Interest Rates, Not Inflation - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX0ozRHBLWFdqSEgwZl9NTTR3dHBuMmZfZVBOcl9GRkl4RXlWUVlEZmplWHpzOHphREJqM1VuSnRtNTBDSUJzb0hJTjZoTnhPWjJaaDhrMFlBREFkcEtMMC1BZzNVUzA0cUxBY0dpZTBYY185ck1LLWctOW04WFRkZE1Rak8wTVhjUzl5dHhteWg0ZFl2eklLc09CYw?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 20:21:26 GMT",
       "source": "",
       "category": "sector"
     },
     {
-      "title": "US Fed holds interest rates steady despite Warsh\u2019s inflation vow - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMEVHRmpYMTA0REtCcHZrdTF3QjVqWUtLMmJvRTdybTFRblFfY0x3V05PM2p4dTQzaGNrSHZ3bWo2VWdoNWZ4WERhNk85VmpOWnB1NEgya0NxbjloWjVRYWg4cWtINHNyNnNRWnpjU2REN2VsSjFxb1BBZFdiNVFCamtscEo2MUYtRnNseXVXbUFlWEo4ckhRTlV3Y19YR3lIMk9CZVd4OW5JMHJhcC1jX0NNelNUUlZJVmtXNENiS0R3YUNCVHViQmJlNVh4MVFxS2hDNUl3OUNvWUxp0gHcAUFVX3lxTFBQYVdNMjQ4MnB0TjFmcHRVdC15VHVZclpkSzJGMkJSMFpsajhkRmUyY1RYQlhQZk04aFZycUUyM1YzV19NV0tZWGFHVkRtZ01JX3U2UGk1YXhvU0RWZXUzbWk2MzljdVdRTU92Z3l5dVFjaUFQdGpBVGVodHAyX0VXeWJ3MExKeGFDZXo4Y0RLQTFLeXBmbXJfeUx1N0taOWw4X1M0NkdJS25ocTJRTGpmMzhycHp6MFF4Z2gxbTBsQnBvTFMzUkZKTFlBSTlhREF4OE9jajBfYld2eDE?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 18:26:25 GMT",
+      "title": "Gold falls as rising energy prices overshadow softer U.S. inflation data - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcG5MZlFUTEszV0lDdVpZUTFWTk92c1E5a2NyWHYycEpKZVIxM0E3Qm9SU1Z3VTZjZHJqZWZBOUp6T1NQd0VXWUZva3hfVk9IRXNwUUFpejdLOEhOenE0ZldoSjNYc3prUDdIMjVKTDlyQU1TNnZNZVZRUXc5akt3NkF0RmdoNzRJN254YTV1Y0I5ZzdudnNieGItbS01NUM3WU00Y3BTQlgxYlZOSGZkMUsyaS01RVVPeFQtRlNtSjlxVXk2LTBodk1kY3NfTXM?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 20:15:08 GMT",
       "source": "",
       "category": "sector"
     },
     {
-      "title": "Federal Reserve leaves interest rate unchanged - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY1hWQlVSY2RxeHd1dGdaVHQ0RWFHWXVOWWdNTmhuNktNVVc2bGE1S29PbW95dHd6Ml9Da05XTEpzNW92aVFEdlY1MUVPaTBtaV9ENDhxNjFYU0FQcFRXZ0Y4TllqYXdOckd3VjhrM0hjWGJjWEJUcy1fOWFibENaNVdHcnNKaDhERE9lTTYyNTExczZWcXFkbjFURUpmMEFldzRMbA?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 12:29:00 GMT",
+      "title": "Goldman Sachs Updated Its Forecast for the Fed\u2019s October Interest Rate Decision Following Recent Developments - Cryptonews.net",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IWkZZSzBhN01PUEtXWjZuUjVTRlVHal85cjEwdEN5TG5GTUhvWWZQclM3OVJpT1REdk8xMGxOdkVONFozdTVTQXZycm5ua0R0TU9Tdld3VXI?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 20:08:31 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Fed Governor Lisa Cook Says Inflation Has Been Too High for Too Long, Vows Return to Target - bloomingbit",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MbFdONzBjQk9oOFloeWtVSXZQa0FyVnRkYVVkbEd5VWpYQWRLNlFETHktdnNPQUtXQkRYanVpMkc1bFhnRDRIQVVjSzNvbmhUcVE3dQ?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 19:50:35 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Gold falls despite softer U.S. inflation, posts monthly loss - Economies.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcU9SQ19Qa242ZUIzUGl4YnJITHc0eGNDRW02Znk2QUI1c0Nra2k2aEZmeGlKRmxmanpyUU1rN1VZMk15X01jNGpYU3dGT1FuOThqRDk0NjdWN1pRLUFkVzRWdTZPWWNnQnZmN3NfZk43N2g1eFU0MnoydmNvVWRleWVsX09fcmxabUJsM2NxNG02NGd6Z3hSdWNkTDhJV09RWW1uU1Y0TzFyNlNHYlU2UXNoQlA?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 19:05:00 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Stubborn inflation and consistent growth shift Fed debate to timing of next hike - WBFF",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPV2phSkdWc0hsVVFvLXFZQjBVTm5kT0RwYUM3aDhseFZtNUFLSk1zTlJSZGNaZ0EyMEVnRkdsUVdCTjR6Z1duUEo3Z1JLMzZ6alc5TmVLOEx6Sl8tZWJTVG1WTHRxYTU4MUFYb29vWDFJLUg5N3oyRjNIS3o4UmstMVRfY1lOS0JvLVZkZEpjOHRiRnVsZFBYcmtPZ0xVNkFIOGhtcjNGSmdMSjNJYkx2c3I3V2ZwclJibWU2ajl4LVZhNVo1eEZDUnNWNUlUdDVlbU5lZUlwYVRuSmZJcHdQUFN0X0g1dkxBa3BMczJWRUFzcVI1ZVFTeEg3enhuQQ?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 18:49:12 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Why you may not be feeling the good news from the latest inflation report - Straight Arrow",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbWJTT3pxanJfVW9Lck16QWJoN2ktczF6SVZva0NONUdFYk9mUGFNT0dGbnVZZkxhTGxYenF2S2JpTW9LNUR1QmJiZDNzYTBqTUptV05LcDgtSm8tcDdjejRqWElkek5XUmZveXB0b2JocHdBZzRRYklTT2NPNFVTeUhCRjMxOVV3VHRLUHQzd3FpcFExRV9iOA?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 18:31:30 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "No criminal wrongdoing in Federal Reserve building renovation, watchdog says, but it was mismanaged - pbs.org",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZXB3YWY5MFhtZkhIYng3V0k5VWF5blVPTzdBdmNoX3EwaUxQT2RXdWhySHliOUpyXzZIVnh2c05DN09WRVBwZXVTTXgyVGxNcHh6NmFqNl9QN21hM2txbzFnM1NacWhyR2lNRGkwbm4wQWZzUk1IN1VyWm5RVTBDNHJFZkY4THl5LUFVc1BMVFdURzYxXzVpVkpnQXlsdmFGLXVQYWg3R19CY3IzWC1ab0xrUGJieUlDMm1VRWN0c0VXNUloTWRycXFEbFAyR0ZB0gHWAUFVX3lxTFA4MjRZM05sZjkxZE1zOW9YMFpHLS1mV1l1WG0yaFBWcm8yQUhSSTEtUVlaU3JKT0Y0aFRLQ3otRXZZOWxBaEViSGd1X2Nub3JwVnliSThvclZJYkpQVTdKaG5mTHVMUURMd2xuWTN4WldRYlM0ZWV5R0tVamhQOHJjTFl1cXo3OXQtcXl4dllGc295R29DalM0UGFZQzMxemhHWXY2X0FXajZQVDRTSEt4dWVCdVdXaXhDLXdkQl8xbnl6SWJPRE90Y2ZKTHlvUVoxSmlTbGc?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 18:25:56 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Inflation rises less than expected in August; consumer spending surges - KSL.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTjN3d1AzT25fWkFYVGtYQ2VWcUtHdjd0VE5tYjd1TkpxOGh2Y1RoVDJ1ZnpKWEUtakZQMHp4VEZFN3A5bGhwVWxpLXFEcHJiSUhrdmJIbGYxaVNQRzA1TXg3bTlEYVVwTEVJQkJVV25IMHRpYXlRbFBTZG54SlpweGxGc0JaX0d0Ql9BZWxSX2tmeTdjSFhTajZxZS16Uy1HeEJKZThhZW5HUQ?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 17:48:05 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Wall Street closes in on a winning September following an encouraging update on inflation - AM 1540 WBCO",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTFY1V1hSeUdBUkhLSFhvWTJydjBkVE5RSm03SGxPbXZJTk5CMk5UalBqMm1CS3FBUHVVbE5Wc2QxN1NxVENSRDFSUWVQQXhzZEY0MmF1YThzWHh2aDNTYlNPZ19CVGVrZ0tEd2poMWgyVy0zcEFpcXltNUMzRFFxTE11QkxoRHYyUTQ0RzVheGRrNVJodXN0aEJ4UVc4eFZsQUFFblFTQmtnNnVYT3YzMVJyUy1VUXZCZ2Q4?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 17:36:45 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Bitcoin\u2019s Price Jumps Above $85,000 on Lighter-Than-Expected Inflation Data - bitcoinmagazine.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SRk90VUxVOExnX2hXN3BQTnBodmxSZHl1TGJteFExUjhFZDd3WF9VNko2N0lvRVFDSDF1X1FQTGdQYU44SjN4S1BnZGFaLU5kVEE3RFJpZHRjVVZ0d1Zpd3VlaEVUREVPNkIydjM0WFZYSE9vcVRJaVJn?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 16:49:17 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "The Fed's Preferred Inflation Metric Came in Cooler Than Expected. Here's What That Means for Interest Rates This Year - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUUNqR0JoNTYyTEdVMFJVV3Rhd0VSWlRJYXVsYWZkTTZsR201VHdZWWdQTmlRbVN2T1dJQkgwWThTaHFiVDJzY29YaXlBcG4zQ01xemV2MmNOTllUZEFhNGFOazVfcGdRQV9WampHcW9zd2NNcFo4cDE1RGFiYXd3V21TWmZsZ3c?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 16:34:26 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "US inflation rises below expectations in August; consumer spending robust - The Korea Times",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZjAwYTg5dGtsaXJOMVdKOGRSX3VGcjdScW5NN1ozSk1nbk02Uk11VjZ3NXJ4YVV3WnVVYllZVUtaT0lPMkhVQkNrdzFKaEZ1Ynl1WllkOU11Z0xIM3JIZmQzbUNQb2x4cUVYZVBSRVlNdGpMdW96czJLOGVSMFVqTm5TRFhnS2dfVEhYZFR6bDRYV1lrX1RmM1pEaFZod2hvM1NPcEJJQW1hU2VOV2VuRHZBVHplV2vSAbwBQVVfeXFMTUtmNWlPMmh6YkN4MDR3STNqcEZVRHdTVUJLMklMamlqRDEycXlyQzRObkpmbmJqa05hcjdpdXBzaHdwNUwxVDhwSEJpNXljb2t3clBINW83bDRzRTdiMkJ0eWozYnR3aGlIZ0JqU25hNU1SMVJDbHAzMDZZTm02T2tHNzhBdHVlaVdtc3ZwMWx6QUl2MDNXN0FZTGcxWDlxcWYyV1N6VlFNaGFpUkJ6RHRwZjVvclFvS1R4VHA?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 16:27:00 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Fed seen on pause in October after inflation data - The Mighty 790 KFGO",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjlzTm15MGxTeXZyUTVaSWwzWEY3N09CLUhyRFlSZTZiQ09jTDFlWlB4aUxvTzQ1WFQ2WWtqSHVYMWpRYktvVi1DeWh3UHQyLUs2QWxXNkRUSEZlOTd5aGJCYi15Z0JIcC1xeHhSX0h1cnY2YlVZbE16UDczamVwbURmZXI?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 16:20:43 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "The Fed\u2019s Favorite Inflation Metric Just Hit 3%\u2014Cooling Urgency for Rate Hike - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTVcyQ0hJN0w2QVZPNDlUS2JTNkkycDFROFZucmJKY1FCR2xjTG13WURBV1BCMzZJZFhXT2R5Q0xvT20tR2ZyMnRna2l1bWhnV3hFSGd2UkZ2SDA2Y2VMaVdDVDBFVnNKTTBNSzdzdDRYa1VlelpMandoVlBoMk5lREp5WQ?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 16:12:45 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Fed\u2019s preferred inflation gauge cooler than expected, likely delaying rate hike to December - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcU5sYVpVS21kb1A1cjBuZ3BTZmdqWnhFNnlNd2p0X05haDNJVndzbVRlWFBITFZmb0dBMjlhTVE4cF83VldYVkdHMERENGo1OHdyem84MTBDNG5VdkYyMTlFcmNidVRnM3lxRnhkeXlILTJBMThpWHpLY1FaUkJKck4zYXhIb2dpLVdzQXJoRV94TmpEV2oyRHo0eVNsQVBCN2ZXaE1uaVhTblRma21feEgxeHlMN2JlbkE1WHpyMktjQ3prakJORw?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 15:50:58 GMT",
       "source": "",
       "category": "sector"
     },
@@ -58,97 +149,6 @@
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
       "source": "",
       "category": "company"
-    },
-    {
-      "title": "WATCH: Fed chair Warsh holds news conference after leaving interest rate unchanged - PBS",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR1BZa2dPa1lOcjNBSmF2MHFHcTNBTV9mQzZOZ3BzR1ZrekhVWUhzLWszajBVWExhYWxJUWJDejh4SjBTdFdobFk1Y1NlMEpad0I4cUtrY0o1VzhMYmNOX2tuWjF3dXhGbkFVOWJncnZDdEt2dUEydkhhX2pwQXZlaF96QTZ3Z2l3OURfN2lLaVRRcEFLejhVTGZVSEl4XzJLWmE0RmxKRy16Mkh2ZGJvbm0wMUExTU83dHVJUlRn0gHDAUFVX3lxTE9kWHZBeUc3cjFTeGNrQk5QeGl2cHpycW5zR19kQl9vbEY3MzdUX0ZCa2pmV0RNT1VSUElKTEhhNmRmaVVnc1k5R0V2RkhTYkJROUZ3YXZmVjlPSWZ5MWVTWkxYS1B3ai1BZnRVeTE5bmR6Mm01eHlDYlpJblAta3hYSnN5Tnhzc19ZRjJwUWVTZzNRQXd0MUJGU29NRko2aVVuTTByMndYeWU3bTRXNWpEeFBlVDF5RTBUU1VaQUdlT1RlRQ?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "The Fed holds interest rates for a fifth consecutive meeting, underscoring inflation fears - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbVA1MzJGNXllN1RjSG43b0xUam1seWRjUmI2bHdXdlZndHhEQ1pRZDI5WVE3MGg1NnBCMk9Gcm42MUZab29ZRFY3OTd3OTZERlZmLUtFbGhUOG5jQXlDREFuMGVkSmtyTlJvVzJhS1A0OG5zaGhWZkZ1VHlQRXNGcGcxczNOMW82ckdRdVJmRUZzRDI4OEV4SHRfSjh6Wms?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Federal Reserve to release its decision on interest rates today - KCRA",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSkhzcWxVelRmVUtJT3ZqWEt0dlpGRS1DRnZMVnE0UUJldk1WdkpuZTFsUTkxRFY2cW9CN2syWEo1cnpaeFR2aDNidFFOX0tDblYzaUVnejdiN3N3LXJyQVFFaEhQRnh1c3F2SEJ3R1pnaE5odU9OYVlYaGdLbXp4ejhRT3lpaUpmbU52d0pwNjZuOTBw?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Fed holds interest rates steady as economy weathers resurgent inflation - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTGUzVnlGZTBqQm1yVjIxTWwxS253TW9sSDBXdGEzcV93SFNoUzhteFdQc3BtSkJuSmNtRjFsVnFidndfOHJUTzVvLW9xLVlaV0tmdWh1MU1aaW5nWUJvOWxGR0JlX3NYXzRMRkpCdHZ6ZUphVmVfUDA1bE5TRldpTDBzOFhRVzZhS2NMQTJtSXI5bFRfMW1SekZzbFPSAaIBQVVfeXFMT2RWNmtYOG9Bc19zbVI5Q2ctNFNmYmYzWmhzY0VPSHZULWxNTmdUQnppUE1GRGdleDFlODlhSllNZGxhTlZYd2p0OGRjMTg4U3QzS2ZQaGpVV3hKdlJERlZrWkg4SXBNdEF6UG5nblhxbG9OYTg4ZDZ4VTliaGYydU5ReGF0ZTV0dV9rVVVTX3pWVWJjZHlHUVhBeG1iRmxzbExn?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Will the Federal Reserve raise interest rates? Here is what experts predict for July's meeting. - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tcVhJU0V0QWZhMEN3R1FBVnJycVh3Q2Y1UlBpamRuZUNCdE5RbnE0R1ZfQkRuVHgyeElMTnBvTXdxWjBVazhYdVpKYU82MnFINUc0QzEzM0l4aTRKMXMtaVNrMEhMQVdmTkdGVFU1NWxrR0EyN1J5Qg?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Federal Reserve leaves interest rate unchanged in 9-3 vote - ABC7 Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQnEyZnQ5dWh6NGJkdk0wNGlXY3NfSWswOWhlZmp0Y1lUSnhqdjl6VGVoWkR3OHNOdWs1YVZJaWVIS2xxd1dlMWtkU2kwRFplX25PU3pldS14c1BYeS1WSkU2cVBxUXpDNFV2eFk2YXZoTDh5ajRsT216Sk91cXMzaGFvTkF1TnI3ajFLdnNETk5HRF9IY1BUTmwyRFZkVi0tbWp0d2Nvd9IBrAFBVV95cUxOeUItMlRiT0NXQjFoZS0xMndmWUpHOTNsM0ZabWJkZ0JRMEZxb0ZvLXVkTWEydk1KRlRGSXhYUWNvc3dHSjNsRmp1OEtrLXpDdERCVnBuUXlLNXdXWnFJeXhOOV9Hdk5OTjByeVBMZkRGWTc3TmFNb0pkZmU4Zkd4ZHZYRndvQXdIby1uUHJsQUpvcEw2OC01UFRrWEszNVhxdDJxbXEtZzV0c3pZ?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Federal Reserve holds interest rates steady, but 3 officials vote for hike - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmFhYi1fZEdkNzZpWnpMWmVnMGVrNlRXTnJJdTM4RWZDdHQtbGR3RW5ndmlNU3hTY252SGp1R0hCc1Y0S2pBMWlSN0xtQ1I4NWU1QnllLVh6LW5RcW9jd3BLZ21lSGpCUVpwNmxzMkFuU0JvSExzV0FZTGF6N0FGeDUxTVhjRE5s?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "A divided Federal Reserve holds interest rates steady despite high inflation - NPR for Oregonians",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWTE4dkV3MHA4MmJqYjdzSGVpUUVvMHhDREdUT2FoQVRnOUptby1Nd25HWnRoX0NXUm1wV2dFcExPT2FfR1BlTnNvVkZOVkMzUURuc2E1Mks0RjhVSllPR1gxWFZwZjBsRkRQR3pzeG1oT1RlRERvRndnSkJ6WlNaa3R1RXlJYkh5T3c2XzdWQk4tMS1WUWFaWHVkeWVtS0tzWG9IREsyd0lTQlZsQkJfdHRLR19aQ3Rw?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Fed holds interest rates steady as three policymakers demand hike - Euronews",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQODRGVDVIXzZMTWV6ZWhwVTE2dkl5cEgxM0FhWWdVdDFScFR6Q2M3N01iTFc4cmVsUkd6YS1KV1VBRmt2R2tRM0s1VDNsRHFuNVVFNWYyaXVqdUZNcHdVSnJyb2ljZHUxdERjZEllazREUjRiYnNVeUpKdE44WTZ5ajhRQ2w3d2hhWlFENGNGYXB5R1drcF9UcXdpRGlCUl9rYWNkclJnQXhrWjBnQWptS19lbFE2SndBRTByUDJRU2g?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "US Fed holds interest rates steady, citing \u2018elevated\u2019 inflation - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQlpwWG9kdzJpQTdZUjNtUGdDUWJIUmJVV0VMd2VOcTZ0SVQ2a01RUTFPZGFPNUU4NnpQckRfVVg5UDRzWUZNaW5NZThLbkZfS1VRSWt6M0NUa1g4WkRXRTB0NURVdGJLWXNFbWJxU1FwVldRMHZHR1pTc254YWZUcUpMRVJJMFlYUl9SUEtvTUtQT05lTkplenI4aTBXcDJjQkJtLW1aa9IBrAFBVV95cUxONzhMU20xelY3alFJZHF6T0RJNEc3OXRvR3ZoYm9PSGtMdDlEZEtkRUo2MnpLVDdScWFRSTBsOUdNN3BGT2VtZVZnajlNNUxjQmFNTGtadEdLUTItaUtDRmU2eEo4MnFibllHcjlyQ01BV2ViSkFMbFBCWWtnbzlNUVdFNUExaWwxejgtdi1wNTJ1TVdSMkdwdTFFd2RYR29zeDJTSzNTTmIxNWtZ?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Federal Reserve holds interest rates steady amid inflation concerns - KCRA",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaTJiU2M0ZnNORkRiUHV1R2JKMVJ4dEI0Z1pReEktTk8xT1MzMFpLTkVaY2V5UlRRRjZqR205U29KNEJqS1YtbkNxRzhlU3lFcjRaT25Lb3V2XzNYanZyb09MZVN5WlUwWVlZa2V4UUxzVm8tZTNudXQyVWRrMGJhNXJfZkRhQjkxNUdjY3dEaXdMbHQ1NUE?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "4 Takeaways From the Federal Reserve Meeting - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaXMwdzVVWmFrRllTU0JxN1hnUWM4NXJIazdwZVNWSjdWZUxfaW5oT1dHZ21mV1FkUlJBOTFtYTF2am03enU4RGdSRHU4OHFDYWkyck1naUtvZnBkVTNyRDNsUnAtQVROSVpEdU1ydDYya3V4NVlpbHJOelBHR2FFa1VQSjNsOC0xTmZEQ2kyeEE3Nzk2NTdkUA?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Federal Reserve votes to leave key rate unchanged despite persistently high inflation - 12onyourside.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcktudE1pTV9zdVpfOHVvTWx5THVPcGhYOVo0azkzaTBzSWotQVY4MERwSHE1R05ubVVvYng4Nnl2MktscGY5SFVYSGhPdWRCT0hiZTkzcmFQaFBJR0tBUEFLbU9xSWdLdVF2WnZUdDhCXzViaV9pRzlXRVRxUXFudzVOX05CekEzb3J4VUl0QjRGd3FkWXZNdnB4dFhLYTZNdmVscXFoNm9OSnJWd0gtVFM3c1lVRlNkcHBmZlBCdEfSAdQBQVVfeXFMUFlNM3ZKOHpsUjlRRndtUVhGU25rdXBTYk5sMTlDU1dObl80YjJDV3ZTdjVoVHlvMl9ualdzWjRZWTFrRm5qajZwVmlOQjN3R1hGVnlob0l0YldSMkotSEg0cjRfb3VSX1hoUmYxSHNKZ3FmbnZiTkNxaHdaRF9XZm9GeWRRcW1wWURYeVU1SzJtR3lsNWZ6OVgxZ1NrU0VxYWZqWldzLWtxNHZHUzdSR3VCNTVvQURjU19GNEJ6S2ZHd1ZaVkV6ZDA2M3lkT1M5TXdDWmQ?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "sector"
     },
     {
       "title": "Professor S. Joseph Wickwire, II, CFA Interview - Bentley University",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-09-30",
-      "close": 53.05
-    },
     {
       "date": "2025-10-01",
       "close": 53.56
@@ -1354,6 +1350,10 @@
     {
       "date": "2026-09-28",
       "close": 61.99
+    },
+    {
+      "date": "2026-09-29",
+      "close": 62.5
     }
   ],
   "meta": {
@@ -1363,39 +1363,39 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 503591400,
-    "regularMarketTime": 1790726906,
+    "regularMarketTime": 1790813334,
     "hasPrePostMarketData": false,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 62.5,
-    "regularMarketChangePercent": 0.823,
-    "fulldayPrice": 62.5,
-    "fulldayChange": 0.51,
-    "fulldayChangePercent": 0.823,
+    "regularMarketPrice": 61.37,
+    "regularMarketChangePercent": -1.808,
+    "fulldayPrice": 61.37,
+    "fulldayChange": -1.13,
+    "fulldayChangePercent": -1.808,
     "fiftyTwoWeekHigh": 79.83,
     "fiftyTwoWeekLow": 47.53,
     "longName": "Fidelity Select Gold",
     "shortName": "Fidelity Select Gold Pt",
-    "chartPreviousClose": 52.64,
+    "chartPreviousClose": 53.05,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1790668800,
-        "end": 1790688600,
+        "end": 1790775000,
+        "start": 1790755200,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1790688600,
-        "end": 1790712000,
+        "end": 1790798400,
+        "start": 1790775000,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1790712000,
-        "end": 1790726400,
+        "end": 1790812800,
+        "start": 1790798400,
         "gmtoffset": -14400
       }
     },
