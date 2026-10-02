@@ -1,7 +1,7 @@
 {
   "symbol": "FXAIX",
   "name": "Fidelity 500 Index Fund",
-  "updated": "2026-10-01T01:11:27.756381+00:00",
+  "updated": "2026-10-02T01:31:05.335940+00:00",
   "news": [
     {
       "title": "Stock Market News From Sept. 30, 2026: Dow, S&P 500 Fall; Nasdaq Rises After PCE Inflation Data; Boeing, GameStop, Robinhood, Micron and More Movers - barrons.com",
@@ -14,6 +14,13 @@
       "title": "Stock Market News, Sept. 30, 2026: 10-Year Treasury Yield Rises to New 24-Year High - WSJ",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYnlmOHNxMElwZWFLb2pRei1URmtINlR1aS1PVWRPMmhEdmZPRnBBRFBaMXBGMjhPbE9fRVVoMnMtMFNVZ0NFd3I5dGk5c19oS1JUQy1QTGZQbTl3b3liUzJiSmlVd2Y4OTZkT2hYSDZVWnBiVmhOdmV6Qk5zMWtQd0RoWk5FRjA?oc=5",
       "pubDate": "Wed, 30 Sep 2026 23:57:00 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdXFFNHNQQUxXRkRPN3ZndG5TZS1PSGpvaFZPMG8zRU1oNFdrOUFZQnNsT183YWZ2R3NoNGNUX1NVdmtZNmxaYVc2X2c0Vm5tNWZjbEo1ZkYzNzVqeW1BS0VTaWZYc1hKRlRaRGxrQlk1aGlpQTROOV9mSDZldFlkejFZVGxKYmZzQ3czLUFPUDRBVmNJNWpuMnBPdE00QUlncU9EU2lXZw?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 23:40:02 GMT",
       "source": "",
       "category": "sector"
     },
@@ -133,13 +140,6 @@
       "title": "S&P 500, Dow End Lower As Investors Shrug Off Cooler-Than-Expected Inflation Data \u2014 MGM, SPCX, AAPL, TSM In Focus - Stocktwits",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOLWZMYkRjM3NHSzQ1WnBwSnZqS3NUVFJteV9XRDBrblZsekpBeWhpNy1xUTJYbHgtSERvWWUxUjVURVJUbXFkalFYZ1JEQjhta2lKUzAwTG96c3JWLXdZNVg5YjRsR3VpcUI1aGo1TlBZcmp2b3ZhYjdMOS0xalVqRGJOUGVhYW5fOE9LRFdkb0ViZUVMY1hPZkVuY1Vxczc2bGJ1RENQRlF6aEw1cEhxeG1TNFNjWGNaUjJDM1B5NG13LXlDQmtDejhYY2EzV1JEWkxlUUtSU2NpNTFBZmFqUTZjN2VvRElaQ1hIYnp0Mm5xWHZPVm5Cdmx4VjJwOWtQczkzU093?oc=5",
       "pubDate": "Wed, 30 Sep 2026 20:31:45 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Most US stocks fall after the bond market cranks the pressure even higher | National News | 2news.com - KTVN",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZVp3OG9hbEV6MnN0Q2VESFpZdTJSNVRDTHRhRFhFZXVVMHFHMFozcDBJd2pnNXEtZi1UbE9fbkFmbXFWVzdLdlN5ODA5LUljNUEzLTBjS3JFZHFJaElWaHJoU2RnV01sV3FaSW0yZW1BZ3FfanZjYTdaSEZ2N1c2LU9GUmgxRjRqWkR2X1NMdkhXUTFPeU5TMmJuanBrd0k2Z3o0SmJVTjR0S0d3MmFON29iR0EzMFQzQ3VIUFVQU0UwNXhXOWV1eGRWWFdjYldFbld4TkNDMkNmX1RaemdFRDVnWjNxbHBRYWJyQm5B?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 20:25:24 GMT",
       "source": "",
       "category": "sector"
     },
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-10-01",
-      "close": 233.76
-    },
     {
       "date": "2025-10-02",
       "close": 233.91
@@ -1354,6 +1350,10 @@
     {
       "date": "2026-09-29",
       "close": 267.17
+    },
+    {
+      "date": "2026-09-30",
+      "close": 266.53
     }
   ],
   "meta": {
@@ -1363,39 +1363,39 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 1304515800,
-    "regularMarketTime": 1790813334,
+    "regularMarketTime": 1790899685,
     "hasPrePostMarketData": false,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 266.53,
-    "regularMarketChangePercent": -0.24,
-    "fulldayPrice": 266.53,
-    "fulldayChange": -0.64,
-    "fulldayChangePercent": -0.24,
+    "regularMarketPrice": 267.05,
+    "regularMarketChangePercent": 0.195,
+    "fulldayPrice": 267.05,
+    "fulldayChange": 0.52,
+    "fulldayChangePercent": 0.195,
     "fiftyTwoWeekHigh": 271.2,
     "fiftyTwoWeekLow": 220.95,
     "longName": "Fidelity 500 Index",
     "shortName": "Fidelity 500 Index Fund",
-    "chartPreviousClose": 232.96,
+    "chartPreviousClose": 233.76,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1790775000,
-        "start": 1790755200,
+        "end": 1790861400,
+        "start": 1790841600,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1790798400,
-        "start": 1790775000,
+        "end": 1790884800,
+        "start": 1790861400,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1790812800,
-        "start": 1790798400,
+        "end": 1790899200,
+        "start": 1790884800,
         "gmtoffset": -14400
       }
     },

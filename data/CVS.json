@@ -1,7 +1,7 @@
 {
   "symbol": "CVS",
   "name": "CVS Health",
-  "updated": "2026-10-01T01:11:33.884277+00:00",
+  "updated": "2026-10-02T01:31:12.005490+00:00",
   "news": [
     {
       "title": "Cvs Health Declares Quarterly Dividend - TradingView",
@@ -35,6 +35,13 @@
       "title": "Good Times with The Associated - Baltimore Jewish Times",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jMm5ETnNYMjhwSnprZkRodFVpWGZyMzZBTW40ODBSdlVGTE9mUVZsUmtQVUlPQWYyNGVkeWZVZ0pHQ3lKU0dsOW9rMVEwaks4Z29DZk4wRFNlc1g2SnN4M0pJQVN0QzFjdHo4?oc=5",
       "pubDate": "Wed, 30 Sep 2026 21:07:39 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "CVS Health declares quarterly dividend of $0.665 per share - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGEyVkZpUzBldmJNVzN6cnF5NVdBU2ptVm8wbnZDUzFqQk40eHMzcENlYUctUDRKcEVIUEdDdUxDM3FKRTNxOC10RGhvUmZtUjZVeGRmQzNUVU85UFJ0ZVNvVjh3ZWc3ek1fNWRPMm9yYWI1aGZrQ0dzWExuQnNsUTFOdTFzUjctNVR4Q0NiLVdzWmZaNGZNcVV1RTY2akxRQ0JSZTR1WVFkNXBXbU11WEZocEx1SzJp?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 20:40:38 GMT",
       "source": "",
       "category": "company"
     },
@@ -249,13 +256,6 @@
       "category": "company"
     },
     {
-      "title": "Piper Sandler reiterates CVS Health stock rating on 340B analysis By Investing.com - Investing.com UK",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN21MeFFiX3FMaFlOLS1ZVktXVEVmeDFxaEpDTGtzb3BoaTBxUTA4aVpkTVhlWXRVeWdPTUhSUF9mazJpWnAtOE0tNWxGMzd2Wi00aEhwX0xKcHV2al85Rml3VVZxVnJhS2VZaUJBNDkzX1F3eEprZVhXYm13NFJ0c1RHZkdocTBSQ3BLNmhwV1BZQVkyM2c0Ul9HMk1ESjlPYjJZeFNuM2owa3FDNVNjY0FaUXlfSTFZS1oxdDVRMWVqQWht?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 14:10:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
       "title": "In-Depth Report: The Logic Behind JD Health\u2019s Today and Tomorrow - JD Corporate Blog",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZmV5bW1ndDYxallDQnFYTEZSR3hpbVBzUFZiR3I3NUZqVGhZeFZsekdFOXdwVmNadkJ0UlFyM2tsWG5tLVdlUHZZRTV0WmVFRVFRcjl6cHZDb0tEUThVV0hQNGlWRHJXR1NBMlkzZ2pXRng0blZEdDhqZU5jOHpuMWhvckxoNUlkV2t3LUc5ZGxFWTNrWHc?oc=5",
       "pubDate": "Wed, 25 Mar 2020 07:00:00 GMT",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-10-01",
-      "close": 76.87
-    },
     {
       "date": "2025-10-02",
       "close": 77.45
@@ -1354,6 +1350,10 @@
     {
       "date": "2026-09-29",
       "close": 87.1
+    },
+    {
+      "date": "2026-09-30",
+      "close": 85.69
     }
   ],
   "meta": {
@@ -1363,42 +1363,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 99153000,
-    "regularMarketTime": 1790798403,
+    "regularMarketTime": 1790884802,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 85.69,
-    "regularMarketChangePercent": -1.619,
-    "fulldayPrice": 85.56,
-    "fulldayChange": -1.41,
-    "fulldayChangePercent": -1.619,
+    "regularMarketPrice": 85.2,
+    "regularMarketChangePercent": -0.572,
+    "fulldayPrice": 85.2,
+    "fulldayChange": -0.49,
+    "fulldayChangePercent": -0.572,
     "fiftyTwoWeekHigh": 110.68,
     "fiftyTwoWeekLow": 69.51,
-    "regularMarketDayHigh": 87.31,
-    "regularMarketDayLow": 85.42,
-    "regularMarketVolume": 8378085,
+    "regularMarketDayHigh": 86.26,
+    "regularMarketDayLow": 84.23,
+    "regularMarketVolume": 6419602,
     "longName": "CVS Health Corporation",
     "shortName": "CVS Health Corporation",
-    "chartPreviousClose": 75.39,
+    "chartPreviousClose": 76.87,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1790755200,
-        "end": 1790775000,
+        "start": 1790841600,
+        "end": 1790861400,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1790775000,
-        "end": 1790798400,
+        "start": 1790861400,
+        "end": 1790884800,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1790798400,
-        "end": 1790812800,
+        "start": 1790884800,
+        "end": 1790899200,
         "gmtoffset": -14400
       }
     },

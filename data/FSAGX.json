@@ -1,7 +1,7 @@
 {
   "symbol": "FSAGX",
   "name": "Fidelity Select Gold Portfolio",
-  "updated": "2026-10-01T01:11:29.748402+00:00",
+  "updated": "2026-10-02T01:31:07.557379+00:00",
   "news": [
     {
       "title": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise - Reuters",
@@ -11,9 +11,23 @@
       "category": "sector"
     },
     {
+      "title": "Fed's Kashkari says central bank must lower inflation pressures - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN29hdDFwRF9OOWZyZkxkcFNnNlA2NTV3VXJOYVNlUy11cnFLSjh1ZkVKMXVKSnZGX2tDRXAtUXVvX1JXMkJaZUNsd0RJN2s4SDM5VmlzZExHWnVrbW5fRVRtZ0dlbGQ5aHJNQnI0ajIzRXFaQVE0UTRXU0NkVjR2WVE3UThGbDE4MERqdHFhZ0ZvNV9fWU9aYVoxRXJFNXV3T2FYaUVrU2o3V2kzWlE?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 23:29:15 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
       "title": "Fed's Kashkari says central bank must lower inflation pressures - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeTlKd3dqckEtNW9HN0FfbXFDN0UtUmllQmZrWXZicXVGbW9NQUtISC1tZjdlNWc1M2I3RjNSVXNROTNwR29sTV9WSEhYRzN2clFxUUwyNGhwa2szN3JRbGJhbVczOFZNZVZaMkdhcGItcW1fNGRXdUF2Y0YzR212amt4S0phQ0pYWmxPdHN3ZDdFM0luRDJ2SE42UEs?oc=5",
       "pubDate": "Wed, 30 Sep 2026 22:56:28 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Dollar Powers to Best Month Since June on Fed\u2019s Inflation Fight - bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTE1JRURrOTVvcUhsZEJIWVowbngyNm52NVNsTml2VGIyNlhTT05DVHV2SFhMN25Xc0tlWjRnQ1ljdFpYQ0haSGl1WEpJUzBZTFJ2WU11cGpZYUV4VGlhN01CQmpob0MxVDlkSmNvQjhLcjV2eEJVMUJNYUNBNUNEUUxLZV9RNmt5Rm5rWUYyN2l4ZDFTTVYyeVUxTXBUT2tsTkwzZ0dQWnVBVXg1ay1adGpUWnc?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 20:52:27 GMT",
       "source": "",
       "category": "sector"
     },
@@ -102,6 +116,20 @@
       "category": "sector"
     },
     {
+      "title": "Opinion | Trump threw a fit about the interest rates he caused. He\u2019s still right. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSllCcHF4a3U3T1NZZm5wN2cwQTVKcXFhWmo5Y3JnSkNKSGhMeGxtOHloZkEyRXpSaTR5cF9MRFBVQWdtMzcwLVoyTnQ0YmVNUGpvcllheEtJNVFtdWlYVXdLNmx5emlYaVRpZkhqT1VvdmFFTXFSQi1RQl9kQVhjX3lJcjlOX0hmemMzRTNXbUpYdw?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 17:15:00 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "The Fed's Preferred Inflation Metric Came in Cooler Than Expected. Here's What That Means for Interest Rates This Year - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPX0ttc2VIVThWRi1tWlk5M18tZkNBcnppdkxiT0FLTDNVN2xLRTVMS0RzTERhWDdEVEdqNDJaZnVUYWhyc2NpM2xCczY4R2hiZ1ZKR2ZPQWR0eHFHdHJ4OXUxU3ZRMGw3ZDlnNnk4V05XeEVGWGVhdU5DSU1yemtQLVBPRVRERGFMaVpLNEdNNFdVWFFoSUVzWW1mb2Zxb0lQTlZjaVhrY0QwcUNDbmo0eUsyNEZ1VFZHMG1aSUhWX1NKZXJxdThuRmVoZEc4MFFuLUFuVndpRXRRdVFrdzIxREtRNnYxWURYQWNldE5zdw?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 17:14:00 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
       "title": "Bitcoin\u2019s Price Jumps Above $85,000 on Lighter-Than-Expected Inflation Data - bitcoinmagazine.com",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SRk90VUxVOExnX2hXN3BQTnBodmxSZHl1TGJteFExUjhFZDd3WF9VNko2N0lvRVFDSDF1X1FQTGdQYU44SjN4S1BnZGFaLU5kVEE3RFJpZHRjVVZ0d1Zpd3VlaEVUREVPNkIydjM0WFZYSE9vcVRJaVJn?oc=5",
       "pubDate": "Wed, 30 Sep 2026 16:49:17 GMT",
@@ -112,34 +140,6 @@
       "title": "The Fed's Preferred Inflation Metric Came in Cooler Than Expected. Here's What That Means for Interest Rates This Year - AOL.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUUNqR0JoNTYyTEdVMFJVV3Rhd0VSWlRJYXVsYWZkTTZsR201VHdZWWdQTmlRbVN2T1dJQkgwWThTaHFiVDJzY29YaXlBcG4zQ01xemV2MmNOTllUZEFhNGFOazVfcGdRQV9WampHcW9zd2NNcFo4cDE1RGFiYXd3V21TWmZsZ3c?oc=5",
       "pubDate": "Wed, 30 Sep 2026 16:34:26 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "US inflation rises below expectations in August; consumer spending robust - The Korea Times",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZjAwYTg5dGtsaXJOMVdKOGRSX3VGcjdScW5NN1ozSk1nbk02Uk11VjZ3NXJ4YVV3WnVVYllZVUtaT0lPMkhVQkNrdzFKaEZ1Ynl1WllkOU11Z0xIM3JIZmQzbUNQb2x4cUVYZVBSRVlNdGpMdW96czJLOGVSMFVqTm5TRFhnS2dfVEhYZFR6bDRYV1lrX1RmM1pEaFZod2hvM1NPcEJJQW1hU2VOV2VuRHZBVHplV2vSAbwBQVVfeXFMTUtmNWlPMmh6YkN4MDR3STNqcEZVRHdTVUJLMklMamlqRDEycXlyQzRObkpmbmJqa05hcjdpdXBzaHdwNUwxVDhwSEJpNXljb2t3clBINW83bDRzRTdiMkJ0eWozYnR3aGlIZ0JqU25hNU1SMVJDbHAzMDZZTm02T2tHNzhBdHVlaVdtc3ZwMWx6QUl2MDNXN0FZTGcxWDlxcWYyV1N6VlFNaGFpUkJ6RHRwZjVvclFvS1R4VHA?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 16:27:00 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Fed seen on pause in October after inflation data - The Mighty 790 KFGO",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjlzTm15MGxTeXZyUTVaSWwzWEY3N09CLUhyRFlSZTZiQ09jTDFlWlB4aUxvTzQ1WFQ2WWtqSHVYMWpRYktvVi1DeWh3UHQyLUs2QWxXNkRUSEZlOTd5aGJCYi15Z0JIcC1xeHhSX0h1cnY2YlVZbE16UDczamVwbURmZXI?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 16:20:43 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "The Fed\u2019s Favorite Inflation Metric Just Hit 3%\u2014Cooling Urgency for Rate Hike - Realtor.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTVcyQ0hJN0w2QVZPNDlUS2JTNkkycDFROFZucmJKY1FCR2xjTG13WURBV1BCMzZJZFhXT2R5Q0xvT20tR2ZyMnRna2l1bWhnV3hFSGd2UkZ2SDA2Y2VMaVdDVDBFVnNKTTBNSzdzdDRYa1VlelpMandoVlBoMk5lREp5WQ?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 16:12:45 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Fed\u2019s preferred inflation gauge cooler than expected, likely delaying rate hike to December - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcU5sYVpVS21kb1A1cjBuZ3BTZmdqWnhFNnlNd2p0X05haDNJVndzbVRlWFBITFZmb0dBMjlhTVE4cF83VldYVkdHMERENGo1OHdyem84MTBDNG5VdkYyMTlFcmNidVRnM3lxRnhkeXlILTJBMThpWHpLY1FaUkJKck4zYXhIb2dpLVdzQXJoRV94TmpEV2oyRHo0eVNsQVBCN2ZXaE1uaVhTblRma21feEgxeHlMN2JlbkE1WHpyMktjQ3prakJORw?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 15:50:58 GMT",
       "source": "",
       "category": "sector"
     },
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-10-01",
-      "close": 53.56
-    },
     {
       "date": "2025-10-02",
       "close": 53.29
@@ -1354,6 +1350,10 @@
     {
       "date": "2026-09-29",
       "close": 62.5
+    },
+    {
+      "date": "2026-09-30",
+      "close": 61.37
     }
   ],
   "meta": {
@@ -1363,39 +1363,39 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 503591400,
-    "regularMarketTime": 1790813334,
+    "regularMarketTime": 1790899684,
     "hasPrePostMarketData": false,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 61.37,
-    "regularMarketChangePercent": -1.808,
-    "fulldayPrice": 61.37,
-    "fulldayChange": -1.13,
-    "fulldayChangePercent": -1.808,
+    "regularMarketPrice": 60.53,
+    "regularMarketChangePercent": -1.369,
+    "fulldayPrice": 60.53,
+    "fulldayChange": -0.84,
+    "fulldayChangePercent": -1.369,
     "fiftyTwoWeekHigh": 79.83,
     "fiftyTwoWeekLow": 47.53,
     "longName": "Fidelity Select Gold",
     "shortName": "Fidelity Select Gold Pt",
-    "chartPreviousClose": 53.05,
+    "chartPreviousClose": 53.56,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1790775000,
-        "start": 1790755200,
+        "start": 1790841600,
+        "end": 1790861400,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1790798400,
-        "start": 1790775000,
+        "start": 1790861400,
+        "end": 1790884800,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1790812800,
-        "start": 1790798400,
+        "start": 1790884800,
+        "end": 1790899200,
         "gmtoffset": -14400
       }
     },
