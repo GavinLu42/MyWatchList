@@ -1,7 +1,7 @@
 {
   "symbol": "SMH",
   "name": "VanEck Semiconductor ETF",
-  "updated": "2026-10-02T01:31:09.836443+00:00",
+  "updated": "2026-10-03T01:02:10.882301+00:00",
   "news": [
     {
       "title": "Micron's AI Earnings Surge Boosts Korean Semiconductor Hopes - chosun.com",
@@ -56,6 +56,13 @@
       "title": "Q3 Earnings on Track for 8th Consecutive Quarter of Double-Digit Growth - TradingView",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVlVlNm5vT2UzZVFVM2lSMFVmT1RJQlhkbndzdzVIYUJCTG52SXpPSGhFUHJGZDdRbkFLQjQ2MDNkbnY5TUUyc1dYZjU4OHA2OW52ZHhRUWFwaXZVZnh3eUZHQ2xUdEU1Ulo4TTNQOTZ5WlN6WEF2dENFZnhOay1pS050MmwwRkxuZFlhc2x5SWNKVllHdjVZS1ExTlpfTnhQekpkb09WdG1IVUxrM29SUWdMWjd2ZVUwQzZZSXJGRjJiVlRoUHc?oc=5",
       "pubDate": "Wed, 30 Sep 2026 20:38:00 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Qnity Joins PHLX Semiconductor Index After Public Debut - MyChesCo",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT19jdEFqNWZycWlVZkdreHFnNWN4NGdsSUU2dmxRRzNCVG5wNlU2LWN1QVBLNk5sbk9DYl9wclVsVzdQdnRXNjdYZU14c0cwcVVhUldGc0d1elNROWl4UnU0Mk9QaUtsSFAxUXlneUVlTWRXYktIdVZVbHdvejRUWWFCenh5VDZOQ2ZFdmUxU1dnaHRKclFTMzZub3RaZw?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 20:01:22 GMT",
       "source": "",
       "category": "sector"
     },
@@ -133,13 +140,6 @@
       "title": "US Wants to Break Taiwan Dependence \u2014 But Here's Why Taipei Will Remain 'Central' Character in the AI Chips Story - AOL.com",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVmw3ZHVhMDJleTVFd0pnRUlzMkhMY2tKSE1NaDYtOEJJM1VSY0R2NWVQYjFOcUItVmMyZXdpWnZ6SlFNY29ITGFlaXFEMk5IcTJndmxPQXhKdExobTRPWVRkZ25RU3lnQThyOVhtaEp5M2Q3YU02SkpsTzZpQWl6Z0FB?oc=5",
       "pubDate": "Wed, 30 Sep 2026 13:30:06 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Wet Chemicals for Electronics and Semiconductor Applications Market is expected to exceed $8.12 billion by 2030 - EIN News",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWWFIRmd3ZnFUX1hlYWlQZW8zTm5yRFhEcGlFWks2SGNMSmZzVXA5MzI3NHB3V3NfMTNIZ3lvSnpCejNob01mdXpwcHBUSkhCSVBwREdYYWtaRVNkMExTejNVbVVReTdZYzl0TXhkaWl2eVRwdzlIYkR5Skk3OFpienlOWWNQNHZhOEdhQXJ3TVZvTXpIZEFrWE9EQ0Z4Rjlpb1RYbXhIMUdta3lkb1RnS1Uyc3RJVzVJbnhYRVljdEx0aTRXMDlXM2JONG5WTEJHaTgyVmRVLURZVDNudk4tT2ktNEtQQ1E?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 13:30:00 GMT",
       "source": "",
       "category": "sector"
     },
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-10-02",
-      "close": 338.24
-    },
     {
       "date": "2025-10-03",
       "close": 336.68
@@ -1354,6 +1350,10 @@
     {
       "date": "2026-09-30",
       "close": 609.0
+    },
+    {
+      "date": "2026-10-01",
+      "close": 617.81
     }
   ],
   "meta": {
@@ -1363,42 +1363,42 @@
     "fullExchangeName": "NasdaqGM",
     "instrumentType": "ETF",
     "firstTradeDate": 960211800,
-    "regularMarketTime": 1790884801,
+    "regularMarketTime": 1790971200,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 617.81,
-    "regularMarketChangePercent": 1.447,
-    "fulldayPrice": 619.0,
-    "fulldayChange": 10.0,
-    "fulldayChangePercent": 1.642,
+    "regularMarketPrice": 630.6,
+    "regularMarketChangePercent": 2.07,
+    "fulldayPrice": 630.75,
+    "fulldayChange": 12.79,
+    "fulldayChangePercent": 2.07,
     "fiftyTwoWeekHigh": 671.83,
     "fiftyTwoWeekLow": 315.05,
-    "regularMarketDayHigh": 620.9,
-    "regularMarketDayLow": 607.25,
-    "regularMarketVolume": 5099222,
+    "regularMarketDayHigh": 636.25,
+    "regularMarketDayLow": 628.55,
+    "regularMarketVolume": 7296894,
     "longName": "VanEck Semiconductor ETF",
     "shortName": "VanEck Semiconductor ETF",
-    "chartPreviousClose": 333.69,
+    "chartPreviousClose": 338.24,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1790861400,
-        "start": 1790841600,
+        "start": 1790928000,
+        "end": 1790947800,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1790884800,
-        "start": 1790861400,
+        "start": 1790947800,
+        "end": 1790971200,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1790899200,
-        "start": 1790884800,
+        "start": 1790971200,
+        "end": 1790985600,
         "gmtoffset": -14400
       }
     },

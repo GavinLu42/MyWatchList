@@ -1,7 +1,7 @@
 {
   "symbol": "SHEL",
   "name": "Shell plc",
-  "updated": "2026-10-02T01:31:14.580830+00:00",
+  "updated": "2026-10-03T01:02:15.708769+00:00",
   "news": [
     {
       "title": "Operator Upstream Outlook:Value Creation and Execution Excellence - Mexico Business News",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-10-02",
-      "close": 71.77
-    },
     {
       "date": "2025-10-03",
       "close": 73.21
@@ -1367,42 +1363,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 447949800,
-    "regularMarketTime": 1790884802,
+    "regularMarketTime": 1790971202,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 95.61,
-    "regularMarketChangePercent": 0.589,
-    "fulldayPrice": 95.99,
-    "fulldayChange": 0.56,
-    "fulldayChangePercent": 0.589,
+    "regularMarketPrice": 96.23,
+    "regularMarketChangePercent": 0.648,
+    "fulldayPrice": 96.23,
+    "fulldayChange": 0.62,
+    "fulldayChangePercent": 0.648,
     "fiftyTwoWeekHigh": 99.155,
     "fiftyTwoWeekLow": 68.625,
-    "regularMarketDayHigh": 95.705,
-    "regularMarketDayLow": 94.34,
-    "regularMarketVolume": 9469555,
+    "regularMarketDayHigh": 96.38,
+    "regularMarketDayLow": 94.97,
+    "regularMarketVolume": 6634478,
     "longName": "Shell plc",
     "shortName": "Shell PLC",
-    "chartPreviousClose": 72.43,
+    "chartPreviousClose": 71.77,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1790841600,
-        "end": 1790861400,
+        "start": 1790928000,
+        "end": 1790947800,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1790861400,
-        "end": 1790884800,
+        "start": 1790947800,
+        "end": 1790971200,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1790884800,
-        "end": 1790899200,
+        "start": 1790971200,
+        "end": 1790985600,
         "gmtoffset": -14400
       }
     },
