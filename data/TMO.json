@@ -1,7 +1,7 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-10-03T01:02:20.099627+00:00",
+  "updated": "2026-10-04T00:27:52.429509+00:00",
   "news": [
     {
       "title": "Thermo Fisher Scientific stock raises guidance and trades at EUR 596.90 - AD HOC NEWS",
@@ -16,6 +16,13 @@
       "pubDate": "Wed, 30 Sep 2026 12:57:01 GMT",
       "source": "",
       "category": "company"
+    },
+    {
+      "title": "Life Sciences Platforms and Tools - 2026 Market & Investments Trends - Tracxn",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMGN6MFFkczdEWW5CT2UxSDYwdm5wVFdOcTU0Skd6ME1KVFFhNXlhQk5Mem1iUkVKdVpVWHY3aU50Vy12Wk42U3d5ZTBmWGxHLTQtbm9FVE9vRjZPazdMSThBZEV5N0QzRUdFMndIcmdBekxmQm5NTnNOVFA5blJQUjh1ZkNyR2p5akNfWmZNMGp3Zm5ya3lqS0lOd1ZFRTAzLW9IS3BtaEEyMUVk?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 04:26:07 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
       "title": "Thermo Fisher Scientific Inc (TMO) Stock Up 0.1% but GF Value Sa - GuruFocus",
@@ -343,13 +350,6 @@
       "title": "Life Science Tools Market Size Set to Soar USD 367.16 Billion by 2032 - BioSpace",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSlRKTTV1cm5LN3BsNTcyMzBZT0RSak5vaVdBejhWc2FhS1Vad2x3OVozU25QajhWWFh0c2lJZG9LVEFNcERtNTFpdkdibUFvM2JvVXYxTlhqLXlVR0NKY1M0Rm5VWElKWXlabFd0LXJ0aGlZbk1SUFQ5MHN6MV9ZcnFVWUt5Q3VCR1R6V3J6VC1Zd1F0aDdhWmRn?oc=5",
       "pubDate": "Wed, 17 Apr 2024 07:00:00 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Australia Veterinary Diagnostics Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRHdmUkY4dHAwMjJfVW5aTzRJRVpOZ05KWTJnMmlnV0QxcDY5MXRZU0NheFJGM21xRFpRX3BrRU9wLWlRT0dpRFBXSWRydVUzSFFtUjd4THBrZ0thT1J5MjdhQ3VUcjgweFM2N3FLY0MyMVpybF9BbFNaZWM4dC1oV29aTE1DNC1CQkhWRVEyNmNBMlQ2WmJCZjZsWDZwQ3M?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 23:54:49 GMT",
       "source": "",
       "category": "sector"
     }
@@ -1354,6 +1354,10 @@
     {
       "date": "2026-10-01",
       "close": 652.51
+    },
+    {
+      "date": "2026-10-02",
+      "close": 654.8
     }
   ],
   "meta": {

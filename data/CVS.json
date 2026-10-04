@@ -1,7 +1,7 @@
 {
   "symbol": "CVS",
   "name": "CVS Health",
-  "updated": "2026-10-03T01:02:13.412814+00:00",
+  "updated": "2026-10-04T00:27:45.961278+00:00",
   "news": [
     {
       "title": "Cvs Health Declares Quarterly Dividend - TradingView",
@@ -69,6 +69,13 @@
     {
       "title": "CVS Health declares quarterly dividend - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmtOaW9BRTkySnZKSHVGdk5lWE9EZlFLbTRRcHlfMk81bl82MlBSUTQ0eHdHeDNWOVBhWDQtRkFOYnJTVll4M1E5ZmFEZWo1RVFuQzUzeXoxN0tLZ2xmOGRGSUlxdVVxTzZxSXN1XzFQb21CUUwtSjk0OVFPTGVXYnhMQ0YzMjZveVd1OGhIQTZlQk5pRWxIeGJB?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 20:26:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "CVS Health declares quarterly dividend - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY0VjR05TQjN4M09DYzE1bTJLc1I5Z1Y5UTV3SzFPZXl2eFpsdi1nM3A5MktNclpjYjR4WGtnNFJfbWozN3VBRjR2clFncFExYVFIRDlhaC04Z0JJRWNVbGw1ZHNTMHoxdmpBUmZ6QnhLb1BwdmZ0eXNDNjI4X2xDQkVTdFhPZHFxb0pFeE5yS2dtR0xiYW5zNlloYkQ1WEpK?oc=5",
       "pubDate": "Wed, 30 Sep 2026 20:26:00 GMT",
       "source": "",
       "category": "company"
@@ -245,13 +252,6 @@
       "title": "Onos Health raises $17M to read behavioral health's hidden notes - Dealroom",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZHluSHVwdzhyejl2WDVTZzlmbHZ2dC1zT3VXb0x5MmxacFJYcVk5SE42aktueWZldV93YVB2NXhMVnc0OVo4aG5SVk9wd04xdEd3eVQ0Z29zVjNMMHdsV3NqRVVyeHhXU0NCX2lINUtPOS1zODVwWWwwQURWeEJON042WjRkVDQ2R1FuQ25VUDEzTUYzQVZ2bjF2SGVpUQ?oc=5",
       "pubDate": "Wed, 26 Aug 2026 14:47:44 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
-      "title": "Piper Sandler reiterates CVS Health stock rating on 340B analysis - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWWRaNHdVNXFPT3BTYk9Oa2R0bnpTWjlvZ3NkZlp1enNpUkNiWWpYaElFOWZTS1FkNlhUZlhwMVh5dGR3WTBFd3dHLWktNUwydHo3QkNiQXZabTQtZUZkTG9ObGsyYkVTbDVZbHNfVU1WNjh2Q3lKamtyM24yLWNVU18xeDdoZF9EV1M1Qy1sR0h1WE4wZG91S3F1X0czNXltWUZjeE9fTlI3LVFfdTg3ZXZMUEVweUNmdXpsakJkM1NWV2c?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 14:21:04 GMT",
       "source": "",
       "category": "company"
     },
@@ -1354,6 +1354,10 @@
     {
       "date": "2026-10-01",
       "close": 85.2
+    },
+    {
+      "date": "2026-10-02",
+      "close": 86.46
     }
   ],
   "meta": {

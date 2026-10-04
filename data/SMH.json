@@ -1,7 +1,7 @@
 {
   "symbol": "SMH",
   "name": "VanEck Semiconductor ETF",
-  "updated": "2026-10-03T01:02:10.882301+00:00",
+  "updated": "2026-10-04T00:27:43.928836+00:00",
   "news": [
     {
       "title": "Micron's AI Earnings Surge Boosts Korean Semiconductor Hopes - chosun.com",
@@ -1354,6 +1354,10 @@
     {
       "date": "2026-10-01",
       "close": 617.81
+    },
+    {
+      "date": "2026-10-02",
+      "close": 630.6
     }
   ],
   "meta": {

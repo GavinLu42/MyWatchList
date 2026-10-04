@@ -1,7 +1,7 @@
 {
   "symbol": "FXAIX",
   "name": "Fidelity 500 Index Fund",
-  "updated": "2026-10-03T01:02:06.287202+00:00",
+  "updated": "2026-10-04T00:27:39.742478+00:00",
   "news": [
     {
       "title": "Stock Market News From Sept. 30, 2026: Dow, S&P 500 Fall; Nasdaq Rises After PCE Inflation Data; Boeing, GameStop, Robinhood, Micron and More Movers - barrons.com",
@@ -142,6 +142,13 @@
       "pubDate": "Wed, 30 Sep 2026 20:31:45 GMT",
       "source": "",
       "category": "sector"
+    },
+    {
+      "title": "Moving Averages of the Ivy Portfolio and S&P 500: September 2026 - Advisor Perspectives",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNajkxdTJraTB2QzBNNmZYTUJ4Z0drWVRQZ21XTWxyWWZ2aElmbkF2cXFoX3AyX0N1SDNIU3J1QzdLSk00Y1JocVNFTHNBTHBLUVlkVU1NeXVjTlJtYnA4RlhNcEhzWlAtam5CVXNVODFYMlM5dkozS0NyWmp3Mngwc0ZzbUgzMHZONlQxaTZ0enBnTVptTTZWVlJhejFjeDBYQkViYXZtRFhmSjgtdnExMUtR?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
     },
     {
       "title": "S&P 500 vs. Dow Jones: Which Performs Better? - SmartAsset.com",
@@ -343,13 +350,6 @@
       "title": "9 'Boring' Index Funds That Could Quietly Grow Your Wealth - aol.com",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82Y2tLM3BoRk5Da0cxcS0tMTNCRkVLY2wzMWFsRTlaVXdMQ3VwdHFUWm5xSWhHOEVWTEpCMjd4Sk1Rd0haS1ljZWk1dDZMWGNUSS1fczh3RTVKdmpVWVNvTlVVanJzY1RDUlVSd1RteV9JcFQ5cU14RFJR?oc=5",
       "pubDate": "Wed, 13 May 2026 07:00:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
-      "title": "The Best Index Funds and How to Start Investing - NerdWallet",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RNS1vM2JCWkxacmVGYWdFRzVyZE1oeUR3MlZ3MTk3eDlneUFiR1B6R21pXzNHSGFTdEdCQlNNMmVCZ2FST0N4UERvVkY3ZWZFMVQweW9XWS0wbEMyd1hJVDZydC1BLXNHbV83TTJKUnhPYjA1ZU9WSUpQcw?oc=5",
-      "pubDate": "Wed, 12 Nov 2025 19:43:51 GMT",
       "source": "",
       "category": "company"
     }
@@ -1354,6 +1354,10 @@
     {
       "date": "2026-10-01",
       "close": 267.05
+    },
+    {
+      "date": "2026-10-02",
+      "close": 268.32
     }
   ],
   "meta": {
@@ -1382,20 +1386,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1790928000,
         "end": 1790947800,
+        "start": 1790928000,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1790947800,
         "end": 1790971200,
+        "start": 1790947800,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1790971200,
         "end": 1790985600,
+        "start": 1790971200,
         "gmtoffset": -14400
       }
     },

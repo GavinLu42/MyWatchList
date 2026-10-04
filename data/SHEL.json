@@ -1,8 +1,15 @@
 {
   "symbol": "SHEL",
   "name": "Shell plc",
-  "updated": "2026-10-03T01:02:15.708769+00:00",
+  "updated": "2026-10-04T00:27:48.157855+00:00",
   "news": [
+    {
+      "title": "Canadian Oil and Gas Industry on Track for Biggest Dealmaking Boom in a Decade, Analysts Say - energynow.ca",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUFJMMk9XdFdoRGlQWWJib2dBbWZ2Ylo2MmcxVTFrM084d0hhUXluYjNmc1I5c3gwYTV2UzBkMkxMc1VneGdyU2twUFpxTHBZa1BpbElMRkxHNGRhLXpFcHhRVW9rMldrSjV3dVRfb3RjVVVvUExxMWhiMFY2QkR4dEFNOHE0aXpzNFRyZUZ1dGVHOGFuTk9SRFQ4LVo4UDIzaDl6Y2FfbVlxTG9hWW5ocnpRU2EwbGFGVnZyS0l3?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 23:57:14 GMT",
+      "source": "",
+      "category": "sector"
+    },
     {
       "title": "Operator Upstream Outlook:Value Creation and Execution Excellence - Mexico Business News",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRk9pM1VMTVNIanJCd0lZUFNpdk5kMWEwQ2RiNFowejdOOV8xS1B6N0ZSMXJsbnI3LUJSVnVXeVRheFRpUTQxMVAwRXNKUFdyekZiVWExX29aVW5oWmpVcjlxcHZFckxqRnZ3al9tMGtBLUdSQUg0UDl1TXhTYWx3Q2FWSHlMUzRKbENEa01Dc3NrbTlJLTdtWHpFbUtFWnJ2bDRoYmNQdlpkOTg?oc=5",
@@ -140,13 +147,6 @@
       "title": "3 Energy Stocks With Cash Flow Leverage to Higher Oil and Gas Prices - simplywall.st",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLUZjbjZMWFc1MmMtcmlOTGpkM1ZvRnFvRXh5Q3RrWE01Y3U4bUZqczNEbGp0OXRqZS1BSU9WUXdJQ2NCZXZTXzBqREcwbWNldFVkWDkwNHB5TzZNbzEtUFF4c3dIR0RmRnVQVlpPYy02bDkxa2JERkx1NGtMSFdaczZmeDNaNHZNeERvOHkwczRadFZ5eUJmbksxVDBxV0FDb0hJOTgwVWNJVmdpUUxZTEVhSlhNdElfMTdCVHlrek5kSlJtYlA4NUdMTXFlUdIB0wFBVV95cUxQQlVuamhHYVJCUnpBdXU1S0NFXzh3OEE2Yl9OV0N1dmh6enpobnRnMjFuU2FPSXRQN3FjVE53M2hTaGZsTndpMzNxbjBXaDNFWTZnMnEwWnR2TmNtUDJ6SXJsQmw5OWx3Yjl2QnNUeGlHOXNwMDgzYkpNNXJNVlhXTTR0RmZsZ21VX1loZVVTR3ZXamJlUlVqcnRCc1lYMU81ak1QRkoxdVFYN19uc3l2TGZDc1RldUVNZC1ZMGU4MVlEVUx2Z1plZXRDTi1TYXB5bjhV?oc=5",
       "pubDate": "Wed, 30 Sep 2026 20:02:23 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "New UK gas and oil projects are a \u2018no-brainer\u2019, says EDF boss - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc1FobldIMU9DZ0lDamdxVHNUWmJVRzNGZ2tLVk9naU9fYmpIODdnUXh0T1ZYNlJpV0Vwa0xGcmVoRjVwNHptT2RhR0o5WUM3VGVqZEduNVZsMzBmbjZyYm5Ec0NBcFFNaHhjMGdtUWh1aF90eURGQzBzUTlKZnZwZGpzWkxvZ3hDbjZDal9zUkNBdml5cDlpOVJB?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 20:00:00 GMT",
       "source": "",
       "category": "sector"
     },
@@ -1354,6 +1354,10 @@
     {
       "date": "2026-10-01",
       "close": 95.61
+    },
+    {
+      "date": "2026-10-02",
+      "close": 96.23
     }
   ],
   "meta": {
