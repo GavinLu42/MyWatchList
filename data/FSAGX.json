@@ -1,7 +1,7 @@
 {
   "symbol": "FSAGX",
   "name": "Fidelity Select Gold Portfolio",
-  "updated": "2026-10-04T00:27:41.707244+00:00",
+  "updated": "2026-10-05T00:41:18.225359+00:00",
   "news": [
     {
       "title": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise - Reuters",
@@ -256,6 +256,13 @@
       "category": "company"
     },
     {
+      "title": "Skeena Resources Limited (SKE) Stock Major Holders - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GQ3RRMzIzM0ZreTdMTjJhb293dFZ6ZHZkbU5PdmRnS2U3NnRESjJnR2kwdTJjV05xR2NpM3h1V2hhLWdHWUNOY2VzbTJrNU9zYWNoMklYZ1VFbGs?oc=5",
+      "pubDate": "Wed, 10 Nov 2021 21:37:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "4 Top No-Load Mutual Funds to Buy Ahead of 2026 - finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44cmtNNTFpWUNDRGswV2hYUmdSYlN3TWp1SEpnVjRMTUVSVVkyNE5ONE50WHV3WE8wd3dLTUUyVFhkbHg5RGpOREJaMTFfb1NUUVVoUXFJVTNCM0c4WXY0dDVKSVlENUZKaE02VXB1R1ZXNVZW?oc=5",
       "pubDate": "Wed, 10 Dec 2025 08:00:00 GMT",
@@ -343,13 +350,6 @@
       "title": "Managed Gold Fund Holdings and Attribution Analysis - May 2024 - TMX Newsfile",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNzFTRXJGU3A5SUdPZjdhZ0t3a1N1Nkh0V1UzZFo5REpJY19hLXlDLWJuazdRaWJpbkFhTWVEcG4zWGhMY0E4Mm56b1BEdWFtOW1hNjVla2FiWW5laFAxQk02M3VyMWp5eWhIQXQtNU9MNFRvYldRVlRMRFdvNFJSYk5adUVBcnc3aDlpVnBTOWtFVEdnVURCaUFDQnNHUi0tY3hhSEdvNA?oc=5",
       "pubDate": "Tue, 28 May 2024 07:00:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
-      "title": "How to Buy Gold - money.com",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBjYVFDaWYwVHRHeWpNQkE4YVpKaVRBeWwtd1pCb2hYOUxJRmlTTWVQMTV1ZjRyQU1HMVFmbHVHRWpRVWJsSFc0Nk9R?oc=5",
-      "pubDate": "Tue, 26 May 2020 10:03:38 GMT",
       "source": "",
       "category": "company"
     }
@@ -1386,20 +1386,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1790928000,
         "end": 1790947800,
+        "start": 1790928000,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1790947800,
         "end": 1790971200,
+        "start": 1790947800,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1790971200,
         "end": 1790985600,
+        "start": 1790971200,
         "gmtoffset": -14400
       }
     },

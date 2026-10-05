@@ -1,7 +1,7 @@
 {
   "symbol": "SMH",
   "name": "VanEck Semiconductor ETF",
-  "updated": "2026-10-04T00:27:43.928836+00:00",
+  "updated": "2026-10-05T00:41:20.486289+00:00",
   "news": [
     {
       "title": "Micron's AI Earnings Surge Boosts Korean Semiconductor Hopes - chosun.com",
@@ -142,6 +142,13 @@
       "pubDate": "Wed, 30 Sep 2026 13:30:06 GMT",
       "source": "",
       "category": "sector"
+    },
+    {
+      "title": "Is State Street SPDR S&P Semiconductor ETF (XSD) a Strong ETF Right Now? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUk0teW1wSlVWRFZ6QnVid0JoRFFIZlU5RV9PMXRTVm95Qkg5TDZtM0RUbVNyWjdjRU5pMkhNbjhPaUR1N05NNHNBUGlqYXdlUFAyaWFpM1hYeHRGTjVFUlByZUZUSV92MWJyTk9taURVRWV2XzVwbXJpekM2T2Z6S1Y3a0ZxOGpOcHlEdmpucnU2Zkt3ZGVtdnBPV2p4cU0?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 09:20:02 GMT",
+      "source": "",
+      "category": "company"
     },
     {
       "title": "VanEck Semiconductor ETF \u2022 Robinhood Token (SMH) Price Prediction for 2026 to 2031 - Bybit",
@@ -343,13 +350,6 @@
       "title": "VanEck Semiconductor ETF Options Spot-On: On September 23rd, 196.18K Contracts Were Traded, With 1.76 Million Open Interest - \u5bcc\u9014\u725b\u725b",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM04zempKWFNzM3ZYdWxzd25hU0dXdkJTNkNVNjFVSk9QVUp1RFIxYUdtOF90WDdidnloMTJ2TVNDNmgyVjZkWjV1TTloSl82T1NQZy1VSkhjc2RWSVRRV1dHS1c0TUNESEg2WDl3Nlc5UUpmVXBGc3V2UXJxaF93LWd2S1doTkxoRXpTOHZFM0ZHc0U1dmVuV2dYMDN2cDB1VkFqVk1WaHo?oc=5",
       "pubDate": "Wed, 23 Sep 2026 21:38:41 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
-      "title": "VanEck Semiconductor ETF (SMH) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sdmFESnNQOTlpU1ZjU2ZLUjNFQmlNYTg5cWVRVWVpMWJfTlc3b3BZd3RNRng1eWtYVnV1SC1TbU5TR1ZFNXQ2N3RnQWlNVDNP?oc=5",
-      "pubDate": "Wed, 23 Sep 2026 16:41:26 GMT",
       "source": "",
       "category": "company"
     }
@@ -1374,14 +1374,14 @@
     "exchangeTimezoneName": "America/New_York",
     "regularMarketPrice": 630.6,
     "regularMarketChangePercent": 2.07,
-    "fulldayPrice": 630.75,
+    "fulldayPrice": 635.8,
     "fulldayChange": 12.79,
     "fulldayChangePercent": 2.07,
     "fiftyTwoWeekHigh": 671.83,
     "fiftyTwoWeekLow": 315.05,
     "regularMarketDayHigh": 636.25,
     "regularMarketDayLow": 628.55,
-    "regularMarketVolume": 7296894,
+    "regularMarketVolume": 7328587,
     "longName": "VanEck Semiconductor ETF",
     "shortName": "VanEck Semiconductor ETF",
     "chartPreviousClose": 338.24,
@@ -1389,20 +1389,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1790928000,
         "end": 1790947800,
+        "start": 1790928000,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1790947800,
         "end": 1790971200,
+        "start": 1790947800,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1790971200,
         "end": 1790985600,
+        "start": 1790971200,
         "gmtoffset": -14400
       }
     },

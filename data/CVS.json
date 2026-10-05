@@ -1,7 +1,7 @@
 {
   "symbol": "CVS",
   "name": "CVS Health",
-  "updated": "2026-10-04T00:27:45.961278+00:00",
+  "updated": "2026-10-05T00:41:22.434732+00:00",
   "news": [
     {
       "title": "Cvs Health Declares Quarterly Dividend - TradingView",
@@ -200,6 +200,13 @@
       "category": "sector"
     },
     {
+      "title": "2022 U.S. Pharmacy Study - JD Power",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00Mjk2ZTRGbWxwUlFNdGlqbmd0QTNlbHN0UGdrTW5tLXg2dEx3SzU5NG1RdW4yUnJNenpUZ0k2YVFKaDJlMzllZFpmNGdkYVBoS3FsTElRYV9yLUswQ3JfdVBueE5Ib0ZzVVQ3TkpDUFQtdXljdTF0TFJ1UQ?oc=5",
+      "pubDate": "Wed, 27 Jul 2022 07:00:00 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
       "title": "Onos Health Raises $17M to Expand AI-Powered Behavioral Health Platform - MedCity News",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM29xU0ZUTzh3RGM5UjJkU1RJMEhwVXFOc0ZLMUZ5MURtMTlSdXI5Q29IOVczY2lNTk5IMVRQTWptRkY5cExzekpCcE9paVg2NFk1ZHpWYnZWdTZLSnZfX0pMQzR6aE1lc045VmRWRjhjNno5bHJ5OGJvRm11TUpZb0V5UmVkVEw0UlBPLURXUTVNNm8zM3RYR3FCZE9HMFBPVGF3RnJB?oc=5",
       "pubDate": "Wed, 26 Aug 2026 21:45:02 GMT",
@@ -343,13 +350,6 @@
       "title": "CVS may split up pharmacy, Aetna health plan business - Healthcare Brew",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNclE3cTNBQlA3dko4bS1UVnZveGVFNVU1TUtkR2RjV1Z3YnZjUW5ZcUVPZ1ZvMDJGeThtZ3pMVVIyb2U5ZTFucmExU0ZockxOOThwQ05saFd3dWlwNGc3d2ZacW9VYzZQcWdoQmFQR3lDQjJ6ZVI4SU02UDVlbHk5elZXWkswU1loZjY2YWZKd1k0Y1NW?oc=5",
       "pubDate": "Wed, 16 Oct 2024 07:00:00 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Pharmacy Market Size to Hit USD 1.99 Trillion by 2035 - Precedence Research",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GTERvUlNORWRJaWJoYWZFMUU1eTRnTjZoS01sU2ZGci1uWm05Mm45Rk16Y3FMeHpGTE5JNVh5YlRrRGExUl9iZ0Fkc0ZJemFVN21nUXRGREp5QzlHRjBR?oc=5",
-      "pubDate": "Wed, 16 Mar 2022 13:47:54 GMT",
       "source": "",
       "category": "sector"
     }
@@ -1374,7 +1374,7 @@
     "exchangeTimezoneName": "America/New_York",
     "regularMarketPrice": 86.46,
     "regularMarketChangePercent": 1.479,
-    "fulldayPrice": 86.934,
+    "fulldayPrice": 86.46,
     "fulldayChange": 1.26,
     "fulldayChangePercent": 1.479,
     "fiftyTwoWeekHigh": 110.68,
