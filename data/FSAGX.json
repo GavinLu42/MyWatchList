@@ -1,7 +1,7 @@
 {
   "symbol": "FSAGX",
   "name": "Fidelity Select Gold Portfolio",
-  "updated": "2026-10-05T00:41:18.225359+00:00",
+  "updated": "2026-10-06T02:09:47.089417+00:00",
   "news": [
     {
       "title": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise - Reuters",
@@ -214,6 +214,13 @@
       "category": "company"
     },
     {
+      "title": "How to Buy Gold - money.com",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBjYVFDaWYwVHRHeWpNQkE4YVpKaVRBeWwtd1pCb2hYOUxJRmlTTWVQMTV1ZjRyQU1HMVFmbHVHRWpRVWJsSFc0Nk9R?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "Montage Gold Corp. (MAU.TO) stock major holders - Yahoo Finance Australia",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oZy1hWE1sZHBCQ3N5cWVwd2x1LVQzbDVSRU1rbEk4TW5pM0NURDJrT3RfRUt3T2tMeEpWTHNZT1lvX0FCYUg0T1NEcEoxd1luREVVSWxISndMdjd2S0NV?oc=5",
       "pubDate": "Wed, 14 May 2025 04:50:54 GMT",
@@ -345,20 +352,9 @@
       "pubDate": "Tue, 30 May 2023 07:00:00 GMT",
       "source": "",
       "category": "company"
-    },
-    {
-      "title": "Managed Gold Fund Holdings and Attribution Analysis - May 2024 - TMX Newsfile",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNzFTRXJGU3A5SUdPZjdhZ0t3a1N1Nkh0V1UzZFo5REpJY19hLXlDLWJuazdRaWJpbkFhTWVEcG4zWGhMY0E4Mm56b1BEdWFtOW1hNjVla2FiWW5laFAxQk02M3VyMWp5eWhIQXQtNU9MNFRvYldRVlRMRFdvNFJSYk5adUVBcnc3aDlpVnBTOWtFVEdnVURCaUFDQnNHUi0tY3hhSEdvNA?oc=5",
-      "pubDate": "Tue, 28 May 2024 07:00:00 GMT",
-      "source": "",
-      "category": "company"
     }
   ],
   "prices": [
-    {
-      "date": "2025-10-03",
-      "close": 53.47
-    },
     {
       "date": "2025-10-06",
       "close": 54.5
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-10-02",
       "close": 61.07
+    },
+    {
+      "date": "2026-10-05",
+      "close": 61.0
     }
   ],
   "meta": {
@@ -1367,39 +1367,39 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 503591400,
-    "regularMarketTime": 1790986142,
+    "regularMarketTime": 1791245297,
     "hasPrePostMarketData": false,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 61.07,
-    "regularMarketChangePercent": 0.892,
-    "fulldayPrice": 61.07,
-    "fulldayChange": 0.54,
-    "fulldayChangePercent": 0.892,
+    "regularMarketPrice": 61.0,
+    "regularMarketChangePercent": -0.115,
+    "fulldayPrice": 61.0,
+    "fulldayChange": -0.07,
+    "fulldayChangePercent": -0.115,
     "fiftyTwoWeekHigh": 79.83,
     "fiftyTwoWeekLow": 47.53,
     "longName": "Fidelity Select Gold",
     "shortName": "Fidelity Select Gold Pt",
-    "chartPreviousClose": 53.29,
+    "chartPreviousClose": 53.47,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1790947800,
-        "start": 1790928000,
+        "start": 1791187200,
+        "end": 1791207000,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1790971200,
-        "start": 1790947800,
+        "start": 1791207000,
+        "end": 1791230400,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1790985600,
-        "start": 1790971200,
+        "start": 1791230400,
+        "end": 1791244800,
         "gmtoffset": -14400
       }
     },

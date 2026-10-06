@@ -1,7 +1,7 @@
 {
   "symbol": "SHEL",
   "name": "Shell plc",
-  "updated": "2026-10-05T00:41:24.834165+00:00",
+  "updated": "2026-10-06T02:09:53.771455+00:00",
   "news": [
     {
       "title": "Canadian Oil and Gas Industry on Track for Biggest Dealmaking Boom in a Decade, Analysts Say - energynow.ca",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-10-03",
-      "close": 73.21
-    },
     {
       "date": "2025-10-06",
       "close": 74.27
@@ -1367,42 +1363,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 447949800,
-    "regularMarketTime": 1790971202,
+    "regularMarketTime": 1791230402,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 96.23,
-    "regularMarketChangePercent": 0.648,
-    "fulldayPrice": 96.93,
-    "fulldayChange": 0.62,
-    "fulldayChangePercent": 0.648,
+    "regularMarketPrice": 96.52,
+    "regularMarketChangePercent": 0.301,
+    "fulldayPrice": 96.52,
+    "fulldayChange": 0.29,
+    "fulldayChangePercent": 0.301,
     "fiftyTwoWeekHigh": 99.155,
     "fiftyTwoWeekLow": 68.625,
-    "regularMarketDayHigh": 96.38,
-    "regularMarketDayLow": 94.97,
-    "regularMarketVolume": 6634478,
+    "regularMarketDayHigh": 96.955,
+    "regularMarketDayLow": 94.765,
+    "regularMarketVolume": 6714097,
     "longName": "Shell plc",
     "shortName": "Shell PLC",
-    "chartPreviousClose": 71.77,
+    "chartPreviousClose": 73.21,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1790947800,
-        "start": 1790928000,
+        "start": 1791187200,
+        "end": 1791207000,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1790971200,
-        "start": 1790947800,
+        "start": 1791207000,
+        "end": 1791230400,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1790985600,
-        "start": 1790971200,
+        "start": 1791230400,
+        "end": 1791244800,
         "gmtoffset": -14400
       }
     },
