@@ -1,7 +1,7 @@
 {
   "symbol": "SMH",
   "name": "VanEck Semiconductor ETF",
-  "updated": "2026-10-06T02:09:49.332387+00:00",
+  "updated": "2026-10-07T01:22:40.408538+00:00",
   "news": [
     {
       "title": "Micron's AI Earnings Surge Boosts Korean Semiconductor Hopes - chosun.com",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-10-06",
-      "close": 343.38
-    },
     {
       "date": "2025-10-07",
       "close": 337.05
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-10-05",
       "close": 633.9
+    },
+    {
+      "date": "2026-10-06",
+      "close": 632.5
     }
   ],
   "meta": {
@@ -1367,42 +1367,42 @@
     "fullExchangeName": "NasdaqGM",
     "instrumentType": "ETF",
     "firstTradeDate": 960211800,
-    "regularMarketTime": 1791230400,
+    "regularMarketTime": 1791316800,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 633.9,
-    "regularMarketChangePercent": 0.523,
-    "fulldayPrice": 633.9,
-    "fulldayChange": 3.08,
-    "fulldayChangePercent": 0.488,
+    "regularMarketPrice": 632.5,
+    "regularMarketChangePercent": -0.221,
+    "fulldayPrice": 633.67,
+    "fulldayChange": -0.201,
+    "fulldayChangePercent": -0.032,
     "fiftyTwoWeekHigh": 671.83,
     "fiftyTwoWeekLow": 315.05,
-    "regularMarketDayHigh": 634.78,
-    "regularMarketDayLow": 626.96,
-    "regularMarketVolume": 3482979,
+    "regularMarketDayHigh": 639.47,
+    "regularMarketDayLow": 631.49,
+    "regularMarketVolume": 5069272,
     "longName": "VanEck Semiconductor ETF",
     "shortName": "VanEck Semiconductor ETF",
-    "chartPreviousClose": 336.68,
+    "chartPreviousClose": 343.38,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1791187200,
-        "end": 1791207000,
+        "start": 1791273600,
+        "end": 1791293400,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1791207000,
-        "end": 1791230400,
+        "start": 1791293400,
+        "end": 1791316800,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1791230400,
-        "end": 1791244800,
+        "start": 1791316800,
+        "end": 1791331200,
         "gmtoffset": -14400
       }
     },

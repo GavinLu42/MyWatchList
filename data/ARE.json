@@ -1,11 +1,18 @@
 {
   "symbol": "ARE",
   "name": "Alexandria Real Estate Equities",
-  "updated": "2026-10-06T02:09:56.092057+00:00",
+  "updated": "2026-10-07T01:22:46.816673+00:00",
   "news": [
     {
       "title": "O'Melveny Guides $5B Alexandria Real Estate Credit Line - Law360",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMGpvSlR6UkFVQzEwaXhTeFoxQ1RoWGtYMmc2NkxhMkxOTHowTjg1N0hNWU1oMGZpdDR1REhXWFB1LVRaY0g2a1Bsd1pvLWcyXzRMU1MzeFdTT21KTnRHZVJYRFEzbVItbElicmNiaUxwbEN2Z2JURldOeXNrOFhoMzJLcGF6RE5qRE5WLXBPbDE3b09kMVRGX0IwYUctTW9MN1hndGU1R2RFdVUtMkxaZHMxZ3N3NnBPWEkxQXpMZ0hoMW55UnfSAXNBVV95cUxPeC02U3BvN0NjeXpWM2QwRXBzcWduSlJzbXZ4LWhqdl9Hc1RVdTNNY19rOFgtYVIyM21wLXBkdHA2bkRoZk1CQWJJWFZ0b2MyRVM1Ukc5TmxiQ1V1eWZqcDIyYU1NNnF6OGphSEdpY1FYY2JV?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 18:56:45 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "O'Melveny Guides $5B Alexandria Real Estate Credit Line - Law360",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc0NOd2R2STlLS3k0am04SEdYczU5amlKTnlaYlRkTDZfb1ZxYkgwVzVBRS1XVmxVektySlZfTkY1eENTNW5YNmR4ajZEeG10alpVOWo4Rlk3Tk9hV1lzU3c5ZC1MVm9qTlI1YXFYN1lJM2xwQmtSUnVVZUdJWTQ0MkJFaFFWNWJ6ZVhIQ3dUNUhYdFVILU5ZczZ30gFzQVVfeXFMT3gtNlNwbzdDY3l6VjNkMEVwc3FnbkpSc212eC1oanZfR3NUVXUzTWNfazhYLWFSMjNtcC1wZHRwNm5EaGZNQkFiSVhWdG9jMkVTNVJHOU5sYkNVdXlmanAyMmFNTTZxejhqYUhHaWNRWGNiVQ?oc=5",
       "pubDate": "Wed, 30 Sep 2026 18:56:45 GMT",
       "source": "",
       "category": "company"
@@ -284,13 +291,6 @@
       "category": "company"
     },
     {
-      "title": "Why Is Alexandria Real Estate Equities (ARE) Down 7.6% Since Last Earnings Report? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLS1qUWluWkpjOXU2Q1Ita01lT09xMjA5Z21ybzdlbTF6Ty1iXy1YcjM1aFNHaDVHZ3RtWmFEMFhhc0Z5Tm05UUYyTVRHM2Y0dFhwbjd5a01ybjItR2t1TUVlbFZOcm85cXF3MmpXTTIyQjRYaFpYb0tHa1hTMnU2SnZoX2Z1TTNY?oc=5",
-      "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
       "title": "R.I.\u2019s first life science incubator to open in early 2026, with five inaugural companies - bostonglobe.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMUpXbmV4YlNFQmRzTmJwZEdOT3hfZzJaQXk1b294TmJjTnNVWmR0Rlp5OGNSNUw3TnRKb2VINDNBeUhYcm90d3o0dzRNTlg0OExYNEoyWkl3czNaSldVSEltV2dBWDRHWGcyZll0MUctbmVxbWd6WmNlZU5ka0RaX2xRUDNZZw?oc=5",
       "pubDate": "Wed, 24 Sep 2025 07:00:00 GMT",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-10-06",
-      "close": 79.99
-    },
     {
       "date": "2025-10-07",
       "close": 78.09
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-10-05",
       "close": 45.88
+    },
+    {
+      "date": "2026-10-06",
+      "close": 45.92
     }
   ],
   "meta": {
@@ -1367,42 +1367,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 864826200,
-    "regularMarketTime": 1791230402,
+    "regularMarketTime": 1791316803,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 45.88,
-    "regularMarketChangePercent": -3.145,
-    "fulldayPrice": 45.88,
-    "fulldayChange": -1.3,
-    "fulldayChangePercent": -2.744,
+    "regularMarketPrice": 45.92,
+    "regularMarketChangePercent": 0.087,
+    "fulldayPrice": 45.92,
+    "fulldayChange": 0.04,
+    "fulldayChangePercent": 0.087,
     "fiftyTwoWeekHigh": 80.5,
     "fiftyTwoWeekLow": 39.41,
-    "regularMarketDayHigh": 48.02,
-    "regularMarketDayLow": 45.58,
-    "regularMarketVolume": 2282903,
+    "regularMarketDayHigh": 47.115,
+    "regularMarketDayLow": 45.79,
+    "regularMarketVolume": 1736153,
     "longName": "Alexandria Real Estate Equities, Inc.",
     "shortName": "Alexandria Real Estate Equities",
-    "chartPreviousClose": 83.8,
+    "chartPreviousClose": 79.99,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1791207000,
-        "start": 1791187200,
+        "start": 1791273600,
+        "end": 1791293400,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1791230400,
-        "start": 1791207000,
+        "start": 1791293400,
+        "end": 1791316800,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1791244800,
-        "start": 1791230400,
+        "start": 1791316800,
+        "end": 1791331200,
         "gmtoffset": -14400
       }
     },

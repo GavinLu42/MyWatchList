@@ -1,7 +1,7 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-10-06T02:09:58.272428+00:00",
+  "updated": "2026-10-07T01:22:48.880023+00:00",
   "news": [
     {
       "title": "Thermo Fisher Scientific stock raises guidance and trades at EUR 596.90 - AD HOC NEWS",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-10-06",
-      "close": 543.95
-    },
     {
       "date": "2025-10-07",
       "close": 539.17
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-10-05",
       "close": 676.76
+    },
+    {
+      "date": "2026-10-06",
+      "close": 656.58
     }
   ],
   "meta": {
@@ -1367,42 +1367,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 322151400,
-    "regularMarketTime": 1791230402,
+    "regularMarketTime": 1791316802,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 676.76,
-    "regularMarketChangePercent": 3.354,
-    "fulldayPrice": 676.76,
-    "fulldayChange": 23.76,
-    "fulldayChangePercent": 3.629,
-    "fiftyTwoWeekHigh": 683.63,
+    "regularMarketPrice": 656.58,
+    "regularMarketChangePercent": -2.982,
+    "fulldayPrice": 656.58,
+    "fulldayChange": -17.76,
+    "fulldayChangePercent": -2.624,
+    "fiftyTwoWeekHigh": 694.325,
     "fiftyTwoWeekLow": 435.27,
-    "regularMarketDayHigh": 676.76,
-    "regularMarketDayLow": 648.04,
-    "regularMarketVolume": 2107014,
+    "regularMarketDayHigh": 694.325,
+    "regularMarketDayLow": 654.51,
+    "regularMarketVolume": 2748218,
     "longName": "Thermo Fisher Scientific Inc.",
     "shortName": "Thermo Fisher Scientific Inc",
-    "chartPreviousClose": 543.32,
+    "chartPreviousClose": 543.95,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1791207000,
-        "start": 1791187200,
+        "start": 1791273600,
+        "end": 1791293400,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1791230400,
-        "start": 1791207000,
+        "start": 1791293400,
+        "end": 1791316800,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1791244800,
-        "start": 1791230400,
+        "start": 1791316800,
+        "end": 1791331200,
         "gmtoffset": -14400
       }
     },
