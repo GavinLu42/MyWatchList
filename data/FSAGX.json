@@ -1,7 +1,7 @@
 {
   "symbol": "FSAGX",
   "name": "Fidelity Select Gold Portfolio",
-  "updated": "2026-10-08T01:45:06.801051+00:00",
+  "updated": "2026-10-09T01:56:11.087908+00:00",
   "news": [
     {
       "title": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise - Reuters",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-10-08",
-      "close": 54.55
-    },
     {
       "date": "2025-10-09",
       "close": 52.14
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-10-07",
       "close": 59.67
+    },
+    {
+      "date": "2026-10-08",
+      "close": 60.43
     }
   ],
   "meta": {
@@ -1367,39 +1367,39 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 503591400,
-    "regularMarketTime": 1791418071,
+    "regularMarketTime": 1791504522,
     "hasPrePostMarketData": false,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 59.67,
-    "regularMarketChangePercent": -3.117389,
-    "fulldayPrice": 59.67,
-    "fulldayChange": -1.92,
-    "fulldayChangePercent": -3.117389,
+    "regularMarketPrice": 60.43,
+    "regularMarketChangePercent": 1.273672,
+    "fulldayPrice": 60.43,
+    "fulldayChange": 0.76,
+    "fulldayChangePercent": 1.273672,
     "fiftyTwoWeekHigh": 79.83,
     "fiftyTwoWeekLow": 47.53,
     "longName": "Fidelity Select Gold",
     "shortName": "Fidelity Select Gold Pt",
-    "chartPreviousClose": 53.55,
+    "chartPreviousClose": 54.55,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1791360000,
-        "end": 1791379800,
+        "start": 1791446400,
+        "end": 1791466200,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1791379800,
-        "end": 1791403200,
+        "start": 1791466200,
+        "end": 1791489600,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1791403200,
-        "end": 1791417600,
+        "start": 1791489600,
+        "end": 1791504000,
         "gmtoffset": -14400
       }
     },
