@@ -1,7 +1,7 @@
 {
   "symbol": "ARE",
   "name": "Alexandria Real Estate Equities",
-  "updated": "2026-10-09T01:56:19.792082+00:00",
+  "updated": "2026-10-10T01:38:39.133545+00:00",
   "news": [
     {
       "title": "O'Melveny Guides $5B Alexandria Real Estate Credit Line - Law360",
@@ -270,6 +270,13 @@
       "category": "company"
     },
     {
+      "title": "Goldman Sachs Adjusts Price Target on Alexandria Real Estate Equities to $54 From $52, Keeps Neutral Rating - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQamxsNktxUzRwb0R2N2RMMWxVWVV1WVFWUDY0NV9Wck0zZFVNeFk3TzNtbVhCMUZlVUtub1c2V2Fpc0lmMTFuVHh2a3VHVV9yWTgwOUp1LVZoWk13MGdDdk1SajlGZEJkRV9Pemtta0I0QWc2N1N3OWJvS3kzVXB1Rkp6dFJ5ZjlqS3hOSUVmazFNNWxlTHJES2JEOGlEQlFp?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "Boston's lab market is down, but it still leads the country - NBC Boston",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdEZnblVhNkl6T05ocnZEa0xDTTNMaGZRQUNfeE5NenZERk5Hd1IyU285MFRVS1laOWxRS0plWElrclJqVy1Od2JUQXZfS1dXdWhpT1ZScFE3R1N1QndHRjVnbDNjaHNSSVF2aVRoSVhTazVlVHpNNVZnQVRnVndVM3dyOTdsT3FQU2J0QWJR0gGWAUFVX3lxTFBMSFlCR1FvaHc5OGZaekFZdVBuRXVuYWNiZDZGNC05TzBrVFhpUE93dDhUZFVfM3Z5YldJYWtIcHpRTDRoZ01OUlpoc0ZxTlF2OEM2UWc4Vi1zMFNlVG1NNHRNalZfemdocWtjVURUWi15QWI4cldNdHZxTU1GQlZvRGNVTWdtSmJkR1ByUzNmU3VhV2VvUQ?oc=5",
       "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
@@ -280,13 +287,6 @@
       "title": "Alexandria Real Estate Equities (ARE) On Its October Results Date And A Valuation Split - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd2FoXzRtOEpKMEtheU1PaThRRHJEN0RUUmNsVWpRZzhla3ZUcUFGT2p2Wm5VMFVQY21SdWxhdlU4b3lRd0xUUUtTenIyXzdkS0c4ZjBHdVU1amFwT1BnYWhYeVFIT2E2RTI1aUxLRFNBYVowc21XRmU1Z1JuSlJKMm9fWTBoczRqVGV6YXk0bl9QdDAtU0tvQUp2RDI5OU41Z1V3aDZRQQ?oc=5",
       "pubDate": "Wed, 26 Aug 2026 06:18:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
-      "title": "Alexandria Real Estate Equities (ARE) Stock Looks Below Fair Value Today - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSHNIYlJNcXQwZjNhQ0tNN3cwQVJ1SGdIbG00VERJTEFqY3dDMFJGcVh5OG56ZG1ENUtiYW9nR2hBOHNwNnF3dXBObVAxTnBxYkJSMTl5TlpSWU5oTjVMdTMxWEc5VnU3bVNkNjVjRENsZlZSSXd4QkQ0Wlk4QTAzamwxMUxFT21YVGktM2ltTHd3czd5VjRMUllUY0xfZ3NfSXRXaQ?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 05:06:13 GMT",
       "source": "",
       "category": "company"
     },
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-10-09",
-      "close": 74.43
-    },
     {
       "date": "2025-10-10",
       "close": 73.92
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-10-08",
       "close": 45.6
+    },
+    {
+      "date": "2026-10-09",
+      "close": 45.51
     }
   ],
   "meta": {
@@ -1367,42 +1367,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 864826200,
-    "regularMarketTime": 1791489603,
+    "regularMarketTime": 1791576002,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 45.6,
-    "regularMarketChangePercent": 0.863,
-    "fulldayPrice": 45.6,
-    "fulldayChange": 0.29,
-    "fulldayChangePercent": 0.641,
+    "regularMarketPrice": 45.51,
+    "regularMarketChangePercent": -0.197,
+    "fulldayPrice": 45.51,
+    "fulldayChange": -0.09,
+    "fulldayChangePercent": -0.197,
     "fiftyTwoWeekHigh": 78.54,
     "fiftyTwoWeekLow": 39.41,
-    "regularMarketDayHigh": 45.71,
-    "regularMarketDayLow": 44.2,
-    "regularMarketVolume": 2973387,
+    "regularMarketDayHigh": 45.795,
+    "regularMarketDayLow": 44.8,
+    "regularMarketVolume": 1195499,
     "longName": "Alexandria Real Estate Equities, Inc.",
     "shortName": "Alexandria Real Estate Equities",
-    "chartPreviousClose": 75.22,
+    "chartPreviousClose": 74.43,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1791446400,
-        "end": 1791466200,
+        "end": 1791552600,
+        "start": 1791532800,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1791466200,
-        "end": 1791489600,
+        "end": 1791576000,
+        "start": 1791552600,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1791489600,
-        "end": 1791504000,
+        "end": 1791590400,
+        "start": 1791576000,
         "gmtoffset": -14400
       }
     },
