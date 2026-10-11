@@ -1,7 +1,7 @@
 {
   "symbol": "FXAIX",
   "name": "Fidelity 500 Index Fund",
-  "updated": "2026-10-10T01:38:27.084100+00:00",
+  "updated": "2026-10-11T00:47:27.897042+00:00",
   "news": [
     {
       "title": "Stock Market News From Sept. 30, 2026: Dow, S&P 500 Fall; Nasdaq Rises After PCE Inflation Data; Boeing, GameStop, Robinhood, Micron and More Movers - barrons.com",
@@ -147,6 +147,13 @@
       "title": "Moving Averages of the Ivy Portfolio and S&P 500: September 2026 - Advisor Perspectives",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNajkxdTJraTB2QzBNNmZYTUJ4Z0drWVRQZ21XTWxyWWZ2aElmbkF2cXFoX3AyX0N1SDNIU3J1QzdLSk00Y1JocVNFTHNBTHBLUVlkVU1NeXVjTlJtYnA4RlhNcEhzWlAtam5CVXNVODFYMlM5dkozS0NyWmp3Mngwc0ZzbUgzMHZONlQxaTZ0enBnTVptTTZWVlJhejFjeDBYQkViYXZtRFhmSjgtdnExMUtR?oc=5",
       "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "August 31 Marked the 40th Anniversary of the Index Mutual Fund; It Began with a Single Vanguard Fund in 1976 - American Enterprise Institute - AEI",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdmFtbTEtYUFmTHhFMktBUGYyRlZRVUgxN3hBdEQ3dlg2S1gwQS0tVk9JRjZGZ2FvWEhIejB1dkNBTVBqR1lLTkJfYmhTc0ZvTFZyMXl5NWMwbU56LXBTcmNCOXdDTE5pSkpRd1VMSGFWMVNUWllkSWlPWkNZVVFySXpQMWxsaUJrWGZjN0RuSVRfV3A0UGJmWk1zWWpLeW1fc0xLSEtSR3A4Ymd5V1lRWXVKVUxpWWd6b0lVYzROWQ?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 03:09:30 GMT",
       "source": "",
       "category": "company"
     },
@@ -343,13 +350,6 @@
       "title": "S&P 500 index dividend yield hits nearly 50-year low - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeGxjZGxXWXpnWFRKckJZT0FVbElaT3kxLW9LaXdwMVF6UmI0Ynp5WVpmM05HdEJMaGJvMEdTdTFJRmdsdEhWbWJuWFE1VDF0OHM2SndOMWhQVlRIU0RIYmFtT2FIUEFQWHRFS1J2anhFUlBlRkRKVHFNS3RPZmttM2hubU1NQlZBN2lEYkNVY0lmSkR0NGc?oc=5",
       "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
-      "title": "9 'Boring' Index Funds That Could Quietly Grow Your Wealth - aol.com",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82Y2tLM3BoRk5Da0cxcS0tMTNCRkVLY2wzMWFsRTlaVXdMQ3VwdHFUWm5xSWhHOEVWTEpCMjd4Sk1Rd0haS1ljZWk1dDZMWGNUSS1fczh3RTVKdmpVWVNvTlVVanJzY1RDUlVSd1RteV9JcFQ5cU14RFJR?oc=5",
-      "pubDate": "Wed, 13 May 2026 07:00:00 GMT",
       "source": "",
       "category": "company"
     }
@@ -1386,20 +1386,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1791552600,
         "start": 1791532800,
+        "end": 1791552600,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1791576000,
         "start": 1791552600,
+        "end": 1791576000,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1791590400,
         "start": 1791576000,
+        "end": 1791590400,
         "gmtoffset": -14400
       }
     },
