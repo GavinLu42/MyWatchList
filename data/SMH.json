@@ -1,7 +1,7 @@
 {
   "symbol": "SMH",
   "name": "VanEck Semiconductor ETF",
-  "updated": "2026-10-11T00:47:32.119940+00:00",
+  "updated": "2026-10-12T01:09:40.954915+00:00",
   "news": [
     {
       "title": "Micron's AI Earnings Surge Boosts Korean Semiconductor Hopes - chosun.com",
@@ -1374,14 +1374,14 @@
     "exchangeTimezoneName": "America/New_York",
     "regularMarketPrice": 603.33,
     "regularMarketChangePercent": -0.649,
-    "fulldayPrice": 603.33,
+    "fulldayPrice": 605.5,
     "fulldayChange": -3.77,
     "fulldayChangePercent": -0.621,
     "fiftyTwoWeekHigh": 671.83,
     "fiftyTwoWeekLow": 315.05,
     "regularMarketDayHigh": 615.39,
     "regularMarketDayLow": 601.42,
-    "regularMarketVolume": 5434819,
+    "regularMarketVolume": 5517915,
     "longName": "VanEck Semiconductor ETF",
     "shortName": "VanEck Semiconductor ETF",
     "chartPreviousClose": 345.21,
@@ -1389,20 +1389,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1791552600,
         "start": 1791532800,
+        "end": 1791552600,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1791576000,
         "start": 1791552600,
+        "end": 1791576000,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1791590400,
         "start": 1791576000,
+        "end": 1791590400,
         "gmtoffset": -14400
       }
     },
