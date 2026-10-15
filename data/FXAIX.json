@@ -1,7 +1,7 @@
 {
   "symbol": "FXAIX",
   "name": "Fidelity 500 Index Fund",
-  "updated": "2026-10-14T01:03:44.693699+00:00",
+  "updated": "2026-10-15T00:23:54.039352+00:00",
   "news": [
     {
       "title": "Stock Market News From Sept. 30, 2026: Dow, S&P 500 Fall; Nasdaq Rises After PCE Inflation Data; Boeing, GameStop, Robinhood, Micron and More Movers - barrons.com",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-10-14",
-      "close": 230.85
-    },
     {
       "date": "2025-10-15",
       "close": 231.8
@@ -1354,6 +1350,10 @@
     {
       "date": "2026-10-12",
       "close": 271.32
+    },
+    {
+      "date": "2026-10-13",
+      "close": 271.26
     }
   ],
   "meta": {
@@ -1363,39 +1363,39 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 1304515800,
-    "regularMarketTime": 1791936410,
+    "regularMarketTime": 1792022921,
     "hasPrePostMarketData": false,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 271.26,
-    "regularMarketChangePercent": -0.022,
-    "fulldayPrice": 271.26,
-    "fulldayChange": -0.06,
-    "fulldayChangePercent": -0.022,
+    "regularMarketPrice": 268.26,
+    "regularMarketChangePercent": -1.106,
+    "fulldayPrice": 268.26,
+    "fulldayChange": -3.0,
+    "fulldayChangePercent": -1.106,
     "fiftyTwoWeekHigh": 271.69,
     "fiftyTwoWeekLow": 220.95,
     "longName": "Fidelity 500 Index",
     "shortName": "Fidelity 500 Index Fund",
-    "chartPreviousClose": 231.21,
+    "chartPreviousClose": 230.85,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1791878400,
-        "end": 1791898200,
+        "start": 1791964800,
+        "end": 1791984600,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1791898200,
-        "end": 1791921600,
+        "start": 1791984600,
+        "end": 1792008000,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1791921600,
-        "end": 1791936000,
+        "start": 1792008000,
+        "end": 1792022400,
         "gmtoffset": -14400
       }
     },
