@@ -1,7 +1,7 @@
 {
   "symbol": "CVS",
   "name": "CVS Health",
-  "updated": "2026-10-16T00:13:29.058029+00:00",
+  "updated": "2026-10-17T00:16:08.719159+00:00",
   "news": [
     {
       "title": "Cvs Health Declares Quarterly Dividend - TradingView",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-10-16",
-      "close": 81.37
-    },
     {
       "date": "2025-10-17",
       "close": 82.52
@@ -1354,6 +1350,10 @@
     {
       "date": "2026-10-14",
       "close": 90.39
+    },
+    {
+      "date": "2026-10-15",
+      "close": 92.58
     }
   ],
   "meta": {
@@ -1363,42 +1363,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 99153000,
-    "regularMarketTime": 1792094403,
+    "regularMarketTime": 1792180803,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 92.58,
-    "regularMarketChangePercent": 2.423,
-    "fulldayPrice": 92.58,
-    "fulldayChange": 2.11,
-    "fulldayChangePercent": 2.334,
+    "regularMarketPrice": 92.36,
+    "regularMarketChangePercent": -0.238,
+    "fulldayPrice": 92.36,
+    "fulldayChange": -0.21,
+    "fulldayChangePercent": -0.227,
     "fiftyTwoWeekHigh": 110.68,
     "fiftyTwoWeekLow": 69.51,
-    "regularMarketDayHigh": 92.64,
-    "regularMarketDayLow": 91.0,
-    "regularMarketVolume": 12599674,
+    "regularMarketDayHigh": 93.345,
+    "regularMarketDayLow": 92.05,
+    "regularMarketVolume": 6980469,
     "longName": "CVS Health Corporation",
     "shortName": "CVS Health Corporation",
-    "chartPreviousClose": 80.67,
+    "chartPreviousClose": 81.37,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1792051200,
-        "end": 1792071000,
+        "end": 1792157400,
+        "start": 1792137600,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1792071000,
-        "end": 1792094400,
+        "end": 1792180800,
+        "start": 1792157400,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1792094400,
-        "end": 1792108800,
+        "end": 1792195200,
+        "start": 1792180800,
         "gmtoffset": -14400
       }
     },
