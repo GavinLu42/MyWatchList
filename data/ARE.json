@@ -1,7 +1,7 @@
 {
   "symbol": "ARE",
   "name": "Alexandria Real Estate Equities",
-  "updated": "2026-10-17T00:16:13.112844+00:00",
+  "updated": "2026-10-17T23:57:02.158824+00:00",
   "news": [
     {
       "title": "O'Melveny Guides $5B Alexandria Real Estate Credit Line - Law360",
@@ -1354,6 +1354,10 @@
     {
       "date": "2026-10-15",
       "close": 42.34
+    },
+    {
+      "date": "2026-10-16",
+      "close": 41.62
     }
   ],
   "meta": {
@@ -1385,20 +1389,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1792137600,
         "end": 1792157400,
+        "start": 1792137600,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1792157400,
         "end": 1792180800,
+        "start": 1792157400,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1792180800,
         "end": 1792195200,
+        "start": 1792180800,
         "gmtoffset": -14400
       }
     },

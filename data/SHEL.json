@@ -1,7 +1,7 @@
 {
   "symbol": "SHEL",
   "name": "Shell plc",
-  "updated": "2026-10-17T00:16:10.854599+00:00",
+  "updated": "2026-10-17T23:56:42.457640+00:00",
   "news": [
     {
       "title": "Canadian Oil and Gas Industry on Track for Biggest Dealmaking Boom in a Decade, Analysts Say - energynow.ca",
@@ -1354,6 +1354,10 @@
     {
       "date": "2026-10-15",
       "close": 103.55
+    },
+    {
+      "date": "2026-10-16",
+      "close": 106.66
     }
   ],
   "meta": {
@@ -1373,7 +1377,7 @@
     "fulldayPrice": 106.66,
     "fulldayChange": 2.65,
     "fulldayChangePercent": 2.559,
-    "fiftyTwoWeekHigh": 106.675,
+    "fiftyTwoWeekHigh": 106.68,
     "fiftyTwoWeekLow": 68.625,
     "regularMarketDayHigh": 106.675,
     "regularMarketDayLow": 105.17,
@@ -1385,20 +1389,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1792157400,
         "start": 1792137600,
+        "end": 1792157400,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1792180800,
         "start": 1792157400,
+        "end": 1792180800,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1792195200,
         "start": 1792180800,
+        "end": 1792195200,
         "gmtoffset": -14400
       }
     },

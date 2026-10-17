@@ -1,7 +1,7 @@
 {
   "symbol": "CVS",
   "name": "CVS Health",
-  "updated": "2026-10-17T00:16:08.719159+00:00",
+  "updated": "2026-10-17T23:56:28.651614+00:00",
   "news": [
     {
       "title": "Cvs Health Declares Quarterly Dividend - TradingView",
@@ -1354,6 +1354,10 @@
     {
       "date": "2026-10-15",
       "close": 92.58
+    },
+    {
+      "date": "2026-10-16",
+      "close": 92.36
     }
   ],
   "meta": {

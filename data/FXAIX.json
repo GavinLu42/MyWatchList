@@ -1,7 +1,7 @@
 {
   "symbol": "FXAIX",
   "name": "Fidelity 500 Index Fund",
-  "updated": "2026-10-17T00:16:02.454119+00:00",
+  "updated": "2026-10-17T23:55:36.891399+00:00",
   "news": [
     {
       "title": "Stock Market News From Sept. 30, 2026: Dow, S&P 500 Fall; Nasdaq Rises After PCE Inflation Data; Boeing, GameStop, Robinhood, Micron and More Movers - barrons.com",
@@ -1354,6 +1354,10 @@
     {
       "date": "2026-10-15",
       "close": 269.15
+    },
+    {
+      "date": "2026-10-16",
+      "close": 266.21
     }
   ],
   "meta": {
@@ -1363,7 +1367,7 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 1304515800,
-    "regularMarketTime": 1792191190,
+    "regularMarketTime": 1792195690,
     "hasPrePostMarketData": false,
     "gmtoffset": -14400,
     "timezone": "EDT",
