@@ -1,7 +1,7 @@
 {
   "symbol": "CVS",
   "name": "CVS Health",
-  "updated": "2026-10-17T23:56:28.651614+00:00",
+  "updated": "2026-10-19T00:05:01.788844+00:00",
   "news": [
     {
       "title": "Cvs Health Declares Quarterly Dividend - TradingView",
@@ -1389,20 +1389,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1792157400,
         "start": 1792137600,
+        "end": 1792157400,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1792180800,
         "start": 1792157400,
+        "end": 1792180800,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1792195200,
         "start": 1792180800,
+        "end": 1792195200,
         "gmtoffset": -14400
       }
     },

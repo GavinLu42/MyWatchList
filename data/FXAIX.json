@@ -1,7 +1,7 @@
 {
   "symbol": "FXAIX",
   "name": "Fidelity 500 Index Fund",
-  "updated": "2026-10-17T23:55:36.891399+00:00",
+  "updated": "2026-10-19T00:04:55.341025+00:00",
   "news": [
     {
       "title": "Stock Market News From Sept. 30, 2026: Dow, S&P 500 Fall; Nasdaq Rises After PCE Inflation Data; Boeing, GameStop, Robinhood, Micron and More Movers - barrons.com",
@@ -1386,20 +1386,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1792157400,
         "start": 1792137600,
+        "end": 1792157400,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1792180800,
         "start": 1792157400,
+        "end": 1792180800,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1792195200,
         "start": 1792180800,
+        "end": 1792195200,
         "gmtoffset": -14400
       }
     },
