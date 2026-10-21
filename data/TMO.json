@@ -1,7 +1,7 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-10-20T01:00:54.103164+00:00",
+  "updated": "2026-10-21T00:30:24.601664+00:00",
   "news": [
     {
       "title": "Thermo Fisher Scientific stock raises guidance and trades at EUR 596.90 - AD HOC NEWS",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-10-20",
-      "close": 543.84
-    },
     {
       "date": "2025-10-21",
       "close": 557.99
@@ -1354,6 +1350,10 @@
     {
       "date": "2026-10-16",
       "close": 690.0
+    },
+    {
+      "date": "2026-10-19",
+      "close": 679.38
     }
   ],
   "meta": {
@@ -1363,42 +1363,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 322151400,
-    "regularMarketTime": 1792440002,
+    "regularMarketTime": 1792526402,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 679.38,
-    "regularMarketChangePercent": -1.539,
-    "fulldayPrice": 679.38,
-    "fulldayChange": -14.99,
-    "fulldayChangePercent": -2.172,
+    "regularMarketPrice": 687.37,
+    "regularMarketChangePercent": 1.176,
+    "fulldayPrice": 687.37,
+    "fulldayChange": 13.961,
+    "fulldayChangePercent": 2.055,
     "fiftyTwoWeekHigh": 704.0,
     "fiftyTwoWeekLow": 435.27,
-    "regularMarketDayHigh": 692.99,
-    "regularMarketDayLow": 673.47,
-    "regularMarketVolume": 2402881,
+    "regularMarketDayHigh": 693.365,
+    "regularMarketDayLow": 679.32,
+    "regularMarketVolume": 3525846,
     "longName": "Thermo Fisher Scientific Inc.",
     "shortName": "Thermo Fisher Scientific Inc",
-    "chartPreviousClose": 538.92,
+    "chartPreviousClose": 543.84,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1792396800,
-        "end": 1792416600,
+        "end": 1792503000,
+        "start": 1792483200,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1792416600,
-        "end": 1792440000,
+        "end": 1792526400,
+        "start": 1792503000,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1792440000,
-        "end": 1792454400,
+        "end": 1792540800,
+        "start": 1792526400,
         "gmtoffset": -14400
       }
     },
