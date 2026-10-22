@@ -1,7 +1,7 @@
 {
   "symbol": "CVS",
   "name": "CVS Health",
-  "updated": "2026-10-21T00:30:17.818133+00:00",
+  "updated": "2026-10-22T00:33:46.727242+00:00",
   "news": [
     {
       "title": "Cvs Health Declares Quarterly Dividend - TradingView",
@@ -347,18 +347,14 @@
       "category": "sector"
     },
     {
-      "title": "CVS may split up pharmacy, Aetna health plan business - Healthcare Brew",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNclE3cTNBQlA3dko4bS1UVnZveGVFNVU1TUtkR2RjV1Z3YnZjUW5ZcUVPZ1ZvMDJGeThtZ3pMVVIyb2U5ZTFucmExU0ZockxOOThwQ05saFd3dWlwNGc3d2ZacW9VYzZQcWdoQmFQR3lDQjJ6ZVI4SU02UDVlbHk5elZXWkswU1loZjY2YWZKd1k0Y1NW?oc=5",
-      "pubDate": "Wed, 16 Oct 2024 07:00:00 GMT",
+      "title": "On track to hit $1B in revenue this year, Alto Pharmacy tapped an Amazon exec to lead its next phase of growth - Fierce Healthcare",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSWF4NWRNYi1KbUJ0YUVFMUFZSVpzdkdETlJqRExrd3ZXZDRwd3RfNzRDSTZ1RE5sX0RlLVVfTHBmWnBsZXFZMkduQjhUSGE2X1IzZ0FfOHh6WGp4RnhpNUVjNFZ1UkV4NUJfdGw0MmlTMEJUYkdqWVNTV2lqbnlTa2tQbUJYLVJSMTFPdW9MSW1Odm1Ya2lUT3JOOGpZMi1YWmhHZVBGYW5JLUc2NUNtUHpoTnFpZDR6RmhiV0hrRzctZzg?oc=5",
+      "pubDate": "Wed, 17 Aug 2022 07:00:00 GMT",
       "source": "",
       "category": "sector"
     }
   ],
   "prices": [
-    {
-      "date": "2025-10-21",
-      "close": 83.04
-    },
     {
       "date": "2025-10-22",
       "close": 82.01
@@ -1354,6 +1350,10 @@
     {
       "date": "2026-10-19",
       "close": 92.68
+    },
+    {
+      "date": "2026-10-20",
+      "close": 94.75
     }
   ],
   "meta": {
@@ -1363,42 +1363,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 99153000,
-    "regularMarketTime": 1792526402,
+    "regularMarketTime": 1792612802,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 94.75,
-    "regularMarketChangePercent": 2.233,
-    "fulldayPrice": 94.75,
-    "fulldayChange": 1.93,
-    "fulldayChangePercent": 2.082,
+    "regularMarketPrice": 93.45,
+    "regularMarketChangePercent": -1.372,
+    "fulldayPrice": 92.99,
+    "fulldayChange": -1.76,
+    "fulldayChangePercent": -1.858,
     "fiftyTwoWeekHigh": 110.68,
     "fiftyTwoWeekLow": 69.51,
-    "regularMarketDayHigh": 94.905,
-    "regularMarketDayLow": 93.202,
-    "regularMarketVolume": 7066075,
+    "regularMarketDayHigh": 95.26,
+    "regularMarketDayLow": 93.43,
+    "regularMarketVolume": 6522410,
     "longName": "CVS Health Corporation",
     "shortName": "CVS Health Corporation",
-    "chartPreviousClose": 82.48,
+    "chartPreviousClose": 83.04,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1792483200,
-        "end": 1792503000,
+        "start": 1792569600,
+        "end": 1792589400,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1792503000,
-        "end": 1792526400,
+        "start": 1792589400,
+        "end": 1792612800,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1792526400,
-        "end": 1792540800,
+        "start": 1792612800,
+        "end": 1792627200,
         "gmtoffset": -14400
       }
     },
