@@ -1,7 +1,7 @@
 {
   "symbol": "FXAIX",
   "name": "Fidelity 500 Index Fund",
-  "updated": "2026-10-23T00:31:03.357435+00:00",
+  "updated": "2026-10-24T00:26:23.166030+00:00",
   "news": [
     {
       "title": "Stock Market News From Sept. 30, 2026: Dow, S&P 500 Fall; Nasdaq Rises After PCE Inflation Data; Boeing, GameStop, Robinhood, Micron and More Movers - barrons.com",
@@ -263,6 +263,13 @@
       "category": "company"
     },
     {
+      "title": "Fidelity 500 Index (FXAIX) stock price, news, quote and history - Yahoo Finance Australia",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HWEg5eHFHN2ZkbnVTcGhmV21xZnNrUVV4YjJwb0pXQmU4elVVVTVUcmJjRUFCMkFFN3NNN3RyanM1RWVBR05fS2pTYnpwbEIyQm1n?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 14:58:10 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "Fidelity 500 Index Institutional Prem (FXAIX) stock price, news, quote and history - Yahoo Finance UK",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pMmRodVZGZm1JUFFUZFA0WUtsOFpQNlNIenJNLUpidDR2X2IyOW43SzJOV0dvTnhiWFBWeEJpNFBUMVc5Q3AxR1ZESG56a0hzOEVv?oc=5",
       "pubDate": "Wed, 21 Oct 2026 14:55:06 GMT",
@@ -345,20 +352,9 @@
       "pubDate": "Wed, 16 Sep 2026 17:56:00 GMT",
       "source": "",
       "category": "company"
-    },
-    {
-      "title": "Fidelity Just Warned 500-Stock Fund Owners. 35% to 40% of Your S&P 500 Moves Come From 7 Mega-Cap Stocks - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GemJWR1hydEZwY0U0cm5SRS15WlRud0VBUklib0ZPZThLNzFpbjVDQlREZ09sM1JtT2h3ZTJaNzcydmwzeVhFQ2JERUlTQ2V0cEYxTnY1SW9pX2JQa0piQ2FRdFRzTnZZcndGWHRQdThvcm43RktXWWc0WFg4N2c?oc=5",
-      "pubDate": "Wed, 16 Sep 2026 00:01:00 GMT",
-      "source": "",
-      "category": "company"
     }
   ],
   "prices": [
-    {
-      "date": "2025-10-23",
-      "close": 234.16
-    },
     {
       "date": "2025-10-24",
       "close": 236.02
@@ -1354,6 +1350,10 @@
     {
       "date": "2026-10-21",
       "close": 269.62
+    },
+    {
+      "date": "2026-10-22",
+      "close": 266.36
     }
   ],
   "meta": {
@@ -1363,39 +1363,39 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 1304515800,
-    "regularMarketTime": 1792714139,
+    "regularMarketTime": 1792800525,
     "hasPrePostMarketData": false,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 266.36,
-    "regularMarketChangePercent": -1.209,
-    "fulldayPrice": 266.36,
-    "fulldayChange": -3.26,
-    "fulldayChangePercent": -1.209,
+    "regularMarketPrice": 264.99,
+    "regularMarketChangePercent": -0.514,
+    "fulldayPrice": 264.99,
+    "fulldayChange": -1.37,
+    "fulldayChangePercent": -0.514,
     "fiftyTwoWeekHigh": 271.69,
     "fiftyTwoWeekLow": 220.95,
     "longName": "Fidelity 500 Index",
     "shortName": "Fidelity 500 Index Fund",
-    "chartPreviousClose": 232.8,
+    "chartPreviousClose": 234.16,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1792675800,
-        "start": 1792656000,
+        "end": 1792762200,
+        "start": 1792742400,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1792699200,
-        "start": 1792675800,
+        "end": 1792785600,
+        "start": 1792762200,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1792713600,
-        "start": 1792699200,
+        "end": 1792800000,
+        "start": 1792785600,
         "gmtoffset": -14400
       }
     },
