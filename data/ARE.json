@@ -1,7 +1,7 @@
 {
   "symbol": "ARE",
   "name": "Alexandria Real Estate Equities",
-  "updated": "2026-10-25T00:10:35.654644+00:00",
+  "updated": "2026-10-26T00:03:39.009719+00:00",
   "news": [
     {
       "title": "O'Melveny Guides $5B Alexandria Real Estate Credit Line - Law360",
@@ -312,6 +312,13 @@
       "category": "sector"
     },
     {
+      "title": "Watertown building pivots from life sciences to self-storage conversion - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT1R4aGlSeGxUTHRfLVJ4OXg4NUZJUXRsUjZrdkFKMUJ6NnVWMmJmSXFzN2lDeFc2WUxINVdpQzk4WHMyQkdfS3NuemMzRllIOGJlak0zejhfLUM1Y3JPZlVva1d0NDJqcWxBeV9jUm1iSmlNckZGTTdGdFl0dWQ0Y3hIX2otYkdjOUxJMjRWd3Bzdk1rN3ltdGZ6QQ?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
       "title": "News | Biotech landlords turn to higher end real estate as life science demand wanes - costar.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWmxWZDctUDhSMnZTVzVIOV93WE0yVnNiRXo2dDRjUzRxbEVXbDdkUkFidEp5ei1LN0V0OXB0U1pYU0FqNjE5b2Z4eC1Za0RUT3hTcjdhbi1vQVZqMVdIVzJXcnlGU1h0eHRMTEhpanlnbGk0S19pd0c2NGdDa05Jc3VSanEtekd0N2NEYTVkTDM2R3hUZDQ3UnVfNEFudkpaSHk5UHd6RFFQUll4bC1KTFpwTTVCcW1VeXc?oc=5",
       "pubDate": "Wed, 23 Oct 2024 07:00:00 GMT",
@@ -343,13 +350,6 @@
       "title": "Life sciences lab real estate is clawing back from disaster. Here\u2019s what that means for investors - cnbc.com",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LNjA5RmtqYnRiYVZwSDNkbWg1QndZeDE2YTRGQW5haWY4bl9rZWFKRlNGSEMzRmFvOFdzTU8zZHNmeDBGeDNjSjFqeGJOOWNZanQ0bnp2M1JmSG1TVklxOGVnUFR3ZHFCOUlDV3dwQkw1OFVJV0dyc1lzNEZoTm8?oc=5",
       "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Life sciences AI: Four impacts on real estate and facilities - JLL",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN242dVBRWFFZWUFDd0tyYXZLei1zbGRIWW9MYUd0aXVDMjBPSlpjd1ByandlT1UwRjJpdU5OWjZWRFk3bVUzcE91ZmNxcjZoaDZDaGF4Vk1UWTVtLTFISWZ4bDJXWXdWN1FXNDl1OWUxVGZlVjlicDFla3BxQVNWT1dtZHJSYml3ZmtzaDBCOU5HdlJhMEFv?oc=5",
-      "pubDate": "Wed, 21 Aug 2024 07:00:00 GMT",
       "source": "",
       "category": "sector"
     }
@@ -1389,20 +1389,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1792762200,
         "start": 1792742400,
+        "end": 1792762200,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1792785600,
         "start": 1792762200,
+        "end": 1792785600,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1792800000,
         "start": 1792785600,
+        "end": 1792800000,
         "gmtoffset": -14400
       }
     },
