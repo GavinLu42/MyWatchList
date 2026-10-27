@@ -1,7 +1,7 @@
 {
   "symbol": "CVS",
   "name": "CVS Health",
-  "updated": "2026-10-26T00:03:34.716583+00:00",
+  "updated": "2026-10-27T01:22:22.552162+00:00",
   "news": [
     {
       "title": "Cvs Health Declares Quarterly Dividend - TradingView",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-10-24",
-      "close": 81.93
-    },
     {
       "date": "2025-10-27",
       "close": 82.45
@@ -1367,42 +1363,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 99153000,
-    "regularMarketTime": 1792785603,
+    "regularMarketTime": 1793044802,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 93.47,
-    "regularMarketChangePercent": -1.069,
-    "fulldayPrice": 93.47,
-    "fulldayChange": -1.105,
-    "fulldayChangePercent": -1.17,
+    "regularMarketPrice": 92.53,
+    "regularMarketChangePercent": -1.006,
+    "fulldayPrice": 92.53,
+    "fulldayChange": -0.92,
+    "fulldayChangePercent": -0.984,
     "fiftyTwoWeekHigh": 110.68,
     "fiftyTwoWeekLow": 69.51,
-    "regularMarketDayHigh": 94.4,
-    "regularMarketDayLow": 93.215,
-    "regularMarketVolume": 4601442,
+    "regularMarketDayHigh": 94.768,
+    "regularMarketDayLow": 92.035,
+    "regularMarketVolume": 4254740,
     "longName": "CVS Health Corporation",
     "shortName": "CVS Health Corporation",
-    "chartPreviousClose": 81.07,
+    "chartPreviousClose": 81.93,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1792742400,
-        "end": 1792762200,
+        "start": 1793001600,
+        "end": 1793021400,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1792762200,
-        "end": 1792785600,
+        "start": 1793021400,
+        "end": 1793044800,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1792785600,
-        "end": 1792800000,
+        "start": 1793044800,
+        "end": 1793059200,
         "gmtoffset": -14400
       }
     },

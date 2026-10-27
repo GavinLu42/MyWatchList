@@ -1,7 +1,7 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-10-26T00:03:41.325423+00:00",
+  "updated": "2026-10-27T01:22:29.118607+00:00",
   "news": [
     {
       "title": "Thermo Fisher Scientific stock raises guidance and trades at EUR 596.90 - AD HOC NEWS",
@@ -42,6 +42,13 @@
       "title": "A Bold New Beginning for PE's Life Sciences & Diagnostic Units - Medical Device and Diagnostic industry",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSjBHVExNLVZ2RmRwVmM4ZUJQY3Fyb1M0ZXlJeEhpMl85aTgzZWlHcGJYaDZwaHowZlV4UG80dWFCOTIwcHhTZXZKRi1yZWtBV2Z4VV9wMDdqVlVMS3hEcUhUanJpeHcwNVo4dlRVQTRzZ2lkUmZyQjlDem54eHFybW41VzA1ZTVmMXkwWGcyNFlaVTdRZ2c?oc=5",
       "pubDate": "Wed, 29 Nov 2023 11:25:23 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
+      "title": "Top 20 Life Sciences Companies Named to BioTools Innovator 2024 Cohort - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT1dmel9xT2VOOC1DSVY0dURKamxCeF82bmp4SWgtdWxsZTRrdnE3V0p5SS1WRWkwdGVLdUFmXzY5ZGVYOU9hV0s4UzliUlpvYWdGMmlSQmtqdURDWEZIZDNFbXhGcFlWazdJOXV6MmRkSm1SbTQxSkl6VjJIdnJCa0l5RWRDSS1qaWV2UnhxenF0dHpab2xDZ1VBSm4zeS1ZTzV2c3IwaG8tN21NaUZYYTBMMHF1VDJhWTRtQ29oY1NiTG5BWlE?oc=5",
+      "pubDate": "Wed, 29 May 2024 07:00:00 GMT",
       "source": "",
       "category": "sector"
     },
@@ -345,20 +352,9 @@
       "pubDate": "Wed, 17 Dec 2025 07:35:09 GMT",
       "source": "",
       "category": "sector"
-    },
-    {
-      "title": "Life Science Tools Market Size Set to Soar USD 367.16 Billion by 2032 - BioSpace",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSlRKTTV1cm5LN3BsNTcyMzBZT0RSak5vaVdBejhWc2FhS1Vad2x3OVozU25QajhWWFh0c2lJZG9LVEFNcERtNTFpdkdibUFvM2JvVXYxTlhqLXlVR0NKY1M0Rm5VWElKWXlabFd0LXJ0aGlZbk1SUFQ5MHN6MV9ZcnFVWUt5Q3VCR1R6V3J6VC1Zd1F0aDdhWmRn?oc=5",
-      "pubDate": "Wed, 17 Apr 2024 07:00:00 GMT",
-      "source": "",
-      "category": "sector"
     }
   ],
   "prices": [
-    {
-      "date": "2025-10-24",
-      "close": 572.5
-    },
     {
       "date": "2025-10-27",
       "close": 563.78
@@ -1367,42 +1363,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 322151400,
-    "regularMarketTime": 1792785602,
+    "regularMarketTime": 1793044802,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 673.82,
-    "regularMarketChangePercent": -0.402,
-    "fulldayPrice": 673.82,
-    "fulldayChange": -2.72,
-    "fulldayChangePercent": -0.402,
+    "regularMarketPrice": 684.89,
+    "regularMarketChangePercent": 1.643,
+    "fulldayPrice": 684.89,
+    "fulldayChange": 11.888,
+    "fulldayChangePercent": 1.764,
     "fiftyTwoWeekHigh": 705.79,
     "fiftyTwoWeekLow": 435.27,
-    "regularMarketDayHigh": 677.28,
-    "regularMarketDayLow": 662.503,
-    "regularMarketVolume": 2038943,
+    "regularMarketDayHigh": 685.48,
+    "regularMarketDayLow": 674.37,
+    "regularMarketVolume": 1946836,
     "longName": "Thermo Fisher Scientific Inc.",
     "shortName": "Thermo Fisher Scientific Inc",
-    "chartPreviousClose": 571.91,
+    "chartPreviousClose": 572.5,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1792742400,
-        "end": 1792762200,
+        "end": 1793021400,
+        "start": 1793001600,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1792762200,
-        "end": 1792785600,
+        "end": 1793044800,
+        "start": 1793021400,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1792785600,
-        "end": 1792800000,
+        "end": 1793059200,
+        "start": 1793044800,
         "gmtoffset": -14400
       }
     },

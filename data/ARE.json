@@ -1,7 +1,7 @@
 {
   "symbol": "ARE",
   "name": "Alexandria Real Estate Equities",
-  "updated": "2026-10-26T00:03:39.009719+00:00",
+  "updated": "2026-10-27T01:22:26.928018+00:00",
   "news": [
     {
       "title": "O'Melveny Guides $5B Alexandria Real Estate Credit Line - Law360",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-10-24",
-      "close": 77.41
-    },
     {
       "date": "2025-10-27",
       "close": 77.87
@@ -1367,42 +1363,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 864826200,
-    "regularMarketTime": 1792785603,
+    "regularMarketTime": 1793044803,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 43.02,
-    "regularMarketChangePercent": -0.715,
-    "fulldayPrice": 43.02,
-    "fulldayChange": -0.13,
-    "fulldayChangePercent": -0.3,
+    "regularMarketPrice": 43.4,
+    "regularMarketChangePercent": 0.883,
+    "fulldayPrice": 43.4,
+    "fulldayChange": 0.38,
+    "fulldayChangePercent": 0.883,
     "fiftyTwoWeekHigh": 78.0,
     "fiftyTwoWeekLow": 39.41,
-    "regularMarketDayHigh": 43.535,
-    "regularMarketDayLow": 42.73,
-    "regularMarketVolume": 2512359,
+    "regularMarketDayHigh": 43.46,
+    "regularMarketDayLow": 42.23,
+    "regularMarketVolume": 3141265,
     "longName": "Alexandria Real Estate Equities, Inc.",
     "shortName": "Alexandria Real Estate Equities",
-    "chartPreviousClose": 76.91,
+    "chartPreviousClose": 77.41,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1792742400,
-        "end": 1792762200,
+        "start": 1793001600,
+        "end": 1793021400,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1792762200,
-        "end": 1792785600,
+        "start": 1793021400,
+        "end": 1793044800,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1792785600,
-        "end": 1792800000,
+        "start": 1793044800,
+        "end": 1793059200,
         "gmtoffset": -14400
       }
     },
