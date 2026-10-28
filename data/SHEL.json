@@ -1,7 +1,7 @@
 {
   "symbol": "SHEL",
   "name": "Shell plc",
-  "updated": "2026-10-27T01:22:24.775391+00:00",
+  "updated": "2026-10-28T01:06:54.952168+00:00",
   "news": [
     {
       "title": "Canadian Oil and Gas Industry on Track for Biggest Dealmaking Boom in a Decade, Analysts Say - energynow.ca",
@@ -256,6 +256,13 @@
       "category": "company"
     },
     {
+      "title": "Shell plc (SHEL) stock price, news, quote and history - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qcDJ0cU16emR1YTVpWmpKR1lfSFlISXB1ZktuSnpERV9tbXZzcnY1ODBkamJKU3FUX3h2ODloak1McDdPV09USXFydGxONko0T1E?oc=5",
+      "pubDate": "Wed, 30 Mar 2022 11:47:21 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "Shell Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuNldDT2RKS2F3ODREZTB3dXpaX0VwRTc1cmZ2bVJlbnFwcko4T3YzT01sak53NDFtUXdOdVNYTURxT0JZQWtqVDNxampFTkF4c29zaUZoc2w1end2Szc1cjlydw?oc=5",
       "pubDate": "Wed, 29 Jul 2026 17:06:01 GMT",
@@ -345,20 +352,9 @@
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
       "source": "",
       "category": "company"
-    },
-    {
-      "title": "Shell plc Second Quarter 2026 Interim Dividend - uk.finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdU04b182RjEzdzRkSVFyVG9ZZzdLRG9hM181bUJ6NS1WWkdhUlBsUkxkc1o2VnpmZkZyeTBUYnNsN0gyc1hkdlVUY1pmZmJMVjZXUHpMMFpEX3hiZGM4WWhDNEd1XzR4Y2dRbGVYaGZib21uU3RtUU11cG16bzlzc0szeEo?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-      "source": "",
-      "category": "company"
     }
   ],
   "prices": [
-    {
-      "date": "2025-10-27",
-      "close": 75.51
-    },
     {
       "date": "2025-10-28",
       "close": 75.07
@@ -1354,6 +1350,10 @@
     {
       "date": "2026-10-23",
       "close": 108.18
+    },
+    {
+      "date": "2026-10-26",
+      "close": 106.91
     }
   ],
   "meta": {
@@ -1363,42 +1363,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 447949800,
-    "regularMarketTime": 1793044802,
+    "regularMarketTime": 1793131202,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 106.91,
-    "regularMarketChangePercent": -1.174,
-    "fulldayPrice": 106.91,
-    "fulldayChange": -1.22,
-    "fulldayChangePercent": -1.128,
+    "regularMarketPrice": 104.78,
+    "regularMarketChangePercent": -1.992,
+    "fulldayPrice": 104.1,
+    "fulldayChange": -2.81,
+    "fulldayChangePercent": -2.628,
     "fiftyTwoWeekHigh": 108.43,
     "fiftyTwoWeekLow": 68.625,
-    "regularMarketDayHigh": 107.8,
-    "regularMarketDayLow": 106.47,
-    "regularMarketVolume": 4606829,
+    "regularMarketDayHigh": 106.24,
+    "regularMarketDayLow": 104.635,
+    "regularMarketVolume": 4021857,
     "longName": "Shell plc",
     "shortName": "Shell PLC",
-    "chartPreviousClose": 75.84,
+    "chartPreviousClose": 75.51,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1793001600,
-        "end": 1793021400,
+        "end": 1793107800,
+        "start": 1793088000,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1793021400,
-        "end": 1793044800,
+        "end": 1793131200,
+        "start": 1793107800,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1793044800,
-        "end": 1793059200,
+        "end": 1793145600,
+        "start": 1793131200,
         "gmtoffset": -14400
       }
     },
