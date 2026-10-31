@@ -1,7 +1,7 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-10-30T01:48:49.547948+00:00",
+  "updated": "2026-10-31T01:29:04.433421+00:00",
   "news": [
     {
       "title": "Thermo Fisher Scientific stock raises guidance and trades at EUR 596.90 - AD HOC NEWS",
@@ -104,6 +104,13 @@
     {
       "title": "Thermo Fisher Scientific Inc. stock rises Wednesday, outperforms market - MarketWatch",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcjdQaWwxSnYzdEdxN3VCTWZlSVptaGx5Qk9zdWExU0dJMDVTZVFTSkhlOENjeTVuUDdNa09ZS19sYjk0SFo3MDFjTWg1SnVheHJldUNjaGN0Zy1fMGdaUEFubDh1VGRwOUJBSzBaeUU3bl9aeWlrTXZtUkxXajk4SkFoX1lTYWRvNWxtRlBid1FlLWs0VWhteldvdmNqSE42cGRxRXpLSlJKeV9zWk1pMjFxRVlQRFZ6Q2pnVThJZXBiLVFJcWlvNUdaZ0pjRndJcm9MLUNGQ19KYXh5NWxFYQ?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 20:33:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Thermo Fisher Scientific Inc. stock rises Wednesday, outperforms market - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUHlRY1AxM1lfbXFrS296WGg0N2hCU3MwM3FoUDhfUkxoUzMtZ0Itb1FzVjFWRGl1d2ltT19hZmJOU3lFOU9hRmpjUERaTkswdDdMSERnYnlVWnV0ckZkckVxWTR3dTdxSXl3anFKSHNUZTBTTlotM3lMMzVwb2V4SHVkR3dMNTZ2UW90Qkd1WTJtUHV0ejBYQXBYUUdsR0ZOTlBwMXhJSEVxaE12cEdSYy1FZTFMMk1rYUF4T2g1czdjVldhR3pQQg?oc=5",
       "pubDate": "Wed, 28 Oct 2026 20:33:00 GMT",
       "source": "",
       "category": "company"
@@ -256,13 +263,6 @@
       "category": "company"
     },
     {
-      "title": "Thermo Fisher Scientific Inc (TMO) Stock Up 4.9% and Still Under - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRWlQQWdEVUNYLU56NXU2cFdDWTFGemdhdnB0Njhjcy1mU2RqUlNPMUFJa0lRd091VkpCNHNHR0NpcWRQVG1aTE1jd3d1TFZJbXE0dXJYdHdvM3V4VzNfbmM0Umgya2hKNTdIVnliSVlqWFhpSzExSVNoSl95TXBHUkh0MTdzbjVidjI5MGh4VGJlTkFwR0JOX0Zxel9OYnMyVVE1ZTI5RXYtenFubHNkVzY4dTRhLWFSR292WHd6SkJUaU5hbGVKa0p3RjA?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
       "title": "Micro Computed Tomography Market Size to Hit USD 604.94 Million by 2035 - Precedence Research",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41YW5QN0lzT3ZDdG01QVhTVnBFRnlzcUZLaUNQaWhaMGdneE9ESzVUbjF1SVlySHM3dUk5OUZETlV1eGdkX0hYcGlDV3M3OEJfLVdvbkk0UWZCUVhVOWNDX0wyRzAxM1oxMElJNVBONURrVjNJTUE?oc=5",
       "pubDate": "Wed, 24 Dec 2025 08:00:00 GMT",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-10-30",
-      "close": 556.22
-    },
     {
       "date": "2025-10-31",
       "close": 567.39
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-10-29",
       "close": 709.18
+    },
+    {
+      "date": "2026-10-30",
+      "close": 697.0
     }
   ],
   "meta": {
@@ -1367,42 +1367,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 322151400,
-    "regularMarketTime": 1793304002,
+    "regularMarketTime": 1793390402,
     "hasPrePostMarketData": true,
     "gmtoffset": -14400,
     "timezone": "EDT",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 709.18,
-    "regularMarketChangePercent": 0.714,
-    "fulldayPrice": 712.83,
-    "fulldayChange": 8.68,
-    "fulldayChangePercent": 1.233,
-    "fiftyTwoWeekHigh": 711.854,
+    "regularMarketPrice": 697.0,
+    "regularMarketChangePercent": -1.717,
+    "fulldayPrice": 697.0,
+    "fulldayChange": -13.0,
+    "fulldayChangePercent": -1.833,
+    "fiftyTwoWeekHigh": 711.85,
     "fiftyTwoWeekLow": 435.27,
-    "regularMarketDayHigh": 711.854,
-    "regularMarketDayLow": 699.9,
-    "regularMarketVolume": 1470918,
+    "regularMarketDayHigh": 711.79,
+    "regularMarketDayLow": 691.74,
+    "regularMarketVolume": 2089151,
     "longName": "Thermo Fisher Scientific Inc.",
     "shortName": "Thermo Fisher Scientific Inc",
-    "chartPreviousClose": 558.31,
+    "chartPreviousClose": 556.22,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1793280600,
-        "start": 1793260800,
+        "start": 1793347200,
+        "end": 1793367000,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1793304000,
-        "start": 1793280600,
+        "start": 1793367000,
+        "end": 1793390400,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1793318400,
-        "start": 1793304000,
+        "start": 1793390400,
+        "end": 1793404800,
         "gmtoffset": -14400
       }
     },
