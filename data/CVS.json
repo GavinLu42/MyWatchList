@@ -1,7 +1,7 @@
 {
   "symbol": "CVS",
   "name": "CVS Health",
-  "updated": "2026-10-31T01:28:58.143876+00:00",
+  "updated": "2026-11-01T00:54:54.314823+00:00",
   "news": [
     {
       "title": "Cvs Health Declares Quarterly Dividend - TradingView",
@@ -270,6 +270,13 @@
       "category": "sector"
     },
     {
+      "title": "CVS Health report highlights need for expanded role of retail pharmacists - Drug Store News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYWExbWhOWFV4MjJOVVZEZzVFVmZQMDZYN0ZGTHkwVmQzUWZESVA4QmFKOXVFY0l1eG9hVDNQQl81SFlBVFNVdU1PNFY5WUJGLW1pYnY1aVI1d1RQQWZ5eU5PS1BIVTdpeWF6WDZEc2dzWWd2T3Y4WGNGX29MMDkxOU5sS2xuOHZSUnBaRnJJUVJJM3dBdndJ?oc=5",
+      "pubDate": "Wed, 26 Oct 2022 07:00:00 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
       "title": "In-Depth Report: The Logic Behind JD Health\u2019s Today and Tomorrow - JD Corporate Blog",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZmV5bW1ndDYxallDQnFYTEZSR3hpbVBzUFZiR3I3NUZqVGhZeFZsekdFOXdwVmNadkJ0UlFyM2tsWG5tLVdlUHZZRTV0WmVFRVFRcjl6cHZDb0tEUThVV0hQNGlWRHJXR1NBMlkzZ2pXRng0blZEdDhqZU5jOHpuMWhvckxoNUlkV2t3LUc5ZGxFWTNrWHc?oc=5",
       "pubDate": "Wed, 25 Mar 2020 07:00:00 GMT",
@@ -342,13 +349,6 @@
     {
       "title": "Amazon just put the entire healthcare industry on notice with its latest push into pharmacy. Here's who stands to win and lose. - businessinsider.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM3lrZGMzeFl0Q1NoYmM2aEhfXzBCdDNaVDNtTEhRc0l4YnB6S29qVlpkUmZUTFFlcDFOZGRZc0FoMlhlSVdoTnpDSDBnNVUtZnRwVHdhWGl3RGZQSktsNk1yNlYwWkpfaHZNdkpEUnlMS0c0TlFxbGFhT0VBa21JaXdsNmpCTVA1Vi1STHZKaVhnM05IU3lOaVNocXpaWXR1TnJNVDZFN0N0MnZHZWow?oc=5",
-      "pubDate": "Wed, 18 Nov 2020 08:00:00 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Is Amazon\u2019s pharmacy foray disruptive? Experts disagree. - Healthcare Dive",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONEdBZWxtcHN5WDBlTkVZVmd3YVk3WXhoOVYyekoyRzdYa3lzd0R2LUNuT09meVhPSjJiRGllbzNqaXBoek4tZnVnWXRCdWcxUGNhdFg3V3dDV09qZ2MxaE1uNTV4Ql9nS09sUWw3c2xESXMtMG1ZajZyYWExYlRfNVQ5RlZJeDE5YWNmcUZWQ1ZCLUFYNHBPYXN3?oc=5",
       "pubDate": "Wed, 18 Nov 2020 08:00:00 GMT",
       "source": "",
       "category": "sector"
@@ -1389,20 +1389,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "start": 1793347200,
         "end": 1793367000,
+        "start": 1793347200,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "start": 1793367000,
         "end": 1793390400,
+        "start": 1793367000,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "start": 1793390400,
         "end": 1793404800,
+        "start": 1793390400,
         "gmtoffset": -14400
       }
     },
