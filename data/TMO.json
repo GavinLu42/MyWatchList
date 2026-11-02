@@ -1,7 +1,7 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-11-01T00:55:00.749844+00:00",
+  "updated": "2026-11-02T01:25:53.771241+00:00",
   "news": [
     {
       "title": "Thermo Fisher Scientific stock raises guidance and trades at EUR 596.90 - AD HOC NEWS",
@@ -158,6 +158,13 @@
       "category": "company"
     },
     {
+      "title": "New Thermo Fisher Scientific drug facility for vaccine manufacture opens in Singapore - Singapore Economic Development Board (EDB)",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQlQyeEZ6SEVSVHlvT3hTenRiQ0pXOTRUWUVQQWw4cXhNb0d0amE3YUNrOFJfMW96WDkzMHhpbEFFNUxROVp1UzJOX3NmWG5TVmFRUDFyb21qMzRYc3dvTXU5T0NGbGlBNTRMTVhKYk9UTmk5M1o5Q0ppNFFLNjVEemx4MjU0QTdBcU5qa3lySERWVDhraGN0U0ItRlRJdFoyZzhqYm1XT1JzQ3g5ZHR6TmMxUFFVYVprUzdyRmRNSXl1dW1G?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "15-year-old Designs Low-Cost Device to Monitor Airborne Bacteria in the Environment; Wins $25,000 Top Award at the 2026 Thermo Fisher Scientific Junior Innovators Challenge - BioSpace",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQUGJfUmtQanVTaGlyc3VNNndjVENmRVJoVFBNQVZfSDB6TFY2NE4xeGh6MFMwaUk2V1BzVm1FVWF4a29CZ0lMUEh1dG9tdG9CZnZNTllVek9UaHFsdXljX3NaS0tZU2UyQXZISkkwX3M1M0Q2V3JyaWhNY2R0SDNWbFVkMXQ5dVlWWmtWbHRYYWxvcFV0bmRwYlhDMmFPMTVIRTlrN0FEdzhMOUVTLTExcFREaV8ycEdfWC10X1h6UG4xS2R5T0h2TW0tMFNERFZzclpLU1dDanFNdU1BZzVsVXduR1JaNmFQTXFWS2ZkOHJDZmVoZVBRTHc3alJiMzZuUjlVOUIwS0UtUW1KbjVSVVdrY2FFdFdHT2FFOHJueGtwbVY4dEJYU0VWVEl5TW91NG1qYQ?oc=5",
       "pubDate": "Wed, 28 Oct 2026 03:38:38 GMT",
@@ -251,13 +258,6 @@
     {
       "title": "Thermo Fisher Is Down 27% From Its Highs. The EPS Trough Looks Like It Is Already Behind the Company - tikr.com",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTmNJWFFERHh5dWNVWDhMY25FQU9iN1FOWlRUVHdmWFpxUlR5WTRNRzBYTGlYbW1JdEhZcjlEZ2l5TXRndTVzVmRsUDFfSThBaUhibDNfbDc2NS05eWRoeFN3cnZGRExkX1JoWDdYb2NpcFZCWTJVMUQzSVBTUFZwcnVBZmUwRGlBR2xub0hxaVBYQW1RNk1qZWpMSEE4NnFONG5sNUxCR1EyVnZyT2xxcEtCaTlSSHJkd0lpM3ZfUXBsQQ?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
-      "title": "Q1 Earnings Highlights: Thermo Fisher (NYSE:TMO) Vs The Rest Of The Research Tools & Consumables Stocks - StockStory",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZ25DQW1pdnJYRE91bEppRzdtNGlOUmNONFJYUF9LVkl3WExpYTJuSmVYX1hlV0xLUzdSS1ZtZS1mWGdVZDZ3TkRfb2JhV0JZNlZ0dUpzb1JjMWNZSGtnTE1OQlNwUms5VVowWFoyckVOQ3BrRlItaHN4Vm5xSVhmMmxHVEFpMWVMWTJVcTJMTUI5akxfY2xtQ1pOajVvSE04ZHlkM2VYcWJXUkV1eklVUnc1VndVS2s3SkhoaVAwNkxFYTdCbTFoa2JJbm41Y0VXT2hsZnF3SnRoQklmN0dBb1lwQkNEVzJtSXJJWm11MG4?oc=5",
       "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
       "source": "",
       "category": "company"
@@ -1369,12 +1369,12 @@
     "firstTradeDate": 322151400,
     "regularMarketTime": 1793390402,
     "hasPrePostMarketData": true,
-    "gmtoffset": -14400,
-    "timezone": "EDT",
+    "gmtoffset": -18000,
+    "timezone": "EST",
     "exchangeTimezoneName": "America/New_York",
     "regularMarketPrice": 697.0,
     "regularMarketChangePercent": -1.717,
-    "fulldayPrice": 697.0,
+    "fulldayPrice": 696.87,
     "fulldayChange": -13.0,
     "fulldayChangePercent": -1.833,
     "fiftyTwoWeekHigh": 711.85,

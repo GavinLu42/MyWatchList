@@ -1,7 +1,7 @@
 {
   "symbol": "CVS",
   "name": "CVS Health",
-  "updated": "2026-11-01T00:54:54.314823+00:00",
+  "updated": "2026-11-02T01:25:47.274068+00:00",
   "news": [
     {
       "title": "Cvs Health Declares Quarterly Dividend - TradingView",
@@ -156,6 +156,13 @@
       "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
       "source": "",
       "category": "company"
+    },
+    {
+      "title": "SoundHound AI Expands MUSC Health\u2019s Emily AI Agent to Retail and Specialty Pharmacy Operations - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQkkwZzZfN1dzdWt1M0J3b3VjbzJIYS1ZSFNDN3NmVUc5U1lGa3Nlb0JkbzFFOTZGUXNwMm9NZ05zRnVWWEZvY2xjLUR4Rzd6LWFibjVqNGVmdDZpRzR3am1mdDg1RlRfSEVFMHBPYk5acFZjWjBoMURIYnE0UWhZMEVLWEpSbTU0UWh6b1VVUDM0U1JSeDd5bE9jcDBEVTNZam1GdFdYNkVSRWJVYThEUVBmLWlrSXZEdUtHX0xGb3BsOWdHRS1ZTV9meDRZZWpT?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+      "source": "",
+      "category": "sector"
     },
     {
       "title": "Brain Drain: Retail pharmacy struggles to retain pharmacists, pharmacy technicians - Drug Store News",
@@ -343,13 +350,6 @@
       "title": "PMG Healthcare eyes acquisitions as retail pharmas consolidate amid heightened competition - The Edge Malaysia",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIamlXSS1xRVVBaU5zdGIzTnpsdTZTZ1F1YUtJckNwYWRva1hTdkJaaUgxVjBWV0puc3E0eEtqbjNmM014dHlfQTVrU3RfZFJw?oc=5",
       "pubDate": "Wed, 19 Mar 2025 07:00:00 GMT",
-      "source": "",
-      "category": "sector"
-    },
-    {
-      "title": "Amazon just put the entire healthcare industry on notice with its latest push into pharmacy. Here's who stands to win and lose. - businessinsider.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM3lrZGMzeFl0Q1NoYmM2aEhfXzBCdDNaVDNtTEhRc0l4YnB6S29qVlpkUmZUTFFlcDFOZGRZc0FoMlhlSVdoTnpDSDBnNVUtZnRwVHdhWGl3RGZQSktsNk1yNlYwWkpfaHZNdkpEUnlMS0c0TlFxbGFhT0VBa21JaXdsNmpCTVA1Vi1STHZKaVhnM05IU3lOaVNocXpaWXR1TnJNVDZFN0N0MnZHZWow?oc=5",
-      "pubDate": "Wed, 18 Nov 2020 08:00:00 GMT",
       "source": "",
       "category": "sector"
     }
@@ -1369,12 +1369,12 @@
     "firstTradeDate": 99153000,
     "regularMarketTime": 1793390403,
     "hasPrePostMarketData": true,
-    "gmtoffset": -14400,
-    "timezone": "EDT",
+    "gmtoffset": -18000,
+    "timezone": "EST",
     "exchangeTimezoneName": "America/New_York",
     "regularMarketPrice": 90.25,
     "regularMarketChangePercent": -0.089,
-    "fulldayPrice": 90.25,
+    "fulldayPrice": 90.18,
     "fulldayChange": -0.08,
     "fulldayChangePercent": -0.089,
     "fiftyTwoWeekHigh": 110.68,
@@ -1389,20 +1389,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1793367000,
         "start": 1793347200,
+        "end": 1793367000,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1793390400,
         "start": 1793367000,
+        "end": 1793390400,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1793404800,
         "start": 1793390400,
+        "end": 1793404800,
         "gmtoffset": -14400
       }
     },

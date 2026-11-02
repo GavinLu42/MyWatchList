@@ -1,7 +1,7 @@
 {
   "symbol": "ARE",
   "name": "Alexandria Real Estate Equities",
-  "updated": "2026-11-01T00:54:58.746928+00:00",
+  "updated": "2026-11-02T01:25:51.593470+00:00",
   "news": [
     {
       "title": "O'Melveny Guides $5B Alexandria Real Estate Credit Line - Law360",
@@ -172,6 +172,13 @@
       "category": "company"
     },
     {
+      "title": "Alexandria Real Estate Equities Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOY2tyZ0p1LXd5ZDl2WmJvWjBJcG1BeGJ2MFQ3T3FRWVNkUklUaXdnOW9tNERXWURIQ19YWllGdEN3b3RoR0dQbVdabTVNcmxhWmdoX1ZlWmFMRGNEbXdROXFXR0NQd2hBLVJabFdRRFZhUVAzNVhJaW5MdkhLSDdBcWd5OUJ5ZjZUaXhWcW9XR0Q3YmZFVUFaT01RMEJ4elNHS0gtWWRWTU9qUmdLc1FHZXRIczN0T0hLSVlmRzdxcTl5UVVXRXkyejdLR2wxdDJXWUZhRDYzR3dnRE5yc3luNWdkMmpaeE9rTWc?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 21:17:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "KKR Takes 49% Stake in Alexandria\u2019s Campus Point Megacampus - Connect CRE",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNlEwSjVEbzdrRDlpRERUMjJmcVlGUGsxUVI5a3RXa09hYUlsY1dOaWpLU2wtRjBSVGgxVHM5TVlJTS1wdlh6X0pYRDhWOTZwOGpmSFhheGNLRXRRRERGeVcwVzEyaGpoMUVkVnJLbm82cTNiTDUxaW02ODdBTUx5YmUwWWlIbFJ0Z3dVNGhLcVNfc3o2ZUNkcw?oc=5",
       "pubDate": "Wed, 28 Oct 2026 20:10:29 GMT",
@@ -217,13 +224,6 @@
       "title": "Alexandria Real Estate Equities stock hits 52-week low at $39.40 - Investing.com Nigeria",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLU5rQnRTRGV5bGgyY2tLMkwzdGRhY28xVlBNZktBZ1I0ZEZ1SFZ0bUhVNDhISnVqNXRKSXhXUlBZcXFWWUZnT0l6Q2FQNTZ5MnNtdlk1WTdiUnZ6eGJ6V3pDV2xVVDVLa054bHE5Y2ZuakRIVmNlRzd5VV9JcE5TSm9IR2YyRzhGRjdZeEpNTHVCMnRpSnZvUnZELTdwUUxTYjV6aEc4RktVM2cyLXFucDBHTllxZk12c2c3NllLSQ?oc=5",
       "pubDate": "Wed, 28 Oct 2026 16:34:05 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
-      "title": "Alexandria Real Estate Equities stock hits 52-week low at $39.40 - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNamd1XzBjVTBWU21naDdLU2c1bnZvUDFlbXVqX2RTcllmMTVpSzdxUWkxMkQ5dE01MEJtSVRxeGFYVTIyMTBvMWNudXZvZER4UEdzcU1HQlBUanNxRUtTWFpwSWpvUnQ3WGFzRDRTXzlSZkd1eVVWbzVzc3B0NHN0UnhTWDZuWlA5MEU2bHVHS0hMMk5XTUo1NzFDVHRkSWE3UVVPRWxCRnEzYlF1cmxxR2N5RVZ6cVpuUUE?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 16:09:30 GMT",
       "source": "",
       "category": "company"
     },
@@ -1369,8 +1369,8 @@
     "firstTradeDate": 864826200,
     "regularMarketTime": 1793390403,
     "hasPrePostMarketData": true,
-    "gmtoffset": -14400,
-    "timezone": "EDT",
+    "gmtoffset": -18000,
+    "timezone": "EST",
     "exchangeTimezoneName": "America/New_York",
     "regularMarketPrice": 40.2,
     "regularMarketChangePercent": -0.985,
@@ -1389,20 +1389,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EDT",
-        "end": 1793367000,
         "start": 1793347200,
+        "end": 1793367000,
         "gmtoffset": -14400
       },
       "regular": {
         "timezone": "EDT",
-        "end": 1793390400,
         "start": 1793367000,
+        "end": 1793390400,
         "gmtoffset": -14400
       },
       "post": {
         "timezone": "EDT",
-        "end": 1793404800,
         "start": 1793390400,
+        "end": 1793404800,
         "gmtoffset": -14400
       }
     },
