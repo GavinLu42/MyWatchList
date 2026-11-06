@@ -1,7 +1,7 @@
 {
   "symbol": "FSAGX",
   "name": "Fidelity Select Gold Portfolio",
-  "updated": "2026-11-05T02:10:22.001377+00:00",
+  "updated": "2026-11-06T02:10:54.784981+00:00",
   "news": [
     {
       "title": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise - Reuters",
@@ -298,6 +298,20 @@
       "category": "company"
     },
     {
+      "title": "FSAGX Fund Price and Chart \u2014 NASDAQ:FSAGX - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xNzVPU01mXzBhVVd3YUZldlFLdkMxaGNIbjU4Vk55YXZQdnZOeVI0YnhFUmM2UHpJUUJkbUpvNEFSUDVHQWh1ZlptNFNQX2o2emdRSVh1RWMwN1lhcUE?oc=5",
+      "pubDate": "Wed, 11 Dec 2024 08:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "Is Fidelity Select Gold Portfolio (FSAGX) a Strong Mutual Fund Pick Right Now? - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYXhEelRaX3hVQXlOVjFtRXRYODFycWlRWHdpZkZqLWowMnF1RjhhMVFiSEM0TGtROXJodkFfOGplYUxQS3dQbkpIQl81ZG8wMW5VcTlZMmtzNTF3bXVBeVp3TmlNQ2JUUDlfMEZCS1JHS3hnUEhXLUZsZjRkbkJaTmNRc0RXVXFuQTJiVVVSTmZyR2xWbEh4TmQ3dDUzZmlQV19QVFlQaEE0RmtvRnJ5cElrTGl2UmFlem1uWlQ0Nm1BN3hZVjhlVG84Zw?oc=5",
+      "pubDate": "Wed, 11 Dec 2024 08:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "Rio2 Limited (RIO.TO) Stock Major Holders - Yahoo Finance - Yahoo! Finance Canada",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91dlhvMWFYVXRQejNPbnJ5cmh2dW83VlhSYVN6QXl2dEtRNTYwVGVERGdoazVZLVQwS1BtcFFTbmVtVlpNRXZJbC1NZWNHUUR4dnlBVHRvam56VmtoZ2FV?oc=5",
       "pubDate": "Wed, 10 Sep 2025 05:45:51 GMT",
@@ -338,27 +352,9 @@
       "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
       "source": "",
       "category": "company"
-    },
-    {
-      "title": "Fidelity Select Consumer Staples Portfolio Q1 2026 Commentary (FDFAX) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSVhoY21MV041YXpac1lJc2UzeFRtNTA4Z3VrenRNLW9wRU5xeGI3bjlzVEJLcm96NmkwbnZpVEZUdHZyM2tZTjlsQ0x4dWFTdURGNG1Ea0ZjWnNzeHBrUWVLNVg1R1Z3enRKbFJKZVFNQ0RkQTJmYThHUHI5clVNSHhKaHFFT2JKMmxHVFhtd2IxQmdNVmlaWl9BNHdkdjRXbDFHdw?oc=5",
-      "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
-      "title": "Is Franklin Gold & Precious Metals A (FKRCX) a Strong Mutual Fund Pick Right Now? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdkNtSXZnMmk0OV9wX1pDZFZZQXlwWm03cUpsdFU2NFNreU9jTU52MGx3b00yRUNxZFluX19qaDBHU0E4UWplT1RJcDRoM01KNWFhcXNTMDhKOXUzdDVoN0xlNC1Yb3ZHSmIwOEdhX1JTVWRHRE1TV0lfSEE3YUpNY3pxM0s0WURr?oc=5",
-      "pubDate": "Wed, 06 Aug 2025 07:00:00 GMT",
-      "source": "",
-      "category": "company"
     }
   ],
   "prices": [
-    {
-      "date": "2025-11-05",
-      "close": 49.14
-    },
     {
       "date": "2025-11-06",
       "close": 49.26
@@ -1354,6 +1350,10 @@
     {
       "date": "2026-11-03",
       "close": 53.82
+    },
+    {
+      "date": "2026-11-04",
+      "close": 58.82
     }
   ],
   "meta": {
@@ -1363,39 +1363,39 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 503591400,
-    "regularMarketTime": 1793840958,
+    "regularMarketTime": 1793927269,
     "hasPrePostMarketData": false,
     "gmtoffset": -18000,
     "timezone": "EST",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 58.82,
-    "regularMarketChangePercent": 9.29,
-    "fulldayPrice": 58.82,
-    "fulldayChange": 5.0,
-    "fulldayChangePercent": 9.29,
+    "regularMarketPrice": 59.46,
+    "regularMarketChangePercent": 1.088,
+    "fulldayPrice": 59.46,
+    "fulldayChange": 0.64,
+    "fulldayChangePercent": 1.088,
     "fiftyTwoWeekHigh": 79.83,
     "fiftyTwoWeekLow": 48.37,
     "longName": "Fidelity Select Gold",
     "shortName": "Fidelity Select Gold Pt",
-    "chartPreviousClose": 47.53,
+    "chartPreviousClose": 49.14,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EST",
-        "start": 1793782800,
-        "end": 1793802600,
+        "start": 1793869200,
+        "end": 1793889000,
         "gmtoffset": -18000
       },
       "regular": {
         "timezone": "EST",
-        "start": 1793802600,
-        "end": 1793826000,
+        "start": 1793889000,
+        "end": 1793912400,
         "gmtoffset": -18000
       },
       "post": {
         "timezone": "EST",
-        "start": 1793826000,
-        "end": 1793840400,
+        "start": 1793912400,
+        "end": 1793926800,
         "gmtoffset": -18000
       }
     },
