@@ -1,7 +1,7 @@
 {
   "symbol": "FSAGX",
   "name": "Fidelity Select Gold Portfolio",
-  "updated": "2026-11-06T02:10:54.784981+00:00",
+  "updated": "2026-11-07T01:45:23.486493+00:00",
   "news": [
     {
       "title": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise - Reuters",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-11-06",
-      "close": 49.26
-    },
     {
       "date": "2025-11-07",
       "close": 50.28
@@ -1354,6 +1350,14 @@
     {
       "date": "2026-11-04",
       "close": 58.82
+    },
+    {
+      "date": "2026-11-05",
+      "close": 59.46
+    },
+    {
+      "date": "2026-11-06",
+      "close": 60.62
     }
   ],
   "meta": {
@@ -1363,39 +1367,39 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 503591400,
-    "regularMarketTime": 1793927269,
+    "regularMarketTime": 1794013739,
     "hasPrePostMarketData": false,
     "gmtoffset": -18000,
     "timezone": "EST",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 59.46,
-    "regularMarketChangePercent": 1.088,
-    "fulldayPrice": 59.46,
-    "fulldayChange": 0.64,
-    "fulldayChangePercent": 1.088,
+    "regularMarketPrice": 60.62,
+    "regularMarketChangePercent": 1.951,
+    "fulldayPrice": 60.62,
+    "fulldayChange": 1.16,
+    "fulldayChangePercent": 1.951,
     "fiftyTwoWeekHigh": 79.83,
     "fiftyTwoWeekLow": 48.37,
     "longName": "Fidelity Select Gold",
     "shortName": "Fidelity Select Gold Pt",
-    "chartPreviousClose": 49.14,
+    "chartPreviousClose": 49.26,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EST",
-        "start": 1793869200,
-        "end": 1793889000,
+        "start": 1793955600,
+        "end": 1793975400,
         "gmtoffset": -18000
       },
       "regular": {
         "timezone": "EST",
-        "start": 1793889000,
-        "end": 1793912400,
+        "start": 1793975400,
+        "end": 1793998800,
         "gmtoffset": -18000
       },
       "post": {
         "timezone": "EST",
-        "start": 1793912400,
-        "end": 1793926800,
+        "start": 1793998800,
+        "end": 1794013200,
         "gmtoffset": -18000
       }
     },
