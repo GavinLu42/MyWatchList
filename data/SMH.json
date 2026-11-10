@@ -1,7 +1,7 @@
 {
   "symbol": "SMH",
   "name": "VanEck Semiconductor ETF",
-  "updated": "2026-11-09T01:35:31.977393+00:00",
+  "updated": "2026-11-10T04:01:34.708995+00:00",
   "news": [
     {
       "title": "Micron's AI Earnings Surge Boosts Korean Semiconductor Hopes - chosun.com",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-11-07",
-      "close": 348.12
-    },
     {
       "date": "2025-11-10",
       "close": 358.79
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-11-06",
       "close": 463.96
+    },
+    {
+      "date": "2026-11-09",
+      "close": 487.41
     }
   ],
   "meta": {
@@ -1367,42 +1367,42 @@
     "fullExchangeName": "NasdaqGM",
     "instrumentType": "ETF",
     "firstTradeDate": 960211800,
-    "regularMarketTime": 1793998800,
+    "regularMarketTime": 1794258000,
     "hasPrePostMarketData": true,
     "gmtoffset": -18000,
     "timezone": "EST",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 463.96,
-    "regularMarketChangePercent": 3.625,
-    "fulldayPrice": 455.68,
-    "fulldayChange": 18.27,
-    "fulldayChangePercent": 4.081,
+    "regularMarketPrice": 487.41,
+    "regularMarketChangePercent": 5.054,
+    "fulldayPrice": 481.6,
+    "fulldayChange": 17.64,
+    "fulldayChangePercent": 3.802,
     "fiftyTwoWeekHigh": 671.83,
     "fiftyTwoWeekLow": 315.05,
-    "regularMarketDayHigh": 476.25,
-    "regularMarketDayLow": 456.435,
-    "regularMarketVolume": 16861362,
+    "regularMarketDayHigh": 490.47,
+    "regularMarketDayLow": 462.88,
+    "regularMarketVolume": 14596565,
     "longName": "VanEck Semiconductor ETF",
     "shortName": "VanEck Semiconductor ETF",
-    "chartPreviousClose": 351.09,
+    "chartPreviousClose": 348.12,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EST",
-        "start": 1793955600,
-        "end": 1793975400,
+        "start": 1794214800,
+        "end": 1794234600,
         "gmtoffset": -18000
       },
       "regular": {
         "timezone": "EST",
-        "start": 1793975400,
-        "end": 1793998800,
+        "start": 1794234600,
+        "end": 1794258000,
         "gmtoffset": -18000
       },
       "post": {
         "timezone": "EST",
-        "start": 1793998800,
-        "end": 1794013200,
+        "start": 1794258000,
+        "end": 1794272400,
         "gmtoffset": -18000
       }
     },
