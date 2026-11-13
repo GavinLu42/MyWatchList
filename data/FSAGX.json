@@ -1,7 +1,7 @@
 {
   "symbol": "FSAGX",
   "name": "Fidelity Select Gold Portfolio",
-  "updated": "2026-11-12T02:48:14.036932+00:00",
+  "updated": "2026-11-13T02:30:38.160125+00:00",
   "news": [
     {
       "title": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise - Reuters",
@@ -284,6 +284,13 @@
       "category": "company"
     },
     {
+      "title": "The Price of Gold Today, Nov. 11, 2026 \u2014 and the Best Places to Buy - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TNEphb3ZsTndqUTJqRkpPVjBtZHhJMVJvZ0dPcW5qV1pEUE1qZTE5QTE0dXlZV2d2QVhiTkFCZ1ktdDRWck1kd3ZmRnNfS2IxSzNnYTRLZGRvdHZxaURXcGlCcGJiQVNZb2RmaDdPZm1mQQ?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 15:02:01 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "Is Fidelity Select Gold Portfolio (FSAGX) a Strong Mutual Fund Pick Right Now? - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWG9mZGZhdXJxNlJPNHRwOFkxaG9SVXVmOXRfOHZ6cmtHQkl1YjN5NDVxQVN5b00xcTVIV3ZrOFgxaXJrLTQzR1pvbnRsTmlHMGZhX1dPa1FaYkVXMjdSS1pHS1YtNEE5dGVpQnkwX3BlNE9hcUFpVWYyRTRKMVM3MF9ma3Rfc1hVTWc?oc=5",
       "pubDate": "Wed, 11 Dec 2024 08:00:00 GMT",
@@ -345,20 +352,9 @@
       "pubDate": "Wed, 07 May 2025 07:00:00 GMT",
       "source": "",
       "category": "company"
-    },
-    {
-      "title": "Fidelity Select Technology Portfolio Q3 2025 Commentary (FSPTX) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRDRDTXFON3lzSVhCM3JfNF9PYm5ZTGRwcVVXUVRrcnRtb3dLaFhKRzMybVlXbjR1Q0pGaHdRT2c0b1k5N01mbm9TTkh6MTZGSE9JRW1vdXhpTHpvVXRqb19zcU5SaXZObl9OR3B2MUN1SG8xZUNFLTVlR2tPUnM5SkxiQjhCZVUzbVpWdG84QXo4VG9SYzdvZU11ZnE?oc=5",
-      "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
-      "source": "",
-      "category": "company"
     }
   ],
   "prices": [
-    {
-      "date": "2025-11-12",
-      "close": 55.15
-    },
     {
       "date": "2025-11-13",
       "close": 53.83
@@ -1367,39 +1363,39 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 503591400,
-    "regularMarketTime": 1794445724,
+    "regularMarketTime": 1794532119,
     "hasPrePostMarketData": false,
     "gmtoffset": -18000,
     "timezone": "EST",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 59.15,
-    "regularMarketChangePercent": -2.215,
-    "fulldayPrice": 59.15,
-    "fulldayChange": -1.34,
-    "fulldayChangePercent": -2.215,
+    "regularMarketPrice": 56.76,
+    "regularMarketChangePercent": -4.040575,
+    "fulldayPrice": 56.76,
+    "fulldayChange": -2.39,
+    "fulldayChangePercent": -4.040575,
     "fiftyTwoWeekHigh": 79.83,
     "fiftyTwoWeekLow": 48.37,
     "longName": "Fidelity Select Gold",
     "shortName": "Fidelity Select Gold Pt",
-    "chartPreviousClose": 53.12,
+    "chartPreviousClose": 55.15,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EST",
-        "end": 1794407400,
-        "start": 1794387600,
+        "start": 1794474000,
+        "end": 1794493800,
         "gmtoffset": -18000
       },
       "regular": {
         "timezone": "EST",
-        "end": 1794430800,
-        "start": 1794407400,
+        "start": 1794493800,
+        "end": 1794517200,
         "gmtoffset": -18000
       },
       "post": {
         "timezone": "EST",
-        "end": 1794445200,
-        "start": 1794430800,
+        "start": 1794517200,
+        "end": 1794531600,
         "gmtoffset": -18000
       }
     },

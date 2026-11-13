@@ -1,7 +1,7 @@
 {
   "symbol": "FXAIX",
   "name": "Fidelity 500 Index Fund",
-  "updated": "2026-11-12T02:48:11.979560+00:00",
+  "updated": "2026-11-13T02:30:36.001468+00:00",
   "news": [
     {
       "title": "Stock Market News From Sept. 30, 2026: Dow, S&P 500 Fall; Nasdaq Rises After PCE Inflation Data; Boeing, GameStop, Robinhood, Micron and More Movers - barrons.com",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-11-12",
-      "close": 238.18
-    },
     {
       "date": "2025-11-13",
       "close": 234.24
@@ -1367,39 +1363,39 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 1304515800,
-    "regularMarketTime": 1794445724,
+    "regularMarketTime": 1794532120,
     "hasPrePostMarketData": false,
     "gmtoffset": -18000,
     "timezone": "EST",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 264.93,
-    "regularMarketChangePercent": 1.30779,
-    "fulldayPrice": 264.93,
-    "fulldayChange": 3.42,
-    "fulldayChangePercent": 1.30779,
+    "regularMarketPrice": 264.02,
+    "regularMarketChangePercent": -0.343,
+    "fulldayPrice": 264.02,
+    "fulldayChange": -0.91,
+    "fulldayChangePercent": -0.343,
     "fiftyTwoWeekHigh": 271.69,
     "fiftyTwoWeekLow": 220.95,
     "longName": "Fidelity 500 Index",
     "shortName": "Fidelity 500 Index Fund",
-    "chartPreviousClose": 238.02,
+    "chartPreviousClose": 238.18,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EST",
-        "end": 1794407400,
-        "start": 1794387600,
+        "start": 1794474000,
+        "end": 1794493800,
         "gmtoffset": -18000
       },
       "regular": {
         "timezone": "EST",
-        "end": 1794430800,
-        "start": 1794407400,
+        "start": 1794493800,
+        "end": 1794517200,
         "gmtoffset": -18000
       },
       "post": {
         "timezone": "EST",
-        "end": 1794445200,
-        "start": 1794430800,
+        "start": 1794517200,
+        "end": 1794531600,
         "gmtoffset": -18000
       }
     },

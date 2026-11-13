@@ -1,7 +1,7 @@
 {
   "symbol": "SHEL",
   "name": "Shell plc",
-  "updated": "2026-11-12T02:48:20.379661+00:00",
+  "updated": "2026-11-13T02:30:44.405561+00:00",
   "news": [
     {
       "title": "Canadian Oil and Gas Industry on Track for Biggest Dealmaking Boom in a Decade, Analysts Say - energynow.ca",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-11-12",
-      "close": 76.41
-    },
     {
       "date": "2025-11-13",
       "close": 75.92
@@ -1367,42 +1363,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 447949800,
-    "regularMarketTime": 1794430802,
+    "regularMarketTime": 1794517202,
     "hasPrePostMarketData": true,
     "gmtoffset": -18000,
     "timezone": "EST",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 97.86,
-    "regularMarketChangePercent": 0.607,
-    "fulldayPrice": 98.29,
-    "fulldayChange": 1.02,
-    "fulldayChangePercent": 1.049,
+    "regularMarketPrice": 98.56,
+    "regularMarketChangePercent": 0.715,
+    "fulldayPrice": 98.56,
+    "fulldayChange": 0.78,
+    "fulldayChangePercent": 0.797,
     "fiftyTwoWeekHigh": 109.37,
     "fiftyTwoWeekLow": 68.625,
-    "regularMarketDayHigh": 98.27,
-    "regularMarketDayLow": 97.375,
-    "regularMarketVolume": 4692485,
+    "regularMarketDayHigh": 98.9,
+    "regularMarketDayLow": 98.0,
+    "regularMarketVolume": 3946624,
     "longName": "Shell plc",
     "shortName": "Shell PLC",
-    "chartPreviousClose": 77.01,
+    "chartPreviousClose": 76.41,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EST",
-        "start": 1794387600,
-        "end": 1794407400,
+        "start": 1794474000,
+        "end": 1794493800,
         "gmtoffset": -18000
       },
       "regular": {
         "timezone": "EST",
-        "start": 1794407400,
-        "end": 1794430800,
+        "start": 1794493800,
+        "end": 1794517200,
         "gmtoffset": -18000
       },
       "post": {
         "timezone": "EST",
-        "start": 1794430800,
-        "end": 1794445200,
+        "start": 1794517200,
+        "end": 1794531600,
         "gmtoffset": -18000
       }
     },
