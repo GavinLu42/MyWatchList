@@ -1,7 +1,7 @@
 {
   "symbol": "FXAIX",
   "name": "Fidelity 500 Index Fund",
-  "updated": "2026-11-13T02:30:36.001468+00:00",
+  "updated": "2026-11-14T02:10:47.500081+00:00",
   "news": [
     {
       "title": "Stock Market News From Sept. 30, 2026: Dow, S&P 500 Fall; Nasdaq Rises After PCE Inflation Data; Boeing, GameStop, Robinhood, Micron and More Movers - barrons.com",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-11-13",
-      "close": 234.24
-    },
     {
       "date": "2025-11-14",
       "close": 234.18
@@ -1354,6 +1350,14 @@
     {
       "date": "2026-11-11",
       "close": 264.93
+    },
+    {
+      "date": "2026-11-12",
+      "close": 264.02
+    },
+    {
+      "date": "2026-11-13",
+      "close": 262.98
     }
   ],
   "meta": {
@@ -1363,39 +1367,39 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 1304515800,
-    "regularMarketTime": 1794532120,
+    "regularMarketTime": 1794618480,
     "hasPrePostMarketData": false,
     "gmtoffset": -18000,
     "timezone": "EST",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 264.02,
-    "regularMarketChangePercent": -0.343,
-    "fulldayPrice": 264.02,
-    "fulldayChange": -0.91,
-    "fulldayChangePercent": -0.343,
+    "regularMarketPrice": 262.98,
+    "regularMarketChangePercent": -0.39391,
+    "fulldayPrice": 262.98,
+    "fulldayChange": -1.04,
+    "fulldayChangePercent": -0.39391,
     "fiftyTwoWeekHigh": 271.69,
     "fiftyTwoWeekLow": 220.95,
     "longName": "Fidelity 500 Index",
     "shortName": "Fidelity 500 Index Fund",
-    "chartPreviousClose": 238.18,
+    "chartPreviousClose": 234.24,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EST",
-        "start": 1794474000,
-        "end": 1794493800,
+        "end": 1794580200,
+        "start": 1794560400,
         "gmtoffset": -18000
       },
       "regular": {
         "timezone": "EST",
-        "start": 1794493800,
-        "end": 1794517200,
+        "end": 1794603600,
+        "start": 1794580200,
         "gmtoffset": -18000
       },
       "post": {
         "timezone": "EST",
-        "start": 1794517200,
-        "end": 1794531600,
+        "end": 1794618000,
+        "start": 1794603600,
         "gmtoffset": -18000
       }
     },
