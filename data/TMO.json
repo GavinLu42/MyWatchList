@@ -1,7 +1,7 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-11-14T02:10:59.352560+00:00",
+  "updated": "2026-11-15T01:44:42.228828+00:00",
   "news": [
     {
       "title": "Thermo Fisher Scientific stock raises guidance and trades at EUR 596.90 - AD HOC NEWS",
@@ -1389,20 +1389,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EST",
-        "start": 1794560400,
         "end": 1794580200,
+        "start": 1794560400,
         "gmtoffset": -18000
       },
       "regular": {
         "timezone": "EST",
-        "start": 1794580200,
         "end": 1794603600,
+        "start": 1794580200,
         "gmtoffset": -18000
       },
       "post": {
         "timezone": "EST",
-        "start": 1794603600,
         "end": 1794618000,
+        "start": 1794603600,
         "gmtoffset": -18000
       }
     },

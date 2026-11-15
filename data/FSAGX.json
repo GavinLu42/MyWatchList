@@ -1,7 +1,7 @@
 {
   "symbol": "FSAGX",
   "name": "Fidelity Select Gold Portfolio",
-  "updated": "2026-11-14T02:10:49.549829+00:00",
+  "updated": "2026-11-15T01:43:22.006202+00:00",
   "news": [
     {
       "title": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise - Reuters",
@@ -1386,20 +1386,20 @@
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EST",
-        "end": 1794580200,
         "start": 1794560400,
+        "end": 1794580200,
         "gmtoffset": -18000
       },
       "regular": {
         "timezone": "EST",
-        "end": 1794603600,
         "start": 1794580200,
+        "end": 1794603600,
         "gmtoffset": -18000
       },
       "post": {
         "timezone": "EST",
-        "end": 1794618000,
         "start": 1794603600,
+        "end": 1794618000,
         "gmtoffset": -18000
       }
     },
