@@ -1,7 +1,7 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-11-17T04:24:47.791422+00:00",
+  "updated": "2026-11-18T03:34:27.515360+00:00",
   "news": [
     {
       "title": "Thermo Fisher Scientific stock raises guidance and trades at EUR 596.90 - AD HOC NEWS",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-11-17",
-      "close": 567.16
-    },
     {
       "date": "2025-11-18",
       "close": 576.03
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-11-16",
       "close": 691.33
+    },
+    {
+      "date": "2026-11-17",
+      "close": 686.79
     }
   ],
   "meta": {
@@ -1367,42 +1367,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 322151400,
-    "regularMarketTime": 1794862802,
+    "regularMarketTime": 1794949202,
     "hasPrePostMarketData": true,
     "gmtoffset": -18000,
     "timezone": "EST",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 691.33,
-    "regularMarketChangePercent": -1.27,
-    "fulldayPrice": 691.0,
-    "fulldayChange": -9.22,
-    "fulldayChangePercent": -1.317,
+    "regularMarketPrice": 686.79,
+    "regularMarketChangePercent": -0.657,
+    "fulldayPrice": 686.13,
+    "fulldayChange": -5.2,
+    "fulldayChangePercent": -0.752,
     "fiftyTwoWeekHigh": 727.56,
     "fiftyTwoWeekLow": 435.27,
-    "regularMarketDayHigh": 701.328,
-    "regularMarketDayLow": 687.92,
-    "regularMarketVolume": 1586067,
+    "regularMarketDayHigh": 695.03,
+    "regularMarketDayLow": 683.62,
+    "regularMarketVolume": 1581748,
     "longName": "Thermo Fisher Scientific Inc.",
     "shortName": "Thermo Fisher Scientific Inc",
-    "chartPreviousClose": 578.71,
+    "chartPreviousClose": 567.16,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EST",
-        "end": 1794839400,
-        "start": 1794819600,
+        "start": 1794906000,
+        "end": 1794925800,
         "gmtoffset": -18000
       },
       "regular": {
         "timezone": "EST",
-        "end": 1794862800,
-        "start": 1794839400,
+        "start": 1794925800,
+        "end": 1794949200,
         "gmtoffset": -18000
       },
       "post": {
         "timezone": "EST",
-        "end": 1794877200,
-        "start": 1794862800,
+        "start": 1794949200,
+        "end": 1794963600,
         "gmtoffset": -18000
       }
     },
