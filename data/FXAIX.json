@@ -1,7 +1,7 @@
 {
   "symbol": "FXAIX",
   "name": "Fidelity 500 Index Fund",
-  "updated": "2026-11-18T03:34:14.857039+00:00",
+  "updated": "2026-11-19T03:07:28.661085+00:00",
   "news": [
     {
       "title": "Stock Market News From Sept. 30, 2026: Dow, S&P 500 Fall; Nasdaq Rises After PCE Inflation Data; Boeing, GameStop, Robinhood, Micron and More Movers - barrons.com",
@@ -347,18 +347,14 @@
       "category": "company"
     },
     {
-      "title": "Two Brokers With No-Fee Index Funds: Fidelity and E*TRADE - NerdWallet",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xckw3TE1LdDRVbXIzXzZ5QVppazRQUE9UXzRQMWhsM2NiZmpkR1hzNHNiNGI1M1UzVmdOS2ZCbU1lZnRSNFdNVFdaWWhSWXd3SUlyLVhhUmIyY2FZenNKSW9UOHFpcnFNMDhkYVhmZEt4YUQ5eF9B?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "title": "Thinking of Buying Anthropic on Day One? Here\u2019s What Financial Advisors Say - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLU5uT093VldQOWxSMktjQnJVLXpyenk1U1EtcUctTU56N2NMWDNSR2RBRzVoV0tIOW1lZ0FXelU4aVRwdG9qRUZxN01YSk52bkNaY0ZJOXpnZ3otTmxsNmYzTHBQWlQ3bi0waGpPc004ZElrR185Rk0zdXVHdDI4ZFR3X2loUGpPMHhYckh2a2o5TUZOUDVQSnVwamNQbjUwazlLRVZzTnBwZXpoWmhpN3RMSFFqdw?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 23:13:10 GMT",
       "source": "",
       "category": "company"
     }
   ],
   "prices": [
-    {
-      "date": "2025-11-18",
-      "close": 230.15
-    },
     {
       "date": "2025-11-19",
       "close": 231.02
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-11-17",
       "close": 255.33
+    },
+    {
+      "date": "2026-11-18",
+      "close": 254.77
     }
   ],
   "meta": {
@@ -1367,39 +1367,39 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 1304515800,
-    "regularMarketTime": 1794964109,
+    "regularMarketTime": 1795050538,
     "hasPrePostMarketData": false,
     "gmtoffset": -18000,
     "timezone": "EST",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 255.33,
-    "regularMarketChangePercent": -1.023,
-    "fulldayPrice": 255.33,
-    "fulldayChange": -2.64,
-    "fulldayChangePercent": -1.023,
+    "regularMarketPrice": 254.77,
+    "regularMarketChangePercent": -0.219,
+    "fulldayPrice": 254.77,
+    "fulldayChange": -0.56,
+    "fulldayChangePercent": -0.219,
     "fiftyTwoWeekHigh": 271.69,
     "fiftyTwoWeekLow": 220.95,
     "longName": "Fidelity 500 Index",
     "shortName": "Fidelity 500 Index Fund",
-    "chartPreviousClose": 232.05,
+    "chartPreviousClose": 230.15,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EST",
-        "end": 1794925800,
-        "start": 1794906000,
+        "start": 1794992400,
+        "end": 1795012200,
         "gmtoffset": -18000
       },
       "regular": {
         "timezone": "EST",
-        "end": 1794949200,
-        "start": 1794925800,
+        "start": 1795012200,
+        "end": 1795035600,
         "gmtoffset": -18000
       },
       "post": {
         "timezone": "EST",
-        "end": 1794963600,
-        "start": 1794949200,
+        "start": 1795035600,
+        "end": 1795050000,
         "gmtoffset": -18000
       }
     },

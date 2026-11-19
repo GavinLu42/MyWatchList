@@ -1,7 +1,7 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-11-18T03:34:27.515360+00:00",
+  "updated": "2026-11-19T03:07:41.202786+00:00",
   "news": [
     {
       "title": "Thermo Fisher Scientific stock raises guidance and trades at EUR 596.90 - AD HOC NEWS",
@@ -326,6 +326,13 @@
       "category": "sector"
     },
     {
+      "title": "Microscope Slides Market To 2035: Histopathology Automation and Cancer Diagnostics Fuel Forward Growth - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVjJNS293QlFxN05WRmlmVWJKdl9YSUllVEhzeEptc1h6R3FKUnBvYlhwNk5lZEl4NFNZenpTV1pfT2p2TWRPSzhIWGMxMjYtelFmVENjalpPTEVpMlNoamsyVUlWdHdiVXFRaXd4a0dnTjNVYTFsenhja3pYZE5CcGNvODR6dmI0cGEtZVNsVEhoT2I5aTJaY29VLWdOX0pxdDdzdWRqNmlZMl9hWFlhQ28xcGtZc2ZyTmVqSDB2RGt0X3dpQzhGY0RxZ3BCSjIzTDRHc0ItelJ5M25w?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 20:56:04 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
       "title": "Life Science Tools Market Size, Share, Growth & Industry Forecast 2035 - Research Nester",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CNWp1ZHFZRk14Rl9uUjdoalRjbTRHRU04bkJIQWFkSlM5bUNLczBRZmlpcThsSmNITHR4ODdvZ09NVXVJTS1GX3FzSk9zRGI5UWdsMi1tZ3ozbXY5RTJ6TnFXUDRMS0ZxQUJ0NjhLb3loRWxqR1NQMw?oc=5",
       "pubDate": "Wed, 17 Sep 2025 07:00:00 GMT",
@@ -345,20 +352,9 @@
       "pubDate": "Wed, 17 Dec 2025 08:00:00 GMT",
       "source": "",
       "category": "sector"
-    },
-    {
-      "title": "RIL Plans Foray Into Genomic Diagnostics - ET HealthWorld",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNWp1QmNzSkZjeHlxNzN5NnNKbGVvMkJyQURJUWhzVjlmWlMtdkZibUJfTUNZQ3UyaU5Uel9vWS1GMXQ2WWlVcGtkQjYxZTV5ZHNyMzB2TzF4T05rMnhRM2g0YTBVT0lGTGNqS0VfczZacG92M0ltSjhjaURiNE9GeDJvdTFRV2JkZFZiaDlWNVRjUHczUm1VUEpZcWNVRVpXR3dKMnktc0RPZW45M2dEVQ?oc=5",
-      "pubDate": "Wed, 17 Dec 2025 08:00:00 GMT",
-      "source": "",
-      "category": "sector"
     }
   ],
   "prices": [
-    {
-      "date": "2025-11-18",
-      "close": 576.03
-    },
     {
       "date": "2025-11-19",
       "close": 573.79
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-11-17",
       "close": 686.79
+    },
+    {
+      "date": "2026-11-18",
+      "close": 692.74
     }
   ],
   "meta": {
@@ -1367,42 +1367,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 322151400,
-    "regularMarketTime": 1794949202,
+    "regularMarketTime": 1795035602,
     "hasPrePostMarketData": true,
     "gmtoffset": -18000,
     "timezone": "EST",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 686.79,
-    "regularMarketChangePercent": -0.657,
-    "fulldayPrice": 686.13,
-    "fulldayChange": -5.2,
-    "fulldayChangePercent": -0.752,
+    "regularMarketPrice": 692.74,
+    "regularMarketChangePercent": 0.866,
+    "fulldayPrice": 692.74,
+    "fulldayChange": 5.95,
+    "fulldayChangePercent": 0.866,
     "fiftyTwoWeekHigh": 727.56,
     "fiftyTwoWeekLow": 435.27,
-    "regularMarketDayHigh": 695.03,
-    "regularMarketDayLow": 683.62,
-    "regularMarketVolume": 1581748,
+    "regularMarketDayHigh": 694.105,
+    "regularMarketDayLow": 680.29,
+    "regularMarketVolume": 1991931,
     "longName": "Thermo Fisher Scientific Inc.",
     "shortName": "Thermo Fisher Scientific Inc",
-    "chartPreviousClose": 567.16,
+    "chartPreviousClose": 576.03,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EST",
-        "start": 1794906000,
-        "end": 1794925800,
+        "start": 1794992400,
+        "end": 1795012200,
         "gmtoffset": -18000
       },
       "regular": {
         "timezone": "EST",
-        "start": 1794925800,
-        "end": 1794949200,
+        "start": 1795012200,
+        "end": 1795035600,
         "gmtoffset": -18000
       },
       "post": {
         "timezone": "EST",
-        "start": 1794949200,
-        "end": 1794963600,
+        "start": 1795035600,
+        "end": 1795050000,
         "gmtoffset": -18000
       }
     },
