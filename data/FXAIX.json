@@ -1,7 +1,7 @@
 {
   "symbol": "FXAIX",
   "name": "Fidelity 500 Index Fund",
-  "updated": "2026-11-19T03:07:28.661085+00:00",
+  "updated": "2026-11-20T02:56:57.826031+00:00",
   "news": [
     {
       "title": "Stock Market News From Sept. 30, 2026: Dow, S&P 500 Fall; Nasdaq Rises After PCE Inflation Data; Boeing, GameStop, Robinhood, Micron and More Movers - barrons.com",
@@ -179,6 +179,13 @@
       "category": "company"
     },
     {
+      "title": "Buffett's One-Word Secret: Why 'Consistently' Beats Market Timing for S&P 500 Investors - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTcG9peXNhMmFpMm1TTjdpX2ZyQWd3WDI0UVR3VHB4VEVucDRrZkRtWDhwZnFjSndWUU04WmswbUt1Z3Y3NW50RWhtN3pzWHpGMVVaVExReFh0bkdvYl92Q0Z3RERpQWVkTE5za0ktSVRRLVE4Y2c?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "Look beyond the S&P 500 at this group of stocks that is less pricey, and less concentrated - MarketWatch",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdUtjVE9ZSDczMFB6eGtxc1ZFT2JKVW11TXU4ODNWOWdKT1VYUGJsNWRZYjJqRElYdVYzdXhhRW9VYTctZWRpMnhGUmU4QUM1LWhZdHRxRGJVS1c1R3l0QnhVY09tRFQ3Q2h3OU5OWHRVR3hWVWNfMnhQRFBkRVlxMDVmUEtMWmluVERjMXd1TnRIcU9McFE4UDNpZlpYUmVYUTVSbjNFRzV4dDlZdzZpc09ySU4xdlpTLUp2eG5nbVYwa292M2RfNEpBdGQ?oc=5",
       "pubDate": "Wed, 28 Jan 2026 08:00:00 GMT",
@@ -345,20 +352,9 @@
       "pubDate": "Wed, 18 Sep 2024 07:00:00 GMT",
       "source": "",
       "category": "company"
-    },
-    {
-      "title": "Thinking of Buying Anthropic on Day One? Here\u2019s What Financial Advisors Say - Investopedia",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLU5uT093VldQOWxSMktjQnJVLXpyenk1U1EtcUctTU56N2NMWDNSR2RBRzVoV0tIOW1lZ0FXelU4aVRwdG9qRUZxN01YSk52bkNaY0ZJOXpnZ3otTmxsNmYzTHBQWlQ3bi0waGpPc004ZElrR185Rk0zdXVHdDI4ZFR3X2loUGpPMHhYckh2a2o5TUZOUDVQSnVwamNQbjUwazlLRVZzTnBwZXpoWmhpN3RMSFFqdw?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 23:13:10 GMT",
-      "source": "",
-      "category": "company"
     }
   ],
   "prices": [
-    {
-      "date": "2025-11-19",
-      "close": 231.02
-    },
     {
       "date": "2025-11-20",
       "close": 227.46
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-11-18",
       "close": 254.77
+    },
+    {
+      "date": "2026-11-19",
+      "close": 249.66
     }
   ],
   "meta": {
@@ -1367,39 +1367,39 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 1304515800,
-    "regularMarketTime": 1795050538,
+    "regularMarketTime": 1795136948,
     "hasPrePostMarketData": false,
     "gmtoffset": -18000,
     "timezone": "EST",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 254.77,
-    "regularMarketChangePercent": -0.219,
-    "fulldayPrice": 254.77,
-    "fulldayChange": -0.56,
-    "fulldayChangePercent": -0.219,
+    "regularMarketPrice": 249.66,
+    "regularMarketChangePercent": -2.006,
+    "fulldayPrice": 249.66,
+    "fulldayChange": -5.11,
+    "fulldayChangePercent": -2.006,
     "fiftyTwoWeekHigh": 271.69,
     "fiftyTwoWeekLow": 220.95,
     "longName": "Fidelity 500 Index",
     "shortName": "Fidelity 500 Index Fund",
-    "chartPreviousClose": 230.15,
+    "chartPreviousClose": 231.02,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EST",
-        "start": 1794992400,
-        "end": 1795012200,
+        "end": 1795098600,
+        "start": 1795078800,
         "gmtoffset": -18000
       },
       "regular": {
         "timezone": "EST",
-        "start": 1795012200,
-        "end": 1795035600,
+        "end": 1795122000,
+        "start": 1795098600,
         "gmtoffset": -18000
       },
       "post": {
         "timezone": "EST",
-        "start": 1795035600,
-        "end": 1795050000,
+        "end": 1795136400,
+        "start": 1795122000,
         "gmtoffset": -18000
       }
     },

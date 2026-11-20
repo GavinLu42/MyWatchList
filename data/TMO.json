@@ -1,7 +1,7 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-11-19T03:07:41.202786+00:00",
+  "updated": "2026-11-20T02:57:10.831188+00:00",
   "news": [
     {
       "title": "Thermo Fisher Scientific stock raises guidance and trades at EUR 596.90 - AD HOC NEWS",
@@ -172,6 +172,13 @@
       "category": "company"
     },
     {
+      "title": "Is Thermo Fisher Scientific (TMO) Fully Priced On Its Latest Results? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd2xnYVhFV2VCUmVkeVd6VUVPNmhPZ0JOMmkxMUk5aVd6Und2ZTJvbzlZd1NIRHMtNjI5ZUt5X2E4TkVVNVdXYTNSeEc4emFEN0VvWVlvV1U2T1EwVE9oa2ZoZkFJSUZyeG9hRUxyNnpiZS1UQkU0VEZvX3lzalJCRDFLMUR2RFdGUzRKQ2RWQ1lGaTBGMTJxcGpHUDlyWHBq?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 07:00:00 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
       "title": "15-year-old Designs Low-Cost Device to Monitor Airborne Bacteria in the Environment; Wins $25,000 Top Award at the 2026 Thermo Fisher Scientific Junior Innovators Challenge - BioSpace",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQUGJfUmtQanVTaGlyc3VNNndjVENmRVJoVFBNQVZfSDB6TFY2NE4xeGh6MFMwaUk2V1BzVm1FVWF4a29CZ0lMUEh1dG9tdG9CZnZNTllVek9UaHFsdXljX3NaS0tZU2UyQXZISkkwX3M1M0Q2V3JyaWhNY2R0SDNWbFVkMXQ5dVlWWmtWbHRYYWxvcFV0bmRwYlhDMmFPMTVIRTlrN0FEdzhMOUVTLTExcFREaV8ycEdfWC10X1h6UG4xS2R5T0h2TW0tMFNERFZzclpLU1dDanFNdU1BZzVsVXduR1JaNmFQTXFWS2ZkOHJDZmVoZVBRTHc3alJiMzZuUjlVOUIwS0UtUW1KbjVSVVdrY2FFdFdHT2FFOHJueGtwbVY4dEJYU0VWVEl5TW91NG1qYQ?oc=5",
       "pubDate": "Wed, 28 Oct 2026 03:38:38 GMT",
@@ -263,13 +270,6 @@
       "category": "company"
     },
     {
-      "title": "Is Thermo Fisher Scientific Inc. (TMO) a Top Life Sciences Tools Stock After New Analyst Coverage? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONWJQYkVHZGNuTC1sQTlWQWNjdDJJNVJPcHNFdG1hN2owWWFDOEN2WVVrLVZEWlR0R1lIb2x3el8yUTY5dkhEOU15V01jdTdrN1JWMW01NV9rak1ONmp0WlJlZFZRU2wtVTdQcXNxV29pS0t4MmRqVFNBV29FY2NCOXhGVTc1ODVQV1JySVdFOHhOUGh2dzhlbg?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "source": "",
-      "category": "company"
-    },
-    {
       "title": "Micro Computed Tomography Market Size to Hit USD 604.94 Million by 2035 - Precedence Research",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41YW5QN0lzT3ZDdG01QVhTVnBFRnlzcUZLaUNQaWhaMGdneE9ESzVUbjF1SVlySHM3dUk5OUZETlV1eGdkX0hYcGlDV3M3OEJfLVdvbkk0UWZCUVhVOWNDX0wyRzAxM1oxMElJNVBONURrVjNJTUE?oc=5",
       "pubDate": "Wed, 24 Dec 2025 08:00:00 GMT",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-11-19",
-      "close": 573.79
-    },
     {
       "date": "2025-11-20",
       "close": 572.74
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-11-18",
       "close": 692.74
+    },
+    {
+      "date": "2026-11-19",
+      "close": 688.75
     }
   ],
   "meta": {
@@ -1367,42 +1367,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 322151400,
-    "regularMarketTime": 1795035602,
+    "regularMarketTime": 1795122002,
     "hasPrePostMarketData": true,
     "gmtoffset": -18000,
     "timezone": "EST",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 692.74,
-    "regularMarketChangePercent": 0.866,
-    "fulldayPrice": 692.74,
-    "fulldayChange": 5.95,
-    "fulldayChangePercent": 0.866,
+    "regularMarketPrice": 688.75,
+    "regularMarketChangePercent": -0.576,
+    "fulldayPrice": 689.7,
+    "fulldayChange": -3.04,
+    "fulldayChangePercent": -0.439,
     "fiftyTwoWeekHigh": 727.56,
     "fiftyTwoWeekLow": 435.27,
-    "regularMarketDayHigh": 694.105,
-    "regularMarketDayLow": 680.29,
-    "regularMarketVolume": 1991931,
+    "regularMarketDayHigh": 703.99,
+    "regularMarketDayLow": 686.23,
+    "regularMarketVolume": 1888319,
     "longName": "Thermo Fisher Scientific Inc.",
     "shortName": "Thermo Fisher Scientific Inc",
-    "chartPreviousClose": 576.03,
+    "chartPreviousClose": 573.79,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EST",
-        "start": 1794992400,
-        "end": 1795012200,
+        "end": 1795098600,
+        "start": 1795078800,
         "gmtoffset": -18000
       },
       "regular": {
         "timezone": "EST",
-        "start": 1795012200,
-        "end": 1795035600,
+        "end": 1795122000,
+        "start": 1795098600,
         "gmtoffset": -18000
       },
       "post": {
         "timezone": "EST",
-        "start": 1795035600,
-        "end": 1795050000,
+        "end": 1795136400,
+        "start": 1795122000,
         "gmtoffset": -18000
       }
     },
