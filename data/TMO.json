@@ -1,7 +1,7 @@
 {
   "symbol": "TMO",
   "name": "Thermo Fisher Scientific",
-  "updated": "2026-11-24T05:51:48.154274+00:00",
+  "updated": "2026-11-25T04:50:42.785654+00:00",
   "news": [
     {
       "title": "Thermo Fisher Scientific stock raises guidance and trades at EUR 596.90 - AD HOC NEWS",
@@ -355,10 +355,6 @@
     }
   ],
   "prices": [
-    {
-      "date": "2025-11-24",
-      "close": 586.07
-    },
     {
       "date": "2025-11-25",
       "close": 597.78
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-11-23",
       "close": 688.08
+    },
+    {
+      "date": "2026-11-24",
+      "close": 695.62
     }
   ],
   "meta": {
@@ -1367,42 +1367,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 322151400,
-    "regularMarketTime": 1795467602,
+    "regularMarketTime": 1795554002,
     "hasPrePostMarketData": true,
     "gmtoffset": -18000,
     "timezone": "EST",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 688.08,
-    "regularMarketChangePercent": 2.769,
-    "fulldayPrice": 689.91,
-    "fulldayChange": 20.37,
-    "fulldayChangePercent": 3.042,
+    "regularMarketPrice": 695.62,
+    "regularMarketChangePercent": 1.096,
+    "fulldayPrice": 694.0,
+    "fulldayChange": 5.92,
+    "fulldayChangePercent": 0.86,
     "fiftyTwoWeekHigh": 727.56,
     "fiftyTwoWeekLow": 435.27,
-    "regularMarketDayHigh": 695.64,
-    "regularMarketDayLow": 681.0,
-    "regularMarketVolume": 1684555,
+    "regularMarketDayHigh": 710.0,
+    "regularMarketDayLow": 688.6,
+    "regularMarketVolume": 1718859,
     "longName": "Thermo Fisher Scientific Inc.",
     "shortName": "Thermo Fisher Scientific Inc",
-    "chartPreviousClose": 587.48,
+    "chartPreviousClose": 586.07,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EST",
-        "end": 1795530600,
         "start": 1795510800,
+        "end": 1795530600,
         "gmtoffset": -18000
       },
       "regular": {
         "timezone": "EST",
-        "end": 1795554000,
         "start": 1795530600,
+        "end": 1795554000,
         "gmtoffset": -18000
       },
       "post": {
         "timezone": "EST",
-        "end": 1795568400,
         "start": 1795554000,
+        "end": 1795568400,
         "gmtoffset": -18000
       }
     },
