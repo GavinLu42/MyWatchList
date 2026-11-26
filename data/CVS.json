@@ -1,7 +1,7 @@
 {
   "symbol": "CVS",
   "name": "CVS Health",
-  "updated": "2026-11-25T04:50:37.176206+00:00",
+  "updated": "2026-11-26T04:03:36.945878+00:00",
   "news": [
     {
       "title": "Cvs Health Declares Quarterly Dividend - TradingView",
@@ -284,6 +284,13 @@
       "category": "sector"
     },
     {
+      "title": "Competition Commission Urges Pharmacy Licensing Review - Wisevoter",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdFVSQ3ZwVHlQUHNVd1FuLUNJdUtrT1QtSDdxSDZkc3Y1TFo5ai1MUWhya2dBc3R4MlRHR0hURWxKSlNjRTdGNlZJR0xSVmM4N2ZsWG8wWkJjUDdHd2J1SnhRUmVHYlZTcFBLRS1rQUpseHJIeWRiTWVYbVA0amZadm1qc25CZzVaMXYydUFqMFB2eUwtWU5JVV91djE?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 19:49:01 GMT",
+      "source": "",
+      "category": "sector"
+    },
+    {
       "title": "South African pharmacies emerge as a first point of contact as healthcare industry evolves - thenational.co.za",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYmNTbllXNlhvZlpGWVR2OWJkTzVYQ0JKMnlPYW11YjVIcTZFdmxsTnFoUTZSdW16OVpXQ1JDbWYzWU9XRTVnQ1pLeGhENDdRVzBTX0k4ZXVCdFV1SERTamJuc3VPb1RobVJtLVFBZ0ZMamtJNUFTcXVBS2V6alhkcFg3X0Z5UXNUUzEtUkpqQ2ppVXBhYUQ5Qm4teENrRFF1TW1GOThhMDVnQUZLbkdVZ1lGNURiM1M0b0lOX1gzVkpJOU1tSFBfTzd3QlNZdw?oc=5",
       "pubDate": "Wed, 25 Nov 2026 03:00:00 GMT",
@@ -345,20 +352,9 @@
       "pubDate": "Wed, 21 May 2025 07:00:00 GMT",
       "source": "",
       "category": "sector"
-    },
-    {
-      "title": "Top Women in Health, Wellness and Beauty \u2014 Retailers - Drug Store News",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Ja1BJZzIyNGUxSWRXSEtxS1cwdDNEblJFdTJhY0twOXlFWTQzcFJPd2haYzVMNEM2NlpfMXA2QkFTSzNxMnZIbVRCdHVaSzFlTkpjaVNFTUN5UU94cjVQaDljdFpHRlFkRnNtUnVMd1lYV3lpXzR4a05pR2g?oc=5",
-      "pubDate": "Wed, 20 Nov 2019 08:00:00 GMT",
-      "source": "",
-      "category": "sector"
     }
   ],
   "prices": [
-    {
-      "date": "2025-11-25",
-      "close": 78.47
-    },
     {
       "date": "2025-11-26",
       "close": 79.86
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-11-24",
       "close": 80.69
+    },
+    {
+      "date": "2026-11-25",
+      "close": 81.06
     }
   ],
   "meta": {
@@ -1367,42 +1367,42 @@
     "fullExchangeName": "NYSE",
     "instrumentType": "EQUITY",
     "firstTradeDate": 99153000,
-    "regularMarketTime": 1795554002,
+    "regularMarketTime": 1795640402,
     "hasPrePostMarketData": true,
     "gmtoffset": -18000,
     "timezone": "EST",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 80.69,
-    "regularMarketChangePercent": 1.306,
-    "fulldayPrice": 81.12,
-    "fulldayChange": 1.47,
-    "fulldayChangePercent": 1.846,
+    "regularMarketPrice": 81.06,
+    "regularMarketChangePercent": 0.459,
+    "fulldayPrice": 81.06,
+    "fulldayChange": 0.561,
+    "fulldayChangePercent": 0.696,
     "fiftyTwoWeekHigh": 110.68,
     "fiftyTwoWeekLow": 69.51,
-    "regularMarketDayHigh": 82.035,
-    "regularMarketDayLow": 79.355,
-    "regularMarketVolume": 9715506,
+    "regularMarketDayHigh": 82.52,
+    "regularMarketDayLow": 80.02,
+    "regularMarketVolume": 10305949,
     "longName": "CVS Health Corporation",
     "shortName": "CVS Health Corporation",
-    "chartPreviousClose": 77.9,
+    "chartPreviousClose": 78.47,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EST",
-        "end": 1795530600,
-        "start": 1795510800,
+        "start": 1795597200,
+        "end": 1795617000,
         "gmtoffset": -18000
       },
       "regular": {
         "timezone": "EST",
-        "end": 1795554000,
-        "start": 1795530600,
+        "start": 1795617000,
+        "end": 1795640400,
         "gmtoffset": -18000
       },
       "post": {
         "timezone": "EST",
-        "end": 1795568400,
-        "start": 1795554000,
+        "start": 1795640400,
+        "end": 1795654800,
         "gmtoffset": -18000
       }
     },
