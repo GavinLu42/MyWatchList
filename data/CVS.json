@@ -1,7 +1,7 @@
 {
   "symbol": "CVS",
   "name": "CVS Health",
-  "updated": "2026-11-26T04:03:36.945878+00:00",
+  "updated": "2026-11-27T04:01:38.664624+00:00",
   "news": [
     {
       "title": "Cvs Health Declares Quarterly Dividend - TradingView",
@@ -1374,7 +1374,7 @@
     "exchangeTimezoneName": "America/New_York",
     "regularMarketPrice": 81.06,
     "regularMarketChangePercent": 0.459,
-    "fulldayPrice": 81.06,
+    "fulldayPrice": 81.59,
     "fulldayChange": 0.561,
     "fulldayChangePercent": 0.696,
     "fiftyTwoWeekHigh": 110.68,
