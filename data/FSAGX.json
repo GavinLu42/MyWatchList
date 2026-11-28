@@ -1,7 +1,7 @@
 {
   "symbol": "FSAGX",
   "name": "Fidelity Select Gold Portfolio",
-  "updated": "2026-11-27T04:01:34.348006+00:00",
+  "updated": "2026-11-28T03:48:55.057873+00:00",
   "news": [
     {
       "title": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise - Reuters",
@@ -161,6 +161,13 @@
       "title": "The price of gold today, Oct. 28, 2026 \u2014 and the best places to buy - CNBC",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vc19QQVR4amE0dHZqc0N6UjA5ZGh5RWJhTHZUaVh3THVwMS1OT01xd0dPbEdZbDg4MzMwS3VCUGRyRGR6Z0ZUbnF0RFUwTDRNUnF6TE5WQnFYUjdSdXhwS2VwMHlfdjdBTEhBSzJBYXVzQdIBd0FVX3lxTE0yb2ZQb1JRUEdESHo5R0FqYVlQR1NXalNhVUpqZXhkQUM5UHpBbWlGMnlDMlZuNWJpRVd1eEpscF84cGZBc1VJU0V1MFFpQ0ZUYUI2RzY1T2RLTUVrS2dzU3c5WkkycUJIbnZXcVVNcDEzbkhYTVJz?oc=5",
       "pubDate": "Wed, 28 Oct 2026 14:41:54 GMT",
+      "source": "",
+      "category": "company"
+    },
+    {
+      "title": "2027 sector outlook: Which sectors should you invest in? - Fidelity Investments",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY19GQ3ZSVmdzM1VFQVhxRUEwemN2ZUg5ckRpSEExVnRBRW9Ib28xckxFOGJreU5nR0tyelNTaWZteWdlMU1yYlJCZzZLYVoxQ013cl9nd2hBVFBfVUhjWjlIUDY2cFlFTUtTblNoYnlaMk1NRHkzZkJoaWRrNU03UWRBV3Q?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 16:58:51 GMT",
       "source": "",
       "category": "company"
     },
@@ -345,20 +352,9 @@
       "pubDate": "Wed, 10 Nov 2021 21:37:00 GMT",
       "source": "",
       "category": "company"
-    },
-    {
-      "title": "4 Top No-Load Mutual Funds to Buy Ahead of 2026 - finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44cmtNNTFpWUNDRGswV2hYUmdSYlN3TWp1SEpnVjRMTUVSVVkyNE5ONE50WHV3WE8wd3dLTUUyVFhkbHg5RGpOREJaMTFfb1NUUVVoUXFJVTNCM0c4WXY0dDVKSVlENUZKaE02VXB1R1ZXNVZW?oc=5",
-      "pubDate": "Wed, 10 Dec 2025 08:00:00 GMT",
-      "source": "",
-      "category": "company"
     }
   ],
   "prices": [
-    {
-      "date": "2025-11-26",
-      "close": 56.57
-    },
     {
       "date": "2025-11-28",
       "close": 57.52
@@ -1358,6 +1354,10 @@
     {
       "date": "2026-11-25",
       "close": 51.53
+    },
+    {
+      "date": "2026-11-27",
+      "close": 55.26
     }
   ],
   "meta": {
@@ -1367,39 +1367,39 @@
     "fullExchangeName": "Nasdaq",
     "instrumentType": "MUTUALFUND",
     "firstTradeDate": 503591400,
-    "regularMarketTime": 1795655016,
+    "regularMarketTime": 1795827758,
     "hasPrePostMarketData": false,
     "gmtoffset": -18000,
     "timezone": "EST",
     "exchangeTimezoneName": "America/New_York",
-    "regularMarketPrice": 51.53,
-    "regularMarketChangePercent": 3.432,
-    "fulldayPrice": 51.53,
-    "fulldayChange": 1.71,
-    "fulldayChangePercent": 3.432,
+    "regularMarketPrice": 55.26,
+    "regularMarketChangePercent": 7.239,
+    "fulldayPrice": 55.26,
+    "fulldayChange": 3.73,
+    "fulldayChangePercent": 7.239,
     "fiftyTwoWeekHigh": 79.83,
     "fiftyTwoWeekLow": 47.4,
     "longName": "Fidelity Select Gold",
     "shortName": "Fidelity Select Gold Pt",
-    "chartPreviousClose": 54.12,
+    "chartPreviousClose": 56.57,
     "priceHint": 2,
     "currentTradingPeriod": {
       "pre": {
         "timezone": "EST",
-        "start": 1795597200,
-        "end": 1795617000,
+        "end": 1795789800,
+        "start": 1795770000,
         "gmtoffset": -18000
       },
       "regular": {
         "timezone": "EST",
-        "start": 1795617000,
-        "end": 1795640400,
+        "end": 1795802400,
+        "start": 1795789800,
         "gmtoffset": -18000
       },
       "post": {
         "timezone": "EST",
-        "start": 1795640400,
-        "end": 1795654800,
+        "end": 1795827600,
+        "start": 1795802400,
         "gmtoffset": -18000
       }
     },
